@@ -1,0 +1,2049 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c26_05190",
+      "speaker": "Holland",
+      "en": "Tch... I could've done without this kind of reunion.",
+      "display_variant": "en",
+      "display_text": "「Tch... I could've done without this kind\nof reunion.」"
+    },
+    {
+      "id": "c26_051d0",
+      "speaker": "Gain",
+      "en": "Same here. Even though it's a reunion, I can't even get a drink.",
+      "display_variant": "en",
+      "display_text": "「Same here. Even though it's a reunion, I\ncan't even get a drink.」"
+    },
+    {
+      "id": "c26_05220",
+      "speaker": "Sandman",
+      "en": "Then let's crush this evil and savor the sweet wine of victory.",
+      "display_variant": "en",
+      "display_text": "「Then let's crush this evil and savor\nthe sweet wine of victory.」"
+    },
+    {
+      "id": "c26_05260",
+      "speaker": "Gengoro",
+      "en": "All units, ready to intercept! Here they come!",
+      "display_variant": "en",
+      "display_text": "「All units, ready to intercept! Here they\ncome!」"
+    },
+    {
+      "id": "c26_05290",
+      "speaker": "Uchuta",
+      "en": "Mechs from all kinds of organizations, all mixed together!",
+      "display_variant": "en",
+      "display_text": "「Mechs from all kinds of organizations,\nall mixed together!」"
+    },
+    {
+      "id": "c26_052d0",
+      "speaker": "Keiko",
+      "en": "No pilot readings. They're all unmanned units!",
+      "display_variant": "en",
+      "display_text": "「No pilot readings. They're all unmanned\nunits!」"
+    },
+    {
+      "id": "c26_05310",
+      "speaker": "Kappei",
+      "en": "Figures--they're part of the bunch that's been rampaging all over the world!",
+      "display_variant": "en",
+      "display_text": "「Figures--they're part of the bunch\nthat's been rampaging all over the world!」"
+    },
+    {
+      "id": "c26_05350",
+      "speaker": "Gainer",
+      "en": "Ngh...",
+      "display_variant": "en",
+      "display_text": "「Ngh...」"
+    },
+    {
+      "id": "c26_05370",
+      "speaker": "Sara",
+      "en": "What's wrong, Gainer!? Is King Gainer malfunctioning!?",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Gainer!? Is King Gainer\nmalfunctioning!?」"
+    },
+    {
+      "id": "c26_053c0",
+      "speaker": "Gainer",
+      "en": "It's nothing...! I'm fine, don't worry.",
+      "display_variant": "en",
+      "display_text": "「It's nothing...! I'm fine, don't worry.」"
+    },
+    {
+      "id": "c26_05400",
+      "speaker": "Cynthia",
+      "en": "Gainer...",
+      "display_variant": "en",
+      "display_text": "「Gainer...」"
+    },
+    {
+      "id": "c26_05420",
+      "speaker": "Gainer",
+      "en": "(This feeling... it's the same as when I fought the Shadow Angels and Overdevil...)",
+      "display_variant": "fit",
+      "display_text": "（(This feeling... same as when I fought\nthe Shadow Angels and Overdevil...)）"
+    },
+    {
+      "id": "c26_05470",
+      "speaker": "Gainer",
+      "en": "(The moment I saw that unmanned unit, King Gainer tried to tell me something...)",
+      "display_variant": "en",
+      "display_text": "（(The moment I saw that unmanned unit,\nKing Gainer tried to tell me something...)）"
+    },
+    {
+      "id": "c26_054d0",
+      "speaker": "Sara",
+      "en": "What's wrong, Gainer!?",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Gainer!?」"
+    },
+    {
+      "id": "c26_05500",
+      "speaker": "Bello",
+      "en": "Given what happened last time, you and King Gainer should stand by in the hangar.",
+      "display_variant": "fit",
+      "display_text": "「Given what happened last time, you and\nKing Gainer stand by in the hangar.」"
+    },
+    {
+      "id": "c26_05560",
+      "speaker": "Gainer",
+      "en": "...Okay.",
+      "display_variant": "en",
+      "display_text": "「...Okay.」"
+    },
+    {
+      "id": "c26_05580",
+      "speaker": "Gainer",
+      "en": "(That feeling just now... it's the same as when I fought the Shadow Angels and Overdevil...)",
+      "display_variant": "fit",
+      "display_text": "（(That feeling just now... same as when\nI fought the Shadow Angels and\nOverdevil...)）"
+    },
+    {
+      "id": "c26_055d0",
+      "speaker": "Ichitaro",
+      "en": "The unmanned units... they're attacking!",
+      "display_variant": "en",
+      "display_text": "「The unmanned units... they're attacking!」"
+    },
+    {
+      "id": "c26_05600",
+      "speaker": "Tetsuya",
+      "en": "Showing up here was their bad luck. We'll crush them and get some intel out of them!",
+      "display_variant": "fit",
+      "display_text": "「Showing up here was their bad luck.\nWe'll crush them and get intel out of\nthem!」"
+    },
+    {
+      "id": "c26_05660",
+      "speaker": "Jiron",
+      "en": "If no one's riding in them, I don't need to hold back! Let's go all out!",
+      "display_variant": "en",
+      "display_text": "「If no one's riding in them, I don't need\nto hold back! Let's go all out!」"
+    },
+    {
+      "id": "c26_056a0",
+      "speaker": "Renton",
+      "en": "Everyone, please do your best!",
+      "display_variant": "en",
+      "display_text": "「Everyone, please do your best!」"
+    },
+    {
+      "id": "c26_056d0",
+      "speaker": "Toshiya",
+      "en": "Leave it to us, Renton! We'll fight hard enough for both you and Eureka!",
+      "display_variant": "en",
+      "display_text": "「Leave it to us, Renton! We'll fight hard\nenough for both you and Eureka!」"
+    },
+    {
+      "id": "c26_05720",
+      "speaker": "Heizaemon",
+      "en": "Unmanned or not, I hear the enemy packs considerable combat strength. Don't let your guard down.",
+      "display_variant": "fit",
+      "display_text": "「Unmanned or not, the enemy reportedly\npacks considerable strength. Don't let\nyour guard down.」"
+    },
+    {
+      "id": "c26_05770",
+      "speaker": "Eiji",
+      "en": "I'm furious at whoever wrecked the peace we worked so hard for! There's no way we're losing!",
+      "display_variant": "fit",
+      "display_text": "「I'm furious at whoever wrecked the\npeace we worked so hard for! No way\nwe're losing!」"
+    },
+    {
+      "id": "c26_057d0",
+      "speaker": "Ryouma",
+      "en": "Let's go, everyone! We'll take them down and turn this into a counterattack!",
+      "display_variant": "en",
+      "display_text": "「Let's go, everyone! We'll take them\ndown and turn this into a counterattack!」"
+    },
+    {
+      "id": "c26_05810",
+      "speaker": "Mome",
+      "en": "Enemy annihilation confirmed. Doesn't look like there's any reinforcements either.",
+      "display_variant": "en",
+      "display_text": "「Enemy annihilation confirmed. Doesn't\nlook like there's any reinforcements\neither.」"
+    },
+    {
+      "id": "c26_05850",
+      "speaker": "Shaya",
+      "en": "At least we managed to kick off $c's fresh start with a win.",
+      "display_variant": "en",
+      "display_text": "「At least we managed to kick off $c's\nfresh start with a win.」"
+    },
+    {
+      "id": "c26_05890",
+      "speaker": "Mimsy",
+      "en": "But we couldn't get any clues about the enemy...",
+      "display_variant": "en",
+      "display_text": "「But we couldn't get any clues about\nthe enemy...」"
+    },
+    {
+      "id": "c26_058d0",
+      "speaker": "Marin",
+      "en": "But given that there's no Mountain Cycle anywhere near here...",
+      "display_variant": "en",
+      "display_text": "「But given that there's no Mountain\nCycle anywhere near here...」"
+    },
+    {
+      "id": "c26_05920",
+      "speaker": "Marin",
+      "en": "Today's battle probably wasn't just a chance encounter.",
+      "display_variant": "en",
+      "display_text": "「Today's battle probably wasn't just a\nchance encounter.」"
+    },
+    {
+      "id": "c26_05960",
+      "speaker": "Athena",
+      "en": "You mean someone deliberately marked us as a target?",
+      "display_variant": "en",
+      "display_text": "「You mean someone deliberately marked\nus as a target?」"
+    },
+    {
+      "id": "c26_059a0",
+      "speaker": "Orson",
+      "en": "That's the only way to look at it.",
+      "display_variant": "en",
+      "display_text": "「That's the only way to look at it.」"
+    },
+    {
+      "id": "c26_059d0",
+      "speaker": "Orson",
+      "en": "And it's safe to assume that whoever it is woke up the unmanned units sleeping in the ruins.",
+      "display_variant": "fit",
+      "display_text": "「And it's safe to assume they woke the\nunmanned units sleeping in the ruins.」"
+    },
+    {
+      "id": "c26_05a30",
+      "speaker": "Koji",
+      "en": "Setting aside who they are, why would they target us?",
+      "display_variant": "en",
+      "display_text": "「Setting aside who they are, why would\nthey target us?」"
+    },
+    {
+      "id": "c26_05a80",
+      "speaker": "Duke",
+      "en": "Did they decide to wipe out $c as an obstacle to their own plan?",
+      "display_variant": "en",
+      "display_text": "「Did they decide to wipe out $c as an\nobstacle to their own plan?」"
+    },
+    {
+      "id": "c26_05ac0",
+      "speaker": "Gainer",
+      "en": ".......",
+      "display_variant": "en",
+      "display_text": "「.......」"
+    },
+    {
+      "id": "c26_05ae0",
+      "speaker": "Renton",
+      "en": "Big Bro Gainer...",
+      "display_variant": "en",
+      "display_text": "「Big Bro Gainer...」"
+    },
+    {
+      "id": "c26_05b00",
+      "speaker": "Gain",
+      "en": "Gainer... you must have some idea what's going on, don't you? Talk.",
+      "display_variant": "en",
+      "display_text": "「Gainer... you must have some idea\nwhat's going on, don't you? Talk.」"
+    },
+    {
+      "id": "c26_05b40",
+      "speaker": "Gainer",
+      "en": "I think that unmanned unit came to fetch King Gainer.",
+      "display_variant": "en",
+      "display_text": "「I think that unmanned unit came to\nfetch King Gainer.」"
+    },
+    {
+      "id": "c26_05b90",
+      "speaker": "Jiron",
+      "en": "What's that supposed to mean?",
+      "display_variant": "en",
+      "display_text": "「What's that supposed to mean?」"
+    },
+    {
+      "id": "c26_05bc0",
+      "speaker": "Gainer",
+      "en": "When I'm piloting it, I can just kind of tell. That King Gainer is being called by someone.",
+      "display_variant": "fit",
+      "display_text": "「When I'm piloting it, I can just tell.\nKing Gainer is being called by someone.」"
+    },
+    {
+      "id": "c26_05c20",
+      "speaker": "Gainer",
+      "en": "I think the rampage the other day was King Gainer answering that call.",
+      "display_variant": "en",
+      "display_text": "「I think the rampage the other day was\nKing Gainer answering that call.」"
+    },
+    {
+      "id": "c26_05c60",
+      "speaker": "Kei",
+      "en": "Called by who? For what purpose?",
+      "display_variant": "en",
+      "display_text": "「Called by who? For what purpose?」"
+    },
+    {
+      "id": "c26_05ca0",
+      "speaker": "Gainer",
+      "en": "I don't know...",
+      "display_variant": "en",
+      "display_text": "「I don't know...」"
+    },
+    {
+      "id": "c26_05cc0",
+      "speaker": "Elchi",
+      "en": "King Gainer's a relic of the Black History too, huh...",
+      "display_variant": "en",
+      "display_text": "「King Gainer's a relic of the Black\nHistory too, huh...」"
+    },
+    {
+      "id": "c26_05d00",
+      "speaker": "Gain",
+      "en": "And judging by the fight with Overdevil, its abilities are on a whole different level from other Overmen.",
+      "display_variant": "fit",
+      "display_text": "「Judging by the fight with Overdevil, its\nabilities are on a whole different level\nfrom other Overmen.」"
+    },
+    {
+      "id": "c26_05d60",
+      "speaker": "Heizaemon",
+      "en": "So it's being called by someone because of that power...",
+      "display_variant": "en",
+      "display_text": "「So it's being called by someone because\nof that power...」"
+    },
+    {
+      "id": "c26_05da0",
+      "speaker": "Gainer",
+      "en": "(King Gainer... who is it that's calling you...?)",
+      "display_variant": "en",
+      "display_text": "（(King Gainer... who is it that's calling\nyou...?)）"
+    },
+    {
+      "id": "c26_05df0",
+      "speaker": "Gainer",
+      "en": "(What happened... in your past, in the Black History...?)",
+      "display_variant": "en",
+      "display_text": "（(What happened... in your past, in the\nBlack History...?)）"
+    },
+    {
+      "id": "c26_05e40",
+      "speaker": "Hanae",
+      "en": "Grandpa, there's a unit approaching us.",
+      "display_variant": "en",
+      "display_text": "「Grandpa, there's a unit approaching us.」"
+    },
+    {
+      "id": "c26_05e80",
+      "speaker": "Heizaemon",
+      "en": "Enemy reinforcements!?",
+      "display_variant": "en",
+      "display_text": "「Enemy reinforcements!?」"
+    },
+    {
+      "id": "c26_05ea0",
+      "speaker": "Umee",
+      "en": "No, that's not it. That's...",
+      "display_variant": "en",
+      "display_text": "「No, that's not it. That's...」"
+    },
+    {
+      "id": "c26_05ed0",
+      "speaker": "Kappei",
+      "en": "Daitarn 3! Big Bro Banjo!?",
+      "display_variant": "en",
+      "display_text": "「Daitarn 3! Big Bro Banjo!?」"
+    },
+    {
+      "id": "c26_05f00",
+      "speaker": "Boss",
+      "en": "Big O and the Assault Aquarion are here too!",
+      "display_variant": "en",
+      "display_text": "「Big O and the Assault Aquarion are\nhere too!」"
+    },
+    {
+      "id": "c26_05f40",
+      "speaker": "Apollo",
+      "en": "Heh... long time no see, you guys.",
+      "display_variant": "en",
+      "display_text": "「Heh... long time no see, you guys.」"
+    },
+    {
+      "id": "c26_05f70",
+      "speaker": "Jiron",
+      "en": "Apollo! You... you can pilot the Assault Aquarion!?",
+      "display_variant": "en",
+      "display_text": "「Apollo! You... you can pilot the Assault\nAquarion!?」"
+    },
+    {
+      "id": "c26_05fc0",
+      "speaker": "Pierre",
+      "en": "No... these guys are just along for the ride.",
+      "display_variant": "en",
+      "display_text": "「No... these guys are just along for the\nride.」"
+    },
+    {
+      "id": "c26_06000",
+      "speaker": "Silvia",
+      "en": "Aquarion was lost during the Spacetime Restoration, after all.",
+      "display_variant": "en",
+      "display_text": "「Aquarion was lost during the Spacetime\nRestoration, after all.」"
+    },
+    {
+      "id": "c26_06050",
+      "speaker": "Sirius",
+      "en": "Unfortunately, DEAVA's strength is down to just the one Assault-type unit now.",
+      "display_variant": "en",
+      "display_text": "「Unfortunately, DEAVA's strength is down\nto just the one Assault-type unit now.」"
+    },
+    {
+      "id": "c26_060a0",
+      "speaker": "Apollo",
+      "en": "But we're still in this. We can't let anyone trash the world we all worked to protect.",
+      "display_variant": "fit",
+      "display_text": "「But we're still in this. We won't let\nanyone trash the world we worked to\nprotect.」"
+    },
+    {
+      "id": "c26_06110",
+      "speaker": "Tetsuya",
+      "en": "Of course, and welcome. You're part of $c too.",
+      "display_variant": "en",
+      "display_text": "「Of course, and welcome. You're part of\n$c too.」"
+    },
+    {
+      "id": "c26_06150",
+      "speaker": "Sandman",
+      "en": "Banjo... did you learn anything about the mystery enemy?",
+      "display_variant": "en",
+      "display_text": "「Banjo... did you learn anything about\nthe mystery enemy?」"
+    },
+    {
+      "id": "c26_06190",
+      "speaker": "Banjo",
+      "en": "I managed to grab at least a fragment of it. That's why I came here.",
+      "display_variant": "en",
+      "display_text": "「I managed to grab at least a fragment\nof it. That's why I came here.」"
+    },
+    {
+      "id": "c26_061d0",
+      "speaker": "Luna",
+      "en": "So the way Sandman mentioned to look into the Black History was connected to Banjo after all.",
+      "display_variant": "fit",
+      "display_text": "「So the way Sandman mentioned to probe\nthe Black History was connected to Banjo\nafter all.」"
+    },
+    {
+      "id": "c26_06230",
+      "speaker": "Roger",
+      "en": "First, let's relocate and rendezvous with the North Ameria group. I've already contacted them.",
+      "display_variant": "fit",
+      "display_text": "「First, let's relocate and rendezvous\nwith North Ameria. I've already contacted\nthem.」"
+    },
+    {
+      "id": "c26_06290",
+      "speaker": "Ryouma",
+      "en": "Their $c is coming to Gallia?",
+      "display_variant": "en",
+      "display_text": "「Their $c is coming to Gallia?」"
+    },
+    {
+      "id": "c26_062c0",
+      "speaker": "Holland",
+      "en": "Hold on. Does it make sense to concentrate our forces when we don't even know how the enemy's gonna move?",
+      "display_variant": "fit",
+      "display_text": "「Hold on. Does it make sense to\nconcentrate forces when we don't even\nknow how the enemy'll move?」"
+    },
+    {
+      "id": "c26_06320",
+      "speaker": "Banjo",
+      "en": "No... we've identified the enemy's home base. It's not far from this location.",
+      "display_variant": "en",
+      "display_text": "「No... we've identified the enemy's home\nbase. It's not far from this location.」"
+    },
+    {
+      "id": "c26_06380",
+      "speaker": "Heizaemon",
+      "en": "Where is it?",
+      "display_variant": "en",
+      "display_text": "「Where is it?」"
+    },
+    {
+      "id": "c26_063a0",
+      "speaker": "Roger",
+      "en": "The Land of the Rising Sun... a place called Yapan.",
+      "display_variant": "en",
+      "display_text": "「The Land of the Rising Sun... a place\ncalled Yapan.」"
+    },
+    {
+      "id": "c26_063e0",
+      "speaker": "Koji",
+      "en": "What did you say!?",
+      "display_variant": "en",
+      "display_text": "「What did you say!?」"
+    },
+    {
+      "id": "c26_06400",
+      "speaker": "$n",
+      "en": "Yapan... Japan, huh...",
+      "display_variant": "en",
+      "display_text": "「Yapan... Japan, huh...」"
+    },
+    {
+      "id": "c26_06420",
+      "speaker": "Koji",
+      "en": "If they're unmanned, I don't need to hold back! I'll never forgive anyone who tries to wreck the peace!",
+      "display_variant": "fit",
+      "display_text": "「If they're unmanned, no need to hold\nback! I'll never forgive anyone trying to\nwreck the peace!」"
+    },
+    {
+      "id": "c26_06480",
+      "speaker": "Koji",
+      "en": "I, Koji Kabuto, will take you on! Come at me one after another, I'll take you all!",
+      "display_variant": "en",
+      "display_text": "「I, Koji Kabuto, will take you on! Come\nat me one after another, I'll take you\nall!」"
+    },
+    {
+      "id": "c26_064d0",
+      "speaker": "Tetsuya",
+      "en": "Get ready! Even with the world at peace, I never stopped training!",
+      "display_variant": "en",
+      "display_text": "「Get ready! Even with the world at\npeace, I never stopped training!」"
+    },
+    {
+      "id": "c26_06530",
+      "speaker": "Tetsuya",
+      "en": "No matter how many of you come, I'll protect the peace myself!",
+      "display_variant": "en",
+      "display_text": "「No matter how many of you come, I'll\nprotect the peace myself!」"
+    },
+    {
+      "id": "c26_06570",
+      "speaker": "Duke",
+      "en": "Don't you know how many people have fought and staked their lives to protect this beautiful planet...!",
+      "display_variant": "fit",
+      "display_text": "「Don't you know how many fought and\nstaked their lives to protect this\nbeautiful planet...!」"
+    },
+    {
+      "id": "c26_065e0",
+      "speaker": "Duke",
+      "en": "You outlaws who don't even understand what peace means! Before I set off for Planet Fleed, I'll deal with you myself!",
+      "display_variant": "fit",
+      "display_text": "「You outlaws who don't even understand\npeace! Before I leave for Planet Fleed,\nI'll deal with you myself!」"
+    },
+    {
+      "id": "c26_06650",
+      "speaker": "Ryouma",
+      "en": "If the unmanned units deployed across the world all launch their attack at once, it'll be a disaster...!",
+      "display_variant": "fit",
+      "display_text": "「If the unmanned units deployed\nworldwide all attack at once, it'll be a\ndisaster...!」"
+    },
+    {
+      "id": "c26_066b0",
+      "speaker": "Ryouma",
+      "en": "Before that happens, we have to strike down the enemy's core, no matter what, and protect the world's peace!!",
+      "display_variant": "fit",
+      "display_text": "「Before that, we must strike the\nenemy's core no matter what, and protect\nthe world's peace!!」"
+    },
+    {
+      "id": "c26_06700",
+      "speaker": "Kappei",
+      "en": "Starting your attack after the world finally found peace!? That's a dirty move, you jerks!",
+      "display_variant": "fit",
+      "display_text": "「Attacking after the world finally found\npeace!? Dirty move, you jerks!」"
+    },
+    {
+      "id": "c26_06750",
+      "speaker": "Kappei",
+      "en": "Bring it on, as many as you want! Zambot 3 and ZEUTH will knock every last one of you down!!",
+      "display_variant": "fit",
+      "display_text": "「Bring it on, as many as you want!\nZambot 3 and ZEUTH will knock all of you\ndown!!」"
+    },
+    {
+      "id": "c26_067b0",
+      "speaker": "Toshiya",
+      "en": "Attacking right before Marin and I were about to head out--that was your bad luck!",
+      "display_variant": "fit",
+      "display_text": "「Attacking right before Marin and I head\nout--that was your bad luck!」"
+    },
+    {
+      "id": "c26_06800",
+      "speaker": "Toshiya",
+      "en": "Consider this cleanup before our new departure! Let's do this in style!!",
+      "display_variant": "en",
+      "display_text": "「Consider this cleanup before our new\ndeparture! Let's do this in style!!」"
+    },
+    {
+      "id": "c26_06850",
+      "speaker": "Marin",
+      "en": "(Wait for me, Aphrodia. Once I bring peace back to Earth, I'll join you there right away...!)",
+      "display_variant": "fit",
+      "display_text": "（(Wait for me, Aphrodia. Once I bring\npeace back to Earth, I'll join you there\nright away...!)）"
+    },
+    {
+      "id": "c26_068c0",
+      "speaker": "Marin",
+      "en": "That's exactly why I won't lose! For the future of Planet S-1 and Earth both!!",
+      "display_variant": "en",
+      "display_text": "「That's exactly why I won't lose! For\nthe future of Planet S-1 and Earth both!!」"
+    },
+    {
+      "id": "c26_06910",
+      "speaker": "Eiji",
+      "en": "Let's do this, Touga! As long as the Gran Knights are around, we won't let villains do as they please with this world!",
+      "display_variant": "fit",
+      "display_text": "「Let's do this, Touga! While the Gran\nKnights exist, villains won't get to do as\nthey please with this world!」"
+    },
+    {
+      "id": "c26_06970",
+      "speaker": "Touga",
+      "en": "Our mission... and ZEUTH's mission... is to be fangs for those who have none...!",
+      "display_variant": "en",
+      "display_text": "「Our mission... and ZEUTH's mission... is\nto be fangs for those who have none...!」"
+    },
+    {
+      "id": "c26_069c0",
+      "speaker": "Touga",
+      "en": "Now is the time to use that power! To protect the peace people have gained!",
+      "display_variant": "en",
+      "display_text": "「Now is the time to use that power! To\nprotect the peace people have gained!」"
+    },
+    {
+      "id": "c26_06a10",
+      "speaker": "Sandman",
+      "en": "With this much military strength at their disposal, why did they stay silent throughout the war...?",
+      "display_variant": "fit",
+      "display_text": "「With this much military strength at\ntheir disposal, why stay silent throughout\nthe war...?」"
+    },
+    {
+      "id": "c26_06a70",
+      "speaker": "Sandman",
+      "en": "Their actions almost look like they were waiting for peace to arrive... What could their goal possibly be...?",
+      "display_variant": "fit",
+      "display_text": "「Their actions look like they were\nwaiting for peace to arrive... What could\ntheir goal be...?」"
+    },
+    {
+      "id": "c26_06ac0",
+      "speaker": "Holland",
+      "en": "(Brother... the peace we worked so hard for didn't last long, I'm afraid.)",
+      "display_variant": "en",
+      "display_text": "（(Brother... the peace we worked so\nhard for didn't last long, I'm afraid.)）"
+    },
+    {
+      "id": "c26_06b10",
+      "speaker": "Holland",
+      "en": "(But I'm not gonna give in to despair. No matter how many times I get knocked down, I won't throw away hope...!)",
+      "display_variant": "fit",
+      "display_text": "（(But I won't give in to despair.\nHowever many times I'm knocked down, I\nwon't throw away hope...!)）"
+    },
+    {
+      "id": "c26_06b80",
+      "speaker": "Holland",
+      "en": "For this world I love, for my friends, and for the future...!",
+      "display_variant": "en",
+      "display_text": "「For this world I love, for my friends,\nand for the future...!」"
+    },
+    {
+      "id": "c26_06bc0",
+      "speaker": "Jiron",
+      "en": "Everyone's out there living their lives as hard as they can--why would you go and do something this selfish!",
+      "display_variant": "fit",
+      "display_text": "「Everyone's out there living as hard as\nthey can--why would you go and do\nsomething this selfish!」"
+    },
+    {
+      "id": "c26_06c20",
+      "speaker": "Jiron",
+      "en": "Guys like you deserve a beating from us so you finally realize just how much trouble you're causing!!",
+      "display_variant": "fit",
+      "display_text": "「Guys like you deserve a beating from\nus so you finally realize how much trouble\nyou're causing!!」"
+    },
+    {
+      "id": "c26_06c80",
+      "speaker": "Gainer",
+      "en": "(King Gainer... what is it you're trying to tell me...?)",
+      "display_variant": "en",
+      "display_text": "（(King Gainer... what is it you're\ntrying to tell me...?)）"
+    },
+    {
+      "id": "c26_06cc0",
+      "speaker": "Gainer",
+      "en": "(If the rampage from before is connected to this unmanned unit... then what exactly are you...?)",
+      "display_variant": "fit",
+      "display_text": "（(If that rampage connects to this\nunmanned unit... then what exactly are\nyou...?)）"
+    },
+    {
+      "id": "c26_06d20",
+      "speaker": "Gain",
+      "en": "Guys like this are exactly why I never go hungry for work...",
+      "display_variant": "en",
+      "display_text": "「Guys like this are exactly why I never\ngo hungry for work...」"
+    },
+    {
+      "id": "c26_06d70",
+      "speaker": "Gain",
+      "en": "I really can't stand people whose intentions I can't read...! Let's finish this quick!",
+      "display_variant": "fit",
+      "display_text": "「Can't stand people whose intentions I\ncan't read...! Let's finish this quick!」"
+    },
+    {
+      "id": "c26_06dd0",
+      "speaker": "Kei",
+      "en": "The Captain staked his own life on a dream of a world that wouldn't need weapons anymore...!",
+      "display_variant": "fit",
+      "display_text": "「The Captain staked his life on a dream\nof a world that wouldn't need weapons\nanymore...!」"
+    },
+    {
+      "id": "c26_06e20",
+      "speaker": "Kei",
+      "en": "Anyone who'd make that wish meaningless... anyone who'd scare Mimsy and the baby we're having...",
+      "display_variant": "fit",
+      "display_text": "「Anyone who'd make that wish\nmeaningless... who'd scare Mimsy and the\nbaby we're having...」"
+    },
+    {
+      "id": "c26_06e70",
+      "speaker": "Kei",
+      "en": "And anyone who'd hurt a girl--I'll be the one to deal with you!!",
+      "display_variant": "en",
+      "display_text": "「And anyone who'd hurt a girl--I'll be\nthe one to deal with you!!」"
+    },
+    {
+      "id": "c26_06ec0",
+      "speaker": "$n",
+      "en": "(Looks like that Sphere thing went back into Gunleon...)",
+      "display_variant": "en",
+      "display_text": "（(Looks like that Sphere thing went\nback into Gunleon...)）"
+    },
+    {
+      "id": "c26_06f10",
+      "speaker": "Mel",
+      "en": "Get 'em, Darling! Show that doll army the power of the Crusher!",
+      "display_variant": "en",
+      "display_text": "「Get 'em, Darling! Show that doll army\nthe power of the Crusher!」"
+    },
+    {
+      "id": "c26_06f70",
+      "speaker": "$n",
+      "en": "Hold on a sec, Mel! Right now I'm just a repairman...! Cut it out with that nickname!",
+      "display_variant": "fit",
+      "display_text": "「Hold on, Mel! Right now I'm just a\nrepairman...! Cut it out with that\nnickname!」"
+    },
+    {
+      "id": "c26_06fd0",
+      "speaker": "Mel",
+      "en": "I give you permission! Smash anyone who wrecks the peace, all of them, with Gunleon!!",
+      "display_variant": "fit",
+      "display_text": "「I give permission! Smash anyone who\nwrecks the peace, all of them, with\nGunleon!!」"
+    },
+    {
+      "id": "c26_07030",
+      "speaker": "$n",
+      "en": "If the acting president's given the okay, then I don't need to hold back...! Actually, I'm plenty ticked off myself!",
+      "display_variant": "fit",
+      "display_text": "「If the acting president's okayed it, I\ndon't need to hold back...! Actually, I'm\nplenty ticked off myself!」"
+    },
+    {
+      "id": "c26_07090",
+      "speaker": "$n",
+      "en": "Breaking things is easy, but fixing them is hard work! Any jerk who doesn't get that, I'll crush!!",
+      "display_variant": "fit",
+      "display_text": "「Breaking's easy, fixing's hard work! Any\njerk who doesn't get that, I'll crush!!」"
+    },
+    {
+      "id": "c26_07100",
+      "speaker": "$n",
+      "en": "I'll grind you to dust, thoroughly, without a trace left!!",
+      "display_variant": "en",
+      "display_text": "「I'll grind you to dust, thoroughly,\nwithout a trace left!!」"
+    },
+    {
+      "id": "c26_07140",
+      "speaker": "Mel",
+      "en": "(That's overkill...!)",
+      "display_variant": "en",
+      "display_text": "（(That's overkill...!)）"
+    },
+    {
+      "id": "c26_071a0",
+      "speaker": "Koji",
+      "en": "That's rough...",
+      "display_variant": "en",
+      "display_text": "「That's rough...」"
+    },
+    {
+      "id": "c26_071c0",
+      "speaker": "Tetsuya",
+      "en": "Luckily, this city was already deserted, they say, but if people had still been living here, the damage would've been massive.",
+      "display_variant": "fit",
+      "display_text": "「Luckily, this city was already deserted,\nthey say, but living here would've meant\nmassive damage.」"
+    },
+    {
+      "id": "c26_07230",
+      "speaker": "Daisuke",
+      "en": "So the same thing is happening all over the world...",
+      "display_variant": "en",
+      "display_text": "「So the same thing is happening all over\nthe world...」"
+    },
+    {
+      "id": "c26_07260",
+      "speaker": "Ryouma",
+      "en": "Yes... unmanned unit attacks have been confirmed all across the atmosphere.",
+      "display_variant": "en",
+      "display_text": "「Yes... unmanned unit attacks have been\nconfirmed all across the atmosphere.」"
+    },
+    {
+      "id": "c26_072b0",
+      "speaker": "Kappei",
+      "en": "Iron Gear and Glomar have arrived. Sounds like the Gekko-Goh's running late, so they're starting the strategy meeting without it.",
+      "display_variant": "fit",
+      "display_text": "「Iron Gear and Glomar have arrived.\nGekko-Goh's apparently running late, so\nthey're starting the meeting without it.」"
+    },
+    {
+      "id": "c26_07320",
+      "speaker": "Tetsuya",
+      "en": "Are you sure, Kappei...? Now that the sleep-learning device's effect has worn off, you don't have to force yourself to fight.",
+      "display_variant": "fit",
+      "display_text": "「Are you sure, Kappei...? The\nsleep-learning device's worn off; you\ndon't have to force yourself to fight.」"
+    },
+    {
+      "id": "c26_07380",
+      "speaker": "Kappei",
+      "en": "What are you talking about? $c can't even get started without yours truly, Kappei Jin!",
+      "display_variant": "fit",
+      "display_text": "「What are you talking about? $c can't\nstart without yours truly, Kappei Jin!」"
+    },
+    {
+      "id": "c26_073e0",
+      "speaker": "Kappei",
+      "en": "Even Gramps and Dad decided to raise King Beal from the ocean and fight...",
+      "display_variant": "en",
+      "display_text": "「Even Gramps and Dad decided to raise\nKing Beal from the ocean and fight...」"
+    },
+    {
+      "id": "c26_07440",
+      "speaker": "Kappei",
+      "en": "So how could I not do the same?",
+      "display_variant": "en",
+      "display_text": "「So how could I not do the same?」"
+    },
+    {
+      "id": "c26_07470",
+      "speaker": "Daisuke",
+      "en": "Thank you, Kappei. I'm grateful for your courage.",
+      "display_variant": "en",
+      "display_text": "「Thank you, Kappei. I'm grateful for\nyour courage.」"
+    },
+    {
+      "id": "c26_074b0",
+      "speaker": "Kappei",
+      "en": "Heh heh... same goes for you guys. Big Bro Daisuke and Big Bro Marin both put off leaving for space too, didn't you?",
+      "display_variant": "fit",
+      "display_text": "「Heh heh... same goes for you two. Big\nBro Daisuke and Big Bro Marin also put\noff leaving for space, didn't you?」"
+    },
+    {
+      "id": "c26_07530",
+      "speaker": "Daisuke",
+      "en": "This Earth is a second home to Marin and me.",
+      "display_variant": "en",
+      "display_text": "「This Earth is a second home to Marin\nand me.」"
+    },
+    {
+      "id": "c26_07570",
+      "speaker": "Daisuke",
+      "en": "Now that someone's shown up to disturb that peace, I'll stake my life fighting them.",
+      "display_variant": "fit",
+      "display_text": "「Now that someone's come to disturb\nthat peace, I'll stake my life fighting\nthem.」"
+    },
+    {
+      "id": "c26_075c0",
+      "speaker": "Koji",
+      "en": "Everyone thinking that way is exactly why $c got reformed.",
+      "display_variant": "en",
+      "display_text": "「Everyone thinking that way is exactly\nwhy $c got reformed.」"
+    },
+    {
+      "id": "c26_07600",
+      "speaker": "Tetsuya",
+      "en": "By now, in North Ameria, members centered around the New Earth Federation, ZAFT, and Orb are probably gathering.",
+      "display_variant": "fit",
+      "display_text": "「By now in North Ameria, members\ncentered on the New Earth Federation,\nZAFT, and Orb are likely gathering.」"
+    },
+    {
+      "id": "c26_07670",
+      "speaker": "Ryouma",
+      "en": "Let's go too. To protect once again the peace this planet was supposed to have regained.",
+      "display_variant": "fit",
+      "display_text": "「Let's go too, to protect again the\npeace this planet was supposed to have\nregained.」"
+    },
+    {
+      "id": "c26_076c0",
+      "speaker": "Kappei",
+      "en": "(I'm doing this, Big Bro Banjo. I consider myself a full-fledged warrior too.)",
+      "display_variant": "en",
+      "display_text": "（(I'm doing this, Big Bro Banjo. I\nconsider myself a full-fledged warrior\ntoo.)）"
+    },
+    {
+      "id": "c26_07710",
+      "speaker": "Kappei",
+      "en": "(If someone's shown up to wrap the world in darkness, then I'll become the moon and light everyone's way...)",
+      "display_variant": "fit",
+      "display_text": "（(If someone's come to wrap the world\nin darkness, I'll become the moon and\nlight everyone's way...)）"
+    },
+    {
+      "id": "c26_077c0",
+      "speaker": "Heizaemon",
+      "en": "Well done gathering here, everyone. First, let me thank you for answering the call.",
+      "display_variant": "fit",
+      "display_text": "「Well done gathering, everyone. First, let\nme thank you for answering the call.」"
+    },
+    {
+      "id": "c26_07820",
+      "speaker": "Jiron",
+      "en": "We don't need that. This whole thing's got me plenty ticked off too.",
+      "display_variant": "en",
+      "display_text": "「We don't need that. This whole thing's\ngot me plenty ticked off too.」"
+    },
+    {
+      "id": "c26_07870",
+      "speaker": "Sara",
+      "en": "We're part of this world too. We can't just stay quiet about people who'd do something that awful.",
+      "display_variant": "fit",
+      "display_text": "「We're part of this world too. We can't\nstay quiet about people who'd do\nsomething that awful.」"
+    },
+    {
+      "id": "c26_078d0",
+      "speaker": "Sandman",
+      "en": "Thank you. I believe the fighting spirit within all of you will surely defeat this evil.",
+      "display_variant": "fit",
+      "display_text": "「Thank you. I believe the fighting spirit\nin all of you will surely defeat this evil.」"
+    },
+    {
+      "id": "c26_07930",
+      "speaker": "Kappei",
+      "en": "But hey... we're technically civilians. What's the military even doing, relying on us for this?",
+      "display_variant": "fit",
+      "display_text": "「But hey... we're technically civilians.\nWhat's the military doing, relying on us\nfor this?」"
+    },
+    {
+      "id": "c26_07980",
+      "speaker": "Orson",
+      "en": "I hear you, Kappei... but while the Spacetime Restoration stabilized the world, unrest is still ongoing within each nation.",
+      "display_variant": "fit",
+      "display_text": "「I hear you, Kappei... but while the\nRestoration stabilized the world, unrest\ncontinues within each nation.」"
+    },
+    {
+      "id": "c26_079f0",
+      "speaker": "Orson",
+      "en": "That's why the strength of people like us, who aren't bound by national borders, is needed.",
+      "display_variant": "fit",
+      "display_text": "「That's why the strength of people like\nus, unbound by national borders, is\nneeded.」"
+    },
+    {
+      "id": "c26_07a50",
+      "speaker": "Kei",
+      "en": "In other words, they judged that reforming $c was the best option.",
+      "display_variant": "en",
+      "display_text": "「In other words, they judged that\nreforming $c was the best option.」"
+    },
+    {
+      "id": "c26_07a90",
+      "speaker": "Toshiya",
+      "en": "So now we're basically an independent unit, sanctioned by the whole world?",
+      "display_variant": "en",
+      "display_text": "「So now we're basically an independent\nunit, sanctioned by the whole world?」"
+    },
+    {
+      "id": "c26_07ae0",
+      "speaker": "Julie",
+      "en": "Right up until the Spacetime Restoration, we were treated as terrorists working in the shadows. Quite the turnaround.",
+      "display_variant": "fit",
+      "display_text": "「Right up until the Spacetime\nRestoration, we were treated as shadowy\nterrorists. Quite the turnaround.」"
+    },
+    {
+      "id": "c26_07b40",
+      "speaker": "Kiraken",
+      "en": "That's all thanks to everyone coming to understand us.",
+      "display_variant": "en",
+      "display_text": "「That's all thanks to everyone coming to\nunderstand us.」"
+    },
+    {
+      "id": "c26_07b90",
+      "speaker": "Eiji",
+      "en": "Gotta work hard to live up to those expectations, then.",
+      "display_variant": "en",
+      "display_text": "「Gotta work hard to live up to those\nexpectations, then.」"
+    },
+    {
+      "id": "c26_07bd0",
+      "speaker": "Luna",
+      "en": "But we still don't know anything about the enemy that attacked all over the world, right?",
+      "display_variant": "fit",
+      "display_text": "「But we still know nothing about the\nenemy that attacked all over the world,\nright?」"
+    },
+    {
+      "id": "c26_07c20",
+      "speaker": "Mizuki",
+      "en": "First, we need to organize what information we currently have on the enemy.",
+      "display_variant": "en",
+      "display_text": "「First, we need to organize what\ninformation we currently have on the\nenemy.」"
+    },
+    {
+      "id": "c26_07c70",
+      "speaker": "Raven",
+      "en": "On that front, the New Earth Federation has sent over some materials. Let me explain them to everyone.",
+      "display_variant": "fit",
+      "display_text": "「The New Earth Federation has sent over\nsome materials on that. Let me explain to\neveryone.」"
+    },
+    {
+      "id": "c26_07cd0",
+      "speaker": "Sandman",
+      "en": "Rie, Eina... I'll need your help.",
+      "display_variant": "en",
+      "display_text": "「Rie, Eina... I'll need your help.」"
+    },
+    {
+      "id": "c26_07d10",
+      "speaker": "Rie",
+      "en": "Understood, Sandman.",
+      "display_variant": "en",
+      "display_text": "「Understood, Sandman.」"
+    },
+    {
+      "id": "c26_07d40",
+      "speaker": "Raven",
+      "en": "First, on the extent of the damage worldwide--we haven't been able to pin down exact numbers yet.",
+      "display_variant": "fit",
+      "display_text": "「First, on worldwide damage--we haven't\npinned down exact numbers yet.」"
+    },
+    {
+      "id": "c26_07d90",
+      "speaker": "Raven",
+      "en": "But apparently the attacks were mainly aimed at destroying facilities, and human casualties have been extremely minimal.",
+      "display_variant": "fit",
+      "display_text": "「But the attacks apparently targeted\nfacilities mainly, and human casualties\nhave been extremely minimal.」"
+    },
+    {
+      "id": "c26_07df0",
+      "speaker": "Eiji",
+      "en": "Even with attacks that intense!?",
+      "display_variant": "en",
+      "display_text": "「Even with attacks that intense!?」"
+    },
+    {
+      "id": "c26_07e20",
+      "speaker": "Heizaemon",
+      "en": "So it was a show of force, then.",
+      "display_variant": "en",
+      "display_text": "「So it was a show of force, then.」"
+    },
+    {
+      "id": "c26_07e40",
+      "speaker": "Sandman",
+      "en": "That seems highly likely. It was probably a demonstration meant to show off their own power.",
+      "display_variant": "fit",
+      "display_text": "「That seems likely. Probably a\ndemonstration meant to show off their\nown power.」"
+    },
+    {
+      "id": "c26_07ec0",
+      "speaker": "Sandman",
+      "en": "Put another way, this city was probably devastated this thoroughly precisely because it was uninhabited.",
+      "display_variant": "fit",
+      "display_text": "「Put another way, this city was probably\ndevastated this thoroughly because it was\nuninhabited.」"
+    },
+    {
+      "id": "c26_07f20",
+      "speaker": "Raven",
+      "en": "And the unmanned units' attacks have been confirmed across the entire atmosphere.",
+      "display_variant": "en",
+      "display_text": "「And the unmanned units' attacks have\nbeen confirmed across the entire\natmosphere.」"
+    },
+    {
+      "id": "c26_07f70",
+      "speaker": "Raita",
+      "en": "Moving units all across the entire world--just how much organizational power does that take...!",
+      "display_variant": "fit",
+      "display_text": "「Moving units across the entire\nworld--how much organizational power does\nthat take...!」"
+    },
+    {
+      "id": "c26_07fc0",
+      "speaker": "Oliver",
+      "en": "That alone suggests the enemy's scale is something to be feared.",
+      "display_variant": "en",
+      "display_text": "「That alone suggests the enemy's scale\nis something to be feared.」"
+    },
+    {
+      "id": "c26_08010",
+      "speaker": "Sandman",
+      "en": "However, there's information that overturns that hypothesis.",
+      "display_variant": "en",
+      "display_text": "「However, there's information that\noverturns that hypothesis.」"
+    },
+    {
+      "id": "c26_08050",
+      "speaker": "Marin",
+      "en": "What do you mean?",
+      "display_variant": "en",
+      "display_text": "「What do you mean?」"
+    },
+    {
+      "id": "c26_08070",
+      "speaker": "Sandman",
+      "en": "First, take a look at this map. It marks the regions that were damaged in this attack.",
+      "display_variant": "fit",
+      "display_text": "「First, take a look at this map, marking\nthe regions damaged in this attack.」"
+    },
+    {
+      "id": "c26_080e0",
+      "speaker": "Rag",
+      "en": "That's awful. The whole world really has been attacked.",
+      "display_variant": "en",
+      "display_text": "「That's awful. The whole world really\nhas been attacked.」"
+    },
+    {
+      "id": "c26_08120",
+      "speaker": "Faye",
+      "en": "But it's strange. There's no strategic intent visible in where the attacks hit.",
+      "display_variant": "en",
+      "display_text": "「But it's strange. There's no strategic\nintent visible in where the attacks hit.」"
+    },
+    {
+      "id": "c26_08170",
+      "speaker": "Eina",
+      "en": "There are even cases where cities and military facilities were ignored while small settlements were attacked.",
+      "display_variant": "fit",
+      "display_text": "「There are even cases where cities and\nmilitary facilities were ignored while small\nsettlements were attacked.」"
+    },
+    {
+      "id": "c26_081d0",
+      "speaker": "Leele",
+      "en": "So it really was an indiscriminate attack...?",
+      "display_variant": "en",
+      "display_text": "「So it really was an indiscriminate\nattack...?」"
+    },
+    {
+      "id": "c26_08200",
+      "speaker": "Sandman",
+      "en": "No... there's a hidden pattern to the attacks.",
+      "display_variant": "en",
+      "display_text": "「No... there's a hidden pattern to the\nattacks.」"
+    },
+    {
+      "id": "c26_08240",
+      "speaker": "Sandman",
+      "en": "Let's overlay this map with the locations of something the New Earth Federation was investigating during the war.",
+      "display_variant": "fit",
+      "display_text": "「Let's overlay this map with the\nlocations of something the New Earth\nFederation investigated during the war.」"
+    },
+    {
+      "id": "c26_082a0",
+      "speaker": "Shaya",
+      "en": "They almost line up completely...!",
+      "display_variant": "en",
+      "display_text": "「They almost line up completely...!」"
+    },
+    {
+      "id": "c26_082d0",
+      "speaker": "Gengoro",
+      "en": "Just what was it the military was investigating?",
+      "display_variant": "en",
+      "display_text": "「Just what was it the military was\ninvestigating?」"
+    },
+    {
+      "id": "c26_08310",
+      "speaker": "Sandman",
+      "en": "Something called the Mountain Cycle.",
+      "display_variant": "en",
+      "display_text": "「Something called the Mountain Cycle.」"
+    },
+    {
+      "id": "c26_08350",
+      "speaker": "Elchi",
+      "en": "I heard about it from Loran once. That's the ruin where treasures of the Black History sleep, right?",
+      "display_variant": "fit",
+      "display_text": "「I heard about it from Loran once.\nThat's the ruin where Black History\ntreasures sleep, right?」"
+    },
+    {
+      "id": "c26_083b0",
+      "speaker": "Sandman",
+      "en": "That's right. But it seems what's sleeping there isn't exactly treasure.",
+      "display_variant": "en",
+      "display_text": "「That's right. But it seems what's\nsleeping there isn't exactly treasure.」"
+    },
+    {
+      "id": "c26_08410",
+      "speaker": "Gainer",
+      "en": "No way...! Those unmanned units...",
+      "display_variant": "en",
+      "display_text": "「No way...! Those unmanned units...」"
+    },
+    {
+      "id": "c26_08440",
+      "speaker": "Sandman",
+      "en": "Just as you suspected, Gainer.",
+      "display_variant": "en",
+      "display_text": "「Just as you suspected, Gainer.」"
+    },
+    {
+      "id": "c26_08470",
+      "speaker": "Sandman",
+      "en": "Putting together the few eyewitness reports we have, it seems the unmanned units emerged from a Mountain Cycle and attacked the surrounding area.",
+      "display_variant": "fit",
+      "display_text": "「A few eyewitness reports suggest the\nunits emerged from a Mountain Cycle and\nattacked nearby.」"
+    },
+    {
+      "id": "c26_084f0",
+      "speaker": "Gauli",
+      "en": "Then the mystery enemy is...",
+      "display_variant": "en",
+      "display_text": "「Then the mystery enemy is...」"
+    },
+    {
+      "id": "c26_08520",
+      "speaker": "Adette",
+      "en": "A relic of the Black History...!?",
+      "display_variant": "en",
+      "display_text": "「A relic of the Black History...!?」"
+    },
+    {
+      "id": "c26_08550",
+      "speaker": "Gainer",
+      "en": "(Could King Gainer's rampage be connected to this too...?)",
+      "display_variant": "en",
+      "display_text": "（(Could King Gainer's rampage be\nconnected to this too...?)）"
+    },
+    {
+      "id": "c26_085a0",
+      "speaker": "Marin",
+      "en": "But this explains the reckless strategy of deploying units all over the world.",
+      "display_variant": "en",
+      "display_text": "「But this explains the reckless strategy\nof deploying units all over the world.」"
+    },
+    {
+      "id": "c26_085f0",
+      "speaker": "Touga",
+      "en": "So the unmanned units weren't dispatched--they were already there from the start.",
+      "display_variant": "en",
+      "display_text": "「So the unmanned units weren't\ndispatched--they were already there from\nthe start.」"
+    },
+    {
+      "id": "c26_08640",
+      "speaker": "Birin",
+      "en": "So those things had been sleeping underground ever since the Black History era...",
+      "display_variant": "en",
+      "display_text": "「So those things had been sleeping\nunderground ever since the Black History\nera...」"
+    },
+    {
+      "id": "c26_08690",
+      "speaker": "Birin",
+      "en": "And they only just recently woke up and started attacking...!?",
+      "display_variant": "en",
+      "display_text": "「And they only just recently woke up\nand started attacking...!?」"
+    },
+    {
+      "id": "c26_086e0",
+      "speaker": "Hayato",
+      "en": "You're saying that happened simultaneously all over the world? That's way too unnatural...",
+      "display_variant": "fit",
+      "display_text": "「You're saying that happened\nsimultaneously worldwide? Way too\nunnatural...」"
+    },
+    {
+      "id": "c26_08740",
+      "speaker": "Benkei",
+      "en": "If they're unmanned, that means they've got an autopilot system built in, right?",
+      "display_variant": "fit",
+      "display_text": "「If unmanned, that means they've got an\nautopilot system built in, right?」"
+    },
+    {
+      "id": "c26_08790",
+      "speaker": "Benkei",
+      "en": "So then wouldn't that mean someone gave them the order to attack?",
+      "display_variant": "en",
+      "display_text": "「So then wouldn't that mean someone\ngave them the order to attack?」"
+    },
+    {
+      "id": "c26_087e0",
+      "speaker": "Michiru",
+      "en": "True, that would explain why the attacks happened worldwide at the same time, but...",
+      "display_variant": "fit",
+      "display_text": "「True, that would explain why the\nattacks happened worldwide at once, but...」"
+    },
+    {
+      "id": "c26_08840",
+      "speaker": "Tekkouki",
+      "en": "But to pull that off, someone would need to know these unmanned units existed and issue an activation order to the entire world at once.",
+      "display_variant": "fit",
+      "display_text": "「But to pull this off, someone must\nknow these units existed and order\nworldwide activation at once.」"
+    },
+    {
+      "id": "c26_088b0",
+      "speaker": "Daisuke",
+      "en": "Someone who knows of the Black History's legacy and commands its power, huh...",
+      "display_variant": "en",
+      "display_text": "「Someone who knows of the Black\nHistory's legacy and commands its power,\nhuh...」"
+    },
+    {
+      "id": "c26_088f0",
+      "speaker": "Tekkouki",
+      "en": "Conversely, that means the key to tracking down the enemy lies in that unmanned unit's control system.",
+      "display_variant": "fit",
+      "display_text": "「Conversely, the key to tracking the\nenemy lies in that unmanned unit's control\nsystem.」"
+    },
+    {
+      "id": "c26_08950",
+      "speaker": "Sandman",
+      "en": "Exactly right. On that front, the wreckage of a unit shot down in the previous attack has been examined.",
+      "display_variant": "fit",
+      "display_text": "「Exactly right. On that front, wreckage\nof a unit downed in the previous attack\nhas been examined.」"
+    },
+    {
+      "id": "c26_089b0",
+      "speaker": "Sandman",
+      "en": "As a result, it's been confirmed that all of the unmanned units were operating under the same control system.",
+      "display_variant": "fit",
+      "display_text": "「As a result, all the unmanned units\nwere confirmed to run under the same\ncontrol system.」"
+    },
+    {
+      "id": "c26_08a10",
+      "speaker": "Luna",
+      "en": "So then someone really did plan this whole thing after all...!",
+      "display_variant": "en",
+      "display_text": "「So then someone really did plan this\nwhole thing after all...!」"
+    },
+    {
+      "id": "c26_08a60",
+      "speaker": "Sandman",
+      "en": "But setting the activation aside, it seems the unmanned units acted completely autonomously once combat began.",
+      "display_variant": "fit",
+      "display_text": "「But aside from activation, the unmanned\nunits seem to have acted fully\nautonomously once combat began.」"
+    },
+    {
+      "id": "c26_08ac0",
+      "speaker": "Rie",
+      "en": "In other words, the attack behavior itself was most likely preset in advance.",
+      "display_variant": "en",
+      "display_text": "「In other words, the attack behavior\nitself was most likely preset in advance.」"
+    },
+    {
+      "id": "c26_08b20",
+      "speaker": "Jun",
+      "en": "Then are you saying this attack was prepared all the way back in the Black History era?",
+      "display_variant": "fit",
+      "display_text": "「So you're saying this attack was\nprepared all the way back in the Black\nHistory era?」"
+    },
+    {
+      "id": "c26_08b80",
+      "speaker": "Raven",
+      "en": "That's the only conclusion we can draw.",
+      "display_variant": "en",
+      "display_text": "「That's the only conclusion we can draw.」"
+    },
+    {
+      "id": "c26_08bb0",
+      "speaker": "Koji",
+      "en": "What the hell is that...",
+      "display_variant": "en",
+      "display_text": "「What the hell is that...」"
+    },
+    {
+      "id": "c26_08bd0",
+      "speaker": "Jiron",
+      "en": "Who the hell was it!? Burying something that dangerous in the ground...!",
+      "display_variant": "en",
+      "display_text": "「Who the hell was it!? Burying something\nthat dangerous in the ground...!」"
+    },
+    {
+      "id": "c26_08c30",
+      "speaker": "Sandman",
+      "en": "...While analyzing the autopilot mechanism, a certain term kept appearing frequently.",
+      "display_variant": "fit",
+      "display_text": "「...Analyzing the autopilot mechanism, a\ncertain term kept appearing frequently.」"
+    },
+    {
+      "id": "c26_08c80",
+      "speaker": "Sandman",
+      "en": "Executor... That appears to be the name of the system controlling the unmanned units.",
+      "display_variant": "fit",
+      "display_text": "「Executor... That's the apparent name of\nthe system controlling the unmanned units.」"
+    },
+    {
+      "id": "c26_08ce0",
+      "speaker": "Toshiya",
+      "en": "The Executor... System.",
+      "display_variant": "en",
+      "display_text": "「The Executor... System.」"
+    },
+    {
+      "id": "c26_08d10",
+      "speaker": "Julie",
+      "en": "'Executor,' huh... Quite the grandiose name.",
+      "display_variant": "en",
+      "display_text": "「'Executor,' huh... Quite the grandiose\nname.」"
+    },
+    {
+      "id": "c26_08d50",
+      "speaker": "Gainer",
+      "en": "(Is that system installed in King Gainer too...?)",
+      "display_variant": "en",
+      "display_text": "（(Is that system installed in King\nGainer too...?)）"
+    },
+    {
+      "id": "c26_08da0",
+      "speaker": "Gainer",
+      "en": "(No... that's not it. King Gainer was being called by something... I don't know what, but...)",
+      "display_variant": "fit",
+      "display_text": "（(No... that's not it. King Gainer was\ncalled by something... I don't know what,\nbut...)）"
+    },
+    {
+      "id": "c26_08e10",
+      "speaker": "Cynthia",
+      "en": "Gainer... are you worried about that rampage from before?",
+      "display_variant": "en",
+      "display_text": "「Gainer... are you worried about that\nrampage from before?」"
+    },
+    {
+      "id": "c26_08e50",
+      "speaker": "Gainer",
+      "en": "Sorry for worrying you, Cynthia. But I still don't think this and that are unrelated.",
+      "display_variant": "fit",
+      "display_text": "「Sorry for worrying you, Cynthia. But I\nstill don't think this and that are\nunrelated.」"
+    },
+    {
+      "id": "c26_08ec0",
+      "speaker": "Sara",
+      "en": "...Still, it's hard to wrap my head around. Are you saying people from the Black History era prepared this to attack people of a later age...?",
+      "display_variant": "fit",
+      "display_text": "「Hard to grasp, but you're saying Black\nHistory people prepared this to attack\nlater generations...?」"
+    },
+    {
+      "id": "c26_08f40",
+      "speaker": "Tetsuya",
+      "en": "Those unmanned units are machines from organizations we've fought before.",
+      "display_variant": "en",
+      "display_text": "「Those unmanned units are machines from\norganizations we've fought before.」"
+    },
+    {
+      "id": "c26_08f90",
+      "speaker": "Tetsuya",
+      "en": "Seeing that really drives home that a $c different from ours was what caused the Black History.",
+      "display_variant": "fit",
+      "display_text": "「Seeing that drives home that a $c\ndifferent from ours caused the Black\nHistory.」"
+    },
+    {
+      "id": "c26_08ff0",
+      "speaker": "Blume",
+      "en": "But what are we gonna do? The Moon's D.O.M.E. doesn't even work anymore, does it?",
+      "display_variant": "fit",
+      "display_text": "「But what do we do? The Moon's D.O.M.E.\ndoesn't even work anymore, does it?」"
+    },
+    {
+      "id": "c26_09040",
+      "speaker": "Dike",
+      "en": "Even if we want to learn about the Black History, is there really no way left to investigate it...",
+      "display_variant": "fit",
+      "display_text": "「Even wanting to learn about the Black\nHistory, is there no way left to\ninvestigate it...」"
+    },
+    {
+      "id": "c26_09090",
+      "speaker": "Sandman",
+      "en": "On that front, I have an idea. If you'll give me a little more time, I should have results.",
+      "display_variant": "fit",
+      "display_text": "「On that, I have an idea. Give me a\nlittle more time and I should have\nresults.」"
+    },
+    {
+      "id": "c26_09100",
+      "speaker": "Jiron",
+      "en": "If you say so, I'll leave it to you. We'll be counting on you.",
+      "display_variant": "en",
+      "display_text": "「If you say so, I'll leave it to you.\nWe'll be counting on you.」"
+    },
+    {
+      "id": "c26_09140",
+      "speaker": "Athena",
+      "en": "But with neither the enemy's identity nor their goal known, are we stuck reacting to them...?",
+      "display_variant": "fit",
+      "display_text": "「With neither the enemy's identity nor\ngoal known, are we stuck reacting to\nthem...?」"
+    },
+    {
+      "id": "c26_09190",
+      "speaker": "Orson",
+      "en": "For now, all we can do is what we can. Let's move too, to limit the damage as much as possible.",
+      "display_variant": "fit",
+      "display_text": "「For now, we do what we can. Let's move\ntoo, to limit the damage as much as\npossible.」"
+    },
+    {
+      "id": "c26_091f0",
+      "speaker": "Heizaemon",
+      "en": "It's the same situation for the North Ameria unit. For the time being, we'll trace the enemy's movements and intercept them if they attack again.",
+      "display_variant": "fit",
+      "display_text": "「Same for North Ameria. For now we'll\ntrack the enemy and intercept if they\nstrike again.」"
+    },
+    {
+      "id": "c26_09270",
+      "speaker": "Kei",
+      "en": "Even the invincible $c is at a loss when it comes to this, huh...",
+      "display_variant": "en",
+      "display_text": "「Even the invincible $c is at a loss\nwhen it comes to this, huh...」"
+    },
+    {
+      "id": "c26_092b0",
+      "speaker": "Holland",
+      "en": "Sorry we're late. Gekkostate has arrived.",
+      "display_variant": "en",
+      "display_text": "「Sorry we're late. Gekkostate has\narrived.」"
+    },
+    {
+      "id": "c26_092f0",
+      "speaker": "Sandman",
+      "en": "Sorry, Holland. I know I asked you to gather everyone.",
+      "display_variant": "en",
+      "display_text": "「Sorry, Holland. I know I asked you to\ngather everyone.」"
+    },
+    {
+      "id": "c26_09330",
+      "speaker": "Holland",
+      "en": "You don't need to worry about that. I understand how serious this is too.",
+      "display_variant": "en",
+      "display_text": "「You don't need to worry about that. I\nunderstand how serious this is too.」"
+    },
+    {
+      "id": "c26_09380",
+      "speaker": "Holland",
+      "en": "In a world this dangerous, neither Talho nor the kid in her belly can settle down.",
+      "display_variant": "fit",
+      "display_text": "「In a world this dangerous, neither Talho\nnor our unborn kid can settle down.」"
+    },
+    {
+      "id": "c26_093e0",
+      "speaker": "Gengoro",
+      "en": "Sounds like you're finally growing into being a father.",
+      "display_variant": "en",
+      "display_text": "「Sounds like you're finally growing into\nbeing a father.」"
+    },
+    {
+      "id": "c26_09420",
+      "speaker": "Talho",
+      "en": "If Papa stays a drifter forever, our sweet baby's going to have a hard time, you know.",
+      "display_variant": "fit",
+      "display_text": "「If Papa stays a drifter forever, our\nbaby's going to have a hard time, you\nknow.」"
+    },
+    {
+      "id": "c26_09470",
+      "speaker": "Mimsy",
+      "en": "You're not showing yet...",
+      "display_variant": "en",
+      "display_text": "「You're not showing yet...」"
+    },
+    {
+      "id": "c26_094a0",
+      "speaker": "Talho",
+      "en": "Same to you, Mimsy. Looks like we've both got a lot of trouble ahead.",
+      "display_variant": "en",
+      "display_text": "「Same to you, Mimsy. Looks like we've\nboth got a lot of trouble ahead.」"
+    },
+    {
+      "id": "c26_094e0",
+      "speaker": "Mimsy",
+      "en": "It's this kind of world, after all. And more than that, look at the men we each chose.",
+      "display_variant": "fit",
+      "display_text": "「It's this kind of world. And more than\nthat, look at the men we each chose.」"
+    },
+    {
+      "id": "c26_09530",
+      "speaker": "Kei",
+      "en": "That's what she says, Mr. Charisma of the Youth.",
+      "display_variant": "en",
+      "display_text": "「That's what she says, Mr. Charisma of\nthe Youth.」"
+    },
+    {
+      "id": "c26_09560",
+      "speaker": "Holland",
+      "en": "Eh... let 'em say whatever they want. Woman may be weak, but a mother is strong.",
+      "display_variant": "fit",
+      "display_text": "「Eh... let 'em talk. Woman may be weak,\nbut a mother is strong.」"
+    },
+    {
+      "id": "c26_095b0",
+      "speaker": "Gain",
+      "en": "Well, well... thanks for the lecture.",
+      "display_variant": "en",
+      "display_text": "「Well, well... thanks for the lecture.」"
+    },
+    {
+      "id": "c26_095e0",
+      "speaker": "$n",
+      "en": "That's a bit over my head, Gain.",
+      "display_variant": "en",
+      "display_text": "「That's a bit over my head, Gain.」"
+    },
+    {
+      "id": "c26_09610",
+      "speaker": "Adette",
+      "en": "There they are, the drunkard duo!",
+      "display_variant": "en",
+      "display_text": "「There they are, the drunkard duo!」"
+    },
+    {
+      "id": "c26_09640",
+      "speaker": "Yassaba",
+      "en": "I'm here too, Adette.",
+      "display_variant": "en",
+      "display_text": "「I'm here too, Adette.」"
+    },
+    {
+      "id": "c26_09670",
+      "speaker": "Gauli",
+      "en": "You came, Yassaba Jin. I appreciate your help.",
+      "display_variant": "en",
+      "display_text": "「You came, Yassaba Jin. I appreciate\nyour help.」"
+    },
+    {
+      "id": "c26_096b0",
+      "speaker": "Yassaba",
+      "en": "Don't be so distant with me. I couldn't call myself a man if I stayed quiet while villains ran wild all over the world.",
+      "display_variant": "fit",
+      "display_text": "「Don't be so distant. I couldn't call\nmyself a man if I stayed quiet while\nvillains ran wild worldwide.」"
+    },
+    {
+      "id": "c26_09720",
+      "speaker": "$n",
+      "en": "That some folks don't like peace, well... it's not like I can't understand it. Villains never really go extinct.",
+      "display_variant": "fit",
+      "display_text": "「That some folks dislike peace, well...\nit's not like I can't understand it.\nVillains never really go extinct.」"
+    },
+    {
+      "id": "c26_097a0",
+      "speaker": "Gain",
+      "en": "But I don't like the way this bunch operates. Can't even sleep easy.",
+      "display_variant": "en",
+      "display_text": "「But I don't like the way this bunch\noperates. Can't even sleep easy.」"
+    },
+    {
+      "id": "c26_097f0",
+      "speaker": "Sara",
+      "en": "I'm grateful for the help, but you're still going to apologize properly for leaving without even saying goodbye.",
+      "display_variant": "fit",
+      "display_text": "「I'm grateful for the help, but you're\nstill apologizing properly for leaving\nwithout even saying goodbye.」"
+    },
+    {
+      "id": "c26_09870",
+      "speaker": "Gain",
+      "en": "Don't say that. Holland practically begged, so I came running here, shame be damned.",
+      "display_variant": "fit",
+      "display_text": "「Don't say that. Holland practically\nbegged, so I ran here, shame be damned.」"
+    },
+    {
+      "id": "c26_098d0",
+      "speaker": "$n",
+      "en": "That's right. Besides, the reason there was no goodbye is 'cause I didn't want anyone seeing my tears at parting.",
+      "display_variant": "fit",
+      "display_text": "「That's right. Besides, there was no\ngoodbye 'cause I didn't want anyone\nseeing my tears at parting.」"
+    },
+    {
+      "id": "c26_09930",
+      "speaker": "Luna",
+      "en": "Unbelievable...! What mouth is 'tears' even coming out of?",
+      "display_variant": "en",
+      "display_text": "「Unbelievable...! What mouth is 'tears'\neven coming out of?」"
+    },
+    {
+      "id": "c26_09970",
+      "speaker": "$n",
+      "en": "This mouth, right here...!",
+      "display_variant": "en",
+      "display_text": "「This mouth, right here...!」"
+    },
+    {
+      "id": "c26_09990",
+      "speaker": "Maria",
+      "en": "There it is, the Heat Smile!",
+      "display_variant": "en",
+      "display_text": "「There it is, the Heat Smile!」"
+    },
+    {
+      "id": "c26_099c0",
+      "speaker": "Mel",
+      "en": "Don't talk about Darling's smile like it's a cockroach!",
+      "display_variant": "en",
+      "display_text": "「Don't talk about Darling's smile like\nit's a cockroach!」"
+    },
+    {
+      "id": "c26_09a00",
+      "speaker": "Chill",
+      "en": "It's Big Sis Mel!",
+      "display_variant": "en",
+      "display_text": "「It's Big Sis Mel!」"
+    },
+    {
+      "id": "c26_09a20",
+      "speaker": "Rag",
+      "en": "I was worried. When you went missing in all the chaos of the Spacetime Restoration.",
+      "display_variant": "en",
+      "display_text": "「I was worried. When you went missing in\nall the chaos of the Spacetime\nRestoration.」"
+    },
+    {
+      "id": "c26_09a70",
+      "speaker": "Leele",
+      "en": "But I'm glad. That we got to see each other again like this.",
+      "display_variant": "en",
+      "display_text": "「But I'm glad. That we got to see each\nother again like this.」"
+    },
+    {
+      "id": "c26_09ab0",
+      "speaker": "Mel",
+      "en": "Thanks, everyone! Mel Beater's doing great today, great as ever!",
+      "display_variant": "en",
+      "display_text": "「Thanks, everyone! Mel Beater's doing\ngreat today, great as ever!」"
+    },
+    {
+      "id": "c26_09b00",
+      "speaker": "Cynthia",
+      "en": "Huh? Wasn't your hair supposed to have grown out?",
+      "display_variant": "en",
+      "display_text": "「Huh? Wasn't your hair supposed to have\ngrown out?」"
+    },
+    {
+      "id": "c26_09b40",
+      "speaker": "Mel",
+      "en": "It was a pain, so I cut it. Long hair's a hassle to take care of, and it gets in the way of repair work too.",
+      "display_variant": "fit",
+      "display_text": "「It was a pain, so I cut it. Long hair's\na hassle, and it gets in the way of\nrepair work too.」"
+    },
+    {
+      "id": "c26_09ba0",
+      "speaker": "Matthieu",
+      "en": "Speaking of which, Repairman... didn't you say you'd marry Mel once her hair grew out...?",
+      "display_variant": "fit",
+      "display_text": "「Speaking of which, Repairman... didn't\nyou say you'd marry Mel once her hair\ngrew...?」"
+    },
+    {
+      "id": "c26_09c00",
+      "speaker": "$n",
+      "en": "Now's not the time to be talking about that!",
+      "display_variant": "en",
+      "display_text": "「Now's not the time to be talking about\nthat!」"
+    },
+    {
+      "id": "c26_09c40",
+      "speaker": "Hilda",
+      "en": "Don't just shout out of nowhere...!",
+      "display_variant": "en",
+      "display_text": "「Don't just shout out of nowhere...!」"
+    },
+    {
+      "id": "c26_09c70",
+      "speaker": "Hap",
+      "en": "Well... he's got a point, but...",
+      "display_variant": "en",
+      "display_text": "「Well... he's got a point, but...」"
+    },
+    {
+      "id": "c26_09ca0",
+      "speaker": "$n",
+      "en": "The world's in serious trouble because of this mystery enemy. We gathered here to fight them... don't forget that.",
+      "display_variant": "fit",
+      "display_text": "「The world's in serious trouble from this\nmystery enemy. We gathered to fight\nthem... don't forget that.」"
+    },
+    {
+      "id": "c26_09d00",
+      "speaker": "Moondoggie",
+      "en": "Y-yeah.",
+      "display_variant": "en",
+      "display_text": "「Y-yeah.」"
+    },
+    {
+      "id": "c26_09d20",
+      "speaker": "Adette",
+      "en": "Is that okay, Mel? Darling just brushed it off with momentum there.",
+      "display_variant": "en",
+      "display_text": "「Is that okay, Mel? Darling just brushed\nit off with momentum there.」"
+    },
+    {
+      "id": "c26_09d70",
+      "speaker": "Mel",
+      "en": "Don't worry about it, don't worry about it. I still want to enjoy my single days a while longer.",
+      "display_variant": "fit",
+      "display_text": "「Don't worry about it. I still want to\nenjoy my single days a while longer.」"
+    },
+    {
+      "id": "c26_09dc0",
+      "speaker": "Mel",
+      "en": "Besides, seeing Darling react like that is pretty fun to watch.",
+      "display_variant": "en",
+      "display_text": "「Besides, seeing Darling react like that\nis pretty fun to watch.」"
+    },
+    {
+      "id": "c26_09e00",
+      "speaker": "Gain",
+      "en": "Sheesh... seeing him like this, even The Heat seems kind of cute.",
+      "display_variant": "en",
+      "display_text": "「Sheesh... seeing him like this, even The\nHeat seems kind of cute.」"
+    },
+    {
+      "id": "c26_09e50",
+      "speaker": "Jiron",
+      "en": "More importantly, Gain... Gainer's been waiting for you.",
+      "display_variant": "en",
+      "display_text": "「More importantly, Gain... Gainer's been\nwaiting for you.」"
+    },
+    {
+      "id": "c26_09ea0",
+      "speaker": "Gain",
+      "en": "Are you still mad that I didn't say goodbye?",
+      "display_variant": "en",
+      "display_text": "「Are you still mad that I didn't say\ngoodbye?」"
+    },
+    {
+      "id": "c26_09ee0",
+      "speaker": "Gainer",
+      "en": "...It's not that. I figured that as long as we were both alive, we'd meet again somewhere sometime...",
+      "display_variant": "fit",
+      "display_text": "「...It's not that. I figured as long as\nwe're both alive, we'd meet again\nsomewhere sometime...」"
+    },
+    {
+      "id": "c26_09f50",
+      "speaker": "Gain",
+      "en": "That's a positive way to think. So what's a guy like that got on his mind?",
+      "display_variant": "en",
+      "display_text": "「That's a positive way to think. So\nwhat's a guy like that got on his mind?」"
+    },
+    {
+      "id": "c26_09f90",
+      "speaker": "Gainer",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c26_09fb0",
+      "speaker": "Gain",
+      "en": "Go ahead and talk. But this is gonna square us on that whole goodbye thing.",
+      "display_variant": "en",
+      "display_text": "「Go ahead and talk. But this is gonna\nsquare us on that whole goodbye thing.」"
+    },
+    {
+      "id": "c26_0a000",
+      "speaker": "Gain",
+      "en": "Sounds like this is no joke, then.",
+      "display_variant": "en",
+      "display_text": "「Sounds like this is no joke, then.」"
+    },
+    {
+      "id": "c26_0a030",
+      "speaker": "Gainer",
+      "en": "Has anything seemed off with Emperanza?",
+      "display_variant": "en",
+      "display_text": "「Has anything seemed off with\nEmperanza?」"
+    },
+    {
+      "id": "c26_0a070",
+      "speaker": "Gainer",
+      "en": "Like suddenly not responding to controls, or moving on its own...",
+      "display_variant": "en",
+      "display_text": "「Like suddenly not responding to\ncontrols, or moving on its own...」"
+    },
+    {
+      "id": "c26_0a0c0",
+      "speaker": "Gain",
+      "en": "No... nothing like that in particular.",
+      "display_variant": "en",
+      "display_text": "「No... nothing like that in particular.」"
+    },
+    {
+      "id": "c26_0a0f0",
+      "speaker": "Gainer",
+      "en": "(Before, King Gainer and Emperanza both did something that stirred up the fighting spirit of us pilots...)",
+      "display_variant": "fit",
+      "display_text": "（(Before, King Gainer and Emperanza\nboth stirred up the fighting spirit of us\npilots...)）"
+    },
+    {
+      "id": "c26_0a160",
+      "speaker": "Gainer",
+      "en": "(I thought this rampage might be something similar, but there's nothing unusual with Emperanza.)",
+      "display_variant": "fit",
+      "display_text": "（(I thought this rampage might be\nsimilar, but nothing's unusual with\nEmperanza.)）"
+    },
+    {
+      "id": "c26_0a1d0",
+      "speaker": "Gainer",
+      "en": "(Is King Gainer just special, then...?)",
+      "display_variant": "en",
+      "display_text": "（(Is King Gainer just special, then...?)）"
+    },
+    {
+      "id": "c26_0a200",
+      "speaker": "Renton",
+      "en": "...Are you okay, Big Bro Gainer?",
+      "display_variant": "en",
+      "display_text": "「...Are you okay, Big Bro Gainer?」"
+    },
+    {
+      "id": "c26_0a230",
+      "speaker": "Gainer",
+      "en": "Renton...! Why are you here!?",
+      "display_variant": "en",
+      "display_text": "「Renton...! Why are you here!?」"
+    },
+    {
+      "id": "c26_0a270",
+      "speaker": "Renton",
+      "en": "It's not just me. Eureka's here too.",
+      "display_variant": "en",
+      "display_text": "「It's not just me. Eureka's here too.」"
+    },
+    {
+      "id": "c26_0a2b0",
+      "speaker": "Eureka",
+      "en": ".......",
+      "display_variant": "en",
+      "display_text": "「.......」"
+    },
+    {
+      "id": "c26_0a2d0",
+      "speaker": "Koji",
+      "en": "But didn't Nirvash go off to the other side of dimensions during the Spacetime Restoration?",
+      "display_variant": "fit",
+      "display_text": "「But didn't Nirvash go to the other side\nof dimensions during the Restoration?」"
+    },
+    {
+      "id": "c26_0a330",
+      "speaker": "Renton",
+      "en": "Even without Nirvash, I'm still a member of Gekkostate. I'll fight alongside everyone.",
+      "display_variant": "fit",
+      "display_text": "「Even without Nirvash, I'm still a member\nof Gekkostate. I'll fight alongside\neveryone.」"
+    },
+    {
+      "id": "c26_0a3a0",
+      "speaker": "Holland",
+      "en": "What do you mean, member of Gekkostate. You forced your way into contacting us and muscled your way aboard.",
+      "display_variant": "fit",
+      "display_text": "「What do you mean, member of\nGekkostate. You forced contact with us,\nthen forced your way aboard.」"
+    },
+    {
+      "id": "c26_0a410",
+      "speaker": "Renton",
+      "en": "But I wanted to be useful to everyone too, even just a little...",
+      "display_variant": "en",
+      "display_text": "「But I wanted to be useful to everyone\ntoo, even just a little...」"
+    },
+    {
+      "id": "c26_0a460",
+      "speaker": "Holland",
+      "en": "You don't have to say it, I already know. That's why I approved you and Eureka joining.",
+      "display_variant": "fit",
+      "display_text": "「You don't have to say it, I know.\nThat's why I approved you and Eureka\njoining.」"
+    },
+    {
+      "id": "c26_0a4c0",
+      "speaker": "Eureka",
+      "en": "Thank you, Holland. I... feel the same way as Renton.",
+      "display_variant": "en",
+      "display_text": "「Thank you, Holland. I... feel the same\nway as Renton.」"
+    },
+    {
+      "id": "c26_0a510",
+      "speaker": "Holland",
+      "en": "Given the situation, you two are gonna fight as crew of the Gekko-Goh.",
+      "display_variant": "en",
+      "display_text": "「Given the situation, you two are gonna\nfight as crew of the Gekko-Goh.」"
+    },
+    {
+      "id": "c26_0a560",
+      "speaker": "Renton",
+      "en": "Understood!",
+      "display_variant": "en",
+      "display_text": "「Understood!」"
+    },
+    {
+      "id": "c26_0a580",
+      "speaker": "Bello",
+      "en": "By the way, Renton... what happened to that image change you had before the Spacetime Restoration?",
+      "display_variant": "fit",
+      "display_text": "「By the way, Renton... what happened to\nthat image change from before the\nRestoration?」"
+    },
+    {
+      "id": "c26_0a5e0",
+      "speaker": "Renton",
+      "en": "That was just for a special occasion. Normally, I'll stick with being myself, no putting on airs, same as always.",
+      "display_variant": "fit",
+      "display_text": "「That was just for a special occasion.\nNormally I'll be myself, no airs, same as\nalways.」"
+    },
+    {
+      "id": "c26_0a640",
+      "speaker": "Hanae",
+      "en": "It's urgent, Grandpa! An unidentified unit is approaching us!",
+      "display_variant": "en",
+      "display_text": "「It's urgent, Grandpa! An unidentified\nunit is approaching us!」"
+    },
+    {
+      "id": "c26_0a690",
+      "speaker": "Heizaemon",
+      "en": "What did you say...!",
+      "display_variant": "en",
+      "display_text": "「What did you say...!」"
+    },
+    {
+      "id": "c26_0a6b0",
+      "speaker": "Umee",
+      "en": "There's a lot of them too. This has gotta be those unmanned units.",
+      "display_variant": "en",
+      "display_text": "「There's a lot of them too. This has\ngotta be those unmanned units.」"
+    },
+    {
+      "id": "c26_0a6f0",
+      "speaker": "Kappei",
+      "en": "If they're coming to us, all the better! Let's beat them senseless!",
+      "display_variant": "en",
+      "display_text": "「If they're coming to us, all the better!\nLet's beat them senseless!」"
+    },
+    {
+      "id": "c26_0a740",
+      "speaker": "Daisuke",
+      "en": "If we confront them directly, we might be able to grab some kind of clue...!",
+      "display_variant": "en",
+      "display_text": "「If we confront them directly, we might\nbe able to grab some kind of clue...!」"
+    },
+    {
+      "id": "c26_0a790",
+      "speaker": "Toshiya",
+      "en": "These are the guys who trashed the world however they pleased. Time they paid up for it!",
+      "display_variant": "fit",
+      "display_text": "「These are the guys who trashed the\nworld as they pleased. Time they paid up\nfor it!」"
+    },
+    {
+      "id": "c26_0a7e0",
+      "speaker": "$n",
+      "en": "Hell yeah! I'm getting fired up for the first time in a while!",
+      "display_variant": "en",
+      "display_text": "「Hell yeah! I'm getting fired up for the\nfirst time in a while!」"
+    },
+    {
+      "id": "c26_0a810",
+      "speaker": "Sandman",
+      "en": "Everyone of $c, the time to launch has come!",
+      "display_variant": "en",
+      "display_text": "「Everyone of $c, the time to launch\nhas come!」"
+    },
+    {
+      "id": "c26_0a840",
+      "speaker": "Heizaemon",
+      "en": "From here, we will intercept the mystery enemy and expose their true identity...!",
+      "display_variant": "fit",
+      "display_text": "「From here, we intercept the mystery\nenemy and expose their true identity...!」"
+    }
+  ]
+}

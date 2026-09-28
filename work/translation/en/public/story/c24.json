@@ -1,0 +1,1804 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c24_04b10",
+      "speaker": "Murrue",
+      "en": "All $c units have finished launching.",
+      "display_variant": "en",
+      "display_text": "「All $c units have finished launching.」"
+    },
+    {
+      "id": "c24_04b40",
+      "speaker": "Waltfeld",
+      "en": "Quite a sight, even at only about half our strength. ...Though I suppose a sight like this isn't something to celebrate.",
+      "display_variant": "fit",
+      "display_text": "「Quite a sight, even at about half our\nstrength... Though I suppose it's not\nsomething to celebrate.」"
+    },
+    {
+      "id": "c24_04ba0",
+      "speaker": "Lacus",
+      "en": "Right now, what matters most is uncovering the truth as quickly as possible and restoring peace to the world without delay.",
+      "display_variant": "fit",
+      "display_text": "「What matters now is quickly uncovering\nthe truth and swiftly restoring world\npeace.」"
+    },
+    {
+      "id": "c24_04c00",
+      "speaker": "Dianna",
+      "en": "That is exactly why this power was gathered. Our mission is to use it correctly.",
+      "display_variant": "en",
+      "display_text": "「That is exactly why this power was\ngathered. Our mission is to use it\ncorrectly.」"
+    },
+    {
+      "id": "c24_04c60",
+      "speaker": "Bright",
+      "en": "All units, prepare to intercept! Here they come!",
+      "display_variant": "en",
+      "display_text": "「All units, prepare to intercept! Here\nthey come!」"
+    },
+    {
+      "id": "c24_04c90",
+      "speaker": "Fa",
+      "en": "What is this squadron...!?",
+      "display_variant": "en",
+      "display_text": "「What is this squadron...!?」"
+    },
+    {
+      "id": "c24_04cb0",
+      "speaker": "Pala",
+      "en": "Mechs from all sorts of organizations are attacking together!",
+      "display_variant": "en",
+      "display_text": "「Mechs from all sorts of organizations\nare attacking together!」"
+    },
+    {
+      "id": "c24_04cf0",
+      "speaker": "Gavane",
+      "en": "So those are the unmanned unit forces we heard about!",
+      "display_variant": "en",
+      "display_text": "「So those are the unmanned unit forces\nwe heard about!」"
+    },
+    {
+      "id": "c24_04d30",
+      "speaker": "Loran",
+      "en": "(The Turn A is reacting...!? I knew it -- it's connected to that unmanned unit's system...!)",
+      "display_variant": "en",
+      "display_text": "（(The Turn A is reacting...!? I knew it\n-- it's connected to that unmanned unit's\nsystem...!)）"
+    },
+    {
+      "id": "c24_04d90",
+      "speaker": "Loran",
+      "en": "(If no one had been aboard, would it have gone berserk again...)",
+      "display_variant": "en",
+      "display_text": "（(If no one had been aboard, would it\nhave gone berserk again...)）"
+    },
+    {
+      "id": "c24_04dd0",
+      "speaker": "Loran",
+      "en": "The Turn A is reacting...!? I knew it -- that unmanned unit's system is connected to this...!",
+      "display_variant": "en",
+      "display_text": "「The Turn A is reacting...!? I knew it\n-- that unmanned unit's system is\nconnected to this...!」"
+    },
+    {
+      "id": "c24_04e30",
+      "speaker": "Amuro",
+      "en": "What do you mean, Loran...!?",
+      "display_variant": "en",
+      "display_text": "「What do you mean, Loran...!?」"
+    },
+    {
+      "id": "c24_04e60",
+      "speaker": "Loran",
+      "en": "It seems the Turn A's rampage the other day is connected to that unmanned unit's system!",
+      "display_variant": "en",
+      "display_text": "「It seems the Turn A's rampage the\nother day is connected to that unmanned\nunit's system!」"
+    },
+    {
+      "id": "c24_04ec0",
+      "speaker": "Loran",
+      "en": "Everyone piloting, please be careful! If you release control, I think it'll be taken over by them!",
+      "display_variant": "fit",
+      "display_text": "「Everyone piloting, be careful! If you\nrelease control, I think they'll take it\nover!」"
+    },
+    {
+      "id": "c24_04f30",
+      "speaker": "Sochie",
+      "en": "The White Doll launched on its own!?",
+      "display_variant": "en",
+      "display_text": "「The White Doll launched on its own!?」"
+    },
+    {
+      "id": "c24_04f70",
+      "speaker": "Loran",
+      "en": "It's reacting to something...!? I knew it -- that unmanned unit's system is connected to this...!",
+      "display_variant": "en",
+      "display_text": "「It's reacting to something...!? I knew it\n-- that unmanned unit's system is\nconnected to this...!」"
+    },
+    {
+      "id": "c24_04fd0",
+      "speaker": "Joseph",
+      "en": "At this rate, it'll use the Moonlight Butterfly on its own again!",
+      "display_variant": "en",
+      "display_text": "「At this rate, it'll use the Moonlight\nButterfly on its own again!」"
+    },
+    {
+      "id": "c24_05010",
+      "speaker": "Dianna",
+      "en": "There's no choice...! Stop the White Doll's movement!",
+      "display_variant": "en",
+      "display_text": "「There's no choice...! Stop the White\nDoll's movement!」"
+    },
+    {
+      "id": "c24_05050",
+      "speaker": "Miashei",
+      "en": "The White Doll...!",
+      "display_variant": "en",
+      "display_text": "「The White Doll...!」"
+    },
+    {
+      "id": "c24_05080",
+      "speaker": "Loran",
+      "en": "If only I had been piloting it, this wouldn't have happened...",
+      "display_variant": "en",
+      "display_text": "「If only I had been piloting it, this\nwouldn't have happened...」"
+    },
+    {
+      "id": "c24_050d0",
+      "speaker": "Harry",
+      "en": "The Turn A can be repaired. Right now, focus on the enemy in front of us.",
+      "display_variant": "en",
+      "display_text": "「The Turn A can be repaired. Right now,\nfocus on the enemy in front of us.」"
+    },
+    {
+      "id": "c24_05110",
+      "speaker": "Bright",
+      "en": "All units, intercept the unmanned unit swarm! Shoot them down and gather whatever information we can!",
+      "display_variant": "fit",
+      "display_text": "「All units, intercept the unmanned swarm!\nShoot them down and gather what info we\ncan!」"
+    },
+    {
+      "id": "c24_05170",
+      "speaker": "Quattro",
+      "en": "Reports from the fighting all over the world confirm the enemy has considerable combat strength.",
+      "display_variant": "fit",
+      "display_text": "「Reports from fighting worldwide confirm\nthe enemy has considerable combat\nstrength.」"
+    },
+    {
+      "id": "c24_051d0",
+      "speaker": "Quattro",
+      "en": "Don't let your guard down just because they're unmanned.",
+      "display_variant": "en",
+      "display_text": "「Don't let your guard down just because\nthey're unmanned.」"
+    },
+    {
+      "id": "c24_05200",
+      "speaker": "Kamille",
+      "en": "Understood...!",
+      "display_variant": "en",
+      "display_text": "「Understood...!」"
+    },
+    {
+      "id": "c24_05220",
+      "speaker": "Shinn",
+      "en": "I won't let the likes of them do as they please with this world!",
+      "display_variant": "en",
+      "display_text": "「I won't let the likes of them do as\nthey please with this world!」"
+    },
+    {
+      "id": "c24_05260",
+      "speaker": "Dianna",
+      "en": "$c, begin the attack...! Strike down the ghosts of the Black History and restore peace to the world!",
+      "display_variant": "fit",
+      "display_text": "「$c, attack...! Strike down the Black\nHistory's ghosts and restore peace to the\nworld!」"
+    },
+    {
+      "id": "c24_052c0",
+      "speaker": "Saegusa",
+      "en": "Confirmed -- the enemy force has been wiped out.",
+      "display_variant": "en",
+      "display_text": "「Confirmed -- the enemy force has been\nwiped out.」"
+    },
+    {
+      "id": "c24_052f0",
+      "speaker": "Bright",
+      "en": "Any bio-signs in the area? There might be someone controlling the unmanned units.",
+      "display_variant": "en",
+      "display_text": "「Any bio-signs in the area? There might\nbe someone controlling the unmanned units.」"
+    },
+    {
+      "id": "c24_05350",
+      "speaker": "Torres",
+      "en": "We couldn't confirm anything like that.",
+      "display_variant": "en",
+      "display_text": "「We couldn't confirm anything like that.」"
+    },
+    {
+      "id": "c24_05390",
+      "speaker": "Murrue",
+      "en": "So they really are acting autonomously, rather than being controlled by someone.",
+      "display_variant": "en",
+      "display_text": "「So they really are acting autonomously,\nrather than being controlled by someone.」"
+    },
+    {
+      "id": "c24_053f0",
+      "speaker": "Waltfeld",
+      "en": "But setting the combat aside, someone may well have set their attack targets.",
+      "display_variant": "en",
+      "display_text": "「But setting the combat aside, someone\nmay well have set their attack targets.」"
+    },
+    {
+      "id": "c24_05450",
+      "speaker": "Sara",
+      "en": "Then why did the unmanned unit swarm attack the base where we are?",
+      "display_variant": "en",
+      "display_text": "「Then why did the unmanned unit swarm\nattack the base where we are?」"
+    },
+    {
+      "id": "c24_054a0",
+      "speaker": "Jamil",
+      "en": "There's no Mountain Cycle anywhere near this base.",
+      "display_variant": "en",
+      "display_text": "「There's no Mountain Cycle anywhere near\nthis base.」"
+    },
+    {
+      "id": "c24_054f0",
+      "speaker": "Amuro",
+      "en": "So this wasn't just a chance encounter after waking from the ruins -- there was some kind of intent behind it...",
+      "display_variant": "fit",
+      "display_text": "「So this wasn't a chance encounter\nafter waking from the ruins -- there was\nsome intent behind it...」"
+    },
+    {
+      "id": "c24_05550",
+      "speaker": "Loran",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c24_05570",
+      "speaker": "Garrod",
+      "en": "What's wrong, Loran?",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Loran?」"
+    },
+    {
+      "id": "c24_05590",
+      "speaker": "Loran",
+      "en": "I think that unmanned unit was targeting the Turn A.",
+      "display_variant": "en",
+      "display_text": "「I think that unmanned unit was\ntargeting the Turn A.」"
+    },
+    {
+      "id": "c24_055d0",
+      "speaker": "Sochie",
+      "en": "What do you mean...?",
+      "display_variant": "en",
+      "display_text": "「What do you mean...?」"
+    },
+    {
+      "id": "c24_055f0",
+      "speaker": "Loran",
+      "en": "Probably to draw the Turn A over to their side...",
+      "display_variant": "en",
+      "display_text": "「Probably to draw the Turn A over to\ntheir side...」"
+    },
+    {
+      "id": "c24_05630",
+      "speaker": "Jamil",
+      "en": "So their goal is the Moonlight Butterfly System...",
+      "display_variant": "en",
+      "display_text": "「So their goal is the Moonlight Butterfly\nSystem...」"
+    },
+    {
+      "id": "c24_05660",
+      "speaker": "Amuro",
+      "en": "That would explain the rampage at Vicinity that Loran reported too...",
+      "display_variant": "en",
+      "display_text": "「That would explain the rampage at\nVicinity that Loran reported too...」"
+    },
+    {
+      "id": "c24_056b0",
+      "speaker": "Loran",
+      "en": "(Turn A... what exactly are you? In the age of the Black History... what happened to you...)",
+      "display_variant": "en",
+      "display_text": "（(Turn A... what exactly are you? In\nthe age of the Black History... what\nhappened to you...)）"
+    },
+    {
+      "id": "c24_05710",
+      "speaker": "Meyrin",
+      "en": "Captain... there's a unit approaching us.",
+      "display_variant": "en",
+      "display_text": "「Captain... there's a unit approaching us.」"
+    },
+    {
+      "id": "c24_05750",
+      "speaker": "Waltfeld",
+      "en": "A new enemy...!?",
+      "display_variant": "en",
+      "display_text": "「A new enemy...!?」"
+    },
+    {
+      "id": "c24_05770",
+      "speaker": "Tiffa",
+      "en": "No. This is...",
+      "display_variant": "en",
+      "display_text": "「No. This is...」"
+    },
+    {
+      "id": "c24_057a0",
+      "speaker": "Garrod",
+      "en": "Daitarn 3 and the Big O! And the Assault Aquarion!",
+      "display_variant": "en",
+      "display_text": "「Daitarn 3 and the Big O! And the\nAssault Aquarion!」"
+    },
+    {
+      "id": "c24_057f0",
+      "speaker": "Apollo",
+      "en": "Heh... long time no see, you guys.",
+      "display_variant": "en",
+      "display_text": "「Heh... long time no see, you guys.」"
+    },
+    {
+      "id": "c24_05820",
+      "speaker": "Shinn",
+      "en": "Apollo's piloting the Assault Aquarion?",
+      "display_variant": "en",
+      "display_text": "「Apollo's piloting the Assault Aquarion?」"
+    },
+    {
+      "id": "c24_05860",
+      "speaker": "Pierre",
+      "en": "No... these two are just tagging along.",
+      "display_variant": "en",
+      "display_text": "「No... these two are just tagging along.」"
+    },
+    {
+      "id": "c24_058a0",
+      "speaker": "Silvia",
+      "en": "Aquarion was lost in the Spacetime Restoration, after all.",
+      "display_variant": "en",
+      "display_text": "「Aquarion was lost in the Spacetime\nRestoration, after all.」"
+    },
+    {
+      "id": "c24_058f0",
+      "speaker": "Sirius",
+      "en": "Unfortunately, DEAVA's combat strength is down to just the one Assault unit now.",
+      "display_variant": "en",
+      "display_text": "「Unfortunately, DEAVA's combat strength\nis down to just the one Assault unit now.」"
+    },
+    {
+      "id": "c24_05940",
+      "speaker": "Apollo",
+      "en": "But we're still in this fight. We can't let anyone trash the world we all worked so hard to protect.",
+      "display_variant": "fit",
+      "display_text": "「But we're still in this. We can't let\nanyone trash the world we worked so hard\nto protect.」"
+    },
+    {
+      "id": "c24_059b0",
+      "speaker": "Garrod",
+      "en": "Guess some things never change -- still a wild child, huh.",
+      "display_variant": "en",
+      "display_text": "「Guess some things never change -- still\na wild child, huh.」"
+    },
+    {
+      "id": "c24_059f0",
+      "speaker": "Quattro",
+      "en": "Banjo... if you've joined us, does that mean you've learned something about the mysterious enemy?",
+      "display_variant": "fit",
+      "display_text": "「Banjo... if you've joined us, did you\nlearn something about the mysterious\nenemy?」"
+    },
+    {
+      "id": "c24_05a40",
+      "speaker": "Banjo",
+      "en": "We've grasped at least a fragment of it.",
+      "display_variant": "en",
+      "display_text": "「We've grasped at least a fragment of\nit.」"
+    },
+    {
+      "id": "c24_05a70",
+      "speaker": "Roger",
+      "en": "Let's rendezvous with the Gallia group first. We'll go into detail there.",
+      "display_variant": "en",
+      "display_text": "「Let's rendezvous with the Gallia group\nfirst. We'll go into detail there.」"
+    },
+    {
+      "id": "c24_05ac0",
+      "speaker": "Jamil",
+      "en": "But with no idea how the enemy will move, it's dangerous to shift our forces carelessly.",
+      "display_variant": "en",
+      "display_text": "「But with no idea how the enemy will\nmove, it's dangerous to shift our forces\ncarelessly.」"
+    },
+    {
+      "id": "c24_05b20",
+      "speaker": "Banjo",
+      "en": "No... we've located the enemy's stronghold. We can rendezvous with the Gallia group on the way there.",
+      "display_variant": "fit",
+      "display_text": "「No... we've found the enemy's\nstronghold. We can rendezvous with the\nGallia group en route.」"
+    },
+    {
+      "id": "c24_05b80",
+      "speaker": "Quattro",
+      "en": "The enemy's stronghold... where is it?",
+      "display_variant": "en",
+      "display_text": "「The enemy's stronghold... where is it?」"
+    },
+    {
+      "id": "c24_05bb0",
+      "speaker": "Roger",
+      "en": "The land of the rising sun... A place called Yapan.",
+      "display_variant": "en",
+      "display_text": "「The land of the rising sun... A place\ncalled Yapan.」"
+    },
+    {
+      "id": "c24_05bf0",
+      "speaker": "$n",
+      "en": "Yapan... Japan...",
+      "display_variant": "en",
+      "display_text": "「Yapan... Japan...」"
+    },
+    {
+      "id": "c24_05c10",
+      "speaker": "Kamille",
+      "en": "This peace was won on the sacrifice of countless people...! I will protect it, no matter what!",
+      "display_variant": "fit",
+      "display_text": "「This peace cost countless lives...! I will\nprotect it, no matter what!」"
+    },
+    {
+      "id": "c24_05c60",
+      "speaker": "Kamille",
+      "en": "Anyone who wants war has no place left in this world!",
+      "display_variant": "en",
+      "display_text": "「Anyone who wants war has no place left\nin this world!」"
+    },
+    {
+      "id": "c24_05ca0",
+      "speaker": "Quattro",
+      "en": "What's the point of a scheme this elaborate...?",
+      "display_variant": "en",
+      "display_text": "「What's the point of a scheme this\nelaborate...?」"
+    },
+    {
+      "id": "c24_05ce0",
+      "speaker": "Quattro",
+      "en": "What could they possibly gain from a show of force like this...!?",
+      "display_variant": "en",
+      "display_text": "「What could they possibly gain from a\nshow of force like this...!?」"
+    },
+    {
+      "id": "c24_05d20",
+      "speaker": "Amuro",
+      "en": "There's nothing more unsettling than an enemy whose intentions you can't read...!",
+      "display_variant": "en",
+      "display_text": "「There's nothing more unsettling than an\nenemy whose intentions you can't read...!」"
+    },
+    {
+      "id": "c24_05d60",
+      "speaker": "Amuro",
+      "en": "An enemy wielding relics of the Black History... just who are they...!?",
+      "display_variant": "en",
+      "display_text": "「An enemy wielding relics of the Black\nHistory... just who are they...!?」"
+    },
+    {
+      "id": "c24_05da0",
+      "speaker": "Loran",
+      "en": "Does the Turn A have the same system as these unmanned units too...?",
+      "display_variant": "en",
+      "display_text": "「Does the Turn A have the same system\nas these unmanned units too...?」"
+    },
+    {
+      "id": "c24_05df0",
+      "speaker": "Loran",
+      "en": "Why in the world would people from the age of the Black History have built in a system like that...!?",
+      "display_variant": "fit",
+      "display_text": "「Why would people from the Black History\nera have built in a system like that...!?」"
+    },
+    {
+      "id": "c24_05e50",
+      "speaker": "Shinn",
+      "en": "Whoever it is, if they want a war, I'll be their opponent...!",
+      "display_variant": "en",
+      "display_text": "「Whoever it is, if they want a war, I'll\nbe their opponent...!」"
+    },
+    {
+      "id": "c24_05e90",
+      "speaker": "Shinn",
+      "en": "This is the peace we finally won! Are you telling me you don't understand how much that's worth?!",
+      "display_variant": "en",
+      "display_text": "「This is the peace we finally won! Are\nyou telling me you don't understand how\nmuch that's worth?!」"
+    },
+    {
+      "id": "c24_05ef0",
+      "speaker": "Kira",
+      "en": "No matter how many times they're blown away, I'll keep planting flowers...",
+      "display_variant": "en",
+      "display_text": "「No matter how many times they're blown\naway, I'll keep planting flowers...」"
+    },
+    {
+      "id": "c24_05f30",
+      "speaker": "Kira",
+      "en": "If someone appears to steal our peace, I won't hesitate to fight anymore...! I have the resolve to fight too!",
+      "display_variant": "en",
+      "display_text": "「If someone appears to steal our peace,\nI won't hesitate to fight anymore...! I\nhave the resolve to fight too!」"
+    },
+    {
+      "id": "c24_05f90",
+      "speaker": "Garrod",
+      "en": "Just as Tiffa lends me her strength, I want to do something for the world too...!",
+      "display_variant": "en",
+      "display_text": "「Just as Tiffa lends me her strength, I\nwant to do something for the world too...!」"
+    },
+    {
+      "id": "c24_05ff0",
+      "speaker": "Garrod",
+      "en": "If someone comes to destroy a world where everyone can live and laugh, I'll be the one to face them!!",
+      "display_variant": "fit",
+      "display_text": "「If someone comes to destroy a world\nwhere all can live and laugh, I'll face\nthem!!」"
+    },
+    {
+      "id": "c24_06060",
+      "speaker": "Jamil",
+      "en": "Humanity is trying to move past its mistakes and step into the future...!",
+      "display_variant": "en",
+      "display_text": "「Humanity is trying to move past its\nmistakes and step into the future...!」"
+    },
+    {
+      "id": "c24_060b0",
+      "speaker": "Jamil",
+      "en": "If anyone appears to stand in the way of that, I won't hesitate to pull the trigger!",
+      "display_variant": "en",
+      "display_text": "「If anyone appears to stand in the way\nof that, I won't hesitate to pull the\ntrigger!」"
+    },
+    {
+      "id": "c24_06110",
+      "speaker": "Toby",
+      "en": "$n! We've got your back! Push forward!",
+      "display_variant": "en",
+      "display_text": "「$n! We've got your back! Push forward!」"
+    },
+    {
+      "id": "c24_06150",
+      "speaker": "$n",
+      "en": "Toby...",
+      "display_variant": "en",
+      "display_text": "「Toby...」"
+    },
+    {
+      "id": "c24_06160",
+      "speaker": "Denzel",
+      "en": "You're the ace of Glory Star...! I'm entrusting you with the pride of that glorious star!",
+      "display_variant": "en",
+      "display_text": "「You're the ace of Glory Star...! I'm\nentrusting you with the pride of that\nglorious star!」"
+    },
+    {
+      "id": "c24_061b0",
+      "speaker": "$n",
+      "en": "Understood, Chief...!",
+      "display_variant": "en",
+      "display_text": "「Understood, Chief...!」"
+    },
+    {
+      "id": "c24_061d0",
+      "speaker": "$n",
+      "en": "I'm not alone...! For the people who taught me that, and for their world...",
+      "display_variant": "en",
+      "display_text": "「I'm not alone...! For the people who\ntaught me that, and for their world...」"
+    },
+    {
+      "id": "c24_06230",
+      "speaker": "$n",
+      "en": "I will fight...! With duty and pride in my heart!!",
+      "display_variant": "en",
+      "display_text": "「I will fight...! With duty and pride in\nmy heart!!」"
+    },
+    {
+      "id": "c24_062b0",
+      "speaker": "Quattro",
+      "en": "Thank you all for gathering here. I appreciate your cooperation.",
+      "display_variant": "en",
+      "display_text": "「Thank you all for gathering here. I\nappreciate your cooperation.」"
+    },
+    {
+      "id": "c24_062f0",
+      "speaker": "Garrod",
+      "en": "No need for thanks, Lt. Quattro. This is a crisis for the whole world.",
+      "display_variant": "en",
+      "display_text": "「No need for thanks, Lt. Quattro. This\nis a crisis for the whole world.」"
+    },
+    {
+      "id": "c24_06340",
+      "speaker": "Roybea",
+      "en": "...Oh wait, aren't you not a Lieutenant anymore?",
+      "display_variant": "en",
+      "display_text": "「...Oh wait, aren't you not a Lieutenant\nanymore?」"
+    },
+    {
+      "id": "c24_06380",
+      "speaker": "Quattro",
+      "en": "It's fine. The New Earth Federation Forces still haven't sorted themselves out internally after the war.",
+      "display_variant": "fit",
+      "display_text": "「It's fine. The New Earth Federation\nForces still haven't sorted things out\ninternally since the war.」"
+    },
+    {
+      "id": "c24_063e0",
+      "speaker": "Quattro",
+      "en": "Even matters like the treatment of former AEUG personnel -- myself and Captain Bright included -- are still up in the air.",
+      "display_variant": "fit",
+      "display_text": "「Even our treatment as ex-AEUG members\n-- myself, Capt. Bright included -- is\nstill unsettled.」"
+    },
+    {
+      "id": "c24_06450",
+      "speaker": "Amuro",
+      "en": "That's why, for this particular incident, a unit that crosses organizational lines was called for, and we were the ones chosen.",
+      "display_variant": "fit",
+      "display_text": "「That's why this incident called for a\ncross-organization unit, and we were\nchosen.」"
+    },
+    {
+      "id": "c24_064c0",
+      "speaker": "Kamille",
+      "en": "A gathering of people beyond any organization or nation, a unit that can respond to any enemy...",
+      "display_variant": "fit",
+      "display_text": "「A gathering beyond any organization or\nnation, a unit that can respond to any\nenemy...」"
+    },
+    {
+      "id": "c24_06520",
+      "speaker": "Kira",
+      "en": "That really does describe $c perfectly.",
+      "display_variant": "en",
+      "display_text": "「That really does describe $c\nperfectly.」"
+    },
+    {
+      "id": "c24_06550",
+      "speaker": "Shinn",
+      "en": "So... how much do we actually know about that unmanned unit attack?",
+      "display_variant": "en",
+      "display_text": "「So... how much do we actually know\nabout that unmanned unit attack?」"
+    },
+    {
+      "id": "c24_065b0",
+      "speaker": "Bright",
+      "en": "We don't have exact figures on the damage yet, but...",
+      "display_variant": "en",
+      "display_text": "「We don't have exact figures on the\ndamage yet, but...」"
+    },
+    {
+      "id": "c24_06600",
+      "speaker": "Bright",
+      "en": "It was mostly destruction of facilities -- casualties were apparently very minimal.",
+      "display_variant": "en",
+      "display_text": "「It was mostly destruction of facilities\n-- casualties were apparently very\nminimal.」"
+    },
+    {
+      "id": "c24_06650",
+      "speaker": "Lunamaria",
+      "en": "Even after an attack that massive...!?",
+      "display_variant": "en",
+      "display_text": "「Even after an attack that massive...!?」"
+    },
+    {
+      "id": "c24_06690",
+      "speaker": "Jamil",
+      "en": "This attack was most likely some kind of show of force.",
+      "display_variant": "en",
+      "display_text": "「This attack was most likely some kind\nof show of force.」"
+    },
+    {
+      "id": "c24_066e0",
+      "speaker": "Athrun",
+      "en": "A demonstration meant to flaunt their strength...",
+      "display_variant": "en",
+      "display_text": "「A demonstration meant to flaunt their\nstrength...」"
+    },
+    {
+      "id": "c24_06730",
+      "speaker": "Bright",
+      "en": "And it's had an enormous effect. After all, the unmanned units' attacks reached every corner of the atmosphere.",
+      "display_variant": "fit",
+      "display_text": "「And the effect's huge. The unmanned\nunits' attacks reached every corner of\nthe atmosphere.」"
+    },
+    {
+      "id": "c24_06790",
+      "speaker": "Mu",
+      "en": "What I don't get is the areas that got hit... The pattern's all over the place.",
+      "display_variant": "en",
+      "display_text": "「What I don't get is the areas that got\nhit... The pattern's all over the place.」"
+    },
+    {
+      "id": "c24_06800",
+      "speaker": "Lancerow",
+      "en": "Hmm... it doesn't look like densely populated areas or military facilities were specifically targeted.",
+      "display_variant": "fit",
+      "display_text": "「Hmm... densely populated areas and\nmilitary facilities don't seem to have\nbeen specifically targeted.」"
+    },
+    {
+      "id": "c24_06860",
+      "speaker": "Sara",
+      "en": "On that point, I'd like you to refer to a matter the New Federation Forces have been investigating since the previous war.",
+      "display_variant": "fit",
+      "display_text": "「On that, please refer to a matter the\nNew Federation Forces have investigated\nsince the last war.」"
+    },
+    {
+      "id": "c24_068c0",
+      "speaker": "Sara",
+      "en": "First, please take a look at this.",
+      "display_variant": "en",
+      "display_text": "「First, please take a look at this.」"
+    },
+    {
+      "id": "c24_068f0",
+      "speaker": "Murrue",
+      "en": "This is... a map of the current multiverse, isn't it? What do the marks all over it mean?",
+      "display_variant": "en",
+      "display_text": "「This is... a map of the current\nmultiverse, isn't it? What do the marks\nall over it mean?」"
+    },
+    {
+      "id": "c24_06940",
+      "speaker": "Jamil",
+      "en": "Those are the locations targeted in this attack.",
+      "display_variant": "en",
+      "display_text": "「Those are the locations targeted in\nthis attack.」"
+    },
+    {
+      "id": "c24_06970",
+      "speaker": "Yzak",
+      "en": "Seeing it on a map like this really shows how the whole world was targeted at once.",
+      "display_variant": "en",
+      "display_text": "「Seeing it on a map like this really\nshows how the whole world was targeted\nat once.」"
+    },
+    {
+      "id": "c24_069d0",
+      "speaker": "Waltfeld",
+      "en": "Still... deploying forces across the entire world takes some incredible organizational power.",
+      "display_variant": "en",
+      "display_text": "「Still... deploying forces across the\nentire world takes some incredible\norganizational power.」"
+    },
+    {
+      "id": "c24_06a30",
+      "speaker": "Sara",
+      "en": "I'll overlay this damage map with the New Federation Forces' data I mentioned earlier.",
+      "display_variant": "en",
+      "display_text": "「I'll overlay this damage map with the\nNew Federation Forces' data I mentioned\nearlier.」"
+    },
+    {
+      "id": "c24_06a70",
+      "speaker": "Kamille",
+      "en": "The marks line up almost perfectly...",
+      "display_variant": "en",
+      "display_text": "「The marks line up almost perfectly...」"
+    },
+    {
+      "id": "c24_06aa0",
+      "speaker": "Sara",
+      "en": "That's right. There's been some change in terrain from the Spacetime Restoration, but the two match up almost exactly.",
+      "display_variant": "fit",
+      "display_text": "「That's right. Terrain has shifted some\nfrom the Spacetime Restoration, but the\ntwo match almost exactly.」"
+    },
+    {
+      "id": "c24_06b00",
+      "speaker": "Shinn",
+      "en": "What exactly was the Federation investigating? What was at the places that got hit?",
+      "display_variant": "en",
+      "display_text": "「What exactly was the Federation\ninvestigating? What was at the places\nthat got hit?」"
+    },
+    {
+      "id": "c24_06b60",
+      "speaker": "Jamil",
+      "en": "What the New Federation Forces were investigating were sites believed to be Black History ruins.",
+      "display_variant": "en",
+      "display_text": "「What the New Federation Forces were\ninvestigating were sites believed to be\nBlack History ruins.」"
+    },
+    {
+      "id": "c24_06bb0",
+      "speaker": "Loran",
+      "en": "What...!",
+      "display_variant": "en",
+      "display_text": "「What...!」"
+    },
+    {
+      "id": "c24_06bd0",
+      "speaker": "Joseph",
+      "en": "You mean a Mountain Cycle...",
+      "display_variant": "en",
+      "display_text": "「You mean a Mountain Cycle...」"
+    },
+    {
+      "id": "c24_06c00",
+      "speaker": "Jamil",
+      "en": "That's right. This attack occurred near locations believed to be Mountain Cycles.",
+      "display_variant": "en",
+      "display_text": "「That's right. This attack occurred near\nlocations believed to be Mountain Cycles.」"
+    },
+    {
+      "id": "c24_06c70",
+      "speaker": "Garrod",
+      "en": "So the enemy was after the Black History ruins?",
+      "display_variant": "en",
+      "display_text": "「So the enemy was after the Black\nHistory ruins?」"
+    },
+    {
+      "id": "c24_06cb0",
+      "speaker": "Bright",
+      "en": "That doesn't seem to be the case.",
+      "display_variant": "en",
+      "display_text": "「That doesn't seem to be the case.」"
+    },
+    {
+      "id": "c24_06cd0",
+      "speaker": "Quattro",
+      "en": "Piecing together the few eyewitness accounts we have, it seems the unmanned units that attacked the cities emerged from the Black History ruins.",
+      "display_variant": "fit",
+      "display_text": "「The few eyewitness accounts suggest\nthe unmanned units hitting cities came\nfrom the Black History ruins.」"
+    },
+    {
+      "id": "c24_06d40",
+      "speaker": "Pala",
+      "en": "Huh!?",
+      "display_variant": "en",
+      "display_text": "「Huh!?」"
+    },
+    {
+      "id": "c24_06d60",
+      "speaker": "Witz",
+      "en": "For real...? That's...",
+      "display_variant": "en",
+      "display_text": "「For real...? That's...」"
+    },
+    {
+      "id": "c24_06d90",
+      "speaker": "Kamille",
+      "en": "But if that's true, it would explain the reckless strategy of deploying forces all over the world at once.",
+      "display_variant": "fit",
+      "display_text": "「If true, that'd explain the reckless\nstrategy of deploying forces worldwide at\nonce.」"
+    },
+    {
+      "id": "c24_06df0",
+      "speaker": "Amuro",
+      "en": "Right. Whoever orchestrated this didn't dispatch forces to locations all over the world...",
+      "display_variant": "en",
+      "display_text": "「Right. Whoever orchestrated this didn't\ndispatch forces to locations all over the\nworld...」"
+    },
+    {
+      "id": "c24_06e50",
+      "speaker": "Amuro",
+      "en": "They awakened the Black History relics sleeping in each of those places and had them attack the surrounding area.",
+      "display_variant": "fit",
+      "display_text": "「They woke the Black History relics\nsleeping there and had them attack the\narea.」"
+    },
+    {
+      "id": "c24_06ea0",
+      "speaker": "Shinn",
+      "en": "But who could even do something like that...? How did they activate unmanned units sleeping in the ruins...!?",
+      "display_variant": "fit",
+      "display_text": "「But who could do something like that...?\nHow did they activate unmanned units\nsleeping in the ruins...!?」"
+    },
+    {
+      "id": "c24_06f10",
+      "speaker": "Shinn",
+      "en": "And for what purpose, exactly...!?",
+      "display_variant": "en",
+      "display_text": "「And for what purpose, exactly...!?」"
+    },
+    {
+      "id": "c24_06f40",
+      "speaker": "Kira",
+      "en": "Calm down, Shinn. That's probably exactly why we were called in -- to find out.",
+      "display_variant": "en",
+      "display_text": "「Calm down, Shinn. That's probably\nexactly why we were called in -- to find\nout.」"
+    },
+    {
+      "id": "c24_06f90",
+      "speaker": "Bright",
+      "en": "That's right. We understand the enemy's movements, but their identity and purpose remain unknown.",
+      "display_variant": "fit",
+      "display_text": "「That's right. We understand the enemy's\nmovements, but their identity and purpose\nstay unknown.」"
+    },
+    {
+      "id": "c24_06ff0",
+      "speaker": "Jamil",
+      "en": "On top of that, we've lost track of the unmanned unit swarm that withdrew.",
+      "display_variant": "en",
+      "display_text": "「On top of that, we've lost track of\nthe unmanned unit swarm that withdrew.」"
+    },
+    {
+      "id": "c24_07040",
+      "speaker": "Carris",
+      "en": "Being unmanned, once you lose track of them, finding them again will be difficult.",
+      "display_variant": "en",
+      "display_text": "「Being unmanned, once you lose track of\nthem, finding them again will be difficult.」"
+    },
+    {
+      "id": "c24_07090",
+      "speaker": "Katz",
+      "en": "There's so much we don't know... I have no idea where to even start.",
+      "display_variant": "en",
+      "display_text": "「There's so much we don't know... I have\nno idea where to even start.」"
+    },
+    {
+      "id": "c24_070f0",
+      "speaker": "Quattro",
+      "en": "The one clue we have lies in the unmanned units themselves.",
+      "display_variant": "en",
+      "display_text": "「The one clue we have lies in the\nunmanned units themselves.」"
+    },
+    {
+      "id": "c24_07130",
+      "speaker": "Ennil",
+      "en": "For relics of the Black History, there sure were a lot of different types.",
+      "display_variant": "en",
+      "display_text": "「For relics of the Black History, there\nsure were a lot of different types.」"
+    },
+    {
+      "id": "c24_07170",
+      "speaker": "Roybea",
+      "en": "And they belonged to all the various organizations we've fought.",
+      "display_variant": "en",
+      "display_text": "「And they belonged to all the various\norganizations we've fought.」"
+    },
+    {
+      "id": "c24_071c0",
+      "speaker": "Roybea",
+      "en": "This makes it feel real that some $c's fight, somewhere, that we saw at D.O.M.E., is what set off the Black History.",
+      "display_variant": "fit",
+      "display_text": "「Makes it feel real that some $c's\nfight we saw at D.O.M.E. is what set off\nthe Black History.」"
+    },
+    {
+      "id": "c24_07230",
+      "speaker": "Quattro",
+      "en": "But that swarm of unmanned units does share one thing in common -- the control system in their frames.",
+      "display_variant": "fit",
+      "display_text": "「But that swarm of unmanned units\nshares one thing -- the control system\nin their frames.」"
+    },
+    {
+      "id": "c24_07280",
+      "speaker": "Emma",
+      "en": "A control system...? Something like an autopilot function?",
+      "display_variant": "en",
+      "display_text": "「A control system...? Something like an\nautopilot function?」"
+    },
+    {
+      "id": "c24_072d0",
+      "speaker": "Quattro",
+      "en": "That's right. The unmanned units aren't operating under outside control -- they're running on an autonomous system.",
+      "display_variant": "fit",
+      "display_text": "「That's right. The unmanned units aren't\noutside-controlled -- they run on an\nautonomous system.」"
+    },
+    {
+      "id": "c24_07340",
+      "speaker": "Quattro",
+      "en": "And analysis of the wreckage from the ones we shot down revealed that every single unit is equipped with the same system.",
+      "display_variant": "fit",
+      "display_text": "「Wreckage analysis showed every unit we\ndowned carries the same system.」"
+    },
+    {
+      "id": "c24_073b0",
+      "speaker": "Kira",
+      "en": "Then...",
+      "display_variant": "en",
+      "display_text": "「Then...」"
+    },
+    {
+      "id": "c24_073c0",
+      "speaker": "Amuro",
+      "en": "The mastermind most likely used some method to activate every unit's system simultaneously.",
+      "display_variant": "en",
+      "display_text": "「The mastermind most likely used some\nmethod to activate every unit's system\nsimultaneously.」"
+    },
+    {
+      "id": "c24_07420",
+      "speaker": "Garrod",
+      "en": "And that's what attacked the cities...!",
+      "display_variant": "en",
+      "display_text": "「And that's what attacked the cities...!」"
+    },
+    {
+      "id": "c24_07450",
+      "speaker": "Amuro",
+      "en": "We're still investigating the exact mechanism, but one word kept coming up while we were analyzing the system.",
+      "display_variant": "fit",
+      "display_text": "「We're still investigating the mechanism,\nbut one word kept coming up while\nanalyzing the system.」"
+    },
+    {
+      "id": "c24_074b0",
+      "speaker": "Quattro",
+      "en": "Executor... We believe that's likely the system's name.",
+      "display_variant": "en",
+      "display_text": "「Executor... We believe that's likely the\nsystem's name.」"
+    },
+    {
+      "id": "c24_07500",
+      "speaker": "Shinn",
+      "en": "The Executor... System.",
+      "display_variant": "en",
+      "display_text": "「The Executor... System.」"
+    },
+    {
+      "id": "c24_07520",
+      "speaker": "Athrun",
+      "en": "An enforcer... huh.",
+      "display_variant": "en",
+      "display_text": "「An enforcer... huh.」"
+    },
+    {
+      "id": "c24_07540",
+      "speaker": "Loran",
+      "en": "(Is that why the Turn A started moving on its own too -- because it has that system installed...?)",
+      "display_variant": "en",
+      "display_text": "（(Is that why the Turn A started\nmoving on its own too -- because it has\nthat system installed...?)）"
+    },
+    {
+      "id": "c24_075a0",
+      "speaker": "Toniya",
+      "en": "But why would a system like that be buried in the ruins...?",
+      "display_variant": "en",
+      "display_text": "「But why would a system like that be\nburied in the ruins...?」"
+    },
+    {
+      "id": "c24_075f0",
+      "speaker": "Sara",
+      "en": "That part remains a complete mystery. There's no precedent for anything similar.",
+      "display_variant": "en",
+      "display_text": "「That part remains a complete mystery.\nThere's no precedent for anything similar.」"
+    },
+    {
+      "id": "c24_07640",
+      "speaker": "Kamille",
+      "en": "The Black History... Is it going to cast its shadow over the world again?",
+      "display_variant": "en",
+      "display_text": "「The Black History... Is it going to cast\nits shadow over the world again?」"
+    },
+    {
+      "id": "c24_07680",
+      "speaker": "Dianna",
+      "en": "With D.O.M.E. now asleep, there's no way to confirm what really happened back then.",
+      "display_variant": "en",
+      "display_text": "「With D.O.M.E. now asleep, there's no way\nto confirm what really happened back\nthen.」"
+    },
+    {
+      "id": "c24_076e0",
+      "speaker": "Mu",
+      "en": "So there's simply no way to investigate the true nature of the Executor System.",
+      "display_variant": "en",
+      "display_text": "「So there's simply no way to investigate\nthe true nature of the Executor System.」"
+    },
+    {
+      "id": "c24_07730",
+      "speaker": "Lacus",
+      "en": "Getting to the truth of this matters, but let's focus first on protecting people.",
+      "display_variant": "en",
+      "display_text": "「Getting to the truth of this matters,\nbut let's focus first on protecting\npeople.」"
+    },
+    {
+      "id": "c24_07780",
+      "speaker": "Jamil",
+      "en": "For now, we'll track the unmanned unit swarm, and if another attack occurs, we'll work with local forces to intercept them.",
+      "display_variant": "fit",
+      "display_text": "「For now, we'll track the unmanned\nswarm; if they attack again, we'll\nintercept with local forces.」"
+    },
+    {
+      "id": "c24_07800",
+      "speaker": "Shinn",
+      "en": "Damn it... $c's been reformed and we still don't have a move to make...!",
+      "display_variant": "en",
+      "display_text": "「Damn it... $c's been reformed and we\nstill don't have a move to make...!」"
+    },
+    {
+      "id": "c24_07840",
+      "speaker": "Kira",
+      "en": "Shinn...",
+      "display_variant": "en",
+      "display_text": "「Shinn...」"
+    },
+    {
+      "id": "c24_07850",
+      "speaker": "Athrun",
+      "en": "Calm down. Us getting worked up won't change anything.",
+      "display_variant": "en",
+      "display_text": "「Calm down. Us getting worked up won't\nchange anything.」"
+    },
+    {
+      "id": "c24_07890",
+      "speaker": "Shinn",
+      "en": "I know. But... I want to do something about it.",
+      "display_variant": "en",
+      "display_text": "「I know. But... I want to do something\nabout it.」"
+    },
+    {
+      "id": "c24_078d0",
+      "speaker": "Shinn",
+      "en": "So much happened in the last war... I met all kinds of people, and said goodbye to them too...",
+      "display_variant": "en",
+      "display_text": "「So much happened in the last war... I\nmet all kinds of people, and said goodbye\nto them too...」"
+    },
+    {
+      "id": "c24_07920",
+      "speaker": "Shinn",
+      "en": "I swore to those people that I'd build a future for them...",
+      "display_variant": "en",
+      "display_text": "「I swore to those people that I'd build\na future for them...」"
+    },
+    {
+      "id": "c24_07960",
+      "speaker": "Kira",
+      "en": "Everyone... is just like you.",
+      "display_variant": "en",
+      "display_text": "「Everyone... is just like you.」"
+    },
+    {
+      "id": "c24_07980",
+      "speaker": "Kamille",
+      "en": "I know, Shinn. All of us feel exactly the same way.",
+      "display_variant": "en",
+      "display_text": "「I know, Shinn. All of us feel exactly\nthe same way.」"
+    },
+    {
+      "id": "c24_079d0",
+      "speaker": "Four",
+      "en": "I found a reason to live too, after meeting Kamille.",
+      "display_variant": "en",
+      "display_text": "「I found a reason to live too, after\nmeeting Kamille.」"
+    },
+    {
+      "id": "c24_07a10",
+      "speaker": "Four",
+      "en": "That's why I want to fight. I don't want to watch any more lives get taken away.",
+      "display_variant": "en",
+      "display_text": "「That's why I want to fight. I don't\nwant to watch any more lives get taken\naway.」"
+    },
+    {
+      "id": "c24_07a60",
+      "speaker": "Fa",
+      "en": "Four...",
+      "display_variant": "en",
+      "display_text": "「Four...」"
+    },
+    {
+      "id": "c24_07a80",
+      "speaker": "Kamille",
+      "en": "Everyone here feels the same way -- that's why we're here, carrying the feelings of so many people.",
+      "display_variant": "fit",
+      "display_text": "「Everyone here feels the same -- that's\nwhy we're here, carrying so many people's\nfeelings.」"
+    },
+    {
+      "id": "c24_07ae0",
+      "speaker": "Shinn",
+      "en": "Yeah...!",
+      "display_variant": "en",
+      "display_text": "「Yeah...!」"
+    },
+    {
+      "id": "c24_07b00",
+      "speaker": "Lacus",
+      "en": "For the sake of those who fought with their lives on the line, believing in tomorrow, we must protect the future.",
+      "display_variant": "fit",
+      "display_text": "「For those who fought with their lives\non the line, believing in tomorrow, we\nmust protect the future.」"
+    },
+    {
+      "id": "c24_07b70",
+      "speaker": "Kira",
+      "en": "Let's fight for this world, and for everyone living in it.",
+      "display_variant": "en",
+      "display_text": "「Let's fight for this world, and for\neveryone living in it.」"
+    },
+    {
+      "id": "c24_07bb0",
+      "speaker": "Corin",
+      "en": "Lady Dianna...! We've just arrived from the Moon.",
+      "display_variant": "en",
+      "display_text": "「Lady Dianna...! We've just arrived from\nthe Moon.」"
+    },
+    {
+      "id": "c24_07bf0",
+      "speaker": "Dianna",
+      "en": "Corin Nander, thank you for coming.",
+      "display_variant": "en",
+      "display_text": "「Corin Nander, thank you for coming.」"
+    },
+    {
+      "id": "c24_07c30",
+      "speaker": "Harry",
+      "en": "Harry Ord, Corin Nander, Poe Aijee... joining $c.",
+      "display_variant": "en",
+      "display_text": "「Harry Ord, Corin Nander, Poe Aijee...\njoining $c.」"
+    },
+    {
+      "id": "c24_07c80",
+      "speaker": "Dianna",
+      "en": "Well done, Harry. And...",
+      "display_variant": "en",
+      "display_text": "「Well done, Harry. And...」"
+    },
+    {
+      "id": "c24_07cb0",
+      "speaker": "Sochie",
+      "en": "Sister!",
+      "display_variant": "en",
+      "display_text": "「Sister!」"
+    },
+    {
+      "id": "c24_07cd0",
+      "speaker": "Kihel",
+      "en": "Sochie... I'm glad you're safe.",
+      "display_variant": "en",
+      "display_text": "「Sochie... I'm glad you're safe.」"
+    },
+    {
+      "id": "c24_07d00",
+      "speaker": "Dianna",
+      "en": "I've been waiting for you, Kihel Heim.",
+      "display_variant": "en",
+      "display_text": "「I've been waiting for you, Kihel Heim.」"
+    },
+    {
+      "id": "c24_07d30",
+      "speaker": "Kihel",
+      "en": "Lady Dianna, I've brought the Soleil.",
+      "display_variant": "en",
+      "display_text": "「Lady Dianna, I've brought the Soleil.」"
+    },
+    {
+      "id": "c24_07d70",
+      "speaker": "Dianna",
+      "en": "Thank you. For a short while, allow me to become Dianna again.",
+      "display_variant": "en",
+      "display_text": "「Thank you. For a short while, allow me\nto become Dianna again.」"
+    },
+    {
+      "id": "c24_07dd0",
+      "speaker": "Dianna",
+      "en": "But if anything should happen to me, then I would ask you to take the seat of Dianna...",
+      "display_variant": "en",
+      "display_text": "「But if anything should happen to me,\nthen I would ask you to take the seat of\nDianna...」"
+    },
+    {
+      "id": "c24_07e30",
+      "speaker": "Harry",
+      "en": "Lady Dianna...",
+      "display_variant": "en",
+      "display_text": "「Lady Dianna...」"
+    },
+    {
+      "id": "c24_07e50",
+      "speaker": "Kihel",
+      "en": "Please, don't think such ominous thoughts.",
+      "display_variant": "en",
+      "display_text": "「Please, don't think such ominous\nthoughts.」"
+    },
+    {
+      "id": "c24_07e80",
+      "speaker": "Kihel",
+      "en": "Please fight to live. If you're fighting to protect the world, then your own life matters just as much.",
+      "display_variant": "fit",
+      "display_text": "「Please fight to live. If you fight to\nprotect the world, your own life matters\njust as much.」"
+    },
+    {
+      "id": "c24_07f00",
+      "speaker": "Dianna",
+      "en": "Kihel Heim, you always teach me something.",
+      "display_variant": "en",
+      "display_text": "「Kihel Heim, you always teach me\nsomething.」"
+    },
+    {
+      "id": "c24_07f40",
+      "speaker": "Dianna",
+      "en": "Very well, then... I go into this battle as Dianna.",
+      "display_variant": "en",
+      "display_text": "「Very well, then... I go into this battle\nas Dianna.」"
+    },
+    {
+      "id": "c24_07f90",
+      "speaker": "Dianna",
+      "en": "Once this battle is over, please allow me to live as an Earthling for just a little longer.",
+      "display_variant": "en",
+      "display_text": "「Once this battle is over, please allow\nme to live as an Earthling for just a\nlittle longer.」"
+    },
+    {
+      "id": "c24_07ff0",
+      "speaker": "Kihel",
+      "en": "Understood, Lady Dianna. I'll be waiting for your safe return.",
+      "display_variant": "en",
+      "display_text": "「Understood, Lady Dianna. I'll be waiting\nfor your safe return.」"
+    },
+    {
+      "id": "c24_08040",
+      "speaker": "Kihel",
+      "en": "Captain Harry... please fulfill your duty as Captain of the Royal Guard.",
+      "display_variant": "en",
+      "display_text": "「Captain Harry... please fulfill your duty\nas Captain of the Royal Guard.」"
+    },
+    {
+      "id": "c24_08080",
+      "speaker": "Harry",
+      "en": "Understood. I will protect Lady Dianna, no matter what.",
+      "display_variant": "en",
+      "display_text": "「Understood. I will protect Lady Dianna,\nno matter what.」"
+    },
+    {
+      "id": "c24_080c0",
+      "speaker": "Dianna",
+      "en": "I'm counting on you, Harry.",
+      "display_variant": "en",
+      "display_text": "「I'm counting on you, Harry.」"
+    },
+    {
+      "id": "c24_080e0",
+      "speaker": "Denzel",
+      "en": "So this is $c...",
+      "display_variant": "en",
+      "display_text": "「So this is $c...」"
+    },
+    {
+      "id": "c24_08100",
+      "speaker": "Toby",
+      "en": "Battle-hardened warriors bound together by trust, huh. Every last one of them's got quite the look on their face.",
+      "display_variant": "fit",
+      "display_text": "「Battle-hardened warriors bound by\ntrust, huh. Every one of them's got quite\nthe look on their face.」"
+    },
+    {
+      "id": "c24_08160",
+      "speaker": "$n",
+      "en": "Yes... Everyone here carries a sense of duty and pride.",
+      "display_variant": "en",
+      "display_text": "「Yes... Everyone here carries a sense of\nduty and pride.」"
+    },
+    {
+      "id": "c24_081a0",
+      "speaker": "Toby",
+      "en": "You sure it's alright for half-baked outfits like us to mix into such a glorious unit, $l?",
+      "display_variant": "en",
+      "display_text": "「You sure it's alright for half-baked\noutfits like us to mix into such a\nglorious unit, $l?」"
+    },
+    {
+      "id": "c24_08200",
+      "speaker": "Denzel",
+      "en": "Cut that talk out, Toby. Whatever the circumstances, we're a team now.",
+      "display_variant": "en",
+      "display_text": "「Cut that talk out, Toby. Whatever the\ncircumstances, we're a team now.」"
+    },
+    {
+      "id": "c24_08260",
+      "speaker": "Toby",
+      "en": "That's what you say, Chief, but we're stand-ins.",
+      "display_variant": "en",
+      "display_text": "「That's what you say, Chief, but we're\nstand-ins.」"
+    },
+    {
+      "id": "c24_082a0",
+      "speaker": "$n",
+      "en": "Stand-ins...?",
+      "display_variant": "en",
+      "display_text": "「Stand-ins...?」"
+    },
+    {
+      "id": "c24_082b0",
+      "speaker": "Toby",
+      "en": "Isn't that right, $l? Your world's Glory Star and the two of us...",
+      "display_variant": "en",
+      "display_text": "「Isn't that right, $l? Your world's\nGlory Star and the two of us...」"
+    },
+    {
+      "id": "c24_08300",
+      "speaker": "Toby",
+      "en": "Sure, we might be the same people from a parallel world, but that doesn't mean we appreciate having a character made up for us without our say.",
+      "display_variant": "fit",
+      "display_text": "「Sure, we might be the same people from\na parallel world, but we won't stand for\nan invented character without asking.」"
+    },
+    {
+      "id": "c24_08390",
+      "speaker": "Toby",
+      "en": "Since we're at it, I'll say this straight. I'm Toby Watson. Not your Toby.",
+      "display_variant": "en",
+      "display_text": "「Since we're at it, I'll say this\nstraight. I'm Toby Watson. Not your Toby.」"
+    },
+    {
+      "id": "c24_083f0",
+      "speaker": "Toby",
+      "en": "I'm the massive idiot who got tricked by some rotten scumbag and tried to kill you.",
+      "display_variant": "en",
+      "display_text": "「I'm the massive idiot who got tricked\nby some rotten scumbag and tried to kill\nyou.」"
+    },
+    {
+      "id": "c24_08440",
+      "speaker": "Toby",
+      "en": "Don't forget that. I'll do what needs doing because it's the mission, but...",
+      "display_variant": "en",
+      "display_text": "「Don't forget that. I'll do what needs\ndoing because it's the mission, but...」"
+    },
+    {
+      "id": "c24_08480",
+      "speaker": "$n",
+      "en": "Yes!",
+      "display_variant": "en",
+      "display_text": "「Yes!」"
+    },
+    {
+      "id": "c24_08490",
+      "speaker": "Toby",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c24_084a0",
+      "speaker": "$n",
+      "en": "It's a pleasure, Mr. Watson. This will be our first time coordinating in real combat, but I'll do my very best.",
+      "display_variant": "fit",
+      "display_text": "「It's a pleasure, Mr. Watson. This is our\nfirst time coordinating in real combat,\nbut I'll do my best.」"
+    },
+    {
+      "id": "c24_08510",
+      "speaker": "Toby",
+      "en": "You... did a screw come loose in your head or something?",
+      "display_variant": "en",
+      "display_text": "「You... did a screw come loose in your\nhead or something?」"
+    },
+    {
+      "id": "c24_08540",
+      "speaker": "$n",
+      "en": "That's not it. I was just a little happy, that's all.",
+      "display_variant": "en",
+      "display_text": "「That's not it. I was just a little\nhappy, that's all.」"
+    },
+    {
+      "id": "c24_08580",
+      "speaker": "Denzel",
+      "en": "Happy...? You were?",
+      "display_variant": "en",
+      "display_text": "「Happy...? You were?」"
+    },
+    {
+      "id": "c24_085a0",
+      "speaker": "$n",
+      "en": "Just like you said, Mr. Watson -- you two are different people from the Chief and Toby I know.",
+      "display_variant": "en",
+      "display_text": "「Just like you said, Mr. Watson -- you\ntwo are different people from the Chief\nand Toby I know.」"
+    },
+    {
+      "id": "c24_08600",
+      "speaker": "Toby",
+      "en": "If you know that, don't drag us into some pointless sentimentality.",
+      "display_variant": "en",
+      "display_text": "「If you know that, don't drag us into\nsome pointless sentimentality.」"
+    },
+    {
+      "id": "c24_08650",
+      "speaker": "$n",
+      "en": "But there's one thing that doesn't change between our Glory Star and yours.",
+      "display_variant": "en",
+      "display_text": "「But there's one thing that doesn't\nchange between our Glory Star and yours.」"
+    },
+    {
+      "id": "c24_086c0",
+      "speaker": "$n",
+      "en": "It's that you take pride in the right qualities only you yourselves possess.",
+      "display_variant": "en",
+      "display_text": "「It's that you take pride in the right\nqualities only you yourselves possess.」"
+    },
+    {
+      "id": "c24_08710",
+      "speaker": "Denzel",
+      "en": "The Right Stuff, huh...",
+      "display_variant": "en",
+      "display_text": "「The Right Stuff, huh...」"
+    },
+    {
+      "id": "c24_08730",
+      "speaker": "$n",
+      "en": "I could tell right away when we fought each other -- that you both took pride in the Virgola.",
+      "display_variant": "en",
+      "display_text": "「I could tell right away when we fought\neach other -- that you both took pride\nin the Virgola.」"
+    },
+    {
+      "id": "c24_08780",
+      "speaker": "$n",
+      "en": "That's why, back then... I hesitated to fight you.",
+      "display_variant": "en",
+      "display_text": "「That's why, back then... I hesitated to\nfight you.」"
+    },
+    {
+      "id": "c24_087c0",
+      "speaker": "Toby",
+      "en": "Easy for you to say, after you shot us down.",
+      "display_variant": "en",
+      "display_text": "「Easy for you to say, after you shot us\ndown.」"
+    },
+    {
+      "id": "c24_087f0",
+      "speaker": "Denzel",
+      "en": "Knock it off, Toby. ...The Ensign didn't do it because they wanted to, either. They were just fighting based on what they believed they had to do.",
+      "display_variant": "fit",
+      "display_text": "「Knock it off, Toby. The Ensign didn't\ndo it by choice either -- they fought\nfor what they felt they had to do.」"
+    },
+    {
+      "id": "c24_08860",
+      "speaker": "Denzel",
+      "en": "$l. I know full well that you possess a quality that's yours and yours alone.",
+      "display_variant": "en",
+      "display_text": "「$l. I know full well that you possess\na quality that's yours and yours alone.」"
+    },
+    {
+      "id": "c24_088c0",
+      "speaker": "Denzel",
+      "en": "Toby too, of course.",
+      "display_variant": "en",
+      "display_text": "「Toby too, of course.」"
+    },
+    {
+      "id": "c24_088e0",
+      "speaker": "Toby",
+      "en": "H-hold on, Chief!",
+      "display_variant": "en",
+      "display_text": "「H-hold on, Chief!」"
+    },
+    {
+      "id": "c24_08900",
+      "speaker": "Denzel",
+      "en": "I just don't much like the idea of being someone's stand-in, that's all.",
+      "display_variant": "en",
+      "display_text": "「I just don't much like the idea of\nbeing someone's stand-in, that's all.」"
+    },
+    {
+      "id": "c24_08950",
+      "speaker": "Denzel",
+      "en": "Well... I've decided not to let that bother me anymore, though.",
+      "display_variant": "en",
+      "display_text": "「Well... I've decided not to let that\nbother me anymore, though.」"
+    },
+    {
+      "id": "c24_089a0",
+      "speaker": "$n",
+      "en": "That's not it...",
+      "display_variant": "en",
+      "display_text": "「That's not it...」"
+    },
+    {
+      "id": "c24_089c0",
+      "speaker": "$n",
+      "en": "I don't think anyone is a stand-in for anyone else.",
+      "display_variant": "en",
+      "display_text": "「I don't think anyone is a stand-in for\nanyone else.」"
+    },
+    {
+      "id": "c24_08a00",
+      "speaker": "Denzel",
+      "en": "$l...",
+      "display_variant": "en",
+      "display_text": "「$l...」"
+    },
+    {
+      "id": "c24_08a20",
+      "speaker": "$n",
+      "en": "...In the last war, I learned a great many things, alongside a lot of grief.",
+      "display_variant": "en",
+      "display_text": "「...In the last war, I learned a great\nmany things, alongside a lot of grief.」"
+    },
+    {
+      "id": "c24_08a60",
+      "speaker": "$n",
+      "en": "That what's lost never comes back... That clinging to it keeps you from moving forward...",
+      "display_variant": "en",
+      "display_text": "「That what's lost never comes back...\nThat clinging to it keeps you from moving\nforward...」"
+    },
+    {
+      "id": "c24_08ab0",
+      "speaker": "$n",
+      "en": "But also, that you're able to create something new.",
+      "display_variant": "en",
+      "display_text": "「But also, that you're able to create\nsomething new.」"
+    },
+    {
+      "id": "c24_08af0",
+      "speaker": "Toby",
+      "en": "$l...",
+      "display_variant": "en",
+      "display_text": "「$l...」"
+    },
+    {
+      "id": "c24_08b00",
+      "speaker": "$n",
+      "en": "That's why I believe -- that we, who share the same pride, can create something new together.",
+      "display_variant": "en",
+      "display_text": "「That's why I believe -- that we, who\nshare the same pride, can create\nsomething new together.」"
+    },
+    {
+      "id": "c24_08b60",
+      "speaker": "Denzel",
+      "en": "So that's the Glory Star for the three of us.",
+      "display_variant": "en",
+      "display_text": "「So that's the Glory Star for the three\nof us.」"
+    },
+    {
+      "id": "c24_08b98",
+      "speaker": "$n",
+      "en": "Yes.",
+      "display_variant": "en",
+      "display_text": "「Yes.」"
+    },
+    {
+      "id": "c24_08bb0",
+      "speaker": "$n",
+      "en": "During the Spacetime Restoration, I made a wish -- to go on living with the duty and pride that the people important to me taught me.",
+      "display_variant": "fit",
+      "display_text": "「During the Spacetime Restoration, I\nwished to live with the duty and pride\nthose important to me taught me.」"
+    },
+    {
+      "id": "c24_08c20",
+      "speaker": "Toby",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c24_08c40",
+      "speaker": "$n",
+      "en": "The mission to complete the Virgola no longer means anything, but...",
+      "display_variant": "en",
+      "display_text": "「The mission to complete the Virgola no\nlonger means anything, but...」"
+    },
+    {
+      "id": "c24_08c90",
+      "speaker": "$n",
+      "en": "That machine is full of the feelings of each of us, and of the people who supported us.",
+      "display_variant": "en",
+      "display_text": "「That machine is full of the feelings of\neach of us, and of the people who\nsupported us.」"
+    },
+    {
+      "id": "c24_08cf0",
+      "speaker": "$n",
+      "en": "That's why I want to live proudly alongside that Virgola, while searching for something new.",
+      "display_variant": "en",
+      "display_text": "「That's why I want to live proudly\nalongside that Virgola, while searching for\nsomething new.」"
+    },
+    {
+      "id": "c24_08d50",
+      "speaker": "Toby",
+      "en": "Real sentimental, aren't you...",
+      "display_variant": "en",
+      "display_text": "「Real sentimental, aren't you...」"
+    },
+    {
+      "id": "c24_08d80",
+      "speaker": "Toby",
+      "en": "But I don't hate it.",
+      "display_variant": "en",
+      "display_text": "「But I don't hate it.」"
+    },
+    {
+      "id": "c24_08da0",
+      "speaker": "$n",
+      "en": "Mr. Watson...",
+      "display_variant": "en",
+      "display_text": "「Mr. Watson...」"
+    },
+    {
+      "id": "c24_08dc0",
+      "speaker": "Denzel",
+      "en": "Geez, what a stubborn guy. I've thought highly of $l from the very start.",
+      "display_variant": "en",
+      "display_text": "「Geez, what a stubborn guy. I've thought\nhighly of $l from the very start.」"
+    },
+    {
+      "id": "c24_08e10",
+      "speaker": "Denzel",
+      "en": "No, maybe I should call it affection...",
+      "display_variant": "en",
+      "display_text": "「No, maybe I should call it affection...」"
+    },
+    {
+      "id": "c24_08e40",
+      "speaker": "Denzel",
+      "en": "No, it's not 'like'...! This is love!",
+      "display_variant": "en",
+      "display_text": "「No, it's not 'like'...! This is love!」"
+    },
+    {
+      "id": "c24_08e80",
+      "speaker": "$n",
+      "en": "Um... that is...",
+      "display_variant": "en",
+      "display_text": "「Um... that is...」"
+    },
+    {
+      "id": "c24_08ea0",
+      "speaker": "Toby",
+      "en": "You're freaking them out, Chief. That kind of joke doesn't seem to land with $l.",
+      "display_variant": "en",
+      "display_text": "「You're freaking them out, Chief. That\nkind of joke doesn't seem to land with\n$l.」"
+    },
+    {
+      "id": "c24_08ef0",
+      "speaker": "$n",
+      "en": "N-no... Mr. Watson, that's not...",
+      "display_variant": "en",
+      "display_text": "「N-no... Mr. Watson, that's not...」"
+    },
+    {
+      "id": "c24_08f20",
+      "speaker": "Toby",
+      "en": "What a pain you are. We're a team, and you're still being all formal like that?",
+      "display_variant": "en",
+      "display_text": "「What a pain you are. We're a team, and\nyou're still being all formal like that?」"
+    },
+    {
+      "id": "c24_08f80",
+      "speaker": "Toby",
+      "en": "Just call me Toby.",
+      "display_variant": "en",
+      "display_text": "「Just call me Toby.」"
+    },
+    {
+      "id": "c24_08fb0",
+      "speaker": "$n",
+      "en": "Then please call me $n too.",
+      "display_variant": "en",
+      "display_text": "「Then please call me $n too.」"
+    },
+    {
+      "id": "c24_08fe0",
+      "speaker": "Denzel",
+      "en": "Alright... from this moment on, the new Glory Star is up and running.",
+      "display_variant": "en",
+      "display_text": "「Alright... from this moment on, the new\nGlory Star is up and running.」"
+    },
+    {
+      "id": "c24_09030",
+      "speaker": "Denzel",
+      "en": "I'd like to toast with a cold beer, but this is an emergency... As Chief, I'll be the one calling the shots.",
+      "display_variant": "fit",
+      "display_text": "「I'd like to toast with a cold beer, but\nthis is an emergency... As Chief, I'll call\nthe shots.」"
+    },
+    {
+      "id": "c24_090a0",
+      "speaker": "Denzel",
+      "en": "Attention!",
+      "display_variant": "en",
+      "display_text": "「Attention!」"
+    },
+    {
+      "id": "c24_090c0",
+      "speaker": "Toby",
+      "en": "Sir! Yes, sir!",
+      "display_variant": "en",
+      "display_text": "「Sir! Yes, sir!」"
+    },
+    {
+      "id": "c24_090e0",
+      "speaker": "Denzel",
+      "en": "From here on, we of Glory Star will pursue the unidentified enemy as members of $c!",
+      "display_variant": "en",
+      "display_text": "「From here on, we of Glory Star will\npursue the unidentified enemy as members\nof $c!」"
+    },
+    {
+      "id": "c24_09140",
+      "speaker": "$n",
+      "en": "Sir! Yes, sir!",
+      "display_variant": "en",
+      "display_text": "「Sir! Yes, sir!」"
+    },
+    {
+      "id": "c24_09160",
+      "speaker": "$n",
+      "en": "This alarm...! Unidentified units are approaching!",
+      "display_variant": "en",
+      "display_text": "「This alarm...! Unidentified units are\napproaching!」"
+    },
+    {
+      "id": "c24_09190",
+      "speaker": "Toby",
+      "en": "Perfect timing for an enemy attack...! Looks like this restart's off to a stormy start!",
+      "display_variant": "en",
+      "display_text": "「Perfect timing for an enemy attack...!\nLooks like this restart's off to a stormy\nstart!」"
+    },
+    {
+      "id": "c24_091e0",
+      "speaker": "Denzel",
+      "en": "Let's move, Toby, $n! Scramble!",
+      "display_variant": "en",
+      "display_text": "「Let's move, Toby, $n! Scramble!」"
+    },
+    {
+      "id": "c24_09220",
+      "speaker": "$n",
+      "en": "Understood!",
+      "display_variant": "en",
+      "display_text": "「Understood!」"
+    }
+  ]
+}

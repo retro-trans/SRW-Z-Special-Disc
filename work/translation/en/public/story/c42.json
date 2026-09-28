@@ -1,0 +1,285 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c42_02790",
+      "speaker": "Cotset",
+      "en": "Young miss, it's the bandit gang! There's quite a lot of them!",
+      "display_variant": "en",
+      "display_text": "「Young miss, it's the bandit gang!\nThere's quite a lot of them!」"
+    },
+    {
+      "id": "c42_027d0",
+      "speaker": "Elchi",
+      "en": "Even better! If we crush every last one, we'll make a profit!",
+      "display_variant": "en",
+      "display_text": "「Even better! If we crush every last\none, we'll make a profit!」"
+    },
+    {
+      "id": "c42_02810",
+      "speaker": "Cotset",
+      "en": "(This is no good... She's completely blinded by the bounty...)",
+      "display_variant": "en",
+      "display_text": "（(This is no good... She's completely\nblinded by the bounty...)）"
+    },
+    {
+      "id": "c42_02860",
+      "speaker": "Elchi",
+      "en": "Everyone, launch! Don't let a single one of them get away!",
+      "display_variant": "en",
+      "display_text": "「Everyone, launch! Don't let a single one\nof them get away!」"
+    },
+    {
+      "id": "c42_028a0",
+      "speaker": "Rag",
+      "en": "Ha! This'll get my blood pumping!",
+      "display_variant": "en",
+      "display_text": "「Ha! This'll get my blood pumping!」"
+    },
+    {
+      "id": "c42_028d0",
+      "speaker": "Maria",
+      "en": "B-but... to think even Chill and I would end up launching too...",
+      "display_variant": "en",
+      "display_text": "「B-but... to think even Chill and I would\nend up launching too...」"
+    },
+    {
+      "id": "c42_02910",
+      "speaker": "Chill",
+      "en": "I'm a member of the Sand Rats too, y'know! I'll do it, dang it!",
+      "display_variant": "en",
+      "display_text": "「I'm a member of the Sand Rats too,\ny'know! I'll do it, dang it!」"
+    },
+    {
+      "id": "c42_02960",
+      "speaker": "Elchi",
+      "en": "That's the spirit, Chill! Everyone, get fired up and go!",
+      "display_variant": "en",
+      "display_text": "「That's the spirit, Chill! Everyone, get\nfired up and go!」"
+    },
+    {
+      "id": "c42_029b0",
+      "speaker": "Jiron",
+      "en": "I know! Let's go, everyone! Time to take out these bandits!",
+      "display_variant": "en",
+      "display_text": "「I know! Let's go, everyone! Time to\ntake out these bandits!」"
+    },
+    {
+      "id": "c42_029f0",
+      "speaker": "Elchi",
+      "en": "Target: 350,000 in earnings! All Walker Machines, charge!!",
+      "display_variant": "en",
+      "display_text": "「Target: 350,000 in earnings! All Walker\nMachines, charge!!」"
+    },
+    {
+      "id": "c42_02a40",
+      "speaker": "Jiron",
+      "en": "All right! We took down the bandit gang!",
+      "display_variant": "en",
+      "display_text": "「All right! We took down the bandit\ngang!」"
+    },
+    {
+      "id": "c42_02a70",
+      "speaker": "Elchi",
+      "en": "Cotset! What's our take!?",
+      "display_variant": "en",
+      "display_text": "「Cotset! What's our take!?」"
+    },
+    {
+      "id": "c42_02aa0",
+      "speaker": "Cotset",
+      "en": "Earnings: {tm}! Target cleared!",
+      "display_variant": "en",
+      "display_text": "「Earnings: {tm}! Target cleared!」"
+    },
+    {
+      "id": "c42_02af0",
+      "speaker": "Rag",
+      "en": "Hahaha! A total win! This means we're done with the poor life!",
+      "display_variant": "en",
+      "display_text": "「Hahaha! A total win! This means we're\ndone with the poor life!」"
+    },
+    {
+      "id": "c42_02b30",
+      "speaker": "Chill",
+      "en": "Yay! Now we won't have to worry about food anymore!",
+      "display_variant": "en",
+      "display_text": "「Yay! Now we won't have to worry about\nfood anymore!」"
+    },
+    {
+      "id": "c42_02b80",
+      "speaker": "Elchi",
+      "en": "By my calculations, if we'd really pushed it, we could've earned 500,000, but well, I suppose this'll do.",
+      "display_variant": "en",
+      "display_text": "「By my calculations, if we'd really\npushed it, we could've earned 500,000, but\nwell, I suppose this'll do.」"
+    },
+    {
+      "id": "c42_02bf0",
+      "speaker": "Elchi",
+      "en": "Great work, everyone! Tonight, it's a big victory party!",
+      "display_variant": "en",
+      "display_text": "「Great work, everyone! Tonight, it's a\nbig victory party!」"
+    },
+    {
+      "id": "c42_02c30",
+      "speaker": "Jiron",
+      "en": "Tonight, I'm eating till I'm stuffed!!",
+      "display_variant": "en",
+      "display_text": "「Tonight, I'm eating till I'm stuffed!!」"
+    },
+    {
+      "id": "c42_02c60",
+      "speaker": "Cotset",
+      "en": "This is exactly why we never manage to save any money!",
+      "display_variant": "en",
+      "display_text": "「This is exactly why we never manage to\nsave any money!」"
+    },
+    {
+      "id": "c42_02cb0",
+      "speaker": "Cotset",
+      "en": "Earnings: {tm}! We haven't reached the target!",
+      "display_variant": "en",
+      "display_text": "「Earnings: {tm}! We haven't reached\nthe target!」"
+    },
+    {
+      "id": "c42_02d00",
+      "speaker": "Elchi",
+      "en": "Ehh!? That means we're in the red!!",
+      "display_variant": "en",
+      "display_text": "「Ehh!? That means we're in the red!!」"
+    },
+    {
+      "id": "c42_02d40",
+      "speaker": "Rag",
+      "en": "Tch...! All that effort for nothing, huh!",
+      "display_variant": "en",
+      "display_text": "「Tch...! All that effort for nothing, huh!」"
+    },
+    {
+      "id": "c42_02d80",
+      "speaker": "Chill",
+      "en": "Aah... back to the poor life again...",
+      "display_variant": "en",
+      "display_text": "「Aah... back to the poor life again...」"
+    },
+    {
+      "id": "c42_02db0",
+      "speaker": "Dike",
+      "en": "The bandit gang, they're making a run for it!",
+      "display_variant": "en",
+      "display_text": "「The bandit gang, they're making a run\nfor it!」"
+    },
+    {
+      "id": "c42_02de0",
+      "speaker": "Blume",
+      "en": "We roughed them up that badly. They'll probably stay quiet for a while.",
+      "display_variant": "en",
+      "display_text": "「We roughed them up that badly. They'll\nprobably stay quiet for a while.」"
+    },
+    {
+      "id": "c42_02e30",
+      "speaker": "Blume",
+      "en": "Tch! We can't catch up from here!",
+      "display_variant": "en",
+      "display_text": "「Tch! We can't catch up from here!」"
+    },
+    {
+      "id": "c42_02eb0",
+      "speaker": "Jiron",
+      "en": "Chasing down wanted criminals, huh?",
+      "display_variant": "en",
+      "display_text": "「Chasing down wanted criminals, huh?」"
+    },
+    {
+      "id": "c42_02ed0",
+      "speaker": "Elchi",
+      "en": "That's right. A bounty's finally been put on that bandit gang that's been raiding the bazaars.",
+      "display_variant": "en",
+      "display_text": "「That's right. A bounty's finally been\nput on that bandit gang that's been\nraiding the bazaars.」"
+    },
+    {
+      "id": "c42_02f20",
+      "speaker": "Dike",
+      "en": "So, we're the ones taking these guys down, huh.",
+      "display_variant": "en",
+      "display_text": "「So, we're the ones taking these guys\ndown, huh.」"
+    },
+    {
+      "id": "c42_02f60",
+      "speaker": "Rag",
+      "en": "Heh... don't make me laugh. So an honest hauler can't turn a profit, and now we're bounty hunters?",
+      "display_variant": "en",
+      "display_text": "「Heh... don't make me laugh. So an\nhonest hauler can't turn a profit, and\nnow we're bounty hunters?」"
+    },
+    {
+      "id": "c42_02fc0",
+      "speaker": "Blume",
+      "en": "Can't be helped, can it. Under Elchi's command, our main business has been in the red nonstop anyway.",
+      "display_variant": "en",
+      "display_text": "「Can't be helped, can it. Under Elchi's\ncommand, our main business has been in\nthe red nonstop anyway.」"
+    },
+    {
+      "id": "c42_03010",
+      "speaker": "Elchi",
+      "en": "Don't say things that make me sound bad! Clearing out bandits is basically a hauler's duty.",
+      "display_variant": "en",
+      "display_text": "「Don't say things that make me sound\nbad! Clearing out bandits is basically a\nhauler's duty.」"
+    },
+    {
+      "id": "c42_03060",
+      "speaker": "Elchi",
+      "en": "With dangerous types like that around, we can't even do business ourselves.",
+      "display_variant": "en",
+      "display_text": "「With dangerous types like that around,\nwe can't even do business ourselves.」"
+    },
+    {
+      "id": "c42_030b0",
+      "speaker": "Birin",
+      "en": "What she's saying isn't wrong, at least.",
+      "display_variant": "en",
+      "display_text": "「What she's saying isn't wrong, at least.」"
+    },
+    {
+      "id": "c42_030e0",
+      "speaker": "Maria",
+      "en": "That's true. There really are people in trouble, and we can't just leave them be.",
+      "display_variant": "en",
+      "display_text": "「That's true. There really are people in\ntrouble, and we can't just leave them be.」"
+    },
+    {
+      "id": "c42_03140",
+      "speaker": "Chill",
+      "en": "We're the ones in trouble too, y'know! At this rate, we'll be worrying about tomorrow's food!",
+      "display_variant": "en",
+      "display_text": "「We're the ones in trouble too, y'know!\nAt this rate, we'll be worrying about\ntomorrow's food!」"
+    },
+    {
+      "id": "c42_031b0",
+      "speaker": "Jiron",
+      "en": "Then it's settled. Helping people, keeping business safe, and the bounty -- three birds with one stone.",
+      "display_variant": "en",
+      "display_text": "「Then it's settled. Helping people,\nkeeping business safe, and the bounty --\nthree birds with one stone.」"
+    },
+    {
+      "id": "c42_03200",
+      "speaker": "Elchi",
+      "en": "If we're doing this, let's go all out!",
+      "display_variant": "en",
+      "display_text": "「If we're doing this, let's go all out!」"
+    },
+    {
+      "id": "c42_03240",
+      "speaker": "Elchi",
+      "en": "Captain's orders! While we're taking down the bandit gang, we're earning as much money as we possibly can!",
+      "display_variant": "en",
+      "display_text": "「Captain's orders! While we're taking\ndown the bandit gang, we're earning as\nmuch money as we possibly can!」"
+    },
+    {
+      "id": "c42_03290",
+      "speaker": "Elchi",
+      "en": "Target funds... 350,000!",
+      "display_variant": "en",
+      "display_text": "「Target funds... 350,000!」"
+    }
+  ]
+}

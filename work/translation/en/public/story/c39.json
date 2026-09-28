@@ -1,0 +1,250 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c39_03710",
+      "speaker": "Torres",
+      "en": "Enemy mobile suit squadron confirmed! Count... sixty!",
+      "display_variant": "en",
+      "display_text": "「Enemy mobile suit squadron confirmed!\nCount... sixty!」"
+    },
+    {
+      "id": "c39_03750",
+      "speaker": "Katz",
+      "en": "I-I knew this was coming, but seeing it with my own eyes is...",
+      "display_variant": "en",
+      "display_text": "「I-I knew this was coming, but seeing it\nwith my own eyes is...」"
+    },
+    {
+      "id": "c39_037a0",
+      "speaker": "Kamille",
+      "en": "Focus, Katz. If we lose even one of our own, the operation's success becomes that much harder.",
+      "display_variant": "en",
+      "display_text": "「Focus, Katz. If we lose even one of\nour own, the operation's success becomes\nthat much harder.」"
+    },
+    {
+      "id": "c39_03800",
+      "speaker": "Quattro",
+      "en": "To all units. Operation time is four minutes. In that span, cut down as much of the enemy's strength as you can.",
+      "display_variant": "en",
+      "display_text": "「To all units. Operation time is four\nminutes. In that span, cut down as much\nof the enemy's strength as you can.」"
+    },
+    {
+      "id": "c39_03860",
+      "speaker": "Bright",
+      "en": "If we shoot down 100 enemy units within four minutes, the operation succeeds.",
+      "display_variant": "en",
+      "display_text": "「If we shoot down 100 enemy units\nwithin four minutes, the operation\nsucceeds.」"
+    },
+    {
+      "id": "c39_038b0",
+      "speaker": "Bright",
+      "en": "The enemy's numbers are endless. Shoot down as many as you can within those four minutes.",
+      "display_variant": "en",
+      "display_text": "「The enemy's numbers are endless. Shoot\ndown as many as you can within those\nfour minutes.」"
+    },
+    {
+      "id": "c39_03900",
+      "speaker": "Kamille",
+      "en": "Understood!",
+      "display_variant": "en",
+      "display_text": "「Understood!」"
+    },
+    {
+      "id": "c39_03920",
+      "speaker": "Bright",
+      "en": "Operation Maelstrom, commence! Good luck to every one of you!",
+      "display_variant": "en",
+      "display_text": "「Operation Maelstrom, commence! Good\nluck to every one of you!」"
+    },
+    {
+      "id": "c39_03960",
+      "speaker": "Saegusa",
+      "en": "Four minutes of operation time have elapsed!",
+      "display_variant": "en",
+      "display_text": "「Four minutes of operation time have\nelapsed!」"
+    },
+    {
+      "id": "c39_03990",
+      "speaker": "Torres",
+      "en": "Enemy kill count: {tm}! The Radish and the other ships will begin their charge shortly!",
+      "display_variant": "en",
+      "display_text": "「Enemy kill count: {tm}! The Radish\nand the other ships will begin their\ncharge shortly!」"
+    },
+    {
+      "id": "c39_03a00",
+      "speaker": "Bright",
+      "en": "All right... the operation's a success! Well done, everyone!",
+      "display_variant": "en",
+      "display_text": "「All right... the operation's a success!\nWell done, everyone!」"
+    },
+    {
+      "id": "c39_03a40",
+      "speaker": "Torres",
+      "en": "N-no good! Enemy kill count is {tm}! We haven't reached 100!",
+      "display_variant": "en",
+      "display_text": "「N-no good! Enemy kill count is {tm}!\nWe haven't reached 100!」"
+    },
+    {
+      "id": "c39_03aa0",
+      "speaker": "Bright",
+      "en": "Damn it... the operation's failed! All units, fall back!",
+      "display_variant": "en",
+      "display_text": "「Damn it... the operation's failed! All\nunits, fall back!」"
+    },
+    {
+      "id": "c39_03ae0",
+      "speaker": "Torres",
+      "en": "Enemy reinforcements! Twenty of them!",
+      "display_variant": "en",
+      "display_text": "「Enemy reinforcements! Twenty of them!」"
+    },
+    {
+      "id": "c39_03b10",
+      "speaker": "Bright",
+      "en": "Our goal is to force the enemy to commit the strength they've been holding back! I expected these reinforcements!",
+      "display_variant": "en",
+      "display_text": "「Our goal is to force the enemy to\ncommit the strength they've been holding\nback! I expected these reinforcements!」"
+    },
+    {
+      "id": "c39_03b80",
+      "speaker": "Bright",
+      "en": "Whittle the enemy down, and reinforcements will come! All units, shoot down as many as you can!",
+      "display_variant": "en",
+      "display_text": "「Whittle the enemy down, and\nreinforcements will come! All units, shoot\ndown as many as you can!」"
+    },
+    {
+      "id": "c39_03c20",
+      "speaker": "Kamille",
+      "en": "Maelstrom?",
+      "display_variant": "en",
+      "display_text": "「Maelstrom?」"
+    },
+    {
+      "id": "c39_03c50",
+      "speaker": "Bright",
+      "en": "It's the codename for the operation to seize back the Colony Laser that Axis has taken control of.",
+      "display_variant": "en",
+      "display_text": "「It's the codename for the operation to\nseize back the Colony Laser that Axis has\ntaken control of.」"
+    },
+    {
+      "id": "c39_03ca0",
+      "speaker": "Quattro",
+      "en": "Right now, Axis has deployed a Gaza C squadron across the surrounding space to defend it.",
+      "display_variant": "en",
+      "display_text": "「Right now, Axis has deployed a Gaza C\nsquadron across the surrounding space to\ndefend it.」"
+    },
+    {
+      "id": "c39_03cf0",
+      "speaker": "Quattro",
+      "en": "We'll launch a simultaneous attack from all around and seize the Colony Laser at its center.",
+      "display_variant": "en",
+      "display_text": "「We'll launch a simultaneous attack from\nall around and seize the Colony Laser at\nits center.」"
+    },
+    {
+      "id": "c39_03d50",
+      "speaker": "Apolly",
+      "en": "I see... a spiral encirclement operation, huh.",
+      "display_variant": "en",
+      "display_text": "「I see... a spiral encirclement operation,\nhuh.」"
+    },
+    {
+      "id": "c39_03d80",
+      "speaker": "Roberto",
+      "en": "So that's why it's called Maelstrom. Pretty clever name.",
+      "display_variant": "en",
+      "display_text": "「So that's why it's called Maelstrom.\nPretty clever name.」"
+    },
+    {
+      "id": "c39_03dd0",
+      "speaker": "Bright",
+      "en": "But we can expect a tough fight.",
+      "display_variant": "en",
+      "display_text": "「But we can expect a tough fight.」"
+    },
+    {
+      "id": "c39_03e00",
+      "speaker": "Bright",
+      "en": "It'll be a joint operation with Captain Henken's group, but as the vanguard, we have to cut down as many of the enemy as we can.",
+      "display_variant": "fit",
+      "display_text": "「It's a joint op with Capt. Henken's\ngroup, but as vanguard, we must cut down\nas many enemies as we can.」"
+    },
+    {
+      "id": "c39_03e70",
+      "speaker": "Bright",
+      "en": "For the operation to succeed, we need to shoot down over 100 enemy units in four minutes.",
+      "display_variant": "en",
+      "display_text": "「For the operation to succeed, we need\nto shoot down over 100 enemy units in\nfour minutes.」"
+    },
+    {
+      "id": "c39_03ed0",
+      "speaker": "Fa",
+      "en": "No way...!?",
+      "display_variant": "en",
+      "display_text": "「No way...!?」"
+    },
+    {
+      "id": "c39_03ef0",
+      "speaker": "Katz",
+      "en": "A hundred in four minutes...! Our whole force is just the Argama and seven mobile suits!",
+      "display_variant": "en",
+      "display_text": "「A hundred in four minutes...! Our whole\nforce is just the Argama and seven mobile\nsuits!」"
+    },
+    {
+      "id": "c39_03f50",
+      "speaker": "Emma",
+      "en": "Lt. Quattro and Kamille, Lt. Apolly and Lt. Roberto, and then me, Katz, and Fa...",
+      "display_variant": "en",
+      "display_text": "「Lt. Quattro and Kamille, Lt. Apolly and\nLt. Roberto, and then me, Katz, and Fa...」"
+    },
+    {
+      "id": "c39_03fb0",
+      "speaker": "Quattro",
+      "en": "I'm well aware of how unfavorable this is. But unless we take the Colony Laser back from Haman, this fight won't end.",
+      "display_variant": "en",
+      "display_text": "「I'm well aware of how unfavorable this\nis. But unless we take the Colony Laser\nback from Haman, this fight won't end.」"
+    },
+    {
+      "id": "c39_04020",
+      "speaker": "Kamille",
+      "en": "...There's nothing to do but go through with it.",
+      "display_variant": "en",
+      "display_text": "「...There's nothing to do but go through\nwith it.」"
+    },
+    {
+      "id": "c39_04050",
+      "speaker": "Emma",
+      "en": "Kamille...",
+      "display_variant": "en",
+      "display_text": "「Kamille...」"
+    },
+    {
+      "id": "c39_04070",
+      "speaker": "Kamille",
+      "en": "Since there's no other effective option, Operation Maelstrom... we have no choice but to carry it out.",
+      "display_variant": "en",
+      "display_text": "「Since there's no other effective option,\nOperation Maelstrom... we have no choice\nbut to carry it out.」"
+    },
+    {
+      "id": "c39_040d0",
+      "speaker": "Bright",
+      "en": "That's right. ...We launch the operation in three hours. Everyone, prepare yourselves.",
+      "display_variant": "en",
+      "display_text": "「That's right. ...We launch the operation\nin three hours. Everyone, prepare\nyourselves.」"
+    },
+    {
+      "id": "c39_04120",
+      "speaker": "Bright",
+      "en": "This will be a war of numbers. Set up each unit before launch to maximize its combat endurance.",
+      "display_variant": "en",
+      "display_text": "「This will be a war of numbers. Set up\neach unit before launch to maximize its\ncombat endurance.」"
+    },
+    {
+      "id": "c39_04180",
+      "speaker": "Kamille",
+      "en": "Understood.",
+      "display_variant": "en",
+      "display_text": "「Understood.」"
+    }
+  ]
+}

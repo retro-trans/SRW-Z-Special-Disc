@@ -1,0 +1,1489 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c19_05390",
+      "speaker": "Ana",
+      "en": "Thank you, Teacher Adette. You really saved us.",
+      "display_variant": "en",
+      "display_text": "「Thank you, Teacher Adette. You really\nsaved us.」"
+    },
+    {
+      "id": "c19_053e0",
+      "speaker": "Adette",
+      "en": "Don't celebrate yet...! Those guys haven't given up!",
+      "display_variant": "en",
+      "display_text": "「Don't celebrate yet...! Those guys\nhaven't given up!」"
+    },
+    {
+      "id": "c19_05420",
+      "speaker": "Lynx",
+      "en": "...!",
+      "display_variant": "en",
+      "display_text": "「...!」"
+    },
+    {
+      "id": "c19_05430",
+      "speaker": "Zakki",
+      "en": "Commander Asuham has started walking his own path now. So I'll do as I please too.",
+      "display_variant": "en",
+      "display_text": "「Commander Asuham has started walking\nhis own path now. So I'll do as I please\ntoo.」"
+    },
+    {
+      "id": "c19_05490",
+      "speaker": "Zakki",
+      "en": "To get back into Saint Regan from the fading Sibe Rail, I'll capture that little brat...!",
+      "display_variant": "en",
+      "display_text": "「To get back into Saint Regan from the\nfading Sibe Rail, I'll capture that little\nbrat...!」"
+    },
+    {
+      "id": "c19_054f0",
+      "speaker": "Sibe Rail Guard",
+      "en": "Commander Zakki...! The one riding that red Dobeck is believed to be Adette Kistler.",
+      "display_variant": "en",
+      "display_text": "「Commander Zakki...! The one riding that\nred Dobeck is believed to be Adette\nKistler.」"
+    },
+    {
+      "id": "c19_05560",
+      "speaker": "Zakki",
+      "en": "The heroine of the old Sibe Rail security force, huh. But she's alone in a single machine. There's nothing she can do.",
+      "display_variant": "fit",
+      "display_text": "「The heroine of the old Sibe Rail\nsecurity force, huh. But alone in a single\nmachine, there's nothing she can do.」"
+    },
+    {
+      "id": "c19_055b0",
+      "speaker": "Zakki",
+      "en": "Let Sibe Rail handle Sibe Rail's business! Dogozzo squad, pin down that red Dobeck!",
+      "display_variant": "en",
+      "display_text": "「Let Sibe Rail handle Sibe Rail's\nbusiness! Dogozzo squad, pin down that\nred Dobeck!」"
+    },
+    {
+      "id": "c19_05610",
+      "speaker": "Ana",
+      "en": "Teacher Adette! The enemy's coming! There's so many of them!",
+      "display_variant": "en",
+      "display_text": "「Teacher Adette! The enemy's coming!\nThere's so many of them!」"
+    },
+    {
+      "id": "c19_05650",
+      "speaker": "Adette",
+      "en": "No need to worry, Ana. For your sake too, I can't afford to lose here!",
+      "display_variant": "en",
+      "display_text": "「No need to worry, Ana. For your sake\ntoo, I can't afford to lose here!」"
+    },
+    {
+      "id": "c19_056b0",
+      "speaker": "Ana",
+      "en": "Teacher Adette...",
+      "display_variant": "en",
+      "display_text": "「Teacher Adette...」"
+    },
+    {
+      "id": "c19_056d0",
+      "speaker": "Adette",
+      "en": "When it's time to go, I go...! Hold on tight, Ana!",
+      "display_variant": "en",
+      "display_text": "「When it's time to go, I go...! Hold on\ntight, Ana!」"
+    },
+    {
+      "id": "c19_05720",
+      "speaker": "Ana",
+      "en": "Yes!",
+      "display_variant": "en",
+      "display_text": "「Yes!」"
+    },
+    {
+      "id": "c19_05730",
+      "speaker": "Adette",
+      "en": "All right, bring it on! I'm a tough one today!!",
+      "display_variant": "en",
+      "display_text": "「All right, bring it on! I'm a tough one\ntoday!!」"
+    },
+    {
+      "id": "c19_05770",
+      "speaker": "Adette",
+      "en": "They're flinching...! Now's my chance to break through!!",
+      "display_variant": "en",
+      "display_text": "「They're flinching...! Now's my chance to\nbreak through!!」"
+    },
+    {
+      "id": "c19_057b0",
+      "speaker": "Zakki",
+      "en": "Tch! It's just one Silhouette Machine -- what are you all wasting time for!",
+      "display_variant": "en",
+      "display_text": "「Tch! It's just one Silhouette Machine\n-- what are you all wasting time for!」"
+    },
+    {
+      "id": "c19_05800",
+      "speaker": "Adette",
+      "en": "Tch! Slipped up!!",
+      "display_variant": "en",
+      "display_text": "「Tch! Slipped up!!」"
+    },
+    {
+      "id": "c19_05830",
+      "speaker": "Zakki",
+      "en": "Don't move, Adette Kistler! Resist, and I'll crush the cockpit!",
+      "display_variant": "en",
+      "display_text": "「Don't move, Adette Kistler! Resist, and\nI'll crush the cockpit!」"
+    },
+    {
+      "id": "c19_05880",
+      "speaker": "Adette",
+      "en": "Don't you look down on me, small fry! If bowing my head to the likes of you is the price, I'll go down fighting instead!",
+      "display_variant": "en",
+      "display_text": "「Don't you look down on me, small fry!\nIf bowing my head to the likes of you is\nthe price, I'll go down fighting instead!」"
+    },
+    {
+      "id": "c19_058f0",
+      "speaker": "Zakki",
+      "en": "Oh? Even if it means dragging Ana Medaiyu down with you?",
+      "display_variant": "en",
+      "display_text": "「Oh? Even if it means dragging Ana\nMedaiyu down with you?」"
+    },
+    {
+      "id": "c19_05930",
+      "speaker": "Adette",
+      "en": "...!",
+      "display_variant": "en",
+      "display_text": "「...!」"
+    },
+    {
+      "id": "c19_05940",
+      "speaker": "Zakki",
+      "en": "Certainly, a pilot of your skill could shove the Golem aside and still land a hit on me.",
+      "display_variant": "en",
+      "display_text": "「Certainly, a pilot of your skill could\nshove the Golem aside and still land a hit\non me.」"
+    },
+    {
+      "id": "c19_059b0",
+      "speaker": "Zakki",
+      "en": "But you won't come out unscathed. And when that happens, what will become of Ana Medaiyu, I wonder?",
+      "display_variant": "en",
+      "display_text": "「But you won't come out unscathed. And\nwhen that happens, what will become of\nAna Medaiyu, I wonder?」"
+    },
+    {
+      "id": "c19_05a10",
+      "speaker": "Adette",
+      "en": "Ngh...",
+      "display_variant": "en",
+      "display_text": "「Ngh...」"
+    },
+    {
+      "id": "c19_05a30",
+      "speaker": "Zakki",
+      "en": "Even if you survive, an ordinary child could end up with a fatal wound if things go wrong.",
+      "display_variant": "en",
+      "display_text": "「Even if you survive, an ordinary child\ncould end up with a fatal wound if things\ngo wrong.」"
+    },
+    {
+      "id": "c19_05a90",
+      "speaker": "Adette",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c19_05ab0",
+      "speaker": "Ana",
+      "en": "What are you spacing out for, Adette Kistler! Fight properly!",
+      "display_variant": "en",
+      "display_text": "「What are you spacing out for, Adette\nKistler! Fight properly!」"
+    },
+    {
+      "id": "c19_05b10",
+      "speaker": "Adette",
+      "en": "Ana...! Are you sure you're ready for this...",
+      "display_variant": "en",
+      "display_text": "「Ana...! Are you sure you're ready for\nthis...」"
+    },
+    {
+      "id": "c19_05b40",
+      "speaker": "Zakki",
+      "en": "You're opening the cockpit? Have you decided to surrender?",
+      "display_variant": "en",
+      "display_text": "「You're opening the cockpit? Have you\ndecided to surrender?」"
+    },
+    {
+      "id": "c19_05b80",
+      "speaker": "Ana",
+      "en": "Pilot of that Overman, listen to me.",
+      "display_variant": "en",
+      "display_text": "「Pilot of that Overman, listen to me.」"
+    },
+    {
+      "id": "c19_05bc0",
+      "speaker": "Zakki",
+      "en": "Wh-what...!?",
+      "display_variant": "en",
+      "display_text": "「Wh-what...!?」"
+    },
+    {
+      "id": "c19_05be0",
+      "speaker": "Ana",
+      "en": "Capturing me to get what you want is your goal here, isn't it...",
+      "display_variant": "en",
+      "display_text": "「Capturing me to get what you want is\nyour goal here, isn't it...」"
+    },
+    {
+      "id": "c19_05c30",
+      "speaker": "Ana",
+      "en": "What do you think someone who resorts to such a cowardly trick could possibly accomplish!",
+      "display_variant": "en",
+      "display_text": "「What do you think someone who resorts\nto such a cowardly trick could possibly\naccomplish!」"
+    },
+    {
+      "id": "c19_05c80",
+      "speaker": "Zakki",
+      "en": "Wha...!?",
+      "display_variant": "en",
+      "display_text": "「Wha...!?」"
+    },
+    {
+      "id": "c19_05ca0",
+      "speaker": "Ana",
+      "en": "If you're enough of a warrior to ride an Overman, then know some shame!",
+      "display_variant": "en",
+      "display_text": "「If you're enough of a warrior to ride\nan Overman, then know some shame!」"
+    },
+    {
+      "id": "c19_05cf0",
+      "speaker": "Ana",
+      "en": "There's no way an act this contemptible could ever achieve a great ambition!",
+      "display_variant": "en",
+      "display_text": "「There's no way an act this contemptible\ncould ever achieve a great ambition!」"
+    },
+    {
+      "id": "c19_05d40",
+      "speaker": "Adette",
+      "en": "Ana... you're giving me chills!",
+      "display_variant": "en",
+      "display_text": "「Ana... you're giving me chills!」"
+    },
+    {
+      "id": "c19_05d80",
+      "speaker": "Zakki",
+      "en": "...Even if you're just a country lord's daughter, I'll grant you're every bit the princess of a nation.",
+      "display_variant": "en",
+      "display_text": "「...Even if you're just a country lord's\ndaughter, I'll grant you're every bit the\nprincess of a nation.」"
+    },
+    {
+      "id": "c19_05dd0",
+      "speaker": "Zakki",
+      "en": "But now that you've insulted me, you'll have to pay for it with a little pain!",
+      "display_variant": "en",
+      "display_text": "「But now that you've insulted me, you'll\nhave to pay for it with a little pain!」"
+    },
+    {
+      "id": "c19_05e20",
+      "speaker": "Adette",
+      "en": "I won't let you!",
+      "display_variant": "en",
+      "display_text": "「I won't let you!」"
+    },
+    {
+      "id": "c19_05e40",
+      "speaker": "Ana",
+      "en": "Eh...!",
+      "display_variant": "en",
+      "display_text": "「Eh...!」"
+    },
+    {
+      "id": "c19_05e50",
+      "speaker": "Ana",
+      "en": "Kyaah!",
+      "display_variant": "en",
+      "display_text": "「Kyaah!」"
+    },
+    {
+      "id": "c19_05e70",
+      "speaker": "Adette",
+      "en": "Uoooooooooh!!",
+      "display_variant": "en",
+      "display_text": "「Uoooooooooh!!」"
+    },
+    {
+      "id": "c19_05ea0",
+      "speaker": "Adette",
+      "en": "Did you see that!? Behold the Lady-Teacher Ninja Art: the Technique of Emergency Superhuman Strength!!",
+      "display_variant": "en",
+      "display_text": "「Did you see that!? Behold the\nLady-Teacher Ninja Art: the Technique\nof Emergency Superhuman Strength!!」"
+    },
+    {
+      "id": "c19_05ef0",
+      "speaker": "Zakki",
+      "en": "Tch! She threw herself on the line to let the brat escape!",
+      "display_variant": "en",
+      "display_text": "「Tch! She threw herself on the line to\nlet the brat escape!」"
+    },
+    {
+      "id": "c19_05f30",
+      "speaker": "Ana",
+      "en": "Adette Kistler! Why would you do something like that!? That means you're going to...",
+      "display_variant": "en",
+      "display_text": "「Adette Kistler! Why would you do\nsomething like that!? That means you're\ngoing to...」"
+    },
+    {
+      "id": "c19_05f90",
+      "speaker": "Adette",
+      "en": "Sorry, Ana. Looks like I can only keep half of my promise.",
+      "display_variant": "en",
+      "display_text": "「Sorry, Ana. Looks like I can only keep\nhalf of my promise.」"
+    },
+    {
+      "id": "c19_05fd0",
+      "speaker": "Ana",
+      "en": "Eh...",
+      "display_variant": "en",
+      "display_text": "「Eh...」"
+    },
+    {
+      "id": "c19_05fe0",
+      "speaker": "Adette",
+      "en": "I managed to protect you, but for getting word to Wulgusk, you'll have to ask Gauli or someone.",
+      "display_variant": "en",
+      "display_text": "「I managed to protect you, but for\ngetting word to Wulgusk, you'll have to\nask Gauli or someone.」"
+    },
+    {
+      "id": "c19_06040",
+      "speaker": "Ana",
+      "en": "No...! Adette! You mustn't die!",
+      "display_variant": "en",
+      "display_text": "「No...! Adette! You mustn't die!」"
+    },
+    {
+      "id": "c19_06080",
+      "speaker": "Ana",
+      "en": "If I become that man's, you'll be saved!",
+      "display_variant": "en",
+      "display_text": "「If I become that man's, you'll be saved!」"
+    },
+    {
+      "id": "c19_060c0",
+      "speaker": "Adette",
+      "en": "Protecting children is a grown-up's job. You may be a princess, but you're still a kid... so listen to your big sister this time.",
+      "display_variant": "fit",
+      "display_text": "「Protecting children is a grown-up's job.\nPrincess or not, you're still a kid... so\nlisten to your big sister this time.」"
+    },
+    {
+      "id": "c19_06130",
+      "speaker": "Ana",
+      "en": "Adette!!",
+      "display_variant": "en",
+      "display_text": "「Adette!!」"
+    },
+    {
+      "id": "c19_06150",
+      "speaker": "Zakki",
+      "en": "Fine resolve, woman! Then, just as you wish, I'll take that life of yours!!",
+      "display_variant": "en",
+      "display_text": "「Fine resolve, woman! Then, just as you\nwish, I'll take that life of yours!!」"
+    },
+    {
+      "id": "c19_061a0",
+      "speaker": "Adette",
+      "en": "(Gauli... I'm sorry...!)",
+      "display_variant": "en",
+      "display_text": "（(Gauli... I'm sorry...!)）"
+    },
+    {
+      "id": "c19_061c0",
+      "speaker": "Zakki",
+      "en": "Wha--!?",
+      "display_variant": "en",
+      "display_text": "「Wha--!?」"
+    },
+    {
+      "id": "c19_061e0",
+      "speaker": "Adette",
+      "en": "Now!",
+      "display_variant": "en",
+      "display_text": "「Now!」"
+    },
+    {
+      "id": "c19_06200",
+      "speaker": "Ana",
+      "en": "Adette!",
+      "display_variant": "en",
+      "display_text": "「Adette!」"
+    },
+    {
+      "id": "c19_06220",
+      "speaker": "Adette",
+      "en": "Looks like I'll be able to keep my promise after all!",
+      "display_variant": "en",
+      "display_text": "「Looks like I'll be able to keep my\npromise after all!」"
+    },
+    {
+      "id": "c19_06260",
+      "speaker": "Gauli",
+      "en": "Are you all right, Adette!",
+      "display_variant": "en",
+      "display_text": "「Are you all right, Adette!」"
+    },
+    {
+      "id": "c19_06280",
+      "speaker": "Adette",
+      "en": "I was waiting for you, my beloved Yapan ninja.",
+      "display_variant": "en",
+      "display_text": "「I was waiting for you, my beloved\nYapan ninja.」"
+    },
+    {
+      "id": "c19_062c0",
+      "speaker": "Gainer",
+      "en": "Princess Ana...! What in the world were you and Teacher Adette doing...!?",
+      "display_variant": "en",
+      "display_text": "「Princess Ana...! What in the world were\nyou and Teacher Adette doing...!?」"
+    },
+    {
+      "id": "c19_06300",
+      "speaker": "Ana",
+      "en": "That's...",
+      "display_variant": "en",
+      "display_text": "「That's...」"
+    },
+    {
+      "id": "c19_06320",
+      "speaker": "Adette",
+      "en": "Don't go poking your nose into girl talk, Gainer.",
+      "display_variant": "en",
+      "display_text": "「Don't go poking your nose into girl\ntalk, Gainer.」"
+    },
+    {
+      "id": "c19_06360",
+      "speaker": "Gainer",
+      "en": "But...",
+      "display_variant": "en",
+      "display_text": "「But...」"
+    },
+    {
+      "id": "c19_06380",
+      "speaker": "Adette",
+      "en": "Quit your grumbling and hurry up and cover me.",
+      "display_variant": "en",
+      "display_text": "「Quit your grumbling and hurry up and\ncover me.」"
+    },
+    {
+      "id": "c19_063d0",
+      "speaker": "Adette",
+      "en": "I've got a debt to pay back to that petty little punk, after all!",
+      "display_variant": "en",
+      "display_text": "「I've got a debt to pay back to that\npetty little punk, after all!」"
+    },
+    {
+      "id": "c19_06420",
+      "speaker": "Gainer",
+      "en": "Y-yes!",
+      "display_variant": "en",
+      "display_text": "「Y-yes!」"
+    },
+    {
+      "id": "c19_06440",
+      "speaker": "Ennil",
+      "en": "What a haughty woman. It's almost refreshing.",
+      "display_variant": "en",
+      "display_text": "「What a haughty woman. It's almost\nrefreshing.」"
+    },
+    {
+      "id": "c19_06480",
+      "speaker": "Pala",
+      "en": "Really! Is that the type Commander Gauli likes?",
+      "display_variant": "en",
+      "display_text": "「Really! Is that the type Commander\nGauli likes?」"
+    },
+    {
+      "id": "c19_064c0",
+      "speaker": "Gauli",
+      "en": "Heh...",
+      "display_variant": "en",
+      "display_text": "「Heh...」"
+    },
+    {
+      "id": "c19_064d0",
+      "speaker": "Renton",
+      "en": "That's a pretty confident smile...",
+      "display_variant": "en",
+      "display_text": "「That's a pretty confident smile...」"
+    },
+    {
+      "id": "c19_064f0",
+      "speaker": "Gain",
+      "en": "No need for silly questions. Let's hurry up and clean out these stray Sibe Rail stragglers.",
+      "display_variant": "en",
+      "display_text": "「No need for silly questions. Let's hurry\nup and clean out these stray Sibe Rail\nstragglers.」"
+    },
+    {
+      "id": "c19_06540",
+      "speaker": "Zakki",
+      "en": "Tch! Fine then, I'll just switch my prey from Ana Medaiyu to $c!",
+      "display_variant": "en",
+      "display_text": "「Tch! Fine then, I'll just switch my prey\nfrom Ana Medaiyu to $c!」"
+    },
+    {
+      "id": "c19_06590",
+      "speaker": "Ana",
+      "en": "Someone like you could never defeat $c!",
+      "display_variant": "en",
+      "display_text": "「Someone like you could never defeat\n$c!」"
+    },
+    {
+      "id": "c19_065d0",
+      "speaker": "Adette",
+      "en": "Not that he's the type to listen, though.",
+      "display_variant": "en",
+      "display_text": "「Not that he's the type to listen,\nthough.」"
+    },
+    {
+      "id": "c19_06610",
+      "speaker": "Adette",
+      "en": "So I'll just have to make him understand the hard way! And settle that earlier debt while I'm at it!",
+      "display_variant": "en",
+      "display_text": "「So I'll just have to make him\nunderstand the hard way! And settle that\nearlier debt while I'm at it!」"
+    },
+    {
+      "id": "c19_06660",
+      "speaker": "Adette",
+      "en": "Now then... with that nuisance out of the way, let's take care of our own business.",
+      "display_variant": "en",
+      "display_text": "「Now then... with that nuisance out of\nthe way, let's take care of our own\nbusiness.」"
+    },
+    {
+      "id": "c19_066b0",
+      "speaker": "Gainer",
+      "en": "That business being...?",
+      "display_variant": "en",
+      "display_text": "「That business being...?」"
+    },
+    {
+      "id": "c19_066d0",
+      "speaker": "Adette",
+      "en": "Like I said before. It's girl talk.",
+      "display_variant": "en",
+      "display_text": "「Like I said before. It's girl talk.」"
+    },
+    {
+      "id": "c19_06710",
+      "speaker": "Gain",
+      "en": "Seems like we're in the way here.",
+      "display_variant": "en",
+      "display_text": "「Seems like we're in the way here.」"
+    },
+    {
+      "id": "c19_06740",
+      "speaker": "$n",
+      "en": "Well then, we'll head back first. Let's go, Gainer.",
+      "display_variant": "en",
+      "display_text": "「Well then, we'll head back first. Let's\ngo, Gainer.」"
+    },
+    {
+      "id": "c19_06780",
+      "speaker": "Gainer",
+      "en": "Y-yes...",
+      "display_variant": "en",
+      "display_text": "「Y-yes...」"
+    },
+    {
+      "id": "c19_067a0",
+      "speaker": "Ana",
+      "en": "Thank you, Teacher Adette. I'm truly glad to have met someone like you.",
+      "display_variant": "en",
+      "display_text": "「Thank you, Teacher Adette. I'm truly\nglad to have met someone like you.」"
+    },
+    {
+      "id": "c19_06800",
+      "speaker": "Adette",
+      "en": "Told you, didn't I? A princess sure knows quality when she sees it.",
+      "display_variant": "en",
+      "display_text": "「Told you, didn't I? A princess sure\nknows quality when she sees it.」"
+    },
+    {
+      "id": "c19_06840",
+      "speaker": "Zakki",
+      "en": "R-ridiculous! I escaped Commander Asuham, only to lose here!?",
+      "display_variant": "en",
+      "display_text": "「R-ridiculous! I escaped Commander\nAsuham, only to lose here!?」"
+    },
+    {
+      "id": "c19_068a0",
+      "speaker": "Zakki",
+      "en": "Ngh, I'll come back another day! Someday, mark my words, I will reclaim my place!!",
+      "display_variant": "en",
+      "display_text": "「Ngh, I'll come back another day!\nSomeday, mark my words, I will reclaim my\nplace!!」"
+    },
+    {
+      "id": "c19_068f0",
+      "speaker": "Gain",
+      "en": "So he was Asuham's aide. Well... that's about the caliber he deserves.",
+      "display_variant": "en",
+      "display_text": "「So he was Asuham's aide. Well... that's\nabout the caliber he deserves.」"
+    },
+    {
+      "id": "c19_06940",
+      "speaker": "Adette",
+      "en": "Big dreams, small cup. With a vessel like that, there's only so much hope he could ever hold.",
+      "display_variant": "en",
+      "display_text": "「Big dreams, small cup. With a vessel\nlike that, there's only so much hope he\ncould ever hold.」"
+    },
+    {
+      "id": "c19_069a0",
+      "speaker": "Adette",
+      "en": "Hold on tight, Ana! My driving's a little rough!",
+      "display_variant": "en",
+      "display_text": "「Hold on tight, Ana! My driving's a little\nrough!」"
+    },
+    {
+      "id": "c19_06a00",
+      "speaker": "Ana",
+      "en": "D-don't worry about me, just do as you see fit!",
+      "display_variant": "en",
+      "display_text": "「D-don't worry about me, just do as you\nsee fit!」"
+    },
+    {
+      "id": "c19_06a40",
+      "speaker": "Adette",
+      "en": "...You don't have to push yourself. Even I was scared my first time in real combat.",
+      "display_variant": "en",
+      "display_text": "「...You don't have to push yourself. Even\nI was scared my first time in real\ncombat.」"
+    },
+    {
+      "id": "c19_06a90",
+      "speaker": "Adette",
+      "en": "Though I was a lot older than you are now.",
+      "display_variant": "en",
+      "display_text": "「Though I was a lot older than you are\nnow.」"
+    },
+    {
+      "id": "c19_06ad0",
+      "speaker": "Adette",
+      "en": "No matter what happens, you came to rely on me, and I'll make sure you're protected!",
+      "display_variant": "en",
+      "display_text": "「No matter what happens, you came to\nrely on me, and I'll make sure you're\nprotected!」"
+    },
+    {
+      "id": "c19_06b30",
+      "speaker": "Adette",
+      "en": "'Teacher' just means someone born earlier...! And it's an adult's job to protect a child, plain and simple!",
+      "display_variant": "en",
+      "display_text": "「'Teacher' just means someone born\nearlier...! And it's an adult's job to\nprotect a child, plain and simple!」"
+    },
+    {
+      "id": "c19_06b90",
+      "speaker": "Zakki",
+      "en": "Adette Kistler! Because you resisted needlessly, all my plans fell apart!",
+      "display_variant": "en",
+      "display_text": "「Adette Kistler! Because you resisted\nneedlessly, all my plans fell apart!」"
+    },
+    {
+      "id": "c19_06bf0",
+      "speaker": "Adette",
+      "en": "Blaming your own failure on somebody else just shows how shallow you really are.",
+      "display_variant": "en",
+      "display_text": "「Blaming your own failure on somebody\nelse just shows how shallow you really\nare.」"
+    },
+    {
+      "id": "c19_06c50",
+      "speaker": "Adette",
+      "en": "I fall for a strong man even if he's my enemy. But you? You don't even qualify!",
+      "display_variant": "en",
+      "display_text": "「I fall for a strong man even if he's my\nenemy. But you? You don't even qualify!」"
+    },
+    {
+      "id": "c19_06cb0",
+      "speaker": "Adette",
+      "en": "Weak little men need not apply!",
+      "display_variant": "en",
+      "display_text": "「Weak little men need not apply!」"
+    },
+    {
+      "id": "c19_06ce0",
+      "speaker": "Zakki",
+      "en": "Black Southern Cross! If Commander Asuham hadn't gone chasing after you, I never would have fallen this far!",
+      "display_variant": "en",
+      "display_text": "「Black Southern Cross! If Commander\nAsuham hadn't gone chasing after you, I\nnever would have fallen this far!」"
+    },
+    {
+      "id": "c19_06d40",
+      "speaker": "Gain",
+      "en": "Blaming me out of spite, huh. Figures, coming from one of Asuham Boone's men.",
+      "display_variant": "en",
+      "display_text": "「Blaming me out of spite, huh. Figures,\ncoming from one of Asuham Boone's men.」"
+    },
+    {
+      "id": "c19_06d80",
+      "speaker": "Gain",
+      "en": "But even if he's a bit hot-headed, a man who can fight for his family earns my respect.",
+      "display_variant": "en",
+      "display_text": "「But even if he's a bit hot-headed, a\nman who can fight for his family earns\nmy respect.」"
+    },
+    {
+      "id": "c19_06de0",
+      "speaker": "Zakki",
+      "en": "How is that respectable!? He's a man who's lost sight of everything around him over personal feelings!",
+      "display_variant": "en",
+      "display_text": "「How is that respectable!? He's a man\nwho's lost sight of everything around him\nover personal feelings!」"
+    },
+    {
+      "id": "c19_06e20",
+      "speaker": "Gain",
+      "en": "Compared to a man who chases down kids just to save his own skin, he's far easier to love!",
+      "display_variant": "en",
+      "display_text": "「Compared to a man who chases down\nkids just to save his own skin, he's far\neasier to love!」"
+    },
+    {
+      "id": "c19_06ed0",
+      "speaker": "Chill",
+      "en": "Hey, Gainer... do you know where Princess Ana went?",
+      "display_variant": "en",
+      "display_text": "「Hey, Gainer... do you know where\nPrincess Ana went?」"
+    },
+    {
+      "id": "c19_06f10",
+      "speaker": "Gainer",
+      "en": "Now that you mention it, I haven't seen her in a while...",
+      "display_variant": "en",
+      "display_text": "「Now that you mention it, I haven't seen\nher in a while...」"
+    },
+    {
+      "id": "c19_06f40",
+      "speaker": "Renton",
+      "en": "Even when I asked Maetel and the others, they said they didn't know.",
+      "display_variant": "en",
+      "display_text": "「Even when I asked Maetel and the\nothers, they said they didn't know.」"
+    },
+    {
+      "id": "c19_06f90",
+      "speaker": "Gainer",
+      "en": "Maybe she just took Lins and the others out to play somewhere.",
+      "display_variant": "en",
+      "display_text": "「Maybe she just took Lins and the\nothers out to play somewhere.」"
+    },
+    {
+      "id": "c19_06fe0",
+      "speaker": "Renton",
+      "en": "All by herself? That's dangerous.",
+      "display_variant": "en",
+      "display_text": "「All by herself? That's dangerous.」"
+    },
+    {
+      "id": "c19_07020",
+      "speaker": "Bello",
+      "en": "It'll be fine. Princess Ana has a good head on her shoulders.",
+      "display_variant": "en",
+      "display_text": "「It'll be fine. Princess Ana has a good\nhead on her shoulders.」"
+    },
+    {
+      "id": "c19_07060",
+      "speaker": "Sara",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c19_07070",
+      "speaker": "Gainer",
+      "en": "What's wrong, Sara?",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Sara?」"
+    },
+    {
+      "id": "c19_07090",
+      "speaker": "Sara",
+      "en": "Yeah... Lately... Princess Ana's seemed a little down, so I got worried...",
+      "display_variant": "en",
+      "display_text": "「Yeah... Lately... Princess Ana's seemed a\nlittle down, so I got worried...」"
+    },
+    {
+      "id": "c19_070e0",
+      "speaker": "Bello",
+      "en": "Don't tell me she ran away with something troubling her...!?",
+      "display_variant": "en",
+      "display_text": "「Don't tell me she ran away with\nsomething troubling her...!?」"
+    },
+    {
+      "id": "c19_07110",
+      "speaker": "Chill",
+      "en": "Well, Renton? What do you think?",
+      "display_variant": "en",
+      "display_text": "「Well, Renton? What do you think?」"
+    },
+    {
+      "id": "c19_07130",
+      "speaker": "Renton",
+      "en": "Eh... why are you asking me about that...?",
+      "display_variant": "en",
+      "display_text": "「Eh... why are you asking me about\nthat...?」"
+    },
+    {
+      "id": "c19_07160",
+      "speaker": "Chill",
+      "en": "You're the resident runaway expert, so you'd know, right...!?",
+      "display_variant": "en",
+      "display_text": "「You're the resident runaway expert, so\nyou'd know, right...!?」"
+    },
+    {
+      "id": "c19_071a0",
+      "speaker": "Renton",
+      "en": "Even if you put it that way...",
+      "display_variant": "en",
+      "display_text": "「Even if you put it that way...」"
+    },
+    {
+      "id": "c19_071d0",
+      "speaker": "Gauli",
+      "en": "No need to worry about Princess Ana. I saw her head out to the nearby town with Adette earlier.",
+      "display_variant": "en",
+      "display_text": "「No need to worry about Princess Ana. I\nsaw her head out to the nearby town\nwith Adette earlier.」"
+    },
+    {
+      "id": "c19_07230",
+      "speaker": "Gainer",
+      "en": "With Teacher Adette, huh.",
+      "display_variant": "en",
+      "display_text": "「With Teacher Adette, huh.」"
+    },
+    {
+      "id": "c19_07260",
+      "speaker": "Sara",
+      "en": "Somehow, I've got a bad feeling about this...",
+      "display_variant": "en",
+      "display_text": "「Somehow, I've got a bad feeling about\nthis...」"
+    },
+    {
+      "id": "c19_07290",
+      "speaker": "Adette",
+      "en": "...Was that really all right, Princess Ana? Not telling Gainer where you were headed.",
+      "display_variant": "en",
+      "display_text": "「...Was that really all right, Princess\nAna? Not telling Gainer where you were\nheaded.」"
+    },
+    {
+      "id": "c19_072e0",
+      "speaker": "Ana",
+      "en": "I didn't want to worry him needlessly.",
+      "display_variant": "en",
+      "display_text": "「I didn't want to worry him needlessly.」"
+    },
+    {
+      "id": "c19_07320",
+      "speaker": "Adette",
+      "en": "Then why did you ask me to be your chauffeur?",
+      "display_variant": "en",
+      "display_text": "「Then why did you ask me to be your\nchauffeur?」"
+    },
+    {
+      "id": "c19_07370",
+      "speaker": "Adette",
+      "en": "I don't mind, since I had nothing else going on, but I'd like to hear at least the reason you wanted to come to this town.",
+      "display_variant": "fit",
+      "display_text": "「I don't mind, since I had nothing else\ngoing on, but I'd like to at least hear\nwhy you wanted to come to this town.」"
+    },
+    {
+      "id": "c19_073e0",
+      "speaker": "Ana",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c19_073f0",
+      "speaker": "Lynx",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c19_07410",
+      "speaker": "Adette",
+      "en": "It's fine. I'm a woman who keeps her mouth shut.",
+      "display_variant": "en",
+      "display_text": "「It's fine. I'm a woman who keeps her\nmouth shut.」"
+    },
+    {
+      "id": "c19_07450",
+      "speaker": "Adette",
+      "en": "If you tell me to keep it secret, I won't breathe a word to anyone.",
+      "display_variant": "en",
+      "display_text": "「If you tell me to keep it secret, I\nwon't breathe a word to anyone.」"
+    },
+    {
+      "id": "c19_074a0",
+      "speaker": "Ana",
+      "en": "Really?",
+      "display_variant": "en",
+      "display_text": "「Really?」"
+    },
+    {
+      "id": "c19_074c0",
+      "speaker": "Adette",
+      "en": "It's a promise between women. I wouldn't crack even if you killed me.",
+      "display_variant": "en",
+      "display_text": "「It's a promise between women. I\nwouldn't crack even if you killed me.」"
+    },
+    {
+      "id": "c19_07500",
+      "speaker": "Ana",
+      "en": "Then, Adette Kistler... I'll trust you and tell you everything.",
+      "display_variant": "en",
+      "display_text": "「Then, Adette Kistler... I'll trust you\nand tell you everything.」"
+    },
+    {
+      "id": "c19_07550",
+      "speaker": "Ana",
+      "en": "I want to get in touch with my father in Wulgusk.",
+      "display_variant": "en",
+      "display_text": "「I want to get in touch with my father\nin Wulgusk.」"
+    },
+    {
+      "id": "c19_07590",
+      "speaker": "Adette",
+      "en": "Your father would be Duke Medaiyu, the lord of Wulgusk, then.",
+      "display_variant": "en",
+      "display_text": "「Your father would be Duke Medaiyu, the\nlord of Wulgusk, then.」"
+    },
+    {
+      "id": "c19_075e0",
+      "speaker": "Adette",
+      "en": "What, is this... homesickness?",
+      "display_variant": "en",
+      "display_text": "「What, is this... homesickness?」"
+    },
+    {
+      "id": "c19_07610",
+      "speaker": "Ana",
+      "en": "It's not that...! I'm on the Exodus of my own free will.",
+      "display_variant": "en",
+      "display_text": "「It's not that...! I'm on the Exodus of\nmy own free will.」"
+    },
+    {
+      "id": "c19_07660",
+      "speaker": "Ana",
+      "en": "It's just...",
+      "display_variant": "en",
+      "display_text": "「It's just...」"
+    },
+    {
+      "id": "c19_07670",
+      "speaker": "Adette",
+      "en": "Just...?",
+      "display_variant": "en",
+      "display_text": "「Just...?」"
+    },
+    {
+      "id": "c19_07690",
+      "speaker": "Ana",
+      "en": "Kizz Munt had it in for us after we succeeded in our Exodus.",
+      "display_variant": "en",
+      "display_text": "「Kizz Munt had it in for us after we\nsucceeded in our Exodus.」"
+    },
+    {
+      "id": "c19_076e0",
+      "speaker": "Ana",
+      "en": "I worry he might be taking that same anger out on Wulgusk...",
+      "display_variant": "en",
+      "display_text": "「I worry he might be taking that same\nanger out on Wulgusk...」"
+    },
+    {
+      "id": "c19_07730",
+      "speaker": "Adette",
+      "en": "We already took down Kizz Munt's trump card, the Overdevil. He'll probably lay low for a while.",
+      "display_variant": "en",
+      "display_text": "「We already took down Kizz Munt's trump\ncard, the Overdevil. He'll probably lay low\nfor a while.」"
+    },
+    {
+      "id": "c19_077a0",
+      "speaker": "Ana",
+      "en": "But that doesn't mean Sibe Rail is gone.",
+      "display_variant": "en",
+      "display_text": "「But that doesn't mean Sibe Rail is\ngone.」"
+    },
+    {
+      "id": "c19_077e0",
+      "speaker": "Ana",
+      "en": "As long as Sibe Rail controls Siberia's economy and supply lines, there are countless ways to strike at Dome Polis.",
+      "display_variant": "en",
+      "display_text": "「As long as Sibe Rail controls Siberia's\neconomy and supply lines, there are\ncountless ways to strike at Dome Polis.」"
+    },
+    {
+      "id": "c19_07850",
+      "speaker": "Adette",
+      "en": "...That man's been playing king since the day he was born. He's certainly not the type to stay quiet after being made a fool of.",
+      "display_variant": "fit",
+      "display_text": "「...That man's played king since the day\nhe was born. He's not the type to stay\nquiet after being made a fool of.」"
+    },
+    {
+      "id": "c19_078d0",
+      "speaker": "Ana",
+      "en": "That's why I wanted to come to this town's UN Center -- to confirm my father's safety.",
+      "display_variant": "en",
+      "display_text": "「That's why I wanted to come to this\ntown's UN Center -- to confirm my\nfather's safety.」"
+    },
+    {
+      "id": "c19_07940",
+      "speaker": "Adette",
+      "en": "There's a UN terminal on $c's ship too, you know. Couldn't you just use that?",
+      "display_variant": "en",
+      "display_text": "「There's a UN terminal on $c's ship\ntoo, you know. Couldn't you just use\nthat?」"
+    },
+    {
+      "id": "c19_079a0",
+      "speaker": "Ana",
+      "en": "If I used $c's UN terminal, Gainer and the others would surely notice and worry about me...",
+      "display_variant": "en",
+      "display_text": "「If I used $c's UN terminal, Gainer and\nthe others would surely notice and worry\nabout me...」"
+    },
+    {
+      "id": "c19_07a00",
+      "speaker": "Adette",
+      "en": "So you wanted to do it without them seeing... and that's why you came to me.",
+      "display_variant": "en",
+      "display_text": "「So you wanted to do it without them\nseeing... and that's why you came to me.」"
+    },
+    {
+      "id": "c19_07a60",
+      "speaker": "Adette",
+      "en": "You figured I wouldn't worry about you, is that it?",
+      "display_variant": "en",
+      "display_text": "「You figured I wouldn't worry about you,\nis that it?」"
+    },
+    {
+      "id": "c19_07ab0",
+      "speaker": "Ana",
+      "en": "That's not what I meant...!",
+      "display_variant": "en",
+      "display_text": "「That's not what I meant...!」"
+    },
+    {
+      "id": "c19_07ae0",
+      "speaker": "Adette",
+      "en": "I'm just teasing. But you know, princess... you've got a real eye for quality.",
+      "display_variant": "en",
+      "display_text": "「I'm just teasing. But you know,\nprincess... you've got a real eye for\nquality.」"
+    },
+    {
+      "id": "c19_07b20",
+      "speaker": "Adette",
+      "en": "The young master and young miss types would probably fuss over you too much, sure enough...",
+      "display_variant": "en",
+      "display_text": "「The young master and young miss types\nwould probably fuss over you too much,\nsure enough...」"
+    },
+    {
+      "id": "c19_07b70",
+      "speaker": "Adette",
+      "en": "Which means choosing me was the right call all along.",
+      "display_variant": "en",
+      "display_text": "「Which means choosing me was the right\ncall all along.」"
+    },
+    {
+      "id": "c19_07bb0",
+      "speaker": "Ana",
+      "en": "Adette Kistler...",
+      "display_variant": "en",
+      "display_text": "「Adette Kistler...」"
+    },
+    {
+      "id": "c19_07bd0",
+      "speaker": "Adette",
+      "en": "I promise. Since you told me everything properly, I'll back you all the way.",
+      "display_variant": "en",
+      "display_text": "「I promise. Since you told me everything\nproperly, I'll back you all the way.」"
+    },
+    {
+      "id": "c19_07c20",
+      "speaker": "Adette",
+      "en": "Just leave everything to your Teacher Adette.",
+      "display_variant": "en",
+      "display_text": "「Just leave everything to your Teacher\nAdette.」"
+    },
+    {
+      "id": "c19_07c50",
+      "speaker": "Ana",
+      "en": "Yes...! Thank you so much!",
+      "display_variant": "en",
+      "display_text": "「Yes...! Thank you so much!」"
+    },
+    {
+      "id": "c19_07c80",
+      "speaker": "Zakki",
+      "en": "Pardon the interruption... I believe you're Princess Ana, daughter of Duke Medaiyu of Wulgusk.",
+      "display_variant": "en",
+      "display_text": "「Pardon the interruption... I believe\nyou're Princess Ana, daughter of Duke\nMedaiyu of Wulgusk.」"
+    },
+    {
+      "id": "c19_07ce0",
+      "speaker": "Adette",
+      "en": "You... you're with Saint Regan!",
+      "display_variant": "en",
+      "display_text": "「You... you're with Saint Regan!」"
+    },
+    {
+      "id": "c19_07d10",
+      "speaker": "Zakki",
+      "en": "Much to my displeasure, 'former' comes attached to that now.",
+      "display_variant": "en",
+      "display_text": "「Much to my displeasure, 'former' comes\nattached to that now.」"
+    },
+    {
+      "id": "c19_07d40",
+      "speaker": "Zakki",
+      "en": "But if I capture the daughter of Wulgusk's lord, who went on the Exodus, I'll have a chance to get back into the military.",
+      "display_variant": "fit",
+      "display_text": "「But if I capture Wulgusk's lord's\ndaughter, who joined the Exodus, I'd have\na shot at getting back into the military.」"
+    },
+    {
+      "id": "c19_07da0",
+      "speaker": "Adette",
+      "en": "We're running, Ana! You're his target!",
+      "display_variant": "en",
+      "display_text": "「We're running, Ana! You're his target!」"
+    },
+    {
+      "id": "c19_07de0",
+      "speaker": "Ana",
+      "en": "Y-yes!",
+      "display_variant": "en",
+      "display_text": "「Y-yes!」"
+    },
+    {
+      "id": "c19_07e00",
+      "speaker": "Zakki",
+      "en": "Too late! Now, come with me.",
+      "display_variant": "en",
+      "display_text": "「Too late! Now, come with me.」"
+    },
+    {
+      "id": "c19_07e40",
+      "speaker": "Ana",
+      "en": "Kyaah! Linck, Rinna, Lins!!",
+      "display_variant": "en",
+      "display_text": "「Kyaah! Linck, Rinna, Lins!!」"
+    },
+    {
+      "id": "c19_07e80",
+      "speaker": "Zakki",
+      "en": "Wh-what are these rats!? Get out of my way!!",
+      "display_variant": "en",
+      "display_text": "「Wh-what are these rats!? Get out of\nmy way!!」"
+    },
+    {
+      "id": "c19_07ec0",
+      "speaker": "Adette",
+      "en": "Now's our chance! Run, Ana!",
+      "display_variant": "en",
+      "display_text": "「Now's our chance! Run, Ana!」"
+    },
+    {
+      "id": "c19_07ef0",
+      "speaker": "Ana",
+      "en": "Y-yes!!",
+      "display_variant": "en",
+      "display_text": "「Y-yes!!」"
+    },
+    {
+      "id": "c19_07f50",
+      "speaker": "Medaiyu",
+      "en": "...Ana...! It's really you, Ana!?",
+      "display_variant": "en",
+      "display_text": "「...Ana...! It's really you, Ana!?」"
+    },
+    {
+      "id": "c19_07f90",
+      "speaker": "Ana",
+      "en": "Yes, Father! It's been a long time, but it's really me, Ana.",
+      "display_variant": "en",
+      "display_text": "「Yes, Father! It's been a long time, but\nit's really me, Ana.」"
+    },
+    {
+      "id": "c19_07fe0",
+      "speaker": "Medaiyu",
+      "en": "Oh, Ana...",
+      "display_variant": "en",
+      "display_text": "「Oh, Ana...」"
+    },
+    {
+      "id": "c19_08000",
+      "speaker": "Ana",
+      "en": "So, Father... how are things in Wulgusk?",
+      "display_variant": "en",
+      "display_text": "「So, Father... how are things in Wulgusk?」"
+    },
+    {
+      "id": "c19_08040",
+      "speaker": "Medaiyu",
+      "en": "...!",
+      "display_variant": "en",
+      "display_text": "「...!」"
+    },
+    {
+      "id": "c19_08060",
+      "speaker": "Ana",
+      "en": "Has Sibe Rail been giving you and the others trouble because our Exodus succeeded?",
+      "display_variant": "en",
+      "display_text": "「Has Sibe Rail been giving you and the\nothers trouble because our Exodus\nsucceeded?」"
+    },
+    {
+      "id": "c19_080c0",
+      "speaker": "Medaiyu",
+      "en": "That's...",
+      "display_variant": "en",
+      "display_text": "「That's...」"
+    },
+    {
+      "id": "c19_080e0",
+      "speaker": "Ana",
+      "en": "I knew it, then...!? Sibe Rail has been targeting Wulgusk!",
+      "display_variant": "en",
+      "display_text": "「I knew it, then...!? Sibe Rail has been\ntargeting Wulgusk!」"
+    },
+    {
+      "id": "c19_08140",
+      "speaker": "Ana",
+      "en": "I'm... going back to Siberia no matter what. And I'll be by your side, Father...",
+      "display_variant": "en",
+      "display_text": "「I'm... going back to Siberia no matter\nwhat. And I'll be by your side, Father...」"
+    },
+    {
+      "id": "c19_08190",
+      "speaker": "Medaiyu",
+      "en": "I won't allow it!",
+      "display_variant": "en",
+      "display_text": "「I won't allow it!」"
+    },
+    {
+      "id": "c19_081b0",
+      "speaker": "Ana",
+      "en": "Eh...?",
+      "display_variant": "en",
+      "display_text": "「Eh...?」"
+    },
+    {
+      "id": "c19_081c0",
+      "speaker": "Medaiyu",
+      "en": "I don't want to see the face of an unfilial daughter who ran off on the Exodus!",
+      "display_variant": "en",
+      "display_text": "「I don't want to see the face of an\nunfilial daughter who ran off on the\nExodus!」"
+    },
+    {
+      "id": "c19_08210",
+      "speaker": "Ana",
+      "en": "Father...",
+      "display_variant": "en",
+      "display_text": "「Father...」"
+    },
+    {
+      "id": "c19_08230",
+      "speaker": "Medaiyu",
+      "en": "You're disowned! I won't allow you to come back, Ana!",
+      "display_variant": "en",
+      "display_text": "「You're disowned! I won't allow you to\ncome back, Ana!」"
+    },
+    {
+      "id": "c19_08270",
+      "speaker": "Ana",
+      "en": "Father...!",
+      "display_variant": "en",
+      "display_text": "「Father...!」"
+    },
+    {
+      "id": "c19_08290",
+      "speaker": "Adette",
+      "en": "Wait, Ana! Ana!",
+      "display_variant": "en",
+      "display_text": "「Wait, Ana! Ana!」"
+    },
+    {
+      "id": "c19_082c0",
+      "speaker": "Medaiyu",
+      "en": "Ana...",
+      "display_variant": "en",
+      "display_text": "「Ana...」"
+    },
+    {
+      "id": "c19_082e0",
+      "speaker": "Adette",
+      "en": "Even for a parent, that's going too far...! That girl was worried about you for real!",
+      "display_variant": "en",
+      "display_text": "「Even for a parent, that's going too\nfar...! That girl was worried about you\nfor real!」"
+    },
+    {
+      "id": "c19_08340",
+      "speaker": "Medaiyu",
+      "en": "...I am her parent. I know that much.",
+      "display_variant": "en",
+      "display_text": "「...I am her parent. I know that much.」"
+    },
+    {
+      "id": "c19_08380",
+      "speaker": "Adette",
+      "en": "You...",
+      "display_variant": "en",
+      "display_text": "「You...」"
+    },
+    {
+      "id": "c19_083a0",
+      "speaker": "Medaiyu",
+      "en": "It's a time like this... There's no telling when Wulgusk might be swallowed by war and the Medaiyu house destroyed.",
+      "display_variant": "en",
+      "display_text": "「It's a time like this... There's no\ntelling when Wulgusk might be swallowed\nby war and the Medaiyu house destroyed.」"
+    },
+    {
+      "id": "c19_08400",
+      "speaker": "Medaiyu",
+      "en": "That's exactly why I want Ana to broaden her horizons and gain the wisdom and strength to live on her own.",
+      "display_variant": "en",
+      "display_text": "「That's exactly why I want Ana to\nbroaden her horizons and gain the wisdom\nand strength to live on her own.」"
+    },
+    {
+      "id": "c19_08470",
+      "speaker": "Adette",
+      "en": "So that's why you said such harsh words...",
+      "display_variant": "en",
+      "display_text": "「So that's why you said such harsh\nwords...」"
+    },
+    {
+      "id": "c19_084a0",
+      "speaker": "Medaiyu",
+      "en": "As long as Ana is alive, the Medaiyu bloodline won't die out...",
+      "display_variant": "en",
+      "display_text": "「As long as Ana is alive, the Medaiyu\nbloodline won't die out...」"
+    },
+    {
+      "id": "c19_084f0",
+      "speaker": "Medaiyu",
+      "en": "I don't know who you are, but it seems Ana trusts you.",
+      "display_variant": "en",
+      "display_text": "「I don't know who you are, but it seems\nAna trusts you.」"
+    },
+    {
+      "id": "c19_08550",
+      "speaker": "Medaiyu",
+      "en": "I have no right to ask this of you, but please, I beg you to look after that girl.",
+      "display_variant": "en",
+      "display_text": "「I have no right to ask this of you,\nbut please, I beg you to look after that\ngirl.」"
+    },
+    {
+      "id": "c19_085c0",
+      "speaker": "Adette",
+      "en": "...Family's a good thing, isn't it.",
+      "display_variant": "en",
+      "display_text": "「...Family's a good thing, isn't it.」"
+    },
+    {
+      "id": "c19_085f0",
+      "speaker": "Medaiyu",
+      "en": "Ma'am...",
+      "display_variant": "en",
+      "display_text": "「Ma'am...」"
+    },
+    {
+      "id": "c19_08610",
+      "speaker": "Adette",
+      "en": "Leave it to me, Duke Medaiyu. That girl is a precious comrade of mine, and a dear student too.",
+      "display_variant": "en",
+      "display_text": "「Leave it to me, Duke Medaiyu. That girl\nis a precious comrade of mine, and a dear\nstudent too.」"
+    },
+    {
+      "id": "c19_08670",
+      "speaker": "Medaiyu",
+      "en": "Oh... so you're someone in the teaching profession.",
+      "display_variant": "en",
+      "display_text": "「Oh... so you're someone in the teaching\nprofession.」"
+    },
+    {
+      "id": "c19_086b0",
+      "speaker": "Adette",
+      "en": "Just leave it to Teacher Adette here. I promise I'll protect that girl.",
+      "display_variant": "en",
+      "display_text": "「Just leave it to Teacher Adette here. I\npromise I'll protect that girl.」"
+    },
+    {
+      "id": "c19_08700",
+      "speaker": "Adette",
+      "en": "And when this journey's over, I'll deliver her right back to you. So make sure you live long enough to see that day.",
+      "display_variant": "fit",
+      "display_text": "「And once this journey's over, I'll\ndeliver her right back to you. So live\nlong enough to see that day.」"
+    },
+    {
+      "id": "c19_08780",
+      "speaker": "Ana",
+      "en": "...Father... Father... eh... uuh...",
+      "display_variant": "en",
+      "display_text": "「...Father... Father... eh... uuh...」"
+    },
+    {
+      "id": "c19_087b0",
+      "speaker": "Adette",
+      "en": "Good work, little rats. Leave the rest to me.",
+      "display_variant": "en",
+      "display_text": "「Good work, little rats. Leave the rest\nto me.」"
+    },
+    {
+      "id": "c19_087f0",
+      "speaker": "Ana",
+      "en": "Teacher Adette... I... I... *hic*...",
+      "display_variant": "en",
+      "display_text": "「Teacher Adette... I... I... *hic*...」"
+    },
+    {
+      "id": "c19_08820",
+      "speaker": "Adette",
+      "en": "Ana... your father, you know...",
+      "display_variant": "en",
+      "display_text": "「Ana... your father, you know...」"
+    },
+    {
+      "id": "c19_08850",
+      "speaker": "Ana",
+      "en": "Uu... please don't think... *sob*... that Father is a terrible person...",
+      "display_variant": "en",
+      "display_text": "「Uu... please don't think... *sob*...\nthat Father is a terrible person...」"
+    },
+    {
+      "id": "c19_088a0",
+      "speaker": "Adette",
+      "en": "Eh...",
+      "display_variant": "en",
+      "display_text": "「Eh...」"
+    },
+    {
+      "id": "c19_088c0",
+      "speaker": "Ana",
+      "en": "Uuh... Father... surely... u... wanted to tell me... to not worry about him... *hic*... and keep going on my journey...",
+      "display_variant": "en",
+      "display_text": "「Uuh... Father... surely... u... wanted to\ntell me... to not worry about him...\n*hic*... and keep going on my journey...」"
+    },
+    {
+      "id": "c19_08930",
+      "speaker": "Adette",
+      "en": "Ana...",
+      "display_variant": "en",
+      "display_text": "「Ana...」"
+    },
+    {
+      "id": "c19_08950",
+      "speaker": "Ana",
+      "en": "Thank you, Father! I'll... make you proud as a daughter of the Medaiyu house!",
+      "display_variant": "en",
+      "display_text": "「Thank you, Father! I'll... make you\nproud as a daughter of the Medaiyu\nhouse!」"
+    },
+    {
+      "id": "c19_089a0",
+      "speaker": "Ana",
+      "en": "Waaah! Waaah!! Fatherrrrr!!",
+      "display_variant": "en",
+      "display_text": "「Waaah! Waaah!! Fatherrrrr!!」"
+    },
+    {
+      "id": "c19_089e0",
+      "speaker": "Adette",
+      "en": "(Cry all you want, Ana... It's just the two of us here, after all.)",
+      "display_variant": "en",
+      "display_text": "（(Cry all you want, Ana... It's just the\ntwo of us here, after all.)）"
+    },
+    {
+      "id": "c19_08a30",
+      "speaker": "Adette",
+      "en": "(Cry your heart out today... I'll stay with you until you've had enough...)",
+      "display_variant": "en",
+      "display_text": "（(Cry your heart out today... I'll stay\nwith you until you've had enough...)）"
+    }
+  ]
+}

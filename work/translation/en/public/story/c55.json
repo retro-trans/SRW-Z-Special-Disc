@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c55_03190",
+      "speaker": "Scirocco",
+      "en": "Oh...? It seems there's a force that's broken through our defenses and made it here.",
+      "display_variant": "en",
+      "display_text": "「Oh...? It seems there's a force that's\nbroken through our defenses and made it\nhere.」"
+    },
+    {
+      "id": "c55_031e0",
+      "speaker": "Shagia",
+      "en": "A suicide assault squad, is it. Not bad at all.",
+      "display_variant": "en",
+      "display_text": "「A suicide assault squad, is it. Not bad\nat all.」"
+    },
+    {
+      "id": "c55_03220",
+      "speaker": "Olba",
+      "en": "Then let's smash that last hope of theirs to pieces.",
+      "display_variant": "en",
+      "display_text": "「Then let's smash that last hope of\ntheirs to pieces.」"
+    },
+    {
+      "id": "c55_03270",
+      "speaker": "Haman",
+      "en": "Don't underestimate them. The strength of those driven into a corner can sometimes defy imagination.",
+      "display_variant": "en",
+      "display_text": "「Don't underestimate them. The strength\nof those driven into a corner can\nsometimes defy imagination.」"
+    },
+    {
+      "id": "c55_032c0",
+      "speaker": "Ghingnham",
+      "en": "Then I shall hope for it -- that someone worthy of facing this Turn X has come!",
+      "display_variant": "en",
+      "display_text": "「Then I shall hope for it -- that\nsomeone worthy of facing this Turn X has\ncome!」"
+    },
+    {
+      "id": "c55_03320",
+      "speaker": "Ghingnham",
+      "en": "Come, warriors! Give me some entertainment!",
+      "display_variant": "en",
+      "display_text": "「Come, warriors! Give me some\nentertainment!」"
+    },
+    {
+      "id": "c55_03360",
+      "speaker": "Shagia",
+      "en": "To think they mean to take us down with a force this size.",
+      "display_variant": "en",
+      "display_text": "「To think they mean to take us down\nwith a force this size.」"
+    },
+    {
+      "id": "c55_033a0",
+      "speaker": "Olba",
+      "en": "But I won't hold back. Anyone who gets in our way gets completely erased.",
+      "display_variant": "en",
+      "display_text": "「But I won't hold back. Anyone who gets\nin our way gets completely erased.」"
+    },
+    {
+      "id": "c55_033f0",
+      "speaker": "Scirocco",
+      "en": "Give it five minutes and the fighting around us will be settled. I'll keep you company until then.",
+      "display_variant": "en",
+      "display_text": "「Give it five minutes and the fighting\naround us will be settled. I'll keep you\ncompany until then.」"
+    },
+    {
+      "id": "c55_03440",
+      "speaker": "Scirocco",
+      "en": "In these five minutes... you'll come to despair at your own powerlessness.",
+      "display_variant": "en",
+      "display_text": "「In these five minutes... you'll come to\ndespair at your own powerlessness.」"
+    },
+    {
+      "id": "c55_03490",
+      "speaker": "Arthur",
+      "en": "Enemy commander confirmed shot down! This is our victory!",
+      "display_variant": "en",
+      "display_text": "「Enemy commander confirmed shot down!\nThis is our victory!」"
+    },
+    {
+      "id": "c55_034d0",
+      "speaker": "Talia",
+      "en": "Everyone, you did wonderfully. That's what I'd expect from an assault squad made of our elites.",
+      "display_variant": "en",
+      "display_text": "「Everyone, you did wonderfully. That's\nwhat I'd expect from an assault squad\nmade of our elites.」"
+    },
+    {
+      "id": "c55_03520",
+      "speaker": "Talia",
+      "en": "Now, let's head home. Everyone's waiting for you all.",
+      "display_variant": "en",
+      "display_text": "「Now, let's head home. Everyone's waiting\nfor you all.」"
+    },
+    {
+      "id": "c55_03570",
+      "speaker": "Scirocco",
+      "en": "Impossible...! That the O and I would fall!?",
+      "display_variant": "en",
+      "display_text": "「Impossible...! That the O and I would\nfall!?」"
+    },
+    {
+      "id": "c55_035b0",
+      "speaker": "Haman",
+      "en": "Ngh...! To think they had this much strength in them!",
+      "display_variant": "en",
+      "display_text": "「Ngh...! To think they had this much\nstrength in them!」"
+    },
+    {
+      "id": "c55_035f0",
+      "speaker": "Shagia",
+      "en": "Tch! Is it going to end here!?",
+      "display_variant": "en",
+      "display_text": "「Tch! Is it going to end here!?」"
+    },
+    {
+      "id": "c55_03620",
+      "speaker": "Olba",
+      "en": "Our war isn't over! I won't let it end!",
+      "display_variant": "en",
+      "display_text": "「Our war isn't over! I won't let it end!」"
+    },
+    {
+      "id": "c55_03660",
+      "speaker": "Ghingnham",
+      "en": "Ha ha ha ha ha ha, what a fine battle! I'll give you my praise!!",
+      "display_variant": "en",
+      "display_text": "「Ha ha ha ha ha ha, what a fine battle!\nI'll give you my praise!!」"
+    },
+    {
+      "id": "c55_036b0",
+      "speaker": "Arthur",
+      "en": "T-the assault squad has been wiped out!",
+      "display_variant": "en",
+      "display_text": "「T-the assault squad has been wiped\nout!」"
+    },
+    {
+      "id": "c55_036e0",
+      "speaker": "Talia",
+      "en": "The operation's a failure... This is our defeat...",
+      "display_variant": "en",
+      "display_text": "「The operation's a failure... This is our\ndefeat...」"
+    },
+    {
+      "id": "c55_03710",
+      "speaker": "Arthur",
+      "en": "C-Captain! If we keep fighting like this, all that awaits us is annihilation!",
+      "display_variant": "en",
+      "display_text": "「C-Captain! If we keep fighting like\nthis, all that awaits us is annihilation!」"
+    },
+    {
+      "id": "c55_03760",
+      "speaker": "Talia",
+      "en": "This makes the operation a failure. It's our defeat...",
+      "display_variant": "en",
+      "display_text": "「This makes the operation a failure. It's\nour defeat...」"
+    },
+    {
+      "id": "c55_037f0",
+      "speaker": "Talia",
+      "en": "Arthur, what's the enemy's situation?",
+      "display_variant": "en",
+      "display_text": "「Arthur, what's the enemy's situation?」"
+    },
+    {
+      "id": "c55_03820",
+      "speaker": "Arthur",
+      "en": "Defense forces are deployed around the perimeter. The core of their strength is at the very innermost point.",
+      "display_variant": "en",
+      "display_text": "「Defense forces are deployed around the\nperimeter. The core of their strength is\nat the very innermost point.」"
+    },
+    {
+      "id": "c55_03870",
+      "speaker": "Talia",
+      "en": "So that's where Paptimus Scirocco, Haman Karn, the Frost brothers, and Gym Ghingnham are.",
+      "display_variant": "en",
+      "display_text": "「So that's where Paptimus Scirocco,\nHaman Karn, the Frost brothers, and Gym\nGhingnham are.」"
+    },
+    {
+      "id": "c55_038e0",
+      "speaker": "Arthur",
+      "en": "Beyond that, elite units from every faction are guarding them as well.",
+      "display_variant": "en",
+      "display_text": "「Beyond that, elite units from every\nfaction are guarding them as well.」"
+    },
+    {
+      "id": "c55_03920",
+      "speaker": "Talia",
+      "en": "...It can't be helped. We'll launch a single-point breakthrough.",
+      "display_variant": "en",
+      "display_text": "「...It can't be helped. We'll launch a\nsingle-point breakthrough.」"
+    },
+    {
+      "id": "c55_03960",
+      "speaker": "Arthur",
+      "en": "T-then...!?",
+      "display_variant": "en",
+      "display_text": "「T-then...!?」"
+    },
+    {
+      "id": "c55_03980",
+      "speaker": "Talia",
+      "en": "We commit the entire fleet to send an assault force straight into the enemy's innermost stronghold... That's the only way to break this open.",
+      "display_variant": "compact",
+      "display_text": "「We send the whole fleet's assault force\nstraight at the enemy's core -- it's our\nonly way through.」"
+    },
+    {
+      "id": "c55_039e0",
+      "speaker": "Arthur",
+      "en": "But according to our calculations, at most eight squads could possibly reach the innermost point!",
+      "display_variant": "en",
+      "display_text": "「But according to our calculations, at\nmost eight squads could possibly reach\nthe innermost point!」"
+    },
+    {
+      "id": "c55_03a40",
+      "speaker": "Talia",
+      "en": "We're doing it anyway. To win.",
+      "display_variant": "en",
+      "display_text": "「We're doing it anyway. To win.」"
+    },
+    {
+      "id": "c55_03a70",
+      "speaker": "Talia",
+      "en": "All ships and units, back up the assault squad! We're staking our fate on those eight squads!",
+      "display_variant": "en",
+      "display_text": "「All ships and units, back up the assault\nsquad! We're staking our fate on those\neight squads!」"
+    }
+  ]
+}

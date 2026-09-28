@@ -1,0 +1,3470 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c28_0ae10",
+      "speaker": "Banjo",
+      "en": "As I thought, the Executor System had activated here too.",
+      "display_variant": "en",
+      "display_text": "「As I thought, the Executor System had\nactivated here too.」"
+    },
+    {
+      "id": "c28_0ae50",
+      "speaker": "Jiron",
+      "en": "Then where did the drone that came out of this hole go?",
+      "display_variant": "en",
+      "display_text": "「Then where did the drone that came out\nof this hole go?」"
+    },
+    {
+      "id": "c28_0aea0",
+      "speaker": "Amuro",
+      "en": "If the system's core is in Japan, it was likely called back there to defend it.",
+      "display_variant": "en",
+      "display_text": "「If the system's core is in Japan, it\nwas likely called back there to defend it.」"
+    },
+    {
+      "id": "c28_0af10",
+      "speaker": "Ryouma",
+      "en": "So that's the reason Japan wasn't attacked.",
+      "display_variant": "en",
+      "display_text": "「So that's the reason Japan wasn't\nattacked.」"
+    },
+    {
+      "id": "c28_0af50",
+      "speaker": "Loran",
+      "en": "$n, this place... is it...",
+      "display_variant": "en",
+      "display_text": "「$n, this place... is it...」"
+    },
+    {
+      "id": "c28_0af70",
+      "speaker": "$n",
+      "en": "It's the same as the Lost Mountain we saw in western Gallia Continent.",
+      "display_variant": "en",
+      "display_text": "「It's the same as the Lost Mountain we\nsaw in western Gallia Continent.」"
+    },
+    {
+      "id": "c28_0afb0",
+      "speaker": "$n",
+      "en": "I think the Overman we fought back then was an Executor too.",
+      "display_variant": "en",
+      "display_text": "「I think the Overman we fought back\nthen was an Executor too.」"
+    },
+    {
+      "id": "c28_0b000",
+      "speaker": "Sochie",
+      "en": "What do you mean?",
+      "display_variant": "en",
+      "display_text": "「What do you mean?」"
+    },
+    {
+      "id": "c28_0b020",
+      "speaker": "$n",
+      "en": "If the Executor System's purpose is to restore Earth's environment, I'd think it was designed to remove radiation too.",
+      "display_variant": "fit",
+      "display_text": "「If the Executor System aims to restore\nEarth's environment, I'd think it was\ndesigned to remove radiation too.」"
+    },
+    {
+      "id": "c28_0b090",
+      "speaker": "Loran",
+      "en": "So that Overman woke up in response to the emergency of a nuke being used.",
+      "display_variant": "en",
+      "display_text": "「So that Overman woke up in response to\nthe emergency of a nuke being used.」"
+    },
+    {
+      "id": "c28_0b0f0",
+      "speaker": "Loran",
+      "en": "Joseph, this place... is it...",
+      "display_variant": "en",
+      "display_text": "「Joseph, this place... is it...」"
+    },
+    {
+      "id": "c28_0b110",
+      "speaker": "Joseph",
+      "en": "It's the same as the Lost Mountain we saw in western Gallia Continent.",
+      "display_variant": "en",
+      "display_text": "「It's the same as the Lost Mountain we\nsaw in western Gallia Continent.」"
+    },
+    {
+      "id": "c28_0b160",
+      "speaker": "Loran",
+      "en": "...I think the Overman we fought back then was an Executor too.",
+      "display_variant": "en",
+      "display_text": "「...I think the Overman we fought back\nthen was an Executor too.」"
+    },
+    {
+      "id": "c28_0b1b0",
+      "speaker": "Sochie",
+      "en": "What do you mean?",
+      "display_variant": "en",
+      "display_text": "「What do you mean?」"
+    },
+    {
+      "id": "c28_0b1d0",
+      "speaker": "Loran",
+      "en": "If the Executor System's purpose is to restore Earth's environment, I think it was meant to remove radiation too.",
+      "display_variant": "fit",
+      "display_text": "「If the Executor System aims to restore\nEarth's environment, I think it was meant\nto remove radiation too.」"
+    },
+    {
+      "id": "c28_0b240",
+      "speaker": "Loran",
+      "en": "So that Overman woke up in response to the emergency of a nuke being used.",
+      "display_variant": "en",
+      "display_text": "「So that Overman woke up in response to\nthe emergency of a nuke being used.」"
+    },
+    {
+      "id": "c28_0b2a0",
+      "speaker": "Koji",
+      "en": "If there's someone in Japan controlling the Executor System...",
+      "display_variant": "en",
+      "display_text": "「If there's someone in Japan controlling\nthe Executor System...」"
+    },
+    {
+      "id": "c28_0b2f0",
+      "speaker": "Athrun",
+      "en": "Then they've surely already started moving against us.",
+      "display_variant": "en",
+      "display_text": "「Then they've surely already started\nmoving against us.」"
+    },
+    {
+      "id": "c28_0b330",
+      "speaker": "Holland",
+      "en": "Just as I figured...! Here they come!",
+      "display_variant": "en",
+      "display_text": "「Just as I figured...! Here they come!」"
+    },
+    {
+      "id": "c28_0b360",
+      "speaker": "Kappei",
+      "en": "There you are, Executors!",
+      "display_variant": "en",
+      "display_text": "「There you are, Executors!」"
+    },
+    {
+      "id": "c28_0b390",
+      "speaker": "Toshiya",
+      "en": "This is the boss's own backyard, all right...! Both quality and numbers are a whole different league from last time!",
+      "display_variant": "fit",
+      "display_text": "「The boss's own backyard, all right! Both\nquality and numbers beat last time by a\nmile!」"
+    },
+    {
+      "id": "c28_0b3e0",
+      "speaker": "Shinn",
+      "en": "But this makes it clear! The system's core really is in Japan!",
+      "display_variant": "en",
+      "display_text": "「But this makes it clear! The system's\ncore really is in Japan!」"
+    },
+    {
+      "id": "c28_0b440",
+      "speaker": "Gainer",
+      "en": "Ugh...!",
+      "display_variant": "en",
+      "display_text": "「Ugh...!」"
+    },
+    {
+      "id": "c28_0b460",
+      "speaker": "Sara",
+      "en": "What's wrong, Gainer!?",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Gainer!?」"
+    },
+    {
+      "id": "c28_0b490",
+      "speaker": "Gainer",
+      "en": "King Gainer is being called...! Something's pulling it with tremendous force!",
+      "display_variant": "en",
+      "display_text": "「King Gainer is being called...!\nSomething's pulling it with tremendous\nforce!」"
+    },
+    {
+      "id": "c28_0b4e0",
+      "speaker": "Cynthia",
+      "en": "Gainer! Look at that!!",
+      "display_variant": "en",
+      "display_text": "「Gainer! Look at that!!」"
+    },
+    {
+      "id": "c28_0b510",
+      "speaker": "???",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c28_0b530",
+      "speaker": "Loran",
+      "en": "King Gainer!?",
+      "display_variant": "en",
+      "display_text": "「King Gainer!?」"
+    },
+    {
+      "id": "c28_0b550",
+      "speaker": "Kei",
+      "en": "The details are different...! That's not King Gainer!",
+      "display_variant": "en",
+      "display_text": "「The details are different...! That's not\nKing Gainer!」"
+    },
+    {
+      "id": "c28_0b590",
+      "speaker": "Gain",
+      "en": "A black Overman... Should we call it the Black Overman...",
+      "display_variant": "en",
+      "display_text": "「A black Overman... Should we call it the\nBlack Overman...」"
+    },
+    {
+      "id": "c28_0b5e0",
+      "speaker": "Gainer",
+      "en": "Ngh... aagh...",
+      "display_variant": "en",
+      "display_text": "「Ngh... aagh...」"
+    },
+    {
+      "id": "c28_0b600",
+      "speaker": "Garrod",
+      "en": "What's wrong, Gainer!?",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Gainer!?」"
+    },
+    {
+      "id": "c28_0b630",
+      "speaker": "Gainer",
+      "en": "It's that...",
+      "display_variant": "en",
+      "display_text": "「It's that...」"
+    },
+    {
+      "id": "c28_0b648",
+      "speaker": "Sara",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c28_0b660",
+      "speaker": "Gainer",
+      "en": "That Overman is the one that's been calling King Gainer!",
+      "display_variant": "en",
+      "display_text": "「That Overman is the one that's been\ncalling King Gainer!」"
+    },
+    {
+      "id": "c28_0b6b0",
+      "speaker": "Adette",
+      "en": "What did you say!?",
+      "display_variant": "en",
+      "display_text": "「What did you say!?」"
+    },
+    {
+      "id": "c28_0b6d0",
+      "speaker": "Holland",
+      "en": "What the hell's going on!? Explain it, Gainer!",
+      "display_variant": "en",
+      "display_text": "「What the hell's going on!? Explain it,\nGainer!」"
+    },
+    {
+      "id": "c28_0b710",
+      "speaker": "Gainer",
+      "en": "I... I just understood...!",
+      "display_variant": "en",
+      "display_text": "「I... I just understood...!」"
+    },
+    {
+      "id": "c28_0b740",
+      "speaker": "Gainer",
+      "en": "That Overman is the core of the Executor System!",
+      "display_variant": "en",
+      "display_text": "「That Overman is the core of the\nExecutor System!」"
+    },
+    {
+      "id": "c28_0b790",
+      "speaker": "Duke",
+      "en": "Then...!",
+      "display_variant": "en",
+      "display_text": "「Then...!」"
+    },
+    {
+      "id": "c28_0b7b0",
+      "speaker": "Kamille",
+      "en": "So that Overman's pilot is the mastermind who had the whole world attacked!",
+      "display_variant": "en",
+      "display_text": "「So that Overman's pilot is the\nmastermind who had the whole world\nattacked!」"
+    },
+    {
+      "id": "c28_0b800",
+      "speaker": "Dianna",
+      "en": "All units, focus your attacks on that Overman!",
+      "display_variant": "en",
+      "display_text": "「All units, focus your attacks on that\nOverman!」"
+    },
+    {
+      "id": "c28_0b840",
+      "speaker": "Kappei",
+      "en": "That bastard! Is he trying to run!?",
+      "display_variant": "en",
+      "display_text": "「That bastard! Is he trying to run!?」"
+    },
+    {
+      "id": "c28_0b860",
+      "speaker": "Banjo",
+      "en": "Seems he understands his own position as the commander.",
+      "display_variant": "en",
+      "display_text": "「Seems he understands his own position\nas the commander.」"
+    },
+    {
+      "id": "c28_0b8a0",
+      "speaker": "Quattro",
+      "en": "He's set his guards on us and pulled back to a safe distance.",
+      "display_variant": "en",
+      "display_text": "「He's set his guards on us and pulled\nback to a safe distance.」"
+    },
+    {
+      "id": "c28_0b8f0",
+      "speaker": "Touga",
+      "en": "Then we'll just have to smash the guard corps and go after him.",
+      "display_variant": "en",
+      "display_text": "「Then we'll just have to smash the\nguard corps and go after him.」"
+    },
+    {
+      "id": "c28_0b930",
+      "speaker": "Eiji",
+      "en": "We finally got our hands on his tail! No way I'm letting him get away!",
+      "display_variant": "en",
+      "display_text": "「We finally got our hands on his tail! No\nway I'm letting him get away!」"
+    },
+    {
+      "id": "c28_0b970",
+      "speaker": "Jamil",
+      "en": "Begin the attack! Break through the drone swarm and pursue the Black Overman!",
+      "display_variant": "en",
+      "display_text": "「Begin the attack! Break through the\ndrone swarm and pursue the Black\nOverman!」"
+    },
+    {
+      "id": "c28_0b9d0",
+      "speaker": "Apollo",
+      "en": "Count on you, Reika, Pierre, Rena! Knock them around and show the old man a thing or two!",
+      "display_variant": "en",
+      "display_text": "「Count on you, Reika, Pierre, Rena! Knock\nthem around and show the old man a thing\nor two!」"
+    },
+    {
+      "id": "c28_0ba40",
+      "speaker": "Pierre",
+      "en": "Leave it to us, Apollo! Let's go, Reika, Rena!",
+      "display_variant": "en",
+      "display_text": "「Leave it to us, Apollo! Let's go, Reika,\nRena!」"
+    },
+    {
+      "id": "c28_0ba80",
+      "speaker": "Rena",
+      "en": "Guess we'll have to give it our all here.",
+      "display_variant": "en",
+      "display_text": "「Guess we'll have to give it our all\nhere.」"
+    },
+    {
+      "id": "c28_0bab0",
+      "speaker": "Reika",
+      "en": "I won't let more misery spread across the world...!",
+      "display_variant": "en",
+      "display_text": "「I won't let more misery spread across\nthe world...!」"
+    },
+    {
+      "id": "c28_0baf0",
+      "speaker": "Gainer",
+      "en": "Ngh... aagh...",
+      "display_variant": "en",
+      "display_text": "「Ngh... aagh...」"
+    },
+    {
+      "id": "c28_0bb10",
+      "speaker": "Sara",
+      "en": "Are you okay, Gainer?",
+      "display_variant": "en",
+      "display_text": "「Are you okay, Gainer?」"
+    },
+    {
+      "id": "c28_0bb30",
+      "speaker": "Gainer",
+      "en": "S-somehow...",
+      "display_variant": "en",
+      "display_text": "「S-somehow...」"
+    },
+    {
+      "id": "c28_0bb50",
+      "speaker": "Gainer",
+      "en": "I get it now... what that Overman really is...",
+      "display_variant": "en",
+      "display_text": "（I get it now... what that Overman\nreally is...）"
+    },
+    {
+      "id": "c28_0bb90",
+      "speaker": "Gainer",
+      "en": "That's got to be...",
+      "display_variant": "en",
+      "display_text": "（That's got to be...）"
+    },
+    {
+      "id": "c28_0bbb0",
+      "speaker": "Loran",
+      "en": "This reading... don't tell me!?",
+      "display_variant": "en",
+      "display_text": "「This reading... don't tell me!?」"
+    },
+    {
+      "id": "c28_0bbd0",
+      "speaker": "Gidget",
+      "en": "New unit approaching confirmed! I believe it's an Executor System drone!",
+      "display_variant": "en",
+      "display_text": "「New unit approaching confirmed! I\nbelieve it's an Executor System drone!」"
+    },
+    {
+      "id": "c28_0bc30",
+      "speaker": "Hap",
+      "en": "Wait a second! That thing in the lead is...!",
+      "display_variant": "en",
+      "display_text": "「Wait a second! That thing in the lead\nis...!」"
+    },
+    {
+      "id": "c28_0bc60",
+      "speaker": "Loran",
+      "en": "The Turn X!",
+      "display_variant": "en",
+      "display_text": "「The Turn X!」"
+    },
+    {
+      "id": "c28_0bc80",
+      "speaker": "Dianna",
+      "en": "Does that thing carry the Executor System too!?",
+      "display_variant": "en",
+      "display_text": "「Does that thing carry the Executor\nSystem too!?」"
+    },
+    {
+      "id": "c28_0bcd0",
+      "speaker": "Ghingnham",
+      "en": "No! The one riding it is I!",
+      "display_variant": "en",
+      "display_text": "「No! The one riding it is I!」"
+    },
+    {
+      "id": "c28_0bd10",
+      "speaker": "Dianna",
+      "en": "Gym Ghingnham!",
+      "display_variant": "en",
+      "display_text": "「Gym Ghingnham!」"
+    },
+    {
+      "id": "c28_0bd30",
+      "speaker": "Ghingnham",
+      "en": "It's been a while, Dianna.",
+      "display_variant": "en",
+      "display_text": "「It's been a while, Dianna.」"
+    },
+    {
+      "id": "c28_0bd60",
+      "speaker": "Jiron",
+      "en": "The Moon's general who loves nothing but fighting!",
+      "display_variant": "en",
+      "display_text": "「The Moon's general who loves nothing\nbut fighting!」"
+    },
+    {
+      "id": "c28_0bd90",
+      "speaker": "Kira",
+      "en": "But wasn't he swallowed up by the Moonlight Butterfly's rampage at Atlandia...?",
+      "display_variant": "en",
+      "display_text": "「But wasn't he swallowed up by the\nMoonlight Butterfly's rampage at\nAtlandia...?」"
+    },
+    {
+      "id": "c28_0bde0",
+      "speaker": "Ghingnham",
+      "en": "I did not die! Both I and the Turn X still had regrets left in this world!",
+      "display_variant": "en",
+      "display_text": "「I did not die! Both I and the Turn X\nstill had regrets left in this world!」"
+    },
+    {
+      "id": "c28_0be40",
+      "speaker": "Harry",
+      "en": "Why are you here, of all people...! Don't tell me you're the mastermind behind this whole incident!?",
+      "display_variant": "en",
+      "display_text": "「Why are you here, of all people...!\nDon't tell me you're the mastermind\nbehind this whole incident!?」"
+    },
+    {
+      "id": "c28_0bea0",
+      "speaker": "Ghingnham",
+      "en": "This incident...? You mean destroying the world once, and remaking it?",
+      "display_variant": "en",
+      "display_text": "「This incident...? You mean destroying\nthe world once, and remaking it?」"
+    },
+    {
+      "id": "c28_0bef0",
+      "speaker": "Roger",
+      "en": "That man... he knows about the Executor System...!",
+      "display_variant": "en",
+      "display_text": "「That man... he knows about the\nExecutor System...!」"
+    },
+    {
+      "id": "c28_0bf40",
+      "speaker": "Ghingnham",
+      "en": "Through this Turn X, a Psycommu-like current posed a question to me...!",
+      "display_variant": "en",
+      "display_text": "「Through this Turn X, a Psycommu-like\ncurrent posed a question to me...!」"
+    },
+    {
+      "id": "c28_0bfa0",
+      "speaker": "Ghingnham",
+      "en": "The meaning of humanity's existence, that is!",
+      "display_variant": "en",
+      "display_text": "「The meaning of humanity's existence,\nthat is!」"
+    },
+    {
+      "id": "c28_0bfd0",
+      "speaker": "Loran",
+      "en": "The meaning... of humanity...",
+      "display_variant": "en",
+      "display_text": "「The meaning... of humanity...」"
+    },
+    {
+      "id": "c28_0bff0",
+      "speaker": "Ghingnham",
+      "en": "And I gave it my answer. That fighting is the very meaning of human life!",
+      "display_variant": "en",
+      "display_text": "「And I gave it my answer. That fighting\nis the very meaning of human life!」"
+    },
+    {
+      "id": "c28_0c040",
+      "speaker": "Garrod",
+      "en": "That guy...! He hasn't changed one bit!",
+      "display_variant": "en",
+      "display_text": "「That guy...! He hasn't changed one bit!」"
+    },
+    {
+      "id": "c28_0c080",
+      "speaker": "Ghingnham",
+      "en": "The Psycommu-like current, moved by those words, entrusted its army to me.",
+      "display_variant": "en",
+      "display_text": "「The Psycommu-like current, moved by\nthose words, entrusted its army to me.」"
+    },
+    {
+      "id": "c28_0c0e0",
+      "speaker": "Ghingnham",
+      "en": "Rebirth comes after destruction! It told me and the Turn X to lend a hand to that!",
+      "display_variant": "en",
+      "display_text": "「Rebirth comes after destruction! It told\nme and the Turn X to lend a hand to\nthat!」"
+    },
+    {
+      "id": "c28_0c140",
+      "speaker": "Amuro",
+      "en": "So the Executor means to make the Turn X, awakened to the Moonlight Butterfly System, a replacement for the Turn A...!",
+      "display_variant": "fit",
+      "display_text": "「So the Executor means to replace the\nTurn A with the Moonlight\nButterfly-awakened Turn X...!」"
+    },
+    {
+      "id": "c28_0c1a0",
+      "speaker": "Holland",
+      "en": "So he got scouted by the Executor's ringleader, huh!",
+      "display_variant": "en",
+      "display_text": "「So he got scouted by the Executor's\nringleader, huh!」"
+    },
+    {
+      "id": "c28_0c1f0",
+      "speaker": "Dianna",
+      "en": "Stand down, Gym Ghingnham. Have you still not seen your own foolishness...!?",
+      "display_variant": "en",
+      "display_text": "「Stand down, Gym Ghingnham. Have you\nstill not seen your own foolishness...!?」"
+    },
+    {
+      "id": "c28_0c240",
+      "speaker": "Dianna",
+      "en": "Using a forbidden power for your own desires will only call down another war of the Black History.",
+      "display_variant": "en",
+      "display_text": "「Using a forbidden power for your own\ndesires will only call down another war of\nthe Black History.」"
+    },
+    {
+      "id": "c28_0c290",
+      "speaker": "Ghingnham",
+      "en": "Gone senile, Dianna? You of all people should know that's exactly what I want!",
+      "display_variant": "en",
+      "display_text": "「Gone senile, Dianna? You of all people\nshould know that's exactly what I want!」"
+    },
+    {
+      "id": "c28_0c2f0",
+      "speaker": "Dianna",
+      "en": "You learned nothing, even after living through that war...",
+      "display_variant": "en",
+      "display_text": "「You learned nothing, even after living\nthrough that war...」"
+    },
+    {
+      "id": "c28_0c330",
+      "speaker": "Ghingnham",
+      "en": "But it's quite the treat to meet again on a battlefield like this...! First, allow me to warm up.",
+      "display_variant": "en",
+      "display_text": "「But it's quite the treat to meet again\non a battlefield like this...! First, allow\nme to warm up.」"
+    },
+    {
+      "id": "c28_0c390",
+      "speaker": "Talho",
+      "en": "He's after the Gekko-Goh!",
+      "display_variant": "en",
+      "display_text": "「He's after the Gekko-Goh!」"
+    },
+    {
+      "id": "c28_0c3c0",
+      "speaker": "Ghingnham",
+      "en": "The moon's light belongs to Dianna! I will personally deal with any insolent fool who bears her name!",
+      "display_variant": "en",
+      "display_text": "「The moon's light belongs to Dianna! I\nwill personally deal with any insolent fool\nwho bears her name!」"
+    },
+    {
+      "id": "c28_0c430",
+      "speaker": "Holland",
+      "en": "Run, Talho! Don't try to take on a monster like that head-on!",
+      "display_variant": "en",
+      "display_text": "「Run, Talho! Don't try to take on a\nmonster like that head-on!」"
+    },
+    {
+      "id": "c28_0c480",
+      "speaker": "Talho",
+      "en": "Doggy, evade!!",
+      "display_variant": "en",
+      "display_text": "「Doggy, evade!!」"
+    },
+    {
+      "id": "c28_0c4a0",
+      "speaker": "Moondoggie",
+      "en": "Right!",
+      "display_variant": "en",
+      "display_text": "「Right!」"
+    },
+    {
+      "id": "c28_0c4c0",
+      "speaker": "Ghingnham",
+      "en": "Too slow!!",
+      "display_variant": "en",
+      "display_text": "「Too slow!!」"
+    },
+    {
+      "id": "c28_0c4e0",
+      "speaker": "Ken-Goh",
+      "en": "No good, I can't shake him!!",
+      "display_variant": "en",
+      "display_text": "「No good, I can't shake him!!」"
+    },
+    {
+      "id": "c28_0c510",
+      "speaker": "Talho",
+      "en": "Ngh!",
+      "display_variant": "en",
+      "display_text": "「Ngh!」"
+    },
+    {
+      "id": "c28_0c530",
+      "speaker": "Renton",
+      "en": "I won't let you touch the Gekko-Goh...!",
+      "display_variant": "en",
+      "display_text": "「I won't let you touch the Gekko-Goh...!」"
+    },
+    {
+      "id": "c28_0c560",
+      "speaker": "Eureka",
+      "en": "Renton!!",
+      "display_variant": "en",
+      "display_text": "「Renton!!」"
+    },
+    {
+      "id": "c28_0c580",
+      "speaker": "Hap",
+      "en": "That guy...! Did he launch in the 909!?",
+      "display_variant": "en",
+      "display_text": "「That guy...! Did he launch in the 909!?」"
+    },
+    {
+      "id": "c28_0c5c0",
+      "speaker": "Renton",
+      "en": "Waaaaaagh!!",
+      "display_variant": "en",
+      "display_text": "「Waaaaaagh!!」"
+    },
+    {
+      "id": "c28_0c5f0",
+      "speaker": "Holland",
+      "en": "You idiot! You can't handle the 909!!",
+      "display_variant": "en",
+      "display_text": "「You idiot! You can't handle the 909!!」"
+    },
+    {
+      "id": "c28_0c630",
+      "speaker": "Renton",
+      "en": "Even if I can't, I'm doing it...! I'm a member of Gekkostate too!",
+      "display_variant": "en",
+      "display_text": "「Even if I can't, I'm doing it...! I'm a\nmember of Gekkostate too!」"
+    },
+    {
+      "id": "c28_0c680",
+      "speaker": "Renton",
+      "en": "Besides, Eureka's on the Gekko-Goh, and so is Talho, with her baby in her belly!!",
+      "display_variant": "en",
+      "display_text": "「Besides, Eureka's on the Gekko-Goh, and\nso is Talho, with her baby in her belly!!」"
+    },
+    {
+      "id": "c28_0c6e0",
+      "speaker": "Ghingnham",
+      "en": "You little brat! Calling out for a lover's or a wife's name on the battlefield, you know what that means, huh!",
+      "display_variant": "fit",
+      "display_text": "「You brat! Calling out a lover's or\nwife's name on the battlefield -- you\nknow what that means, huh!」"
+    },
+    {
+      "id": "c28_0c730",
+      "speaker": "Ghingnham",
+      "en": "It's a line only a dying soldier gets to whine out!!",
+      "display_variant": "en",
+      "display_text": "「It's a line only a dying soldier gets to\nwhine out!!」"
+    },
+    {
+      "id": "c28_0c770",
+      "speaker": "Eureka",
+      "en": "Renton, run!!",
+      "display_variant": "en",
+      "display_text": "「Renton, run!!」"
+    },
+    {
+      "id": "c28_0c7a0",
+      "speaker": "Apollo",
+      "en": "Stoooooop it!!",
+      "display_variant": "en",
+      "display_text": "「Stoooooop it!!」"
+    },
+    {
+      "id": "c28_0c7d0",
+      "speaker": "Marin",
+      "en": "A spacetime jump!?",
+      "display_variant": "en",
+      "display_text": "「A spacetime jump!?」"
+    },
+    {
+      "id": "c28_0c7f0",
+      "speaker": "Silvia",
+      "en": "Is that...!?",
+      "display_variant": "en",
+      "display_text": "「Is that...!?」"
+    },
+    {
+      "id": "c28_0c810",
+      "speaker": "Sirius",
+      "en": "No doubt about it!",
+      "display_variant": "en",
+      "display_text": "「No doubt about it!」"
+    },
+    {
+      "id": "c28_0c830",
+      "speaker": "Apollo",
+      "en": "Aquarion!!",
+      "display_variant": "en",
+      "display_text": "「Aquarion!!」"
+    },
+    {
+      "id": "c28_0c850",
+      "speaker": "Jun",
+      "en": "A h-hyperdimensional quantum reaction! The one riding that is...",
+      "display_variant": "en",
+      "display_text": "「A h-hyperdimensional quantum reaction!\nThe one riding that is...」"
+    },
+    {
+      "id": "c28_0c890",
+      "speaker": "Toma",
+      "en": "Come now... wings of the sun.",
+      "display_variant": "en",
+      "display_text": "「Come now... wings of the sun.」"
+    },
+    {
+      "id": "c28_0c8b0",
+      "speaker": "Toma",
+      "en": "Wake for a moment from your slumber, and mete out punishment to the devil of butterfly wings who has defiled the tree of life.",
+      "display_variant": "fit",
+      "display_text": "「Wake a moment from slumber, and punish\nthe butterfly-winged devil who defiled the\ntree of life.」"
+    },
+    {
+      "id": "c28_0c910",
+      "speaker": "Apollo",
+      "en": "Toma!",
+      "display_variant": "en",
+      "display_text": "「Toma!」"
+    },
+    {
+      "id": "c28_0c930",
+      "speaker": "Ghingnham",
+      "en": "A mechanical angel and a fallen angel wing...! This looks like it'll be more fun!",
+      "display_variant": "en",
+      "display_text": "「A mechanical angel and a fallen angel\nwing...! This looks like it'll be more fun!」"
+    },
+    {
+      "id": "c28_0c980",
+      "speaker": "Toma",
+      "en": "Devil who scatters poison... can you handle facing me, now that I'm one with the wings of the sun?",
+      "display_variant": "en",
+      "display_text": "「Devil who scatters poison... can you\nhandle facing me, now that I'm one with\nthe wings of the sun?」"
+    },
+    {
+      "id": "c28_0c9e0",
+      "speaker": "Apollo",
+      "en": "Don't go saying whatever the hell you want!",
+      "display_variant": "en",
+      "display_text": "「Don't go saying whatever the hell you\nwant!」"
+    },
+    {
+      "id": "c28_0ca10",
+      "speaker": "Sirius",
+      "en": "Aquarion belongs to DEAVA... to humanity!",
+      "display_variant": "en",
+      "display_text": "「Aquarion belongs to DEAVA... to\nhumanity!」"
+    },
+    {
+      "id": "c28_0ca50",
+      "speaker": "Apollo",
+      "en": "Uwaaaaaah! Aaaquariooon!!",
+      "display_variant": "en",
+      "display_text": "「Uwaaaaaah! Aaaquariooon!!」"
+    },
+    {
+      "id": "c28_0ca90",
+      "speaker": "Toma",
+      "en": "What!?",
+      "display_variant": "en",
+      "display_text": "「What!?」"
+    },
+    {
+      "id": "c28_0cab0",
+      "speaker": "Sirius",
+      "en": "Aquarion! Come to us!!",
+      "display_variant": "en",
+      "display_text": "「Aquarion! Come to us!!」"
+    },
+    {
+      "id": "c28_0cae0",
+      "speaker": "Apollo",
+      "en": "Aaaaquarioooon!!",
+      "display_variant": "en",
+      "display_text": "「Aaaaquarioooon!!」"
+    },
+    {
+      "id": "c28_0cb10",
+      "speaker": "Renton",
+      "en": "It split apart!",
+      "display_variant": "en",
+      "display_text": "「It split apart!」"
+    },
+    {
+      "id": "c28_0cb30",
+      "speaker": "Toma",
+      "en": "This is...!",
+      "display_variant": "en",
+      "display_text": "「This is...!」"
+    },
+    {
+      "id": "c28_0cb50",
+      "speaker": "Apollo",
+      "en": "Let's go, Sirius!",
+      "display_variant": "en",
+      "display_text": "「Let's go, Sirius!」"
+    },
+    {
+      "id": "c28_0cb70",
+      "speaker": "Sirius",
+      "en": "Right!",
+      "display_variant": "en",
+      "display_text": "「Right!」"
+    },
+    {
+      "id": "c28_0cb90",
+      "speaker": "Toma",
+      "en": "Wings of the sun... still clinging to Celiane's other half and Apollonius, are you!",
+      "display_variant": "en",
+      "display_text": "「Wings of the sun... still clinging to\nCeliane's other half and Apollonius, are\nyou!」"
+    },
+    {
+      "id": "c28_0cbe0",
+      "speaker": "Sirius",
+      "en": "I'm taking back the Luna that's left, too, Toma!",
+      "display_variant": "en",
+      "display_text": "「I'm taking back the Luna that's left,\ntoo, Toma!」"
+    },
+    {
+      "id": "c28_0cc20",
+      "speaker": "Apollo",
+      "en": "I've got your back, Sirius!",
+      "display_variant": "en",
+      "display_text": "「I've got your back, Sirius!」"
+    },
+    {
+      "id": "c28_0cc50",
+      "speaker": "Apollo",
+      "en": "Daaaamn it!",
+      "display_variant": "en",
+      "display_text": "「Daaaamn it!」"
+    },
+    {
+      "id": "c28_0cc70",
+      "speaker": "Toma",
+      "en": "Curse you!",
+      "display_variant": "en",
+      "display_text": "「Curse you!」"
+    },
+    {
+      "id": "c28_0cc90",
+      "speaker": "Renton",
+      "en": "What are you doing, Apollo!? This is no time for that!",
+      "display_variant": "en",
+      "display_text": "「What are you doing, Apollo!? This is no\ntime for that!」"
+    },
+    {
+      "id": "c28_0ccf0",
+      "speaker": "Apollo",
+      "en": "But still!",
+      "display_variant": "en",
+      "display_text": "「But still!」"
+    },
+    {
+      "id": "c28_0cd10",
+      "speaker": "Ghingnham",
+      "en": "Looks fun! Let me in on this too!",
+      "display_variant": "en",
+      "display_text": "「Looks fun! Let me in on this too!」"
+    },
+    {
+      "id": "c28_0cd50",
+      "speaker": "Sirius",
+      "en": "Out of the way, you who are ruled by battle!",
+      "display_variant": "en",
+      "display_text": "「Out of the way, you who are ruled by\nbattle!」"
+    },
+    {
+      "id": "c28_0cd80",
+      "speaker": "Ghingnham",
+      "en": "That's exactly what it means to be human! And you're all the same!",
+      "display_variant": "en",
+      "display_text": "「That's exactly what it means to be\nhuman! And you're all the same!」"
+    },
+    {
+      "id": "c28_0cdc0",
+      "speaker": "Apollo",
+      "en": "What!?",
+      "display_variant": "en",
+      "display_text": "「What!?」"
+    },
+    {
+      "id": "c28_0cde0",
+      "speaker": "Ghingnham",
+      "en": "You lot are truly splendid! Losing yourselves in battle -- that makes you fit opponents for me!",
+      "display_variant": "en",
+      "display_text": "「You lot are truly splendid! Losing\nyourselves in battle -- that makes you\nfit opponents for me!」"
+    },
+    {
+      "id": "c28_0ce40",
+      "speaker": "Apollo",
+      "en": "We're...",
+      "display_variant": "en",
+      "display_text": "「We're...」"
+    },
+    {
+      "id": "c28_0ce60",
+      "speaker": "Sirius",
+      "en": "...been swallowed up by the fighting...",
+      "display_variant": "en",
+      "display_text": "「...been swallowed up by the fighting...」"
+    },
+    {
+      "id": "c28_0ce90",
+      "speaker": "???",
+      "en": "That's right.",
+      "display_variant": "en",
+      "display_text": "「That's right.」"
+    },
+    {
+      "id": "c28_0ceb0",
+      "speaker": "Eureka",
+      "en": "Nirvash!",
+      "display_variant": "en",
+      "display_text": "「Nirvash!」"
+    },
+    {
+      "id": "c28_0ced0",
+      "speaker": "Toma",
+      "en": "So that one has come back to this world too.",
+      "display_variant": "en",
+      "display_text": "「So that one has come back to this\nworld too.」"
+    },
+    {
+      "id": "c28_0cf10",
+      "speaker": "Nirvash",
+      "en": "Have you all forgotten the miracle born from that meeting?",
+      "display_variant": "en",
+      "display_text": "「Have you all forgotten the miracle born\nfrom that meeting?」"
+    },
+    {
+      "id": "c28_0cf60",
+      "speaker": "Apollo",
+      "en": "A miracle...",
+      "display_variant": "en",
+      "display_text": "「A miracle...」"
+    },
+    {
+      "id": "c28_0cf80",
+      "speaker": "Sirius",
+      "en": "That day, for the sake of the world's new beginning, we...",
+      "display_variant": "en",
+      "display_text": "「That day, for the sake of the world's\nnew beginning, we...」"
+    },
+    {
+      "id": "c28_0cfc0",
+      "speaker": "Silvia",
+      "en": "That's right! We went beyond human and Shadow Angel and became one, if only once!",
+      "display_variant": "en",
+      "display_text": "「That's right! We went beyond human and\nShadow Angel and became one, if only\nonce!」"
+    },
+    {
+      "id": "c28_0d020",
+      "speaker": "Toma",
+      "en": "Became one...",
+      "display_variant": "en",
+      "display_text": "「Became one...」"
+    },
+    {
+      "id": "c28_0d040",
+      "speaker": "Silvia",
+      "en": "If you forget that, all that's waiting is ruin!",
+      "display_variant": "en",
+      "display_text": "「If you forget that, all that's waiting\nis ruin!」"
+    },
+    {
+      "id": "c28_0d090",
+      "speaker": "Toma",
+      "en": "You, with the warm aura...",
+      "display_variant": "en",
+      "display_text": "「You, with the warm aura...」"
+    },
+    {
+      "id": "c28_0d0c0",
+      "speaker": "Silvia",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c28_0d0e0",
+      "speaker": "Toma",
+      "en": "Will you show me that day's miracle once more?",
+      "display_variant": "en",
+      "display_text": "「Will you show me that day's miracle\nonce more?」"
+    },
+    {
+      "id": "c28_0d120",
+      "speaker": "Toma",
+      "en": "The miracle of a meeting that crossed the line between winged and wingless.",
+      "display_variant": "en",
+      "display_text": "「The miracle of a meeting that crossed\nthe line between winged and wingless.」"
+    },
+    {
+      "id": "c28_0d150",
+      "speaker": "Silvia",
+      "en": "Okay!",
+      "display_variant": "en",
+      "display_text": "「Okay!」"
+    },
+    {
+      "id": "c28_0d170",
+      "speaker": "Silvia",
+      "en": "Apollo, big brother!",
+      "display_variant": "en",
+      "display_text": "「Apollo, big brother!」"
+    },
+    {
+      "id": "c28_0d190",
+      "speaker": "Apollo",
+      "en": "Right!",
+      "display_variant": "en",
+      "display_text": "「Right!」"
+    },
+    {
+      "id": "c28_0d1b0",
+      "speaker": "Sirius",
+      "en": "Genesis...!",
+      "display_variant": "en",
+      "display_text": "「Genesis...!」"
+    },
+    {
+      "id": "c28_0d1d0",
+      "speaker": "Silvia",
+      "en": "Unite!",
+      "display_variant": "en",
+      "display_text": "「Unite!」"
+    },
+    {
+      "id": "c28_0d1f0",
+      "speaker": "Apollo",
+      "en": "GO! Aquarioooon!!",
+      "display_variant": "en",
+      "display_text": "「GO! Aquarioooon!!」"
+    },
+    {
+      "id": "c28_0d220",
+      "speaker": "Apollo",
+      "en": "Uwaaaaaaaaah!!",
+      "display_variant": "en",
+      "display_text": "「Uwaaaaaaaaah!!」"
+    },
+    {
+      "id": "c28_0d248",
+      "speaker": "Fudo",
+      "en": "Heh...",
+      "display_variant": "en",
+      "display_text": "「Heh...」"
+    },
+    {
+      "id": "c28_0d260",
+      "speaker": "Toma",
+      "en": "Wingless ones... no, humans. I'll entrust the wings of the sun to you once more.",
+      "display_variant": "en",
+      "display_text": "「Wingless ones... no, humans. I'll entrust\nthe wings of the sun to you once more.」"
+    },
+    {
+      "id": "c28_0d2b0",
+      "speaker": "Apollo",
+      "en": "Toma...",
+      "display_variant": "en",
+      "display_text": "「Toma...」"
+    },
+    {
+      "id": "c28_0d2d0",
+      "speaker": "Toma",
+      "en": "I'll watch from the rift between dimensions. Your battle, that is.",
+      "display_variant": "en",
+      "display_text": "「I'll watch from the rift between\ndimensions. Your battle, that is.」"
+    },
+    {
+      "id": "c28_0d310",
+      "speaker": "Sirius",
+      "en": "Toma... understood.",
+      "display_variant": "en",
+      "display_text": "「Toma... understood.」"
+    },
+    {
+      "id": "c28_0d330",
+      "speaker": "Apollo",
+      "en": "Thanks...",
+      "display_variant": "en",
+      "display_text": "「Thanks...」"
+    },
+    {
+      "id": "c28_0d350",
+      "speaker": "Ghingnham",
+      "en": "Argh! You've spoiled my fun! In that case!",
+      "display_variant": "en",
+      "display_text": "「Argh! You've spoiled my fun! In that\ncase!」"
+    },
+    {
+      "id": "c28_0d390",
+      "speaker": "Renton",
+      "en": "H-he's coming this way...!?",
+      "display_variant": "en",
+      "display_text": "「H-he's coming this way...!?」"
+    },
+    {
+      "id": "c28_0d3c0",
+      "speaker": "Ghingnham",
+      "en": "Disappear, brat!!",
+      "display_variant": "en",
+      "display_text": "「Disappear, brat!!」"
+    },
+    {
+      "id": "c28_0d3f0",
+      "speaker": "Renton",
+      "en": "Waaaaaaagh!!",
+      "display_variant": "en",
+      "display_text": "「Waaaaaaagh!!」"
+    },
+    {
+      "id": "c28_0d420",
+      "speaker": "Garrod",
+      "en": "Renton!!",
+      "display_variant": "en",
+      "display_text": "「Renton!!」"
+    },
+    {
+      "id": "c28_0d440",
+      "speaker": "Tiffa",
+      "en": "It's all right.",
+      "display_variant": "en",
+      "display_text": "「It's all right.」"
+    },
+    {
+      "id": "c28_0d460",
+      "speaker": "Eureka",
+      "en": "Reach out your hand, Renton!",
+      "display_variant": "en",
+      "display_text": "「Reach out your hand, Renton!」"
+    },
+    {
+      "id": "c28_0d490",
+      "speaker": "Renton",
+      "en": "Eureka...! You came for me!",
+      "display_variant": "en",
+      "display_text": "「Eureka...! You came for me!」"
+    },
+    {
+      "id": "c28_0d4c0",
+      "speaker": "Eureka",
+      "en": "Let's fly together!",
+      "display_variant": "en",
+      "display_text": "「Let's fly together!」"
+    },
+    {
+      "id": "c28_0d4e0",
+      "speaker": "Renton",
+      "en": "Yeah!",
+      "display_variant": "en",
+      "display_text": "「Yeah!」"
+    },
+    {
+      "id": "c28_0d500",
+      "speaker": "Renton",
+      "en": "Wiii... kyaaaan...",
+      "display_variant": "en",
+      "display_text": "「Wiii... kyaaaan...」"
+    },
+    {
+      "id": "c28_0d530",
+      "speaker": "Eureka",
+      "en": "Flyyyyy!!",
+      "display_variant": "en",
+      "display_text": "「Flyyyyy!!」"
+    },
+    {
+      "id": "c28_0d560",
+      "speaker": "Renton",
+      "en": "Nirvash... you're lending us your strength.",
+      "display_variant": "en",
+      "display_text": "「Nirvash... you're lending us your\nstrength.」"
+    },
+    {
+      "id": "c28_0d5a0",
+      "speaker": "Eureka",
+      "en": "Thank you, Nirvash. Let's fly again, the three of us, Renton and me.",
+      "display_variant": "en",
+      "display_text": "「Thank you, Nirvash. Let's fly again, the\nthree of us, Renton and me.」"
+    },
+    {
+      "id": "c28_0d5f0",
+      "speaker": "Ghingnham",
+      "en": "Grr, you brats! Just how far do you intend to make a fool of me!",
+      "display_variant": "en",
+      "display_text": "「Grr, you brats! Just how far do you\nintend to make a fool of me!」"
+    },
+    {
+      "id": "c28_0d640",
+      "speaker": "Pierre",
+      "en": "Whoa!",
+      "display_variant": "en",
+      "display_text": "「Whoa!」"
+    },
+    {
+      "id": "c28_0d660",
+      "speaker": "Apollo",
+      "en": "I won't let you touch Renton and his friends!",
+      "display_variant": "en",
+      "display_text": "「I won't let you touch Renton and his\nfriends!」"
+    },
+    {
+      "id": "c28_0d690",
+      "speaker": "Renton",
+      "en": "Everyone...!",
+      "display_variant": "en",
+      "display_text": "「Everyone...!」"
+    },
+    {
+      "id": "c28_0d6b0",
+      "speaker": "Garrod",
+      "en": "Let's do this, Renton!",
+      "display_variant": "en",
+      "display_text": "「Let's do this, Renton!」"
+    },
+    {
+      "id": "c28_0d6d0",
+      "speaker": "Apollo",
+      "en": "We're gonna teach an old man who only knows how to fight that there's something more important in this world!",
+      "display_variant": "en",
+      "display_text": "「We're gonna teach an old man who only\nknows how to fight that there's something\nmore important in this world!」"
+    },
+    {
+      "id": "c28_0d730",
+      "speaker": "Renton",
+      "en": "Yeah!",
+      "display_variant": "en",
+      "display_text": "「Yeah!」"
+    },
+    {
+      "id": "c28_0d750",
+      "speaker": "Amuro",
+      "en": "So Nirvash and Aquarion have come back too.",
+      "display_variant": "en",
+      "display_text": "「So Nirvash and Aquarion have come back\ntoo.」"
+    },
+    {
+      "id": "c28_0d790",
+      "speaker": "Koji",
+      "en": "Those two must love this world just as much as we do...",
+      "display_variant": "en",
+      "display_text": "「Those two must love this world just as\nmuch as we do...」"
+    },
+    {
+      "id": "c28_0d7d0",
+      "speaker": "Loran",
+      "en": "That's why they're lending us their strength...! To protect lives!",
+      "display_variant": "en",
+      "display_text": "「That's why they're lending us their\nstrength...! To protect lives!」"
+    },
+    {
+      "id": "c28_0d810",
+      "speaker": "Dianna",
+      "en": "Behold, Gym Ghingnham. This is the strength of those who have something to protect.",
+      "display_variant": "en",
+      "display_text": "「Behold, Gym Ghingnham. This is the\nstrength of those who have something to\nprotect.」"
+    },
+    {
+      "id": "c28_0d870",
+      "speaker": "Dianna",
+      "en": "Know just how small it is to fight for your own desire and pride, the way you do.",
+      "display_variant": "en",
+      "display_text": "「Know just how small it is to fight for\nyour own desire and pride, the way you\ndo.」"
+    },
+    {
+      "id": "c28_0d8d0",
+      "speaker": "Ghingnham",
+      "en": "Dianna! You...!!",
+      "display_variant": "en",
+      "display_text": "「Dianna! You...!!」"
+    },
+    {
+      "id": "c28_0d900",
+      "speaker": "Dianna",
+      "en": "Gym Ghingnham... if my words won't reach you...",
+      "display_variant": "en",
+      "display_text": "「Gym Ghingnham... if my words won't\nreach you...」"
+    },
+    {
+      "id": "c28_0d940",
+      "speaker": "Dianna",
+      "en": "...then I will strike you down...! For the sake of everyone!",
+      "display_variant": "en",
+      "display_text": "「...then I will strike you down...! For\nthe sake of everyone!」"
+    },
+    {
+      "id": "c28_0d980",
+      "speaker": "Ghingnham",
+      "en": "Dianna! $c! I won't let you get in the way of my springtime!",
+      "display_variant": "en",
+      "display_text": "「Dianna! $c! I won't let you get in the\nway of my springtime!」"
+    },
+    {
+      "id": "c28_0d9c0",
+      "speaker": "Ghingnham",
+      "en": "This world will be reborn at the far end of destruction!!",
+      "display_variant": "en",
+      "display_text": "「This world will be reborn at the far\nend of destruction!!」"
+    },
+    {
+      "id": "c28_0da00",
+      "speaker": "Loran",
+      "en": "I won't let that happen! We'll protect the lives living their utmost in this world!!",
+      "display_variant": "en",
+      "display_text": "「I won't let that happen! We'll protect\nthe lives living their utmost in this\nworld!!」"
+    },
+    {
+      "id": "c28_0da60",
+      "speaker": "Silvia",
+      "en": "Enemy wipeout confirmed. Doesn't look like there's any reinforcements either.",
+      "display_variant": "en",
+      "display_text": "「Enemy wipeout confirmed. Doesn't look\nlike there's any reinforcements either.」"
+    },
+    {
+      "id": "c28_0daa0",
+      "speaker": "Sirius",
+      "en": "So it's over...",
+      "display_variant": "en",
+      "display_text": "「So it's over...」"
+    },
+    {
+      "id": "c28_0dac0",
+      "speaker": "Apollo",
+      "en": "No... this is where it starts.",
+      "display_variant": "en",
+      "display_text": "「No... this is where it starts.」"
+    },
+    {
+      "id": "c28_0dae0",
+      "speaker": "Quattro",
+      "en": "All units, return to base. From here, we go after the Black Overman that commands the Executors.",
+      "display_variant": "en",
+      "display_text": "「All units, return to base. From here, we\ngo after the Black Overman that commands\nthe Executors.」"
+    },
+    {
+      "id": "c28_0db40",
+      "speaker": "Sandman",
+      "en": "From reports out of research facilities all over, we've learned where that Overman is headed.",
+      "display_variant": "en",
+      "display_text": "「From reports out of research facilities\nall over, we've learned where that\nOverman is headed.」"
+    },
+    {
+      "id": "c28_0dba0",
+      "speaker": "Sandman",
+      "en": "The Japanese Alps... it seems that's become the Executors' base.",
+      "display_variant": "en",
+      "display_text": "「The Japanese Alps... it seems that's\nbecome the Executors' base.」"
+    },
+    {
+      "id": "c28_0dc00",
+      "speaker": "Tetsuya",
+      "en": "The Japanese Alps, huh...",
+      "display_variant": "en",
+      "display_text": "「The Japanese Alps, huh...」"
+    },
+    {
+      "id": "c28_0dc20",
+      "speaker": "Ryouma",
+      "en": "That place became a spot where wreckage from all kinds of worlds piled up after the spacetime destruction -- nobody sets foot there.",
+      "display_variant": "fit",
+      "display_text": "「That place is where wreckage from many\nworlds piled up after the spacetime\ndestruction -- no one sets foot there.」"
+    },
+    {
+      "id": "c28_0dc90",
+      "speaker": "Holland",
+      "en": "A perfect home for a ghost of the Black History, then.",
+      "display_variant": "en",
+      "display_text": "「A perfect home for a ghost of the\nBlack History, then.」"
+    },
+    {
+      "id": "c28_0dcd0",
+      "speaker": "Garrod",
+      "en": "But now that we know where he is, there's only one thing left to do...!",
+      "display_variant": "en",
+      "display_text": "「But now that we know where he is,\nthere's only one thing left to do...!」"
+    },
+    {
+      "id": "c28_0dd10",
+      "speaker": "Shinn",
+      "en": "Let's go...! We'll bring that Overman down and put an end to this fight!",
+      "display_variant": "en",
+      "display_text": "「Let's go...! We'll bring that Overman\ndown and put an end to this fight!」"
+    },
+    {
+      "id": "c28_0dd60",
+      "speaker": "Dianna",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c28_0dd80",
+      "speaker": "Loran",
+      "en": "Lady Dianna...",
+      "display_variant": "en",
+      "display_text": "「Lady Dianna...」"
+    },
+    {
+      "id": "c28_0dda0",
+      "speaker": "Dianna",
+      "en": "Gym Ghingnham... the future doesn't lie beyond destruction...",
+      "display_variant": "en",
+      "display_text": "（Gym Ghingnham... the future doesn't lie\nbeyond destruction...）"
+    },
+    {
+      "id": "c28_0ddf0",
+      "speaker": "Dianna",
+      "en": "If it's my fault you lost your way, then I'll make amends for it.",
+      "display_variant": "en",
+      "display_text": "（If it's my fault you lost your way,\nthen I'll make amends for it.）"
+    },
+    {
+      "id": "c28_0de40",
+      "speaker": "Dianna",
+      "en": "By striking down, with my own hand, the forbidden power that twists people's hearts...",
+      "display_variant": "en",
+      "display_text": "（By striking down, with my own hand, the\nforbidden power that twists people's\nhearts...）"
+    },
+    {
+      "id": "c28_0de80",
+      "speaker": "Ghingnham",
+      "en": "Ridiculous! You mean to say the Turn X and I will be defeated a second time, not just once!",
+      "display_variant": "en",
+      "display_text": "「Ridiculous! You mean to say the Turn X\nand I will be defeated a second time, not\njust once!」"
+    },
+    {
+      "id": "c28_0ded0",
+      "speaker": "Dianna",
+      "en": "Those who drown in power are defeated by power...! Gym Ghingnham, prepare yourself!",
+      "display_variant": "en",
+      "display_text": "「Those who drown in power are defeated\nby power...! Gym Ghingnham, prepare\nyourself!」"
+    },
+    {
+      "id": "c28_0df20",
+      "speaker": "Ghingnham",
+      "en": "But that is exactly the world I sought! The truth of battle itself!",
+      "display_variant": "en",
+      "display_text": "「But that is exactly the world I sought!\nThe truth of battle itself!」"
+    },
+    {
+      "id": "c28_0df70",
+      "speaker": "Ghingnham",
+      "en": "Hahahahaha! My springtime has reached its very peak, right here!",
+      "display_variant": "en",
+      "display_text": "「Hahahahaha! My springtime has reached\nits very peak, right here!」"
+    },
+    {
+      "id": "c28_0dfb0",
+      "speaker": "Loran",
+      "en": "Right to the end, that man is still...",
+      "display_variant": "en",
+      "display_text": "「Right to the end, that man is still...」"
+    },
+    {
+      "id": "c28_0dfd0",
+      "speaker": "Harry",
+      "en": "A man who relied on power, who believed in nothing but power... a corpse possessed by a ghost of the Black History...",
+      "display_variant": "fit",
+      "display_text": "「A man who relied on power, believing in\nnothing else... a corpse possessed by a\nBlack History ghost...」"
+    },
+    {
+      "id": "c28_0e020",
+      "speaker": "Loran",
+      "en": "I refuse the world that man wants... a world where human lives keep being lost.",
+      "display_variant": "en",
+      "display_text": "「I refuse the world that man wants... a\nworld where human lives keep being lost.」"
+    },
+    {
+      "id": "c28_0e070",
+      "speaker": "Loran",
+      "en": "So I'll fight. To protect the world I believe in.",
+      "display_variant": "en",
+      "display_text": "「So I'll fight. To protect the world I\nbelieve in.」"
+    },
+    {
+      "id": "c28_0e0b0",
+      "speaker": "Ghingnham",
+      "en": "How delightful! As long as I'm alive, I can enjoy thrilling battles like this one!",
+      "display_variant": "en",
+      "display_text": "「How delightful! As long as I'm alive, I\ncan enjoy thrilling battles like this one!」"
+    },
+    {
+      "id": "c28_0e110",
+      "speaker": "Koji",
+      "en": "That's a real pain for the rest of us! If you've joined the ghosts, just go back to sleep quietly in your ruins!",
+      "display_variant": "en",
+      "display_text": "「That's a real pain for the rest of us!\nIf you've joined the ghosts, just go back\nto sleep quietly in your ruins!」"
+    },
+    {
+      "id": "c28_0e180",
+      "speaker": "Ghingnham",
+      "en": "I won't have that! My springtime, and the Turn X's, begins right here, right now!",
+      "display_variant": "en",
+      "display_text": "「I won't have that! My springtime, and\nthe Turn X's, begins right here, right\nnow!」"
+    },
+    {
+      "id": "c28_0e1e0",
+      "speaker": "Ghingnham",
+      "en": "Not bad at all, you! Fit to be my opponent!",
+      "display_variant": "en",
+      "display_text": "「Not bad at all, you! Fit to be my\nopponent!」"
+    },
+    {
+      "id": "c28_0e230",
+      "speaker": "Tetsuya",
+      "en": "Looks like a trip back from the grave has scrambled your head...",
+      "display_variant": "en",
+      "display_text": "「Looks like a trip back from the grave\nhas scrambled your head...」"
+    },
+    {
+      "id": "c28_0e260",
+      "speaker": "Ghingnham",
+      "en": "What!?",
+      "display_variant": "en",
+      "display_text": "「What!?」"
+    },
+    {
+      "id": "c28_0e280",
+      "speaker": "Tetsuya",
+      "en": "If you've forgotten getting the stuffing beaten out of you by us, I'll do it again as many times as it takes!",
+      "display_variant": "en",
+      "display_text": "「If you've forgotten getting the\nstuffing beaten out of you by us, I'll do\nit again as many times as it takes!」"
+    },
+    {
+      "id": "c28_0e2d0",
+      "speaker": "Tetsuya",
+      "en": "So you never crawl back into a peaceful world again!!",
+      "display_variant": "en",
+      "display_text": "「So you never crawl back into a peaceful\nworld again!!」"
+    },
+    {
+      "id": "c28_0e310",
+      "speaker": "Duke",
+      "en": "The world is moving toward peace...! There's no place in it for the likes of you, or ghosts of the Black History!",
+      "display_variant": "en",
+      "display_text": "「The world is moving toward peace...!\nThere's no place in it for the likes of\nyou, or ghosts of the Black History!」"
+    },
+    {
+      "id": "c28_0e370",
+      "speaker": "Ghingnham",
+      "en": "To live is to fight! If there's no place for me, I'll just make one!",
+      "display_variant": "en",
+      "display_text": "「To live is to fight! If there's no place\nfor me, I'll just make one!」"
+    },
+    {
+      "id": "c28_0e3c0",
+      "speaker": "Duke",
+      "en": "A heart that pushes others aside to get its own way -- that's what breeds war! We're putting an end to that root cause, right here!",
+      "display_variant": "compact",
+      "display_text": "「A heart that pushes others aside for\nits own way -- that's what breeds war!\nWe end that root cause, right here!」"
+    },
+    {
+      "id": "c28_0e420",
+      "speaker": "Ryouma",
+      "en": "This man... has he become a lackey of the Black History's ghost!?",
+      "display_variant": "en",
+      "display_text": "「This man... has he become a lackey of\nthe Black History's ghost!?」"
+    },
+    {
+      "id": "c28_0e460",
+      "speaker": "Ghingnham",
+      "en": "Wrong, boy! If the Black History is an age of war, then I am the Black History itself!",
+      "display_variant": "en",
+      "display_text": "「Wrong, boy! If the Black History is an\nage of war, then I am the Black History\nitself!」"
+    },
+    {
+      "id": "c28_0e4c0",
+      "speaker": "Ghingnham",
+      "en": "And to build a new Black History, I raise the banner of war right here, right now!",
+      "display_variant": "en",
+      "display_text": "「And to build a new Black History, I\nraise the banner of war right here, right\nnow!」"
+    },
+    {
+      "id": "c28_0e520",
+      "speaker": "Ryouma",
+      "en": "I won't let you! We're fighting to stop that!",
+      "display_variant": "en",
+      "display_text": "「I won't let you! We're fighting to stop\nthat!」"
+    },
+    {
+      "id": "c28_0e560",
+      "speaker": "Ryouma",
+      "en": "The world moves forward, toward the future! A ghost from the past disappears right here!!",
+      "display_variant": "en",
+      "display_text": "「The world moves forward, toward the\nfuture! A ghost from the past disappears\nright here!!」"
+    },
+    {
+      "id": "c28_0e5b0",
+      "speaker": "Ghingnham",
+      "en": "Hahaha, are you trembling, boy!? How adorable!",
+      "display_variant": "en",
+      "display_text": "「Hahaha, are you trembling, boy!? How\nadorable!」"
+    },
+    {
+      "id": "c28_0e5f8",
+      "speaker": "Kappei",
+      "en": "!",
+      "display_variant": "en",
+      "display_text": "「!」"
+    },
+    {
+      "id": "c28_0e610",
+      "speaker": "Keiko",
+      "en": "Kappei... don't tell me you're...",
+      "display_variant": "en",
+      "display_text": "「Kappei... don't tell me you're...」"
+    },
+    {
+      "id": "c28_0e630",
+      "speaker": "Uchuta",
+      "en": "Is he getting overwhelmed by that guy!",
+      "display_variant": "en",
+      "display_text": "「Is he getting overwhelmed by that guy!」"
+    },
+    {
+      "id": "c28_0e660",
+      "speaker": "Kappei",
+      "en": "Shut up! I'm Jin Kappei! No way I'm losing to a guy like that!",
+      "display_variant": "en",
+      "display_text": "「Shut up! I'm Jin Kappei! No way I'm\nlosing to a guy like that!」"
+    },
+    {
+      "id": "c28_0e6a0",
+      "speaker": "Ghingnham",
+      "en": "That spirit, I like it! But with just that much fighting spirit...",
+      "display_variant": "en",
+      "display_text": "「That spirit, I like it! But with just\nthat much fighting spirit...」"
+    },
+    {
+      "id": "c28_0e6e0",
+      "speaker": "Kappei",
+      "en": "Quiet! I won't lose to someone like you, who doesn't get how precious peace is!",
+      "display_variant": "en",
+      "display_text": "「Quiet! I won't lose to someone like you,\nwho doesn't get how precious peace is!」"
+    },
+    {
+      "id": "c28_0e730",
+      "speaker": "Kappei",
+      "en": "Aki, Michi, Kazuki! I'm doing this...! I won't hand peace over to a guy like this!!",
+      "display_variant": "en",
+      "display_text": "「Aki, Michi, Kazuki! I'm doing this...! I\nwon't hand peace over to a guy like this!!」"
+    },
+    {
+      "id": "c28_0e790",
+      "speaker": "Banjo",
+      "en": "Seems ghosts really do favor dark, dank places, just like they say.",
+      "display_variant": "en",
+      "display_text": "「Seems ghosts really do favor dark, dank\nplaces, just like they say.」"
+    },
+    {
+      "id": "c28_0e7e0",
+      "speaker": "Ghingnham",
+      "en": "Someday the whole world will become a battlefield just like this one...! By my hand, and the hands of us ghosts!",
+      "display_variant": "fit",
+      "display_text": "「Someday the whole world becomes a\nbattlefield like this one...! By my hand,\nand the hands of us ghosts!」"
+    },
+    {
+      "id": "c28_0e840",
+      "speaker": "Banjo",
+      "en": "Still don't get it, do you, Gym Ghingnham! Nobody wants a world like that!",
+      "display_variant": "en",
+      "display_text": "「Still don't get it, do you, Gym\nGhingnham! Nobody wants a world like\nthat!」"
+    },
+    {
+      "id": "c28_0e8a0",
+      "speaker": "Banjo",
+      "en": "A ghost belongs back in the dark! Daitarn 3's sun disc will light the way there for you!",
+      "display_variant": "en",
+      "display_text": "「A ghost belongs back in the dark!\nDaitarn 3's sun disc will light the way\nthere for you!」"
+    },
+    {
+      "id": "c28_0e900",
+      "speaker": "Toshiya",
+      "en": "Pretty pathetic, seeing the Moon's general reduced to a ghost's lackey!",
+      "display_variant": "en",
+      "display_text": "「Pretty pathetic, seeing the Moon's\ngeneral reduced to a ghost's lackey!」"
+    },
+    {
+      "id": "c28_0e950",
+      "speaker": "Ghingnham",
+      "en": "The voice that guided me shares my own resolve...! In other words, it's a comrade!",
+      "display_variant": "en",
+      "display_text": "「The voice that guided me shares my own\nresolve...! In other words, it's a comrade!」"
+    },
+    {
+      "id": "c28_0e9a0",
+      "speaker": "Ghingnham",
+      "en": "You lot should know it too! How many out there in this world long for battle!",
+      "display_variant": "en",
+      "display_text": "「You lot should know it too! How many\nout there in this world long for battle!」"
+    },
+    {
+      "id": "c28_0ea00",
+      "speaker": "Toshiya",
+      "en": "Don't go deciding that on your own! That's just a handful of selfish jerks like you!",
+      "display_variant": "en",
+      "display_text": "「Don't go deciding that on your own!\nThat's just a handful of selfish jerks\nlike you!」"
+    },
+    {
+      "id": "c28_0ea50",
+      "speaker": "Toshiya",
+      "en": "No way I'm handing the Earth's future to the likes of you!",
+      "display_variant": "en",
+      "display_text": "「No way I'm handing the Earth's future\nto the likes of you!」"
+    },
+    {
+      "id": "c28_0ea90",
+      "speaker": "Marin",
+      "en": "Don't you get it!? A heart that longs for battle will someday destroy the very stars!",
+      "display_variant": "en",
+      "display_text": "「Don't you get it!? A heart that longs\nfor battle will someday destroy the very\nstars!」"
+    },
+    {
+      "id": "c28_0eaf0",
+      "speaker": "Ghingnham",
+      "en": "No, you're wrong! Battle evolves people! That is exactly what drives history forward!",
+      "display_variant": "en",
+      "display_text": "「No, you're wrong! Battle evolves people!\nThat is exactly what drives history\nforward!」"
+    },
+    {
+      "id": "c28_0eb50",
+      "speaker": "Marin",
+      "en": "That only rushes headlong into ruin! That's exactly how planet S-1 came to be!",
+      "display_variant": "en",
+      "display_text": "「That only rushes headlong into ruin!\nThat's exactly how planet S-1 came to be!」"
+    },
+    {
+      "id": "c28_0ebb0",
+      "speaker": "Marin",
+      "en": "I won't accept a future like that! This beautiful star must never be lost!",
+      "display_variant": "en",
+      "display_text": "「I won't accept a future like that! This\nbeautiful star must never be lost!」"
+    },
+    {
+      "id": "c28_0ec10",
+      "speaker": "Ghingnham",
+      "en": "That machine, red as fire! The flame of battle, is it!",
+      "display_variant": "en",
+      "display_text": "「That machine, red as fire! The flame of\nbattle, is it!」"
+    },
+    {
+      "id": "c28_0ec50",
+      "speaker": "Eiji",
+      "en": "Yeah, that's right! But Sol Gravion's flame is the power that will burn you to ash!",
+      "display_variant": "en",
+      "display_text": "「Yeah, that's right! But Sol Gravion's\nflame is the power that will burn you to\nash!」"
+    },
+    {
+      "id": "c28_0ecb0",
+      "speaker": "Touga",
+      "en": "The Gran Knights fight to strike down evil that threatens people!",
+      "display_variant": "en",
+      "display_text": "「The Gran Knights fight to strike down\nevil that threatens people!」"
+    },
+    {
+      "id": "c28_0ed00",
+      "speaker": "Touga",
+      "en": "Gym Ghingnham! You're our enemy!!",
+      "display_variant": "en",
+      "display_text": "「Gym Ghingnham! You're our enemy!!」"
+    },
+    {
+      "id": "c28_0ed40",
+      "speaker": "Ghingnham",
+      "en": "What fine spirit! Let's see whose flame reigns supreme, yours or the Turn X's hellfire!!",
+      "display_variant": "en",
+      "display_text": "「What fine spirit! Let's see whose flame\nreigns supreme, yours or the Turn X's\nhellfire!!」"
+    },
+    {
+      "id": "c28_0eda0",
+      "speaker": "Ghingnham",
+      "en": "It's been a while, boy! Good to see the mechanical angel back too!",
+      "display_variant": "en",
+      "display_text": "「It's been a while, boy! Good to see the\nmechanical angel back too!」"
+    },
+    {
+      "id": "c28_0ee00",
+      "speaker": "Apollo",
+      "en": "You that desperate to get taken down by me!?",
+      "display_variant": "en",
+      "display_text": "「You that desperate to get taken down\nby me!?」"
+    },
+    {
+      "id": "c28_0ee40",
+      "speaker": "Apollo",
+      "en": "Or is it that you want my Infinite Fist to send you back to the moon!",
+      "display_variant": "en",
+      "display_text": "「Or is it that you want my Infinite Fist\nto send you back to the moon!」"
+    },
+    {
+      "id": "c28_0ee80",
+      "speaker": "Ghingnham",
+      "en": "A fine joke! As a reward, allow me to send you to the afterlife!!",
+      "display_variant": "en",
+      "display_text": "「A fine joke! As a reward, allow me to\nsend you to the afterlife!!」"
+    },
+    {
+      "id": "c28_0eed0",
+      "speaker": "Apollo",
+      "en": "That's a lousy joke! A ghost should act like one and go back to the grave!!",
+      "display_variant": "en",
+      "display_text": "「That's a lousy joke! A ghost should act\nlike one and go back to the grave!!」"
+    },
+    {
+      "id": "c28_0ef20",
+      "speaker": "Ghingnham",
+      "en": "Wielder of the black giant! Show me your true power!",
+      "display_variant": "en",
+      "display_text": "「Wielder of the black giant! Show me\nyour true power!」"
+    },
+    {
+      "id": "c28_0ef70",
+      "speaker": "Roger",
+      "en": "My real trade is negotiator. If it's true power you want, it lies in wisdom and words.",
+      "display_variant": "en",
+      "display_text": "「My real trade is negotiator. If it's\ntrue power you want, it lies in wisdom\nand words.」"
+    },
+    {
+      "id": "c28_0efd0",
+      "speaker": "Roger",
+      "en": "But my words probably won't reach a brute like you.",
+      "display_variant": "en",
+      "display_text": "「But my words probably won't reach a\nbrute like you.」"
+    },
+    {
+      "id": "c28_0f020",
+      "speaker": "Ghingnham",
+      "en": "Hmph...! Is that supposed to be sour grapes?",
+      "display_variant": "en",
+      "display_text": "「Hmph...! Is that supposed to be sour\ngrapes?」"
+    },
+    {
+      "id": "c28_0f050",
+      "speaker": "Roger",
+      "en": "If that's what you want, I'll deal with you in your own style.",
+      "display_variant": "en",
+      "display_text": "「If that's what you want, I'll deal with\nyou in your own style.」"
+    },
+    {
+      "id": "c28_0f090",
+      "speaker": "Roger",
+      "en": "So go back to your grave quietly, ghost of the Black History!!",
+      "display_variant": "en",
+      "display_text": "「So go back to your grave quietly, ghost\nof the Black History!!」"
+    },
+    {
+      "id": "c28_0f0d0",
+      "speaker": "Kamille",
+      "en": "Why do you long for battle!? Is watching lives get lost really that much fun for you!?",
+      "display_variant": "en",
+      "display_text": "「Why do you long for battle!? Is\nwatching lives get lost really that much\nfun for you!?」"
+    },
+    {
+      "id": "c28_0f130",
+      "speaker": "Ghingnham",
+      "en": "Life shines because it's lost! Battle is exactly what amplifies the light of life!",
+      "display_variant": "en",
+      "display_text": "「Life shines because it's lost! Battle is\nexactly what amplifies the light of life!」"
+    },
+    {
+      "id": "c28_0f180",
+      "speaker": "Ghingnham",
+      "en": "In other words, it is the very meaning of human existence!",
+      "display_variant": "en",
+      "display_text": "「In other words, it is the very meaning\nof human existence!」"
+    },
+    {
+      "id": "c28_0f1c0",
+      "speaker": "Kamille",
+      "en": "Don't you dare spout that logic, you who do nothing but take lives away!",
+      "display_variant": "en",
+      "display_text": "「Don't you dare spout that logic, you\nwho do nothing but take lives away!」"
+    },
+    {
+      "id": "c28_0f200",
+      "speaker": "Kamille",
+      "en": "A man who knows nothing but fighting has no right to lecture anyone on the meaning of humanity!",
+      "display_variant": "en",
+      "display_text": "「A man who knows nothing but fighting\nhas no right to lecture anyone on the\nmeaning of humanity!」"
+    },
+    {
+      "id": "c28_0f250",
+      "speaker": "Ghingnham",
+      "en": "Char Aznable! Some Psycommu-like presence within the Turn X taught me of your sins!",
+      "display_variant": "en",
+      "display_text": "「Char Aznable! Some Psycommu-like\npresence within the Turn X taught me of\nyour sins!」"
+    },
+    {
+      "id": "c28_0f2c0",
+      "speaker": "Quattro",
+      "en": "My sins, you say...?",
+      "display_variant": "en",
+      "display_text": "「My sins, you say...?」"
+    },
+    {
+      "id": "c28_0f2e0",
+      "speaker": "Ghingnham",
+      "en": "That's right! Allow me to tell you what you did at the end of the Black History!",
+      "display_variant": "en",
+      "display_text": "「That's right! Allow me to tell you what\nyou did at the end of the Black History!」"
+    },
+    {
+      "id": "c28_0f330",
+      "speaker": "Quattro",
+      "en": "There's no point in listening to something like that.",
+      "display_variant": "en",
+      "display_text": "「There's no point in listening to\nsomething like that.」"
+    },
+    {
+      "id": "c28_0f360",
+      "speaker": "Ghingnham",
+      "en": "What...?",
+      "display_variant": "en",
+      "display_text": "「What...?」"
+    },
+    {
+      "id": "c28_0f380",
+      "speaker": "Quattro",
+      "en": "I am Quattro Bajeena. I have no need to know Char Aznable's sins!",
+      "display_variant": "en",
+      "display_text": "「I am Quattro Bajeena. I have no need\nto know Char Aznable's sins!」"
+    },
+    {
+      "id": "c28_0f3e0",
+      "speaker": "Ghingnham",
+      "en": "As expected of you, Amuro Ray! No wonder you're the warrior who led the Black History to its end!",
+      "display_variant": "en",
+      "display_text": "「As expected of you, Amuro Ray! No\nwonder you're the warrior who led the\nBlack History to its end!」"
+    },
+    {
+      "id": "c28_0f430",
+      "speaker": "Amuro",
+      "en": "Is this what Lord Guin was talking about, my fight with Char...!?",
+      "display_variant": "en",
+      "display_text": "「Is this what Lord Guin was talking\nabout, my fight with Char...!?」"
+    },
+    {
+      "id": "c28_0f470",
+      "speaker": "Ghingnham",
+      "en": "That's right! At heart, you're just the same as me! Someone who longs for battle!",
+      "display_variant": "en",
+      "display_text": "「That's right! At heart, you're just the\nsame as me! Someone who longs for battle!」"
+    },
+    {
+      "id": "c28_0f4c0",
+      "speaker": "Amuro",
+      "en": "It's true, maybe fighting is the only way people like us know how to settle things...",
+      "display_variant": "en",
+      "display_text": "「It's true, maybe fighting is the only\nway people like us know how to settle\nthings...」"
+    },
+    {
+      "id": "c28_0f510",
+      "speaker": "Amuro",
+      "en": "But I can fight precisely because I believe there's a future waiting beyond it!",
+      "display_variant": "en",
+      "display_text": "「But I can fight precisely because I\nbelieve there's a future waiting beyond\nit!」"
+    },
+    {
+      "id": "c28_0f560",
+      "speaker": "Amuro",
+      "en": "Don't you dare lump that together with your fighting, which only chases fleeting pleasure!",
+      "display_variant": "en",
+      "display_text": "「Don't you dare lump that together with\nyour fighting, which only chases fleeting\npleasure!」"
+    },
+    {
+      "id": "c28_0f5b0",
+      "speaker": "Loran",
+      "en": "I can't hand the world's future to someone who's made the wrong use of power!",
+      "display_variant": "en",
+      "display_text": "「I can't hand the world's future to\nsomeone who's made the wrong use of\npower!」"
+    },
+    {
+      "id": "c28_0f600",
+      "speaker": "Ghingnham",
+      "en": "A Moonrace brat! But the people of the Moon, who forgot the instinct to fight, were living a slow death!",
+      "display_variant": "en",
+      "display_text": "「A Moonrace brat! But the people of the\nMoon, who forgot the instinct to fight,\nwere living a slow death!」"
+    },
+    {
+      "id": "c28_0f670",
+      "speaker": "Ghingnham",
+      "en": "But I found the light called battle, and have lived a life that felt real!",
+      "display_variant": "en",
+      "display_text": "「But I found the light called battle, and\nhave lived a life that felt real!」"
+    },
+    {
+      "id": "c28_0f6c0",
+      "speaker": "Loran",
+      "en": "There are other ways to make sure life feels real! Please understand that!",
+      "display_variant": "en",
+      "display_text": "「There are other ways to make sure life\nfeels real! Please understand that!」"
+    },
+    {
+      "id": "c28_0f710",
+      "speaker": "Loran",
+      "en": "And if you can't understand that, then I will fight you!!",
+      "display_variant": "en",
+      "display_text": "「And if you can't understand that, then\nI will fight you!!」"
+    },
+    {
+      "id": "c28_0f760",
+      "speaker": "Shinn",
+      "en": "Man, seriously! Why can't you see how pointless a fight like this is!",
+      "display_variant": "en",
+      "display_text": "「Man, seriously! Why can't you see how\npointless a fight like this is!」"
+    },
+    {
+      "id": "c28_0f7c0",
+      "speaker": "Ghingnham",
+      "en": "It's you who doesn't get it, boy!",
+      "display_variant": "en",
+      "display_text": "「It's you who doesn't get it, boy!」"
+    },
+    {
+      "id": "c28_0f800",
+      "speaker": "Ghingnham",
+      "en": "Without battle, people forget the meaning of life! That's why I fight!",
+      "display_variant": "en",
+      "display_text": "「Without battle, people forget the\nmeaning of life! That's why I fight!」"
+    },
+    {
+      "id": "c28_0f860",
+      "speaker": "Shinn",
+      "en": "Go get drunk on your own words! I've had enough of lives being lost to someone else's selfish fighting!",
+      "display_variant": "en",
+      "display_text": "「Go get drunk on your own words! I've\nhad enough of lives being lost to someone\nelse's selfish fighting!」"
+    },
+    {
+      "id": "c28_0f8c0",
+      "speaker": "Shinn",
+      "en": "If it's a fight you want, I'll be your opponent! This will be your last battle!!",
+      "display_variant": "en",
+      "display_text": "「If it's a fight you want, I'll be your\nopponent! This will be your last battle!!」"
+    },
+    {
+      "id": "c28_0f920",
+      "speaker": "Ghingnham",
+      "en": "It's been a while, boy. Seems you've thrown away that naive thinking of yours!",
+      "display_variant": "en",
+      "display_text": "「It's been a while, boy. Seems you've\nthrown away that naive thinking of yours!」"
+    },
+    {
+      "id": "c28_0f980",
+      "speaker": "Kira",
+      "en": "My fight hasn't changed... I've just made up my mind...!",
+      "display_variant": "en",
+      "display_text": "「My fight hasn't changed... I've just\nmade up my mind...!」"
+    },
+    {
+      "id": "c28_0f9d0",
+      "speaker": "Ghingnham",
+      "en": "Made up your mind, you say? To think you'd use such a grand word!",
+      "display_variant": "en",
+      "display_text": "「Made up your mind, you say? To think\nyou'd use such a grand word!」"
+    },
+    {
+      "id": "c28_0fa20",
+      "speaker": "Kira",
+      "en": "Laugh if you want. But I've decided to keep moving forward, even while I doubt myself...!",
+      "display_variant": "en",
+      "display_text": "「Laugh if you want. But I've decided to\nkeep moving forward, even while I doubt\nmyself...!」"
+    },
+    {
+      "id": "c28_0fa80",
+      "speaker": "Kira",
+      "en": "So I'll take you down! To protect someone with my own hands!!",
+      "display_variant": "en",
+      "display_text": "「So I'll take you down! To protect\nsomeone with my own hands!!」"
+    },
+    {
+      "id": "c28_0fac0",
+      "speaker": "Garrod",
+      "en": "Enough already! Executors, you included -- ghosts belong in the grave!!",
+      "display_variant": "en",
+      "display_text": "「Enough already! Executors, you included\n-- ghosts belong in the grave!!」"
+    },
+    {
+      "id": "c28_0fb10",
+      "speaker": "Ghingnham",
+      "en": "I won't have that...! Both I and those people are here to change the world!",
+      "display_variant": "en",
+      "display_text": "「I won't have that...! Both I and those\npeople are here to change the world!」"
+    },
+    {
+      "id": "c28_0fb70",
+      "speaker": "Ghingnham",
+      "en": "That's right...! To burn the world to ash once, with the flames of war!",
+      "display_variant": "en",
+      "display_text": "「That's right...! To burn the world to\nash once, with the flames of war!」"
+    },
+    {
+      "id": "c28_0fbc0",
+      "speaker": "Garrod",
+      "en": "What good does that do!? How many lives have to be lost before you get how empty fighting is!",
+      "display_variant": "en",
+      "display_text": "「What good does that do!? How many\nlives have to be lost before you get how\nempty fighting is!」"
+    },
+    {
+      "id": "c28_0fc20",
+      "speaker": "Garrod",
+      "en": "I won't accept you! This world doesn't need fighting anymore, not one bit!!",
+      "display_variant": "en",
+      "display_text": "「I won't accept you! This world doesn't\nneed fighting anymore, not one bit!!」"
+    },
+    {
+      "id": "c28_0fc80",
+      "speaker": "Ghingnham",
+      "en": "Even a former Newtype soldier has fallen this low! Allow me to deliver your final rites!",
+      "display_variant": "en",
+      "display_text": "「Even a former Newtype soldier has\nfallen this low! Allow me to deliver your\nfinal rites!」"
+    },
+    {
+      "id": "c28_0fce0",
+      "speaker": "Jamil",
+      "en": "But now I have something to protect...! And that has become my strength!",
+      "display_variant": "en",
+      "display_text": "「But now I have something to protect...!\nAnd that has become my strength!」"
+    },
+    {
+      "id": "c28_0fd30",
+      "speaker": "Jamil",
+      "en": "Something you, who only takes, could never understand!",
+      "display_variant": "en",
+      "display_text": "「Something you, who only takes, could\nnever understand!」"
+    },
+    {
+      "id": "c28_0fd80",
+      "speaker": "Ghingnham",
+      "en": "Enough talk! If you have power, show it to me!",
+      "display_variant": "en",
+      "display_text": "「Enough talk! If you have power, show it\nto me!」"
+    },
+    {
+      "id": "c28_0fdc0",
+      "speaker": "Ghingnham",
+      "en": "If you can defeat me and the Turn X, I'll acknowledge your words!",
+      "display_variant": "en",
+      "display_text": "「If you can defeat me and the Turn X,\nI'll acknowledge your words!」"
+    },
+    {
+      "id": "c28_0fe10",
+      "speaker": "Ghingnham",
+      "en": "This man...! He's grown stronger than the last time we fought!?",
+      "display_variant": "en",
+      "display_text": "「This man...! He's grown stronger than\nthe last time we fought!?」"
+    },
+    {
+      "id": "c28_0fe60",
+      "speaker": "Holland",
+      "en": "Someone like you probably can't understand it! The power that backs my strength!",
+      "display_variant": "en",
+      "display_text": "「Someone like you probably can't\nunderstand it! The power that backs my\nstrength!」"
+    },
+    {
+      "id": "c28_0fec0",
+      "speaker": "Ghingnham",
+      "en": "And what is that!? Speak!",
+      "display_variant": "en",
+      "display_text": "「And what is that!? Speak!」"
+    },
+    {
+      "id": "c28_0fef0",
+      "speaker": "Holland",
+      "en": "A mother's strength, a father's strength...! I'm fighting carrying my family and the whole world on my back!!",
+      "display_variant": "en",
+      "display_text": "「A mother's strength, a father's\nstrength...! I'm fighting carrying my\nfamily and the whole world on my back!!」"
+    },
+    {
+      "id": "c28_0ff50",
+      "speaker": "Ghingnham",
+      "en": "Boy! You'll regret ever crawling out onto this battlefield!",
+      "display_variant": "en",
+      "display_text": "「Boy! You'll regret ever crawling out\nonto this battlefield!」"
+    },
+    {
+      "id": "c28_0ffa0",
+      "speaker": "Renton",
+      "en": "You're the one who's going to regret starting a fight all over again!",
+      "display_variant": "en",
+      "display_text": "「You're the one who's going to regret\nstarting a fight all over again!」"
+    },
+    {
+      "id": "c28_0fff0",
+      "speaker": "Ghingnham",
+      "en": "Bold words, boy! You think someone like you can actually pull that off!?",
+      "display_variant": "en",
+      "display_text": "「Bold words, boy! You think someone like\nyou can actually pull that off!?」"
+    },
+    {
+      "id": "c28_10040",
+      "speaker": "Renton",
+      "en": "Even if I can't do it alone, I've got my friends, and Eureka!",
+      "display_variant": "en",
+      "display_text": "「Even if I can't do it alone, I've got\nmy friends, and Eureka!」"
+    },
+    {
+      "id": "c28_10080",
+      "speaker": "Eureka",
+      "en": "Renton...",
+      "display_variant": "en",
+      "display_text": "「Renton...」"
+    },
+    {
+      "id": "c28_100a0",
+      "speaker": "Ghingnham",
+      "en": "There you go, saying a woman's name again! Such a spoiled brat!!",
+      "display_variant": "en",
+      "display_text": "「There you go, saying a woman's name\nagain! Such a spoiled brat!!」"
+    },
+    {
+      "id": "c28_100e0",
+      "speaker": "Renton",
+      "en": "I'm still just a kid, but I won't lose to a selfish man like you!",
+      "display_variant": "en",
+      "display_text": "「I'm still just a kid, but I won't lose\nto a selfish man like you!」"
+    },
+    {
+      "id": "c28_10130",
+      "speaker": "Renton",
+      "en": "I can't afford to lose!!",
+      "display_variant": "en",
+      "display_text": "「I can't afford to lose!!」"
+    },
+    {
+      "id": "c28_10160",
+      "speaker": "Jiron",
+      "en": "What's done is done! No way I'm letting a ghost of the Black History do as it pleases with our world!",
+      "display_variant": "en",
+      "display_text": "「What's done is done! No way I'm letting\na ghost of the Black History do as it\npleases with our world!」"
+    },
+    {
+      "id": "c28_101c0",
+      "speaker": "Ghingnham",
+      "en": "There's a saying that history repeats itself! No matter what you lot try, battle is humanity's destiny!",
+      "display_variant": "en",
+      "display_text": "「There's a saying that history repeats\nitself! No matter what you lot try, battle\nis humanity's destiny!」"
+    },
+    {
+      "id": "c28_10230",
+      "speaker": "Jiron",
+      "en": "All right, got it! Then I'll just make sure the only thing that repeats is you getting beaten!",
+      "display_variant": "en",
+      "display_text": "「All right, got it! Then I'll just make\nsure the only thing that repeats is you\ngetting beaten!」"
+    },
+    {
+      "id": "c28_10280",
+      "speaker": "Jiron",
+      "en": "Here I come, ghost! If you crawled back up out of the grave, I'll bury you even deeper this time!",
+      "display_variant": "en",
+      "display_text": "「Here I come, ghost! If you crawled back\nup out of the grave, I'll bury you even\ndeeper this time!」"
+    },
+    {
+      "id": "c28_102e0",
+      "speaker": "Ghingnham",
+      "en": "The Turn X is telling me! That you and that black Overman are bound by fate!",
+      "display_variant": "en",
+      "display_text": "「The Turn X is telling me! That you and\nthat black Overman are bound by fate!」"
+    },
+    {
+      "id": "c28_10340",
+      "speaker": "Gainer",
+      "en": "So what if we are!?",
+      "display_variant": "en",
+      "display_text": "「So what if we are!?」"
+    },
+    {
+      "id": "c28_10370",
+      "speaker": "Ghingnham",
+      "en": "Come join me too, silver-haired one! Bow to my banner, and let's fulfill the Black History's will together!",
+      "display_variant": "en",
+      "display_text": "「Come join me too, silver-haired one! Bow\nto my banner, and let's fulfill the Black\nHistory's will together!」"
+    },
+    {
+      "id": "c28_103e0",
+      "speaker": "Gainer",
+      "en": "I refuse! I've had more than enough of real fighting, and so has the world!!",
+      "display_variant": "en",
+      "display_text": "「I refuse! I've had more than enough of\nreal fighting, and so has the world!!」"
+    },
+    {
+      "id": "c28_10430",
+      "speaker": "Gainer",
+      "en": "So I'll defeat you, and go after that black Overman! With King Gainer and me!!",
+      "display_variant": "en",
+      "display_text": "「So I'll defeat you, and go after that\nblack Overman! With King Gainer and me!!」"
+    },
+    {
+      "id": "c28_104a0",
+      "speaker": "Gain",
+      "en": "I've seen enough of that scar on your chest. Time for you to disappear, once and for all...!",
+      "display_variant": "en",
+      "display_text": "「I've seen enough of that scar on your\nchest. Time for you to disappear, once\nand for all...!」"
+    },
+    {
+      "id": "c28_104e0",
+      "speaker": "Ghingnham",
+      "en": "Fine spirit...! But you're a bit too small a fry to be my opponent!",
+      "display_variant": "en",
+      "display_text": "「Fine spirit...! But you're a bit too\nsmall a fry to be my opponent!」"
+    },
+    {
+      "id": "c28_10530",
+      "speaker": "Gain",
+      "en": "Then, as your gravestone, I'll carve my name right over that X.",
+      "display_variant": "en",
+      "display_text": "「Then, as your gravestone, I'll carve my\nname right over that X.」"
+    },
+    {
+      "id": "c28_10580",
+      "speaker": "Gain",
+      "en": "Take this black cross, Gym Ghingnham!",
+      "display_variant": "en",
+      "display_text": "「Take this black cross, Gym Ghingnham!」"
+    },
+    {
+      "id": "c28_105c0",
+      "speaker": "Kei",
+      "en": "Hey, Mr. Moon General, weren't you just going on about calling out a woman's name on the battlefield?",
+      "display_variant": "en",
+      "display_text": "「Hey, Mr. Moon General, weren't you just\ngoing on about calling out a woman's name\non the battlefield?」"
+    },
+    {
+      "id": "c28_10620",
+      "speaker": "Ghingnham",
+      "en": "So what if I was?",
+      "display_variant": "en",
+      "display_text": "「So what if I was?」"
+    },
+    {
+      "id": "c28_10640",
+      "speaker": "Kei",
+      "en": "I get it now. Why you're so obsessed with fighting.",
+      "display_variant": "en",
+      "display_text": "「I get it now. Why you're so obsessed\nwith fighting.」"
+    },
+    {
+      "id": "c28_10690",
+      "speaker": "Kei",
+      "en": "It's because you don't know what's so great about girls that you go and do stuff like this!",
+      "display_variant": "en",
+      "display_text": "「It's because you don't know what's so\ngreat about girls that you go and do\nstuff like this!」"
+    },
+    {
+      "id": "c28_106f0",
+      "speaker": "Kei",
+      "en": "Next time you're born, go have yourself a good romance! It's a lot more fun than fighting!",
+      "display_variant": "en",
+      "display_text": "「Next time you're born, go have yourself\na good romance! It's a lot more fun than\nfighting!」"
+    },
+    {
+      "id": "c28_10750",
+      "speaker": "Ghingnham",
+      "en": "Women, is it...! You think you're fit to be my opponent!?",
+      "display_variant": "en",
+      "display_text": "「Women, is it...! You think you're fit to\nbe my opponent!?」"
+    },
+    {
+      "id": "c28_107a0",
+      "speaker": "Toby",
+      "en": "Underestimate our ace and you'll get more than burned...!",
+      "display_variant": "en",
+      "display_text": "「Underestimate our ace and you'll get\nmore than burned...!」"
+    },
+    {
+      "id": "c28_107e0",
+      "speaker": "Denzel",
+      "en": "$n, we've got your back! Drive the soul of Glory Star straight into him!",
+      "display_variant": "en",
+      "display_text": "「$n, we've got your back! Drive the\nsoul of Glory Star straight into him!」"
+    },
+    {
+      "id": "c28_10840",
+      "speaker": "$n",
+      "en": "Roger! $F, here I go!",
+      "display_variant": "en",
+      "display_text": "「Roger! $F, here I go!」"
+    },
+    {
+      "id": "c28_10870",
+      "speaker": "Ghingnham",
+      "en": "Coming straight at me...! This woman fears neither me nor the Turn X!",
+      "display_variant": "en",
+      "display_text": "「Coming straight at me...! This woman\nfears neither me nor the Turn X!」"
+    },
+    {
+      "id": "c28_108c0",
+      "speaker": "$n",
+      "en": "I'll overcome fear and sorrow alike! As long as I still carry my duty and my pride!",
+      "display_variant": "en",
+      "display_text": "「I'll overcome fear and sorrow alike! As\nlong as I still carry my duty and my\npride!」"
+    },
+    {
+      "id": "c28_10910",
+      "speaker": "$n",
+      "en": "I am Glory Star!",
+      "display_variant": "en",
+      "display_text": "「I am Glory Star!」"
+    },
+    {
+      "id": "c28_10940",
+      "speaker": "Denzel",
+      "en": "Setsuko, we've got your back! Drive the soul of Glory Star straight into him!",
+      "display_variant": "en",
+      "display_text": "「Setsuko, we've got your back! Drive the\nsoul of Glory Star straight into him!」"
+    },
+    {
+      "id": "c28_109a0",
+      "speaker": "Setsuko",
+      "en": "Roger! Setsuko Ohara, here I go!",
+      "display_variant": "en",
+      "display_text": "「Roger! Setsuko Ohara, here I go!」"
+    },
+    {
+      "id": "c28_109e0",
+      "speaker": "Setsuko",
+      "en": "I'll overcome fear and sorrow alike! As long as I still carry my duty and my pride!",
+      "display_variant": "en",
+      "display_text": "「I'll overcome fear and sorrow alike! As\nlong as I still carry my duty and my\npride!」"
+    },
+    {
+      "id": "c28_10a30",
+      "speaker": "Setsuko",
+      "en": "I am Glory Star!",
+      "display_variant": "en",
+      "display_text": "「I am Glory Star!」"
+    },
+    {
+      "id": "c28_10a60",
+      "speaker": "Ghingnham",
+      "en": "I see it now...! You're the same as me!",
+      "display_variant": "en",
+      "display_text": "「I see it now...! You're the same as me!」"
+    },
+    {
+      "id": "c28_10aa0",
+      "speaker": "Mel",
+      "en": "My darling has long hair too, but he doesn't have a perm like that!",
+      "display_variant": "en",
+      "display_text": "「My darling has long hair too, but he\ndoesn't have a perm like that!」"
+    },
+    {
+      "id": "c28_10af0",
+      "speaker": "$n",
+      "en": "Same as always, but this is no time to be saying that!",
+      "display_variant": "en",
+      "display_text": "「Same as always, but this is no time to\nbe saying that!」"
+    },
+    {
+      "id": "c28_10b30",
+      "speaker": "Ghingnham",
+      "en": "You're one who lives amid destruction! A fitting opponent for me!",
+      "display_variant": "en",
+      "display_text": "「You're one who lives amid destruction!\nA fitting opponent for me!」"
+    },
+    {
+      "id": "c28_10b80",
+      "speaker": "$n",
+      "en": "Honestly, I don't even want to be fighting! My real trade is repair work!",
+      "display_variant": "en",
+      "display_text": "「Honestly, I don't even want to be\nfighting! My real trade is repair work!」"
+    },
+    {
+      "id": "c28_10bd0",
+      "speaker": "$n",
+      "en": "But since it's come to this, I'll settle the score for turning me back into the Crusher!",
+      "display_variant": "en",
+      "display_text": "「But since it's come to this, I'll settle\nthe score for turning me back into the\nCrusher!」"
+    },
+    {
+      "id": "c28_10c30",
+      "speaker": "$n",
+      "en": "I'll smash you to pieces so you can never come back again!",
+      "display_variant": "en",
+      "display_text": "「I'll smash you to pieces so you can\nnever come back again!」"
+    },
+    {
+      "id": "c28_10c80",
+      "speaker": "Ghingnham",
+      "en": "That's the spirit! Just as I expected of you!",
+      "display_variant": "en",
+      "display_text": "「That's the spirit! Just as I expected\nof you!」"
+    },
+    {
+      "id": "c28_10cc0",
+      "speaker": "$n",
+      "en": "Shut up! Don't say another word!!",
+      "display_variant": "en",
+      "display_text": "「Shut up! Don't say another word!!」"
+    },
+    {
+      "id": "c28_10cf0",
+      "speaker": "Rand",
+      "en": "Same as always, but this is no time to be saying that!",
+      "display_variant": "en",
+      "display_text": "「Same as always, but this is no time to\nbe saying that!」"
+    },
+    {
+      "id": "c28_10d30",
+      "speaker": "Rand",
+      "en": "Honestly, I don't even want to be fighting! My real trade is repair work!",
+      "display_variant": "en",
+      "display_text": "「Honestly, I don't even want to be\nfighting! My real trade is repair work!」"
+    },
+    {
+      "id": "c28_10d90",
+      "speaker": "Rand",
+      "en": "But since it's come to this, I'll settle the score for turning me back into the Crusher!",
+      "display_variant": "en",
+      "display_text": "「But since it's come to this, I'll settle\nthe score for turning me back into the\nCrusher!」"
+    },
+    {
+      "id": "c28_10df0",
+      "speaker": "Rand",
+      "en": "I'll smash you to pieces so you can never come back again!",
+      "display_variant": "en",
+      "display_text": "「I'll smash you to pieces so you can\nnever come back again!」"
+    },
+    {
+      "id": "c28_10e40",
+      "speaker": "Rand",
+      "en": "Shut up! Don't say another word!!",
+      "display_variant": "en",
+      "display_text": "「Shut up! Don't say another word!!」"
+    },
+    {
+      "id": "c28_10e70",
+      "speaker": "Sandman",
+      "en": "One who wishes for peace across time, and one who longs for battle...",
+      "display_variant": "en",
+      "display_text": "「One who wishes for peace across time,\nand one who longs for battle...」"
+    },
+    {
+      "id": "c28_10eb0",
+      "speaker": "Ghingnham",
+      "en": "Peace is nothing but a fleeting illusion. It's the same as the stopping of life... as death itself!",
+      "display_variant": "en",
+      "display_text": "「Peace is nothing but a fleeting illusion.\nIt's the same as the stopping of life...\nas death itself!」"
+    },
+    {
+      "id": "c28_10f00",
+      "speaker": "Sandman",
+      "en": "Gym Ghingnham...! It's you who will be embraced by Thanatos!",
+      "display_variant": "en",
+      "display_text": "「Gym Ghingnham...! It's you who will be\nembraced by Thanatos!」"
+    },
+    {
+      "id": "c28_10f50",
+      "speaker": "Sandman",
+      "en": "You who know nothing of peace's meaning! Learn its weight with your own life!!",
+      "display_variant": "en",
+      "display_text": "「You who know nothing of peace's\nmeaning! Learn its weight with your own\nlife!!」"
+    },
+    {
+      "id": "c28_11000",
+      "speaker": "Quattro",
+      "en": "Now then, Banjo... tell us what information you've gathered.",
+      "display_variant": "en",
+      "display_text": "「Now then, Banjo... tell us what\ninformation you've gathered.」"
+    },
+    {
+      "id": "c28_11040",
+      "speaker": "Banjo",
+      "en": "Understood, Lt. Quattro.",
+      "display_variant": "en",
+      "display_text": "「Understood, Lt. Quattro.」"
+    },
+    {
+      "id": "c28_11060",
+      "speaker": "Kappei",
+      "en": "Hold on a sec! Weren't you supposed to have gone to Mars, Banjo?",
+      "display_variant": "en",
+      "display_text": "「Hold on a sec! Weren't you supposed to\nhave gone to Mars, Banjo?」"
+    },
+    {
+      "id": "c28_110b0",
+      "speaker": "Banjo",
+      "en": "I figured I'd wrap up some business before that.",
+      "display_variant": "en",
+      "display_text": "「I figured I'd wrap up some business\nbefore that.」"
+    },
+    {
+      "id": "c28_110f0",
+      "speaker": "Banjo",
+      "en": "For that, I borrowed the strength of Commander Fudo and Mr. Negotiator here.",
+      "display_variant": "en",
+      "display_text": "「For that, I borrowed the strength of\nCommander Fudo and Mr. Negotiator here.」"
+    },
+    {
+      "id": "c28_11140",
+      "speaker": "Roger",
+      "en": "My field of activity now extends well beyond Paradigm City.",
+      "display_variant": "en",
+      "display_text": "「My field of activity now extends well\nbeyond Paradigm City.」"
+    },
+    {
+      "id": "c28_11190",
+      "speaker": "Roger",
+      "en": "I answer sincere requests with sincerity, that's all.",
+      "display_variant": "en",
+      "display_text": "「I answer sincere requests with\nsincerity, that's all.」"
+    },
+    {
+      "id": "c28_111d0",
+      "speaker": "Tetsuya",
+      "en": "Does this business of yours have anything to do with the matter at hand?",
+      "display_variant": "en",
+      "display_text": "「Does this business of yours have\nanything to do with the matter at hand?」"
+    },
+    {
+      "id": "c28_11210",
+      "speaker": "Banjo",
+      "en": "As it happens, yes.",
+      "display_variant": "en",
+      "display_text": "「As it happens, yes.」"
+    },
+    {
+      "id": "c28_11230",
+      "speaker": "Banjo",
+      "en": "By taking care of my business, I managed to gather some information about the drones that appeared all over the world.",
+      "display_variant": "fit",
+      "display_text": "「Taking care of my business, I gathered\nsome info on the drones that appeared\nworldwide.」"
+    },
+    {
+      "id": "c28_112a0",
+      "speaker": "Garrod",
+      "en": "You're killing me here...! We're in a rush to stop those guys as soon as possible!",
+      "display_variant": "en",
+      "display_text": "「You're killing me here...! We're in a\nrush to stop those guys as soon as\npossible!」"
+    },
+    {
+      "id": "c28_11300",
+      "speaker": "Renton",
+      "en": "Please, Banjo. Tell us about them quickly.",
+      "display_variant": "en",
+      "display_text": "「Please, Banjo. Tell us about them\nquickly.」"
+    },
+    {
+      "id": "c28_11350",
+      "speaker": "Banjo",
+      "en": "It's not like me to be so roundabout. I apologize for that.",
+      "display_variant": "en",
+      "display_text": "「It's not like me to be so roundabout. I\napologize for that.」"
+    },
+    {
+      "id": "c28_113a0",
+      "speaker": "Banjo",
+      "en": "Now then, let me share the information we've gathered.",
+      "display_variant": "en",
+      "display_text": "「Now then, let me share the information\nwe've gathered.」"
+    },
+    {
+      "id": "c28_113d0",
+      "speaker": "Loran",
+      "en": "An unidentified enemy and the Executor System...",
+      "display_variant": "en",
+      "display_text": "（An unidentified enemy and the Executor\nSystem...）"
+    },
+    {
+      "id": "c28_11400",
+      "speaker": "Gainer",
+      "en": "Can he really figure out how that connects to King Gainer and the Turn A...",
+      "display_variant": "en",
+      "display_text": "（Can he really figure out how that\nconnects to King Gainer and the Turn A...）"
+    },
+    {
+      "id": "c28_11440",
+      "speaker": "Banjo",
+      "en": "First, you already know that the drones that attacked sites around the world are what's called relics of the Black History.",
+      "display_variant": "fit",
+      "display_text": "「First, you already know the drones that\nattacked sites worldwide are relics of the\nBlack History.」"
+    },
+    {
+      "id": "c28_114a0",
+      "speaker": "Kamille",
+      "en": "Judging by where they appeared, I'd say that's beyond doubt.",
+      "display_variant": "en",
+      "display_text": "「Judging by where they appeared, I'd say\nthat's beyond doubt.」"
+    },
+    {
+      "id": "c28_114f0",
+      "speaker": "Shinn",
+      "en": "Don't tell me, Banjo...! You've solved the mystery of the Black History!?",
+      "display_variant": "en",
+      "display_text": "「Don't tell me, Banjo...! You've solved\nthe mystery of the Black History!?」"
+    },
+    {
+      "id": "c28_11540",
+      "speaker": "Banjo",
+      "en": "Close, but not quite.",
+      "display_variant": "en",
+      "display_text": "「Close, but not quite.」"
+    },
+    {
+      "id": "c28_11560",
+      "speaker": "Jamil",
+      "en": "But how? The Moon's D.O.M.E. has gone to sleep, and isn't functioning right now.",
+      "display_variant": "en",
+      "display_text": "「But how? The Moon's D.O.M.E. has gone\nto sleep, and isn't functioning right now.」"
+    },
+    {
+      "id": "c28_115c0",
+      "speaker": "Jiron",
+      "en": "Even the book on Innocent history that Arthur has doesn't go into detail about it...",
+      "display_variant": "en",
+      "display_text": "「Even the book on Innocent history that\nArthur has doesn't go into detail about\nit...」"
+    },
+    {
+      "id": "c28_11630",
+      "speaker": "Roger",
+      "en": "The material we sought doesn't lay out the facts in fine detail either.",
+      "display_variant": "en",
+      "display_text": "「The material we sought doesn't lay out\nthe facts in fine detail either.」"
+    },
+    {
+      "id": "c28_11690",
+      "speaker": "Roger",
+      "en": "That's because it takes the form of a novel.",
+      "display_variant": "en",
+      "display_text": "「That's because it takes the form of a\nnovel.」"
+    },
+    {
+      "id": "c28_116d0",
+      "speaker": "Gain",
+      "en": "I see...! That one!",
+      "display_variant": "en",
+      "display_text": "「I see...! That one!」"
+    },
+    {
+      "id": "c28_116f0",
+      "speaker": "Roger",
+      "en": "As you've guessed.",
+      "display_variant": "en",
+      "display_text": "「As you've guessed.」"
+    },
+    {
+      "id": "c28_11710",
+      "speaker": "Roger",
+      "en": "Banjo's request... it was to track down Metropolis, written by Gordon Rosewater.",
+      "display_variant": "en",
+      "display_text": "「Banjo's request... it was to track down\nMetropolis, written by Gordon Rosewater.」"
+    },
+    {
+      "id": "c28_11770",
+      "speaker": "Amuro",
+      "en": "So you got your hands on the novel that records the truth of the Black History...",
+      "display_variant": "en",
+      "display_text": "「So you got your hands on the novel\nthat records the truth of the Black\nHistory...」"
+    },
+    {
+      "id": "c28_117b0",
+      "speaker": "Banjo",
+      "en": "Unfortunately, we couldn't find the actual book. But we made contact with someone who'd read it, and learned part of what it said.",
+      "display_variant": "fit",
+      "display_text": "「Unfortunately, we couldn't find the book\nitself. But we contacted someone who'd\nread it, and learned part of what it said.」"
+    },
+    {
+      "id": "c28_11830",
+      "speaker": "Banjo",
+      "en": "What I wanted to know was how the world was rebuilt after the Black History came to an end.",
+      "display_variant": "en",
+      "display_text": "「What I wanted to know was how the\nworld was rebuilt after the Black History\ncame to an end.」"
+    },
+    {
+      "id": "c28_11890",
+      "speaker": "Banjo",
+      "en": "I thought it would help us think about the future of this world, born from the spacetime restoration.",
+      "display_variant": "en",
+      "display_text": "「I thought it would help us think about\nthe future of this world, born from the\nspacetime restoration.」"
+    },
+    {
+      "id": "c28_118f0",
+      "speaker": "Holland",
+      "en": "That'd be the epilogue of that novel, then.",
+      "display_variant": "en",
+      "display_text": "「That'd be the epilogue of that novel,\nthen.」"
+    },
+    {
+      "id": "c28_11920",
+      "speaker": "Banjo",
+      "en": "According to what we heard, this is how it described what happened to the world after the spacetime destruction.",
+      "display_variant": "en",
+      "display_text": "「According to what we heard, this is\nhow it described what happened to the\nworld after the spacetime destruction.」"
+    },
+    {
+      "id": "c28_11980",
+      "speaker": "Roger",
+      "en": "...The new world, born from a storm of great power, fell under the rule of chaos.",
+      "display_variant": "en",
+      "display_text": "「...The new world, born from a storm of\ngreat power, fell under the rule of chaos.」"
+    },
+    {
+      "id": "c28_119e0",
+      "speaker": "Roger",
+      "en": "The people who remained prepared a power, in case such a disaster should ever strike again.",
+      "display_variant": "en",
+      "display_text": "「The people who remained prepared a\npower, in case such a disaster should\never strike again.」"
+    },
+    {
+      "id": "c28_11a40",
+      "speaker": "Roger",
+      "en": "Rebirth after destruction... an executor to save the fallen world...",
+      "display_variant": "en",
+      "display_text": "「Rebirth after destruction... an executor\nto save the fallen world...」"
+    },
+    {
+      "id": "c28_11a80",
+      "speaker": "Amuro",
+      "en": "An executor...",
+      "display_variant": "en",
+      "display_text": "「An executor...」"
+    },
+    {
+      "id": "c28_11aa0",
+      "speaker": "Roger",
+      "en": "Night ends, and morning comes. From the land of the rising sun, the sun rises again...",
+      "display_variant": "en",
+      "display_text": "「Night ends, and morning comes. From the\nland of the rising sun, the sun rises\nagain...」"
+    },
+    {
+      "id": "c28_11af0",
+      "speaker": "Banjo",
+      "en": "That's the information we've gathered.",
+      "display_variant": "en",
+      "display_text": "「That's the information we've gathered.」"
+    },
+    {
+      "id": "c28_11b20",
+      "speaker": "Sandman",
+      "en": "An executor... in other words, the Executor.",
+      "display_variant": "en",
+      "display_text": "「An executor... in other words, the\nExecutor.」"
+    },
+    {
+      "id": "c28_11b50",
+      "speaker": "Koji",
+      "en": "So that swarm of drones was something left behind by people of the Black History era, for the sake of the future...!",
+      "display_variant": "fit",
+      "display_text": "「So that drone swarm was left behind by\npeople of the Black History era, for the\nfuture's sake...!」"
+    },
+    {
+      "id": "c28_11bb0",
+      "speaker": "Marin",
+      "en": "According to the novel's account, it's a system prepared as a countermeasure against the disaster of spacetime destruction...",
+      "display_variant": "fit",
+      "display_text": "「According to the novel, it's a system\nprepared as a countermeasure against the\ndisaster of spacetime destruction...」"
+    },
+    {
+      "id": "c28_11c10",
+      "speaker": "Marin",
+      "en": "And it awakened when the spacetime restoration triggered it... is that it?",
+      "display_variant": "en",
+      "display_text": "「And it awakened when the spacetime\nrestoration triggered it... is that it?」"
+    },
+    {
+      "id": "c28_11c50",
+      "speaker": "Banjo",
+      "en": "Probably. I'd guess the outbreak and end of the great war, and the stabilization of the dimensional boundary, were the keys to its awakening.",
+      "display_variant": "fit",
+      "display_text": "「Probably. The great war's rise and fall,\nand the dimensional boundary stabilizing,\nwere the awakening's keys, I'd guess.」"
+    },
+    {
+      "id": "c28_11cc0",
+      "speaker": "Eiji",
+      "en": "Hold on a minute! Those drones attacked cities, you know!",
+      "display_variant": "en",
+      "display_text": "「Hold on a minute! Those drones attacked\ncities, you know!」"
+    },
+    {
+      "id": "c28_11d00",
+      "speaker": "Toshiya",
+      "en": "I can't exactly believe it's something meant for the good of the world and its people.",
+      "display_variant": "en",
+      "display_text": "「I can't exactly believe it's something\nmeant for the good of the world and its\npeople.」"
+    },
+    {
+      "id": "c28_11d50",
+      "speaker": "Daisuke",
+      "en": "No... we shouldn't jump to that conclusion.",
+      "display_variant": "en",
+      "display_text": "「No... we shouldn't jump to that\nconclusion.」"
+    },
+    {
+      "id": "c28_11d80",
+      "speaker": "Daisuke",
+      "en": "The drone attacks are probably just one part of the Executor System.",
+      "display_variant": "en",
+      "display_text": "「The drone attacks are probably just\none part of the Executor System.」"
+    },
+    {
+      "id": "c28_11dd0",
+      "speaker": "Kira",
+      "en": "Destruction and rebirth... and that would be the destruction part...",
+      "display_variant": "en",
+      "display_text": "「Destruction and rebirth... and that\nwould be the destruction part...」"
+    },
+    {
+      "id": "c28_11e00",
+      "speaker": "Banjo",
+      "en": "Exactly. If the drone attacks are the destruction, then there should be a system of rebirth to follow.",
+      "display_variant": "en",
+      "display_text": "「Exactly. If the drone attacks are the\ndestruction, then there should be a\nsystem of rebirth to follow.」"
+    },
+    {
+      "id": "c28_11e60",
+      "speaker": "Kamille",
+      "en": "Destroying the world, and then rebuilding what, exactly...!?",
+      "display_variant": "en",
+      "display_text": "「Destroying the world, and then\nrebuilding what, exactly...!?」"
+    },
+    {
+      "id": "c28_11eb0",
+      "speaker": "Quattro",
+      "en": "The Earth...",
+      "display_variant": "en",
+      "display_text": "「The Earth...」"
+    },
+    {
+      "id": "c28_11ed0",
+      "speaker": "Kamille",
+      "en": "Huh...",
+      "display_variant": "en",
+      "display_text": "「Huh...」"
+    },
+    {
+      "id": "c28_11ef0",
+      "speaker": "Quattro",
+      "en": "In the world we came from, the Earth was also being polluted by human activity.",
+      "display_variant": "en",
+      "display_text": "「In the world we came from, the Earth\nwas also being polluted by human activity.」"
+    },
+    {
+      "id": "c28_11f50",
+      "speaker": "Quattro",
+      "en": "Put another way, to restore the Earth, humanity's very existence is nothing but an obstacle.",
+      "display_variant": "en",
+      "display_text": "「Put another way, to restore the Earth,\nhumanity's very existence is nothing but\nan obstacle.」"
+    },
+    {
+      "id": "c28_11fb0",
+      "speaker": "Shinn",
+      "en": "So you're saying they thought about destruction... about wiping out humanity, to do that!?",
+      "display_variant": "en",
+      "display_text": "「So you're saying they thought about\ndestruction... about wiping out humanity,\nto do that!?」"
+    },
+    {
+      "id": "c28_12000",
+      "speaker": "Quattro",
+      "en": "Seeing as it's a system humans made, it probably wasn't meant to drive the human race to complete extinction.",
+      "display_variant": "en",
+      "display_text": "「Seeing as it's a system humans made, it\nprobably wasn't meant to drive the human\nrace to complete extinction.」"
+    },
+    {
+      "id": "c28_12070",
+      "speaker": "Quattro",
+      "en": "A moderate culling... or removing humanity from the Earth altogether -- that's likely the goal.",
+      "display_variant": "en",
+      "display_text": "「A moderate culling... or removing\nhumanity from the Earth altogether --\nthat's likely the goal.」"
+    },
+    {
+      "id": "c28_120d0",
+      "speaker": "Bright",
+      "en": "The Earth as sacred ground, humanity to live in space... an exercise of Elezmu's power, is it.",
+      "display_variant": "en",
+      "display_text": "「The Earth as sacred ground, humanity\nto live in space... an exercise of Elezmu's\npower, is it.」"
+    },
+    {
+      "id": "c28_12120",
+      "speaker": "Amuro",
+      "en": "I understand the logic, but is it something people should ever be allowed to do to other people...!",
+      "display_variant": "en",
+      "display_text": "「I understand the logic, but is it\nsomething people should ever be allowed\nto do to other people...!」"
+    },
+    {
+      "id": "c28_12180",
+      "speaker": "Amuro",
+      "en": "Someone who isn't even there passing indiscriminate judgment on others -- that can never be allowed...!",
+      "display_variant": "en",
+      "display_text": "「Someone who isn't even there passing\nindiscriminate judgment on others -- that\ncan never be allowed...!」"
+    },
+    {
+      "id": "c28_121d0",
+      "speaker": "Quattro",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c28_121f0",
+      "speaker": "Banjo",
+      "en": "But this system has actually been activated once before, a long time ago.",
+      "display_variant": "en",
+      "display_text": "「But this system has actually been\nactivated once before, a long time ago.」"
+    },
+    {
+      "id": "c28_12230",
+      "speaker": "Dianna",
+      "en": "...The world where the Moonrace and the Innocents once lived, you mean.",
+      "display_variant": "en",
+      "display_text": "「...The world where the Moonrace and the\nInnocents once lived, you mean.」"
+    },
+    {
+      "id": "c28_12280",
+      "speaker": "Banjo",
+      "en": "Exactly.",
+      "display_variant": "en",
+      "display_text": "「Exactly.」"
+    },
+    {
+      "id": "c28_122a0",
+      "speaker": "Loran",
+      "en": "Don't tell me...!",
+      "display_variant": "en",
+      "display_text": "「Don't tell me...!」"
+    },
+    {
+      "id": "c28_122c0",
+      "speaker": "Banjo",
+      "en": "That's right... at the end of the Black History, the Turn A used the Moonlight Butterfly to bury civilization.",
+      "display_variant": "en",
+      "display_text": "「That's right... at the end of the Black\nHistory, the Turn A used the Moonlight\nButterfly to bury civilization.」"
+    },
+    {
+      "id": "c28_12310",
+      "speaker": "Banjo",
+      "en": "And after that, people rejected mechanical civilization to protect the natural environment...",
+      "display_variant": "en",
+      "display_text": "「And after that, people rejected\nmechanical civilization to protect the\nnatural environment...」"
+    },
+    {
+      "id": "c28_12360",
+      "speaker": "Banjo",
+      "en": "Some moved their lives to the moon or to space to wait for nature's recovery, while others deliberately chose harsh environments to live in.",
+      "display_variant": "compact",
+      "display_text": "「Some moved to the moon or space to\nwait out nature's recovery; others\ndeliberately chose harsh places to live.」"
+    },
+    {
+      "id": "c28_123d0",
+      "speaker": "Gain",
+      "en": "So the Moonrace's existence, the rejection of mechanical civilization, and the life afterward in Zora and Siberia -- that all amounts to rebirth after destruction.",
+      "display_variant": "fit",
+      "display_text": "「The Moonrace's existence, rejecting\nmachines, then life in Zora and Siberia --\nall of it's rebirth after destruction.」"
+    },
+    {
+      "id": "c28_12450",
+      "speaker": "Roger",
+      "en": "The Turn A's Moonlight Butterfly and Overdevil's Overfreeze were probably weapons against the Shadow Angels, but not only that...",
+      "display_variant": "fit",
+      "display_text": "「Probably, Turn A's Moonlight Butterfly,\nOverdevil's Overfreeze were anti-Shadow\nAngel weapons, not only that...」"
+    },
+    {
+      "id": "c28_124c0",
+      "speaker": "Roger",
+      "en": "Just like those drones, they likely also served as a force carrying out the Executor System's destruction.",
+      "display_variant": "en",
+      "display_text": "「Just like those drones, they likely also\nserved as a force carrying out the\nExecutor System's destruction.」"
+    },
+    {
+      "id": "c28_12520",
+      "speaker": "Loran",
+      "en": "So that's why the Turn A ran out of control, in step with the system's activation...",
+      "display_variant": "en",
+      "display_text": "「So that's why the Turn A ran out of\ncontrol, in step with the system's\nactivation...」"
+    },
+    {
+      "id": "c28_12560",
+      "speaker": "Gainer",
+      "en": "Then what about King Gainer!?",
+      "display_variant": "en",
+      "display_text": "「Then what about King Gainer!?」"
+    },
+    {
+      "id": "c28_125a0",
+      "speaker": "Gainer",
+      "en": "That Overman is said to be a special existence they call an Early Overman, but...",
+      "display_variant": "en",
+      "display_text": "「That Overman is said to be a special\nexistence they call an Early Overman,\nbut...」"
+    },
+    {
+      "id": "c28_12610",
+      "speaker": "Gainer",
+      "en": "Are you saying King Gainer has power like Overdevil's too!?",
+      "display_variant": "en",
+      "display_text": "「Are you saying King Gainer has power\nlike Overdevil's too!?」"
+    },
+    {
+      "id": "c28_12670",
+      "speaker": "Banjo",
+      "en": "I don't know that. ...But judging from how the Turn A and King Gainer have behaved so far...",
+      "display_variant": "en",
+      "display_text": "「I don't know that. ...But judging from\nhow the Turn A and King Gainer have\nbehaved so far...」"
+    },
+    {
+      "id": "c28_126d0",
+      "speaker": "Banjo",
+      "en": "As long as a person is piloting it, it shouldn't run out of control.",
+      "display_variant": "en",
+      "display_text": "「As long as a person is piloting it, it\nshouldn't run out of control.」"
+    },
+    {
+      "id": "c28_12710",
+      "speaker": "Garrod",
+      "en": "Well, that's a relief, for now at least.",
+      "display_variant": "en",
+      "display_text": "「Well, that's a relief, for now at least.」"
+    },
+    {
+      "id": "c28_12740",
+      "speaker": "Gainer",
+      "en": "Y-yeah...",
+      "display_variant": "en",
+      "display_text": "「Y-yeah...」"
+    },
+    {
+      "id": "c28_12760",
+      "speaker": "Gainer",
+      "en": "I've got a bad feeling about this... like there's something more to King Gainer than that...",
+      "display_variant": "en",
+      "display_text": "（I've got a bad feeling about this... like\nthere's something more to King Gainer\nthan that...）"
+    },
+    {
+      "id": "c28_127d0",
+      "speaker": "Roger",
+      "en": "...That's everything we managed to learn.",
+      "display_variant": "en",
+      "display_text": "「...That's everything we managed to\nlearn.」"
+    },
+    {
+      "id": "c28_12800",
+      "speaker": "Dianna",
+      "en": "And this person who told you all this -- where are they now?",
+      "display_variant": "en",
+      "display_text": "「And this person who told you all this\n-- where are they now?」"
+    },
+    {
+      "id": "c28_12840",
+      "speaker": "Roger",
+      "en": "They said they'd be watching to see where the world's headed, for the time being.",
+      "display_variant": "en",
+      "display_text": "「They said they'd be watching to see\nwhere the world's headed, for the time\nbeing.」"
+    },
+    {
+      "id": "c28_12890",
+      "speaker": "Sochie",
+      "en": "Could that person be...?",
+      "display_variant": "en",
+      "display_text": "「Could that person be...?」"
+    },
+    {
+      "id": "c28_128c0",
+      "speaker": "Dianna",
+      "en": "That's enough, Sochie. That person must have lent their help precisely because they too were worried about the future.",
+      "display_variant": "fit",
+      "display_text": "「That's enough, Sochie. That person must\nhave helped us precisely because they too\nwere worried about the future.」"
+    },
+    {
+      "id": "c28_12930",
+      "speaker": "Sochie",
+      "en": "Understood, Lady Dianna.",
+      "display_variant": "en",
+      "display_text": "「Understood, Lady Dianna.」"
+    },
+    {
+      "id": "c28_12960",
+      "speaker": "Bright",
+      "en": "Now that we know the drones' purpose, we have to stop that system as soon as possible.",
+      "display_variant": "en",
+      "display_text": "「Now that we know the drones' purpose,\nwe have to stop that system as soon as\npossible.」"
+    },
+    {
+      "id": "c28_129c0",
+      "speaker": "Heizaemon",
+      "en": "Given the nature of its purpose, there's also a chance a weapon of destruction is being prepared that could engulf the whole world.",
+      "display_variant": "compact",
+      "display_text": "「Given its purpose, there's also a chance\na weapon of destruction is being prepared\nthat could engulf the whole world.」"
+    },
+    {
+      "id": "c28_12a30",
+      "speaker": "Jamil",
+      "en": "Night ends, and morning comes. From the land of the rising sun, the sun rises again...",
+      "display_variant": "en",
+      "display_text": "「Night ends, and morning comes. From the\nland of the rising sun, the sun rises\nagain...」"
+    },
+    {
+      "id": "c28_12a80",
+      "speaker": "Jamil",
+      "en": "Judging from that line, it's all but certain the Executor System is connected to Japan.",
+      "display_variant": "en",
+      "display_text": "「Judging from that line, it's all but\ncertain the Executor System is connected\nto Japan.」"
+    },
+    {
+      "id": "c28_12ae0",
+      "speaker": "Raven",
+      "en": "The fact that Japan alone hasn't been hit by the drones backs that up too.",
+      "display_variant": "en",
+      "display_text": "「The fact that Japan alone hasn't been\nhit by the drones backs that up too.」"
+    },
+    {
+      "id": "c28_12b40",
+      "speaker": "Sandman",
+      "en": "There's probably a control device for the system somewhere in Japan, along with whoever's operating it.",
+      "display_variant": "en",
+      "display_text": "「There's probably a control device for\nthe system somewhere in Japan, along with\nwhoever's operating it.」"
+    },
+    {
+      "id": "c28_12ba0",
+      "speaker": "Shaya",
+      "en": "So if we defeat that person, then...",
+      "display_variant": "en",
+      "display_text": "「So if we defeat that person, then...」"
+    },
+    {
+      "id": "c28_12bd0",
+      "speaker": "Holland",
+      "en": "That ridiculous system will probably stop too.",
+      "display_variant": "en",
+      "display_text": "「That ridiculous system will probably\nstop too.」"
+    },
+    {
+      "id": "c28_12c10",
+      "speaker": "Banjo",
+      "en": "For now, let's keep heading south to the Kushiro Plain in Hokkaido.",
+      "display_variant": "en",
+      "display_text": "「For now, let's keep heading south to\nthe Kushiro Plain in Hokkaido.」"
+    },
+    {
+      "id": "c28_12c60",
+      "speaker": "Banjo",
+      "en": "There's a Mountain Cycle there too. Investigating it might tell us something.",
+      "display_variant": "en",
+      "display_text": "「There's a Mountain Cycle there too.\nInvestigating it might tell us something.」"
+    },
+    {
+      "id": "c28_12cd0",
+      "speaker": "Tsugumi",
+      "en": "But... the mastermind might have already left Japan by now...",
+      "display_variant": "en",
+      "display_text": "「But... the mastermind might have already\nleft Japan by now...」"
+    },
+    {
+      "id": "c28_12d10",
+      "speaker": "Jun",
+      "en": "If that's the case, this would all be a complete waste of effort.",
+      "display_variant": "en",
+      "display_text": "「If that's the case, this would all be a\ncomplete waste of effort.」"
+    },
+    {
+      "id": "c28_12d60",
+      "speaker": "Apollo",
+      "en": "Enough grumbling, let's move! We don't have any other leads!",
+      "display_variant": "en",
+      "display_text": "「Enough grumbling, let's move! We don't\nhave any other leads!」"
+    },
+    {
+      "id": "c28_12db0",
+      "speaker": "???",
+      "en": "That's right.",
+      "display_variant": "en",
+      "display_text": "「That's right.」"
+    },
+    {
+      "id": "c28_12dd0",
+      "speaker": "Apollo",
+      "en": "There you are, old man.",
+      "display_variant": "en",
+      "display_text": "「There you are, old man.」"
+    },
+    {
+      "id": "c28_12df0",
+      "speaker": "Rena",
+      "en": "You're not surprised today.",
+      "display_variant": "en",
+      "display_text": "「You're not surprised today.」"
+    },
+    {
+      "id": "c28_12e10",
+      "speaker": "Fudo",
+      "en": "Guess you've finally gotten used to it.",
+      "display_variant": "en",
+      "display_text": "「Guess you've finally gotten used to it.」"
+    },
+    {
+      "id": "c28_12e30",
+      "speaker": "Apollo",
+      "en": "Don't underestimate me. I've grown too, you know.",
+      "display_variant": "en",
+      "display_text": "「Don't underestimate me. I've grown too,\nyou know.」"
+    },
+    {
+      "id": "c28_12e70",
+      "speaker": "Fudo",
+      "en": "Hmph... seems the trial of battle has toughened your spirit a little.",
+      "display_variant": "en",
+      "display_text": "「Hmph... seems the trial of battle has\ntoughened your spirit a little.」"
+    },
+    {
+      "id": "c28_12eb0",
+      "speaker": "Fudo",
+      "en": "Overcoming a trial is how people, and the world, move to the next stage. Through the repetition of failure and success... destruction and rebirth.",
+      "display_variant": "fit",
+      "display_text": "「Overcoming trials moves people, and the\nworld, forward -- through repeated\nfailure, success... destruction and rebirth.」"
+    },
+    {
+      "id": "c28_12f20",
+      "speaker": "Reika",
+      "en": "Destruction and rebirth...",
+      "display_variant": "en",
+      "display_text": "「Destruction and rebirth...」"
+    },
+    {
+      "id": "c28_12f40",
+      "speaker": "Sirius",
+      "en": "Are you talking about the Executor System?",
+      "display_variant": "en",
+      "display_text": "「Are you talking about the Executor\nSystem?」"
+    },
+    {
+      "id": "c28_12f90",
+      "speaker": "Fudo",
+      "en": "Now, who's to say...",
+      "display_variant": "en",
+      "display_text": "「Now, who's to say...」"
+    },
+    {
+      "id": "c28_12fb0",
+      "speaker": "Apollo",
+      "en": "Old man... I've been thinking about this for a while now, but aren't you someone who knows everything?",
+      "display_variant": "en",
+      "display_text": "「Old man... I've been thinking about this\nfor a while now, but aren't you someone\nwho knows everything?」"
+    },
+    {
+      "id": "c28_13010",
+      "speaker": "Apollo",
+      "en": "And on top of that, aren't you enjoying watching us all flail around!?",
+      "display_variant": "en",
+      "display_text": "「And on top of that, aren't you enjoying\nwatching us all flail around!?」"
+    },
+    {
+      "id": "c28_13070",
+      "speaker": "Pierre",
+      "en": "Calm down, Apollo.",
+      "display_variant": "en",
+      "display_text": "「Calm down, Apollo.」"
+    },
+    {
+      "id": "c28_13090",
+      "speaker": "Silvia",
+      "en": "That's right. The commander isn't all-knowing either, you know.",
+      "display_variant": "en",
+      "display_text": "「That's right. The commander isn't\nall-knowing either, you know.」"
+    },
+    {
+      "id": "c28_130d0",
+      "speaker": "Fudo",
+      "en": "...Then let me ask you this. Do you reject the cycle of destruction and rebirth, for the sake of evolution?",
+      "display_variant": "en",
+      "display_text": "「...Then let me ask you this. Do you\nreject the cycle of destruction and\nrebirth, for the sake of evolution?」"
+    },
+    {
+      "id": "c28_13130",
+      "speaker": "Apollo",
+      "en": "To hell with that...! I've had enough of people dying for something like that!",
+      "display_variant": "en",
+      "display_text": "「To hell with that...! I've had enough of\npeople dying for something like that!」"
+    },
+    {
+      "id": "c28_13190",
+      "speaker": "Apollo",
+      "en": "Evolution or whatever, if you want to move forward, there are plenty of other ways to do it!",
+      "display_variant": "en",
+      "display_text": "「Evolution or whatever, if you want to\nmove forward, there are plenty of other\nways to do it!」"
+    },
+    {
+      "id": "c28_131f0",
+      "speaker": "Fudo",
+      "en": "Then stop it, and prove it.",
+      "display_variant": "en",
+      "display_text": "「Then stop it, and prove it.」"
+    },
+    {
+      "id": "c28_13210",
+      "speaker": "Fudo",
+      "en": "A ghost of the Black History... the pain of the past that this world carries on its back.",
+      "display_variant": "en",
+      "display_text": "「A ghost of the Black History... the pain\nof the past that this world carries on\nits back.」"
+    },
+    {
+      "id": "c28_13250",
+      "speaker": "Apollo",
+      "en": "You don't need to tell me that...!",
+      "display_variant": "en",
+      "display_text": "「You don't need to tell me that...!」"
+    },
+    {
+      "id": "c28_13280",
+      "speaker": "Fudo",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    }
+  ]
+}

@@ -1,0 +1,1328 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c16_04390",
+      "speaker": "Meyrin",
+      "en": "New Earth Federation forces are closing in on our position... They'll be in combat range shortly.",
+      "display_variant": "en",
+      "display_text": "「New Earth Federation forces are closing\nin on our position... They'll be in combat\nrange shortly.」"
+    },
+    {
+      "id": "c16_043f0",
+      "speaker": "Talia",
+      "en": "All units, scramble. We can't afford to lose here with Gibraltar Base so close.",
+      "display_variant": "en",
+      "display_text": "「All units, scramble. We can't afford to\nlose here with Gibraltar Base so close.」"
+    },
+    {
+      "id": "c16_04450",
+      "speaker": "$n",
+      "en": "Thank you, everyone. I'll be sure to put everything you've taught me to use.",
+      "display_variant": "en",
+      "display_text": "（Thank you, everyone. I'll be sure to\nput everything you've taught me to use.）"
+    },
+    {
+      "id": "c16_044b0",
+      "speaker": "Rey",
+      "en": "So they mean to keep us from reaching Gibraltar, is that it...!",
+      "display_variant": "en",
+      "display_text": "「So they mean to keep us from reaching\nGibraltar, is that it...!」"
+    },
+    {
+      "id": "c16_044f0",
+      "speaker": "Quattro",
+      "en": "All units, prepare to intercept. Here they come.",
+      "display_variant": "en",
+      "display_text": "「All units, prepare to intercept. Here\nthey come.」"
+    },
+    {
+      "id": "c16_04520",
+      "speaker": "Amuro",
+      "en": "A force built around the Titans...!",
+      "display_variant": "en",
+      "display_text": "「A force built around the Titans...!」"
+    },
+    {
+      "id": "c16_04560",
+      "speaker": "$n",
+      "en": "There's also a Gundam-type we fought at Fort Severn.",
+      "display_variant": "en",
+      "display_text": "「There's also a Gundam-type we fought\nat Fort Severn.」"
+    },
+    {
+      "id": "c16_045a0",
+      "speaker": "Yazan",
+      "en": "Good work guiding us here, Frost brothers.",
+      "display_variant": "en",
+      "display_text": "「Good work guiding us here, Frost\nbrothers.」"
+    },
+    {
+      "id": "c16_045d0",
+      "speaker": "Olba",
+      "en": "No need for thanks, Captain Yazan.",
+      "display_variant": "en",
+      "display_text": "「No need for thanks, Captain Yazan.」"
+    },
+    {
+      "id": "c16_04600",
+      "speaker": "Shagia",
+      "en": "We had a meeting to discuss what comes next with Colonel Scirocco, after all.",
+      "display_variant": "en",
+      "display_text": "「We had a meeting to discuss what comes\nnext with Colonel Scirocco, after all.」"
+    },
+    {
+      "id": "c16_04650",
+      "speaker": "Yazan",
+      "en": "Hmph... gathering intel on half of $c while you were at it, huh.",
+      "display_variant": "en",
+      "display_text": "「Hmph... gathering intel on half of $c\nwhile you were at it, huh.」"
+    },
+    {
+      "id": "c16_04690",
+      "speaker": "Yazan",
+      "en": "Not missing a trick, are you. If your nose is that good, I bet you've heard the rumors about me too.",
+      "display_variant": "en",
+      "display_text": "「Not missing a trick, are you. If your\nnose is that good, I bet you've heard the\nrumors about me too.」"
+    },
+    {
+      "id": "c16_046f0",
+      "speaker": "Shagia",
+      "en": "Heh... I'll be watching how the captain they call 'the Beast' fights.",
+      "display_variant": "en",
+      "display_text": "「Heh... I'll be watching how the captain\nthey call 'the Beast' fights.」"
+    },
+    {
+      "id": "c16_04740",
+      "speaker": "Yazan",
+      "en": "Lieutenant! I'm leaving command to you! I'll be doing things my own way!",
+      "display_variant": "en",
+      "display_text": "「Lieutenant! I'm leaving command to you!\nI'll be doing things my own way!」"
+    },
+    {
+      "id": "c16_04790",
+      "speaker": "Titans",
+      "en": "Yes, sir! Enjoy yourself to the fullest!",
+      "display_variant": "en",
+      "display_text": "「Yes, sir! Enjoy yourself to the fullest!」"
+    },
+    {
+      "id": "c16_047c0",
+      "speaker": "Yazan",
+      "en": "Here I come, $c! I'll get a taste of what you've got!",
+      "display_variant": "en",
+      "display_text": "「Here I come, $c! I'll get a taste of\nwhat you've got!」"
+    },
+    {
+      "id": "c16_04800",
+      "speaker": "Titans",
+      "en": "Hmph... all bark and no bite, this Yazan Gable.",
+      "display_variant": "en",
+      "display_text": "「Hmph... all bark and no bite, this Yazan\nGable.」"
+    },
+    {
+      "id": "c16_04840",
+      "speaker": "Titans",
+      "en": "But now that the eyesore is gone, this unit is mine in name and fact both.",
+      "display_variant": "en",
+      "display_text": "「But now that the eyesore is gone, this\nunit is mine in name and fact both.」"
+    },
+    {
+      "id": "c16_048a0",
+      "speaker": "Titans",
+      "en": "But that unit...",
+      "display_variant": "en",
+      "display_text": "「But that unit...」"
+    },
+    {
+      "id": "c16_048d0",
+      "speaker": "Titans",
+      "en": "Data cross-reference complete... So it really was that, huh.",
+      "display_variant": "en",
+      "display_text": "「Data cross-reference complete... So it\nreally was that, huh.」"
+    },
+    {
+      "id": "c16_04910",
+      "speaker": "$n",
+      "en": "A transmission...!? From that transformable mobile armor...",
+      "display_variant": "en",
+      "display_text": "「A transmission...!? From that\ntransformable mobile armor...」"
+    },
+    {
+      "id": "c16_04950",
+      "speaker": "Titans",
+      "en": "Can you hear me, Denzel Hammer. I never thought I'd run into you in a place like this.",
+      "display_variant": "en",
+      "display_text": "「Can you hear me, Denzel Hammer. I\nnever thought I'd run into you in a place\nlike this.」"
+    },
+    {
+      "id": "c16_049b8",
+      "speaker": "$n",
+      "en": "!",
+      "display_variant": "en",
+      "display_text": "「!」"
+    },
+    {
+      "id": "c16_049d0",
+      "speaker": "Titans",
+      "en": "That winged unit is the Virgola that Glory Star was testing, isn't it.",
+      "display_variant": "en",
+      "display_text": "「That winged unit is the Virgola that\nGlory Star was testing, isn't it.」"
+    },
+    {
+      "id": "c16_04a20",
+      "speaker": "$n",
+      "en": "Do you know the chief!?",
+      "display_variant": "en",
+      "display_text": "「Do you know the chief!?」"
+    },
+    {
+      "id": "c16_04a60",
+      "speaker": "Titans",
+      "en": "A woman...!? You're not Denzel Hammer...!",
+      "display_variant": "en",
+      "display_text": "「A woman...!? You're not Denzel\nHammer...!」"
+    },
+    {
+      "id": "c16_04ab0",
+      "speaker": "$n",
+      "en": "I'm Glory Star's 3rd. $F...",
+      "display_variant": "en",
+      "display_text": "「I'm Glory Star's 3rd. $F...」"
+    },
+    {
+      "id": "c16_04af0",
+      "speaker": "$n",
+      "en": "The chief... Captain Denzel Hammer was killed in action before Break the World...",
+      "display_variant": "en",
+      "display_text": "「The chief... Captain Denzel Hammer was\nkilled in action before Break the World...」"
+    },
+    {
+      "id": "c16_04b50",
+      "speaker": "Titans",
+      "en": "I see...",
+      "display_variant": "en",
+      "display_text": "「I see...」"
+    },
+    {
+      "id": "c16_04b70",
+      "speaker": "Titans",
+      "en": "Hmph... that damn bastard... If he'd been alive, I'd have shot him down with my own hands.",
+      "display_variant": "en",
+      "display_text": "「Hmph... that damn bastard... If he'd\nbeen alive, I'd have shot him down with\nmy own hands.」"
+    },
+    {
+      "id": "c16_04bd0",
+      "speaker": "$n",
+      "en": "Wha...?",
+      "display_variant": "en",
+      "display_text": "「Wha...?」"
+    },
+    {
+      "id": "c16_04be0",
+      "speaker": "Titans",
+      "en": "You said your name was $f, didn't you. Surrender, and hand that unit over to me.",
+      "display_variant": "en",
+      "display_text": "「You said your name was $f, didn't you.\nSurrender, and hand that unit over to me.」"
+    },
+    {
+      "id": "c16_04c30",
+      "speaker": "$n",
+      "en": "Just who are you...!? What right do you have to say something like that...",
+      "display_variant": "en",
+      "display_text": "「Just who are you...!? What right do you\nhave to say something like that...」"
+    },
+    {
+      "id": "c16_04c80",
+      "speaker": "Titans",
+      "en": "Shut up, you brat! Glory Star's 3rd should have been mine by rights!",
+      "display_variant": "en",
+      "display_text": "「Shut up, you brat! Glory Star's 3rd\nshould have been mine by rights!」"
+    },
+    {
+      "id": "c16_04ce0",
+      "speaker": "Titans",
+      "en": "When the previous 3rd died in the line of duty, the transfer offer came to me.",
+      "display_variant": "en",
+      "display_text": "「When the previous 3rd died in the line\nof duty, the transfer offer came to me.」"
+    },
+    {
+      "id": "c16_04d30",
+      "speaker": "Titans",
+      "en": "But Denzel Hammer failed me in the test.",
+      "display_variant": "en",
+      "display_text": "「But Denzel Hammer failed me in the\ntest.」"
+    },
+    {
+      "id": "c16_04d80",
+      "speaker": "Titans",
+      "en": "Saying I lacked some 'quality unique to myself,' if you can believe it!",
+      "display_variant": "en",
+      "display_text": "「Saying I lacked some 'quality unique to\nmyself,' if you can believe it!」"
+    },
+    {
+      "id": "c16_04dd0",
+      "speaker": "$n",
+      "en": "A quality unique to oneself alone... Those are the chief's words...",
+      "display_variant": "en",
+      "display_text": "「A quality unique to oneself alone...\nThose are the chief's words...」"
+    },
+    {
+      "id": "c16_04e10",
+      "speaker": "Titans",
+      "en": "If I'd become a test pilot, I could've avoided combat and still had a shot at an elite career...",
+      "display_variant": "en",
+      "display_text": "「If I'd become a test pilot, I could've\navoided combat and still had a shot at an\nelite career...」"
+    },
+    {
+      "id": "c16_04e80",
+      "speaker": "Titans",
+      "en": "That bastard... blocking my path to glory, only to bring in some little girl like you instead!",
+      "display_variant": "en",
+      "display_text": "「That bastard... blocking my path to\nglory, only to bring in some little girl\nlike you instead!」"
+    },
+    {
+      "id": "c16_04f00",
+      "speaker": "Titans",
+      "en": "If you won't surrender, I'll turn that unit into scrap! Consider it payback for trampling my pride!",
+      "display_variant": "en",
+      "display_text": "「If you won't surrender, I'll turn that\nunit into scrap! Consider it payback for\ntrampling my pride!」"
+    },
+    {
+      "id": "c16_04f70",
+      "speaker": "Reccoa",
+      "en": "This is bad...! $n is shaken!",
+      "display_variant": "en",
+      "display_text": "「This is bad...! $n is shaken!」"
+    },
+    {
+      "id": "c16_04fa0",
+      "speaker": "Lowen",
+      "en": "Please fall back, $n! He's targeting you!",
+      "display_variant": "en",
+      "display_text": "「Please fall back, $n! He's targeting\nyou!」"
+    },
+    {
+      "id": "c16_04ff0",
+      "speaker": "Titans",
+      "en": "I won't let you get away, woman!",
+      "display_variant": "en",
+      "display_text": "「I won't let you get away, woman!」"
+    },
+    {
+      "id": "c16_05020",
+      "speaker": "Titans",
+      "en": "Glory Star, who never recognized me, is nothing but a bunch of freeloading trash!",
+      "display_variant": "en",
+      "display_text": "「Glory Star, who never recognized me, is\nnothing but a bunch of freeloading trash!」"
+    },
+    {
+      "id": "c16_05080",
+      "speaker": "$n",
+      "en": "Be silent!!",
+      "display_variant": "en",
+      "display_text": "「Be silent!!」"
+    },
+    {
+      "id": "c16_050a0",
+      "speaker": "Titans",
+      "en": "!",
+      "display_variant": "en",
+      "display_text": "「!」"
+    },
+    {
+      "id": "c16_050c0",
+      "speaker": "$n",
+      "en": "In the chief's place, I'll say it again...!",
+      "display_variant": "en",
+      "display_text": "「In the chief's place, I'll say it again...!」"
+    },
+    {
+      "id": "c16_05100",
+      "speaker": "$n",
+      "en": "You lack the quality unique to yourself alone!",
+      "display_variant": "en",
+      "display_text": "「You lack the quality unique to yourself\nalone!」"
+    },
+    {
+      "id": "c16_05140",
+      "speaker": "$n",
+      "en": "A person like that has no place in Glory Star!",
+      "display_variant": "en",
+      "display_text": "「A person like that has no place in\nGlory Star!」"
+    },
+    {
+      "id": "c16_05190",
+      "speaker": "Titans",
+      "en": "You...! Talking to me like that...",
+      "display_variant": "en",
+      "display_text": "「You...! Talking to me like that...」"
+    },
+    {
+      "id": "c16_051c0",
+      "speaker": "$n",
+      "en": "I won't allow any rebuttal!",
+      "display_variant": "en",
+      "display_text": "「I won't allow any rebuttal!」"
+    },
+    {
+      "id": "c16_051e0",
+      "speaker": "Titans",
+      "en": "I...",
+      "display_variant": "en",
+      "display_text": "「I...」"
+    },
+    {
+      "id": "c16_05200",
+      "speaker": "$n",
+      "en": "I told you to be silent! Every word out of your mouth is an insult to Glory Star!",
+      "display_variant": "en",
+      "display_text": "「I told you to be silent! Every word out\nof your mouth is an insult to Glory Star!」"
+    },
+    {
+      "id": "c16_05260",
+      "speaker": "Titans",
+      "en": "Ngh... nngh...!",
+      "display_variant": "en",
+      "display_text": "「Ngh... nngh...!」"
+    },
+    {
+      "id": "c16_05280",
+      "speaker": "$n",
+      "en": "The chief taught me that there's such a thing as fighting without a gun...",
+      "display_variant": "en",
+      "display_text": "「The chief taught me that there's such\na thing as fighting without a gun...」"
+    },
+    {
+      "id": "c16_052d0",
+      "speaker": "$n",
+      "en": "Glory Star was always fighting! Both the chief and Toby, carrying pride and duty as soldiers!",
+      "display_variant": "en",
+      "display_text": "「Glory Star was always fighting! Both\nthe chief and Toby, carrying pride and\nduty as soldiers!」"
+    },
+    {
+      "id": "c16_05330",
+      "speaker": "$n",
+      "en": "Your petty pride could never bear that weight!",
+      "display_variant": "en",
+      "display_text": "「Your petty pride could never bear that\nweight!」"
+    },
+    {
+      "id": "c16_05380",
+      "speaker": "Kamille",
+      "en": "$n...",
+      "display_variant": "en",
+      "display_text": "「$n...」"
+    },
+    {
+      "id": "c16_053a0",
+      "speaker": "Shinn",
+      "en": "I've never seen $n like that before...",
+      "display_variant": "en",
+      "display_text": "「I've never seen $n like that before...」"
+    },
+    {
+      "id": "c16_053d0",
+      "speaker": "Athrun",
+      "en": "I never expected her to show that much open anger...",
+      "display_variant": "en",
+      "display_text": "「I never expected her to show that much\nopen anger...」"
+    },
+    {
+      "id": "c16_05410",
+      "speaker": "Amuro",
+      "en": "Just because she keeps it hidden deep down doesn't mean $n's anger and sorrow run shallow...",
+      "display_variant": "en",
+      "display_text": "（Just because she keeps it hidden deep\ndown doesn't mean $n's anger and sorrow\nrun shallow...）"
+    },
+    {
+      "id": "c16_05470",
+      "speaker": "Quattro",
+      "en": "The strength not to drown in sentiment is the will of someone who has something they must do... And what supports that is...",
+      "display_variant": "fit",
+      "display_text": "（The strength not to drown in sentiment\nis the will of one with something to do...\nand what supports that is...）"
+    },
+    {
+      "id": "c16_054d0",
+      "speaker": "Titans",
+      "en": "A m-mere mascot girl, talking back to me!?",
+      "display_variant": "en",
+      "display_text": "「A m-mere mascot girl, talking back to\nme!?」"
+    },
+    {
+      "id": "c16_05520",
+      "speaker": "Titans",
+      "en": "I'll crush you and prove both Denzel Hammer's foolishness and my own excellence!",
+      "display_variant": "en",
+      "display_text": "「I'll crush you and prove both Denzel\nHammer's foolishness and my own\nexcellence!」"
+    },
+    {
+      "id": "c16_05580",
+      "speaker": "$n",
+      "en": "What the chief and Toby left behind, I'll inherit and protect!",
+      "display_variant": "en",
+      "display_text": "「What the chief and Toby left behind,\nI'll inherit and protect!」"
+    },
+    {
+      "id": "c16_055c0",
+      "speaker": "$n",
+      "en": "Come at me! I'll show you how Glory Star fights!",
+      "display_variant": "en",
+      "display_text": "「Come at me! I'll show you how Glory\nStar fights!」"
+    },
+    {
+      "id": "c16_05610",
+      "speaker": "Arthur",
+      "en": "Confirmed the enemy force has been wiped out.",
+      "display_variant": "en",
+      "display_text": "「Confirmed the enemy force has been\nwiped out.」"
+    },
+    {
+      "id": "c16_05640",
+      "speaker": "Talia",
+      "en": "Doesn't look like they're pursuing either. Guess we can breathe easy for now.",
+      "display_variant": "en",
+      "display_text": "「Doesn't look like they're pursuing\neither. Guess we can breathe easy for\nnow.」"
+    },
+    {
+      "id": "c16_05680",
+      "speaker": "Rey",
+      "en": "We'll be within ZAFT's sphere of influence soon. Once we're there, it'll be practically the same as arriving at Gibraltar.",
+      "display_variant": "fit",
+      "display_text": "「We'll soon be in ZAFT's sphere of\ninfluence. Once there, it's practically the\nsame as arriving at Gibraltar.」"
+    },
+    {
+      "id": "c16_056e0",
+      "speaker": "Quattro",
+      "en": "A meeting with Chairman Durandal is scheduled at Gibraltar Base...",
+      "display_variant": "en",
+      "display_text": "（A meeting with Chairman Durandal is\nscheduled at Gibraltar Base...）"
+    },
+    {
+      "id": "c16_05740",
+      "speaker": "Quattro",
+      "en": "With the confusion of the multiverse deepening, what does the chairman intend to do...?",
+      "display_variant": "en",
+      "display_text": "（With the confusion of the multiverse\ndeepening, what does the chairman intend\nto do...?）"
+    },
+    {
+      "id": "c16_05790",
+      "speaker": "Koji",
+      "en": "$n... The pride of Glory Star really is alive inside you.",
+      "display_variant": "en",
+      "display_text": "「$n... The pride of Glory Star really is\nalive inside you.」"
+    },
+    {
+      "id": "c16_057e0",
+      "speaker": "Kappei",
+      "en": "That was awesome, sis! Way to lay it into that delusional jerk!",
+      "display_variant": "en",
+      "display_text": "「That was awesome, sis! Way to lay it\ninto that delusional jerk!」"
+    },
+    {
+      "id": "c16_05840",
+      "speaker": "$n",
+      "en": "R-really...?",
+      "display_variant": "en",
+      "display_text": "「R-really...?」"
+    },
+    {
+      "id": "c16_05860",
+      "speaker": "Mizuki",
+      "en": "So it's not just the Ganary Carver data she inherited from Captain Denzel and Toby.",
+      "display_variant": "en",
+      "display_text": "「So it's not just the Ganary Carver\ndata she inherited from Captain Denzel\nand Toby.」"
+    },
+    {
+      "id": "c16_058d0",
+      "speaker": "Toshiya",
+      "en": "Those two's souls really are living on in $n and the Virgola.",
+      "display_variant": "en",
+      "display_text": "「Those two's souls really are living on\nin $n and the Virgola.」"
+    },
+    {
+      "id": "c16_05910",
+      "speaker": "Emma",
+      "en": "$n... The way you are now, you're worthy of calling yourself Glory Star.",
+      "display_variant": "en",
+      "display_text": "「$n... The way you are now, you're\nworthy of calling yourself Glory Star.」"
+    },
+    {
+      "id": "c16_05960",
+      "speaker": "$n",
+      "en": "Lt. Emma...",
+      "display_variant": "en",
+      "display_text": "「Lt. Emma...」"
+    },
+    {
+      "id": "c16_05980",
+      "speaker": "Emma",
+      "en": "When we first met at Lutetium Base... even I didn't understand why you were the one chosen.",
+      "display_variant": "en",
+      "display_text": "「When we first met at Lutetium Base...\neven I didn't understand why you were\nthe one chosen.」"
+    },
+    {
+      "id": "c16_059e0",
+      "speaker": "Emma",
+      "en": "But now, I can say it: you have that quality unique to yourself alone that Captain Denzel spoke of.",
+      "display_variant": "en",
+      "display_text": "「But now, I can say it: you have that\nquality unique to yourself alone that\nCaptain Denzel spoke of.」"
+    },
+    {
+      "id": "c16_05a50",
+      "speaker": "$n",
+      "en": "Thank you...",
+      "display_variant": "en",
+      "display_text": "「Thank you...」"
+    },
+    {
+      "id": "c16_05a70",
+      "speaker": "Lowen",
+      "en": "$n...",
+      "display_variant": "en",
+      "display_text": "「$n...」"
+    },
+    {
+      "id": "c16_05a90",
+      "speaker": "$n",
+      "en": "Chief, Toby... What's been lost won't come back, and I don't intend to cling to it...",
+      "display_variant": "en",
+      "display_text": "（Chief, Toby... What's been lost won't\ncome back, and I don't intend to cling to\nit...）"
+    },
+    {
+      "id": "c16_05af0",
+      "speaker": "$n",
+      "en": "But I believe I can protect what I have now, and build something new.",
+      "display_variant": "en",
+      "display_text": "（But I believe I can protect what I have\nnow, and build something new.）"
+    },
+    {
+      "id": "c16_05b50",
+      "speaker": "$n",
+      "en": "The Glory Star of the chief, Toby, and me is gone, but I have $c.",
+      "display_variant": "en",
+      "display_text": "（The Glory Star of the chief, Toby, and\nme is gone, but I have $c.）"
+    },
+    {
+      "id": "c16_05bb0",
+      "speaker": "$n",
+      "en": "And the pride and duty those two taught me still give me strength, even now...",
+      "display_variant": "en",
+      "display_text": "（And the pride and duty those two\ntaught me still give me strength, even\nnow...）"
+    },
+    {
+      "id": "c16_05c00",
+      "speaker": "$n",
+      "en": "So I'll fight... as Glory Star, and as $c...",
+      "display_variant": "en",
+      "display_text": "（So I'll fight... as Glory Star, and as\n$c...）"
+    },
+    {
+      "id": "c16_05c60",
+      "speaker": "Yazan",
+      "en": "Tch... guess I played around a bit too much. But I've got a bead on some opponents worth enjoying.",
+      "display_variant": "en",
+      "display_text": "「Tch... guess I played around a bit too\nmuch. But I've got a bead on some\nopponents worth enjoying.」"
+    },
+    {
+      "id": "c16_05cc0",
+      "speaker": "Yazan",
+      "en": "With this bunch, I should be able to cut loose properly. Next time, I'm going all out...!",
+      "display_variant": "en",
+      "display_text": "「With this bunch, I should be able to\ncut loose properly. Next time, I'm going\nall out...!」"
+    },
+    {
+      "id": "c16_05d20",
+      "speaker": "Titans",
+      "en": "N-no way...! Am I... going down!?",
+      "display_variant": "en",
+      "display_text": "「N-no way...! Am I... going down!?」"
+    },
+    {
+      "id": "c16_05d60",
+      "speaker": "Titans",
+      "en": "I won't accept it! There's no way I'd lose in a place like thi--",
+      "display_variant": "en",
+      "display_text": "「I won't accept it! There's no way I'd\nlose in a place like thi--」"
+    },
+    {
+      "id": "c16_05db0",
+      "speaker": "$n",
+      "en": "War, and the military, aren't places to satisfy personal desires...",
+      "display_variant": "en",
+      "display_text": "「War, and the military, aren't places to\nsatisfy personal desires...」"
+    },
+    {
+      "id": "c16_05df0",
+      "speaker": "$n",
+      "en": "A fight with neither duty nor conviction is a force that only spreads sorrow.",
+      "display_variant": "en",
+      "display_text": "「A fight with neither duty nor\nconviction is a force that only spreads\nsorrow.」"
+    },
+    {
+      "id": "c16_05e30",
+      "speaker": "$n",
+      "en": "I deny that. To hold pride in my own fight... to keep living in this world...",
+      "display_variant": "en",
+      "display_text": "「I deny that. To hold pride in my own\nfight... to keep living in this world...」"
+    },
+    {
+      "id": "c16_05e90",
+      "speaker": "Yazan",
+      "en": "This one's got some skill...!",
+      "display_variant": "en",
+      "display_text": "「This one's got some skill...!」"
+    },
+    {
+      "id": "c16_05ec0",
+      "speaker": "Yazan",
+      "en": "Doesn't look like much experience, but good instincts! Seems like this one's the best find of the bunch this time!",
+      "display_variant": "en",
+      "display_text": "「Doesn't look like much experience, but\ngood instincts! Seems like this one's the\nbest find of the bunch this time!」"
+    },
+    {
+      "id": "c16_05f20",
+      "speaker": "Yazan",
+      "en": "Tch...! Giving me this much trouble!?",
+      "display_variant": "en",
+      "display_text": "「Tch...! Giving me this much trouble!?」"
+    },
+    {
+      "id": "c16_05f60",
+      "speaker": "Yazan",
+      "en": "Seems like this is the AEUG commander I've heard rumors about!",
+      "display_variant": "en",
+      "display_text": "「Seems like this is the AEUG commander\nI've heard rumors about!」"
+    },
+    {
+      "id": "c16_05fb0",
+      "speaker": "Yazan",
+      "en": "I heard the Federation's White Meteor was with $c, and looks like I hit the jackpot!",
+      "display_variant": "en",
+      "display_text": "「I heard the Federation's White Meteor\nwas with $c, and looks like I hit the\njackpot!」"
+    },
+    {
+      "id": "c16_06010",
+      "speaker": "Yazan",
+      "en": "Let's see just how good a hero of the One Year War really is!",
+      "display_variant": "en",
+      "display_text": "「Let's see just how good a hero of the\nOne Year War really is!」"
+    },
+    {
+      "id": "c16_06050",
+      "speaker": "Yazan",
+      "en": "Ha ha ha... I can feel how desperate you are, even through your machine!",
+      "display_variant": "en",
+      "display_text": "「Ha ha ha... I can feel how desperate\nyou are, even through your machine!」"
+    },
+    {
+      "id": "c16_06090",
+      "speaker": "Yazan",
+      "en": "This one's fun prey! Looks like the type that gets stronger the more you knock him around!",
+      "display_variant": "en",
+      "display_text": "「This one's fun prey! Looks like the\ntype that gets stronger the more you\nknock him around!」"
+    },
+    {
+      "id": "c16_060e0",
+      "speaker": "Yazan",
+      "en": "A ZAFT ace pilot, huh! Looks like just a kid, from what I can tell!",
+      "display_variant": "en",
+      "display_text": "「A ZAFT ace pilot, huh! Looks like just\na kid, from what I can tell!」"
+    },
+    {
+      "id": "c16_06130",
+      "speaker": "Yazan",
+      "en": "Your charge is way too green! Don't think you can take me down with moves that straightforward!",
+      "display_variant": "en",
+      "display_text": "「Your charge is way too green! Don't\nthink you can take me down with moves\nthat straightforward!」"
+    },
+    {
+      "id": "c16_06190",
+      "speaker": "Yazan",
+      "en": "This one's got good skill too! Coordinators are worth the effort to beat down!",
+      "display_variant": "en",
+      "display_text": "「This one's got good skill too!\nCoordinators are worth the effort to beat\ndown!」"
+    },
+    {
+      "id": "c16_061f0",
+      "speaker": "Yazan",
+      "en": "Both of us in transformable units...! Should make for a pure contest of skill!",
+      "display_variant": "en",
+      "display_text": "「Both of us in transformable units...!\nShould make for a pure contest of skill!」"
+    },
+    {
+      "id": "c16_06230",
+      "speaker": "Yazan",
+      "en": "Careful piloting...! I'd guess there's a woman in the cockpit!",
+      "display_variant": "en",
+      "display_text": "「Careful piloting...! I'd guess there's a\nwoman in the cockpit!」"
+    },
+    {
+      "id": "c16_06270",
+      "speaker": "Yazan",
+      "en": "If you're going to fight me like this, I'll take you seriously even if you're a woman! Feel honored!",
+      "display_variant": "en",
+      "display_text": "「If you're going to fight me like this,\nI'll take you seriously even if you're a\nwoman! Feel honored!」"
+    },
+    {
+      "id": "c16_062c0",
+      "speaker": "Shagia",
+      "en": "Seems Captain Lowen's infiltration is going well.",
+      "display_variant": "en",
+      "display_text": "（Seems Captain Lowen's infiltration is\ngoing well.）"
+    },
+    {
+      "id": "c16_06300",
+      "speaker": "Olba",
+      "en": "$c split into two... you'll be working toward our goals.",
+      "display_variant": "en",
+      "display_text": "（$c split into two... you'll be working\ntoward our goals.）"
+    },
+    {
+      "id": "c16_06350",
+      "speaker": "Shagia",
+      "en": "And we'll have you two bring down the curtain on it yourselves.",
+      "display_variant": "en",
+      "display_text": "（And we'll have you two bring down the\ncurtain on it yourselves.）"
+    },
+    {
+      "id": "c16_06390",
+      "speaker": "Titans",
+      "en": "Don't think a girl who's just clever with her hands can beat me!",
+      "display_variant": "en",
+      "display_text": "「Don't think a girl who's just clever\nwith her hands can beat me!」"
+    },
+    {
+      "id": "c16_063d0",
+      "speaker": "$n",
+      "en": "The Virgola Glory carries the chief's marksmanship data and Toby's melee combat data!",
+      "display_variant": "en",
+      "display_text": "「The Virgola Glory carries the chief's\nmarksmanship data and Toby's melee\ncombat data!」"
+    },
+    {
+      "id": "c16_06430",
+      "speaker": "$n",
+      "en": "And the two of their feelings live on inside me!",
+      "display_variant": "en",
+      "display_text": "「And the two of their feelings live on\ninside me!」"
+    },
+    {
+      "id": "c16_06460",
+      "speaker": "Titans",
+      "en": "Feelings, my ass...! Like that could ever be combat strength!",
+      "display_variant": "en",
+      "display_text": "「Feelings, my ass...! Like that could ever\nbe combat strength!」"
+    },
+    {
+      "id": "c16_064a0",
+      "speaker": "$n",
+      "en": "I'll show you the answer right now! With this GS Combat Action!",
+      "display_variant": "en",
+      "display_text": "「I'll show you the answer right now!\nWith this GS Combat Action!」"
+    },
+    {
+      "id": "c16_06540",
+      "speaker": "Lowen",
+      "en": "...Simulation complete. Good work, $n, Athrun.",
+      "display_variant": "en",
+      "display_text": "「...Simulation complete. Good work, $n,\nAthrun.」"
+    },
+    {
+      "id": "c16_06590",
+      "speaker": "Athrun",
+      "en": "That makes five sets done... Let's take a break for now.",
+      "display_variant": "en",
+      "display_text": "「That makes five sets done... Let's take\na break for now.」"
+    },
+    {
+      "id": "c16_065e0",
+      "speaker": "$n",
+      "en": "Thank you for training with me, Captain Athrun.",
+      "display_variant": "en",
+      "display_text": "「Thank you for training with me, Captain\nAthrun.」"
+    },
+    {
+      "id": "c16_06630",
+      "speaker": "$n",
+      "en": "Thanks to you, I think I've gotten a bit of a feel for attitude control in the air.",
+      "display_variant": "en",
+      "display_text": "「Thanks to you, I think I've gotten a\nbit of a feel for attitude control in the\nair.」"
+    },
+    {
+      "id": "c16_06680",
+      "speaker": "Athrun",
+      "en": "Seems like you're having a tough time since your unit's characteristics shifted away from ground combat.",
+      "display_variant": "en",
+      "display_text": "「Seems like you're having a tough time\nsince your unit's characteristics shifted\naway from ground combat.」"
+    },
+    {
+      "id": "c16_066d0",
+      "speaker": "$n",
+      "en": "But thanks to the VWFS, the Virgola can now fight with three-dimensional tactics too.",
+      "display_variant": "en",
+      "display_text": "「But thanks to the VWFS, the Virgola\ncan now fight with three-dimensional\ntactics too.」"
+    },
+    {
+      "id": "c16_06730",
+      "speaker": "$n",
+      "en": "I can also make use of the high-mobility melee tactics Captain Heine taught me.",
+      "display_variant": "en",
+      "display_text": "「I can also make use of the\nhigh-mobility melee tactics Captain Heine\ntaught me.」"
+    },
+    {
+      "id": "c16_06780",
+      "speaker": "Athrun",
+      "en": "My Saviour's movements should be some help too. I'm happy to train with you anytime.",
+      "display_variant": "en",
+      "display_text": "「My Saviour's movements should be some\nhelp too. I'm happy to train with you\nanytime.」"
+    },
+    {
+      "id": "c16_067e0",
+      "speaker": "$n",
+      "en": "Thank you.",
+      "display_variant": "en",
+      "display_text": "「Thank you.」"
+    },
+    {
+      "id": "c16_06800",
+      "speaker": "Lowen",
+      "en": "I'll join in on the training too, $n.",
+      "display_variant": "en",
+      "display_text": "「I'll join in on the training too, $n.」"
+    },
+    {
+      "id": "c16_06840",
+      "speaker": "Lowen",
+      "en": "Dr. Jie also asked me to report on the Virgola Glory's operational status, after all.",
+      "display_variant": "en",
+      "display_text": "「Dr. Jie also asked me to report on the\nVirgola Glory's operational status, after\nall.」"
+    },
+    {
+      "id": "c16_068b0",
+      "speaker": "$n",
+      "en": "Thank you as well, Captain Lowen.",
+      "display_variant": "en",
+      "display_text": "「Thank you as well, Captain Lowen.」"
+    },
+    {
+      "id": "c16_068e0",
+      "speaker": "Vino",
+      "en": "Man, that Dr. Jie who modified the Virgola really is amazing, isn't he.",
+      "display_variant": "en",
+      "display_text": "「Man, that Dr. Jie who modified the\nVirgola really is amazing, isn't he.」"
+    },
+    {
+      "id": "c16_06930",
+      "speaker": "Lowen",
+      "en": "My Chaos Leo is his work too. That person's mind is something you could call a treasure of us Chimera.",
+      "display_variant": "en",
+      "display_text": "「My Chaos Leo is his work too. That\nperson's mind is something you could call\na treasure of us Chimera.」"
+    },
+    {
+      "id": "c16_069a0",
+      "speaker": "Yolant",
+      "en": "...Sorry. The 'amazing' we meant was more about a different sort of thing...",
+      "display_variant": "en",
+      "display_text": "「...Sorry. The 'amazing' we meant was\nmore about a different sort of thing...」"
+    },
+    {
+      "id": "c16_06a00",
+      "speaker": "Lowen",
+      "en": "Um... as for the doctor's personality, I'll have to plead no comment on that one.",
+      "display_variant": "en",
+      "display_text": "「Um... as for the doctor's personality,\nI'll have to plead no comment on that\none.」"
+    },
+    {
+      "id": "c16_06a50",
+      "speaker": "$n",
+      "en": "But I think he's a kind person.",
+      "display_variant": "en",
+      "display_text": "「But I think he's a kind person.」"
+    },
+    {
+      "id": "c16_06a80",
+      "speaker": "Vino",
+      "en": "You don't have to force yourself to say that, $n.",
+      "display_variant": "en",
+      "display_text": "「You don't have to force yourself to\nsay that, $n.」"
+    },
+    {
+      "id": "c16_06ac0",
+      "speaker": "Yolant",
+      "en": "That's right. Rumor has it he used the Virgola's upgrades as leverage to pull some pretty serious harassment, too.",
+      "display_variant": "en",
+      "display_text": "「That's right. Rumor has it he used the\nVirgola's upgrades as leverage to pull\nsome pretty serious harassment, too.」"
+    },
+    {
+      "id": "c16_06b20",
+      "speaker": "$n",
+      "en": "Eh... well, that's...",
+      "display_variant": "en",
+      "display_text": "「Eh... well, that's...」"
+    },
+    {
+      "id": "c16_06b40",
+      "speaker": "Yolant",
+      "en": "Like he flipped up your skirt, or sniffed behind your ear, or licked the back of your neck...",
+      "display_variant": "en",
+      "display_text": "「Like he flipped up your skirt, or\nsniffed behind your ear, or licked the\nback of your neck...」"
+    },
+    {
+      "id": "c16_06bb0",
+      "speaker": "$n",
+      "en": "I-it never actually went further than that, so please don't bring it up so much...",
+      "display_variant": "en",
+      "display_text": "「I-it never actually went further than\nthat, so please don't bring it up so\nmuch...」"
+    },
+    {
+      "id": "c16_06bf0",
+      "speaker": "Lowen",
+      "en": "But Vino and the others have a point. Bottling up what you want to say just builds up stress.",
+      "display_variant": "en",
+      "display_text": "「But Vino and the others have a point.\nBottling up what you want to say just\nbuilds up stress.」"
+    },
+    {
+      "id": "c16_06c60",
+      "speaker": "$n",
+      "en": "The chief and Toby told me the same thing, about how important mental care is.",
+      "display_variant": "en",
+      "display_text": "「The chief and Toby told me the same\nthing, about how important mental care is.」"
+    },
+    {
+      "id": "c16_06cb0",
+      "speaker": "$n",
+      "en": "But I'm fine, really. I'm genuinely grateful to the doctor.",
+      "display_variant": "en",
+      "display_text": "「But I'm fine, really. I'm genuinely\ngrateful to the doctor.」"
+    },
+    {
+      "id": "c16_06cf0",
+      "speaker": "Athrun",
+      "en": "She's a strange person... At first glance, she seems passive and timid, but...",
+      "display_variant": "en",
+      "display_text": "（She's a strange person... At first\nglance, she seems passive and timid, but...）"
+    },
+    {
+      "id": "c16_06d40",
+      "speaker": "Athrun",
+      "en": "Despite going through such a harsh experience, she hasn't broken down mentally or fallen into despair...",
+      "display_variant": "en",
+      "display_text": "（Despite going through such a harsh\nexperience, she hasn't broken down\nmentally or fallen into despair...）"
+    },
+    {
+      "id": "c16_06db0",
+      "speaker": "Athrun",
+      "en": "Nor does she lose herself to anger or hatred. Where on earth does this person's core strength come from...?",
+      "display_variant": "en",
+      "display_text": "（Nor does she lose herself to anger or\nhatred. Where on earth does this person's\ncore strength come from...?）"
+    },
+    {
+      "id": "c16_06e20",
+      "speaker": "$n",
+      "en": "...Is there something on my face?",
+      "display_variant": "en",
+      "display_text": "「...Is there something on my face?」"
+    },
+    {
+      "id": "c16_06e50",
+      "speaker": "Athrun",
+      "en": "N-no... it's nothing. Sorry about that.",
+      "display_variant": "en",
+      "display_text": "「N-no... it's nothing. Sorry about that.」"
+    },
+    {
+      "id": "c16_06e90",
+      "speaker": "Vino",
+      "en": "That's no good, Captain. If Lunamaria and the others found out you were staring at $n like that, it'd be a huge deal.",
+      "display_variant": "fit",
+      "display_text": "「That's no good, Captain. If Lunamaria\nand the others caught you staring at $n\nlike that, it'd be a huge deal.」"
+    },
+    {
+      "id": "c16_06f00",
+      "speaker": "Athrun",
+      "en": "That's not what this is...!",
+      "display_variant": "en",
+      "display_text": "「That's not what this is...!」"
+    },
+    {
+      "id": "c16_06f30",
+      "speaker": "Yolant",
+      "en": "Being popular sure is rough, huh. ...Wait, I feel like I said that same line during the last battle too.",
+      "display_variant": "en",
+      "display_text": "「Being popular sure is rough, huh.\n...Wait, I feel like I said that same line\nduring the last battle too.」"
+    },
+    {
+      "id": "c16_06fa0",
+      "speaker": "Vino",
+      "en": "Koji, Toshiya, Captain Athrun... Man, I'm jealous.",
+      "display_variant": "en",
+      "display_text": "「Koji, Toshiya, Captain Athrun... Man, I'm\njealous.」"
+    },
+    {
+      "id": "c16_06ff0",
+      "speaker": "Athrun",
+      "en": "M-more importantly than that...!",
+      "display_variant": "en",
+      "display_text": "「M-more importantly than that...!」"
+    },
+    {
+      "id": "c16_07020",
+      "speaker": "$n",
+      "en": "Oh... he's getting flustered.",
+      "display_variant": "en",
+      "display_text": "（Oh... he's getting flustered.）"
+    },
+    {
+      "id": "c16_07040",
+      "speaker": "Athrun",
+      "en": "$n, if you want to train against all-terrain, all-domain scenarios, I think Shinn's Impulse would be the ideal opponent.",
+      "display_variant": "fit",
+      "display_text": "「$n, for training against all-terrain,\nall-domain scenarios, I think Shinn's\nImpulse is the ideal opponent.」"
+    },
+    {
+      "id": "c16_070b0",
+      "speaker": "$n",
+      "en": "That's true, but...",
+      "display_variant": "en",
+      "display_text": "「That's true, but...」"
+    },
+    {
+      "id": "c16_070d0",
+      "speaker": "Athrun",
+      "en": "Is he holed up with that Extended again...?",
+      "display_variant": "en",
+      "display_text": "「Is he holed up with that Extended\nagain...?」"
+    },
+    {
+      "id": "c16_07120",
+      "speaker": "Lowen",
+      "en": "The way Shinn's so wrapped up in that girl of his seems unnatural, doesn't it...",
+      "display_variant": "en",
+      "display_text": "「The way Shinn's so wrapped up in that\ngirl of his seems unnatural, doesn't it...」"
+    },
+    {
+      "id": "c16_07170",
+      "speaker": "Vino",
+      "en": "I think it's sympathy. I mean... he's got his own history too, you know.",
+      "display_variant": "en",
+      "display_text": "「I think it's sympathy. I mean... he's\ngot his own history too, you know.」"
+    },
+    {
+      "id": "c16_071c0",
+      "speaker": "Yolant",
+      "en": "He's gruff and puts up a tough front, but... he's got a kind side to him too.",
+      "display_variant": "en",
+      "display_text": "「He's gruff and puts up a tough front,\nbut... he's got a kind side to him too.」"
+    },
+    {
+      "id": "c16_07210",
+      "speaker": "$n",
+      "en": "Yeah...",
+      "display_variant": "en",
+      "display_text": "「Yeah...」"
+    },
+    {
+      "id": "c16_07220",
+      "speaker": "Athrun",
+      "en": "But she's an enemy soldier.",
+      "display_variant": "en",
+      "display_text": "「But she's an enemy soldier.」"
+    },
+    {
+      "id": "c16_07240",
+      "speaker": "Vino",
+      "en": "Isn't that a little harsh...?",
+      "display_variant": "en",
+      "display_text": "「Isn't that a little harsh...?」"
+    },
+    {
+      "id": "c16_07270",
+      "speaker": "Athrun",
+      "en": "Even I think so myself.",
+      "display_variant": "en",
+      "display_text": "「Even I think so myself.」"
+    },
+    {
+      "id": "c16_072a0",
+      "speaker": "Athrun",
+      "en": "But that's what war is.",
+      "display_variant": "en",
+      "display_text": "「But that's what war is.」"
+    },
+    {
+      "id": "c16_072d0",
+      "speaker": "$n",
+      "en": "In the midst of it, Captain Heine lost his life, and Kamille lost someone he'd come to care for, right before his eyes...",
+      "display_variant": "en",
+      "display_text": "（In the midst of it, Captain Heine lost\nhis life, and Kamille lost someone he'd\ncome to care for, right before his eyes...）"
+    },
+    {
+      "id": "c16_07330",
+      "speaker": "$n",
+      "en": "War just keeps spreading sorrow... That's why I...",
+      "display_variant": "en",
+      "display_text": "（War just keeps spreading sorrow...\nThat's why I...）"
+    },
+    {
+      "id": "c16_07370",
+      "speaker": "Koji",
+      "en": "Figured you'd be here, $n.",
+      "display_variant": "en",
+      "display_text": "「Figured you'd be here, $n.」"
+    },
+    {
+      "id": "c16_073a0",
+      "speaker": "$n",
+      "en": "Koji... and everyone else too...",
+      "display_variant": "en",
+      "display_text": "「Koji... and everyone else too...」"
+    },
+    {
+      "id": "c16_073d0",
+      "speaker": "Athrun",
+      "en": "What's going on? All of you, gathered here...",
+      "display_variant": "en",
+      "display_text": "「What's going on? All of you, gathered\nhere...」"
+    },
+    {
+      "id": "c16_07410",
+      "speaker": "Tetsuya",
+      "en": "Figured even you couldn't keep training with $n nonstop without your body giving out.",
+      "display_variant": "en",
+      "display_text": "「Figured even you couldn't keep training\nwith $n nonstop without your body giving\nout.」"
+    },
+    {
+      "id": "c16_07470",
+      "speaker": "Amuro",
+      "en": "Time to switch off, Athrun. This time, we'll take a turn as her sparring partners.",
+      "display_variant": "en",
+      "display_text": "「Time to switch off, Athrun. This time,\nwe'll take a turn as her sparring\npartners.」"
+    },
+    {
+      "id": "c16_074c0",
+      "speaker": "Athrun",
+      "en": "Understood, Lieutenant. I'm sure you'll be surprised by how much $n has grown.",
+      "display_variant": "en",
+      "display_text": "「Understood, Lieutenant. I'm sure you'll\nbe surprised by how much $n has grown.」"
+    },
+    {
+      "id": "c16_07510",
+      "speaker": "$n",
+      "en": "Everyone...",
+      "display_variant": "en",
+      "display_text": "「Everyone...」"
+    },
+    {
+      "id": "c16_07520",
+      "speaker": "Toshiya",
+      "en": "It'd be a waste not to use it -- that Virgola's got all-domain general-purpose weapons and all-terrain capability. Take the best from every one of us.",
+      "display_variant": "compact",
+      "display_text": "「The Virgola's got all-domain weapons\nand all-terrain capability -- don't waste\nit. Take the best from all of us.」"
+    },
+    {
+      "id": "c16_07590",
+      "speaker": "Eiji",
+      "en": "First up is our own airhead. Face them as an enemy, and the gap from their usual self will surprise you.",
+      "display_variant": "en",
+      "display_text": "「First up is our own airhead. Face them\nas an enemy, and the gap from their\nusual self will surprise you.」"
+    },
+    {
+      "id": "c16_075f0",
+      "speaker": "Touga",
+      "en": "Pleased to work with you, $n.",
+      "display_variant": "en",
+      "display_text": "「Pleased to work with you, $n.」"
+    },
+    {
+      "id": "c16_07610",
+      "speaker": "$n",
+      "en": "Go all out, Touga.",
+      "display_variant": "en",
+      "display_text": "「Go all out, Touga.」"
+    },
+    {
+      "id": "c16_07630",
+      "speaker": "Luna",
+      "en": "We're the supply corps! We brought sweets, so let's dig in once training's done!",
+      "display_variant": "en",
+      "display_text": "「We're the supply corps! We brought\nsweets, so let's dig in once training's\ndone!」"
+    },
+    {
+      "id": "c16_07690",
+      "speaker": "$n",
+      "en": "Carrot and stick, huh. Guess I'd better give it my all.",
+      "display_variant": "en",
+      "display_text": "「Carrot and stick, huh. Guess I'd better\ngive it my all.」"
+    },
+    {
+      "id": "c16_076c0",
+      "speaker": "Lunamaria",
+      "en": "I'd rather be on carrot duty than be a training partner too, honestly.",
+      "display_variant": "en",
+      "display_text": "「I'd rather be on carrot duty than be a\ntraining partner too, honestly.」"
+    },
+    {
+      "id": "c16_07710",
+      "speaker": "$n",
+      "en": "Let's train together, Lunamaria. I was planning to do some shooting practice myself, anyway.",
+      "display_variant": "en",
+      "display_text": "「Let's train together, Lunamaria. I was\nplanning to do some shooting practice\nmyself, anyway.」"
+    },
+    {
+      "id": "c16_07770",
+      "speaker": "Lunamaria",
+      "en": "Ehehe... looks like my weak spot's been found out.",
+      "display_variant": "en",
+      "display_text": "「Ehehe... looks like my weak spot's been\nfound out.」"
+    },
+    {
+      "id": "c16_077c0",
+      "speaker": "Kamille",
+      "en": "All right, let's get started. Touga, $n... get ready.",
+      "display_variant": "en",
+      "display_text": "「All right, let's get started. Touga,\n$n... get ready.」"
+    },
+    {
+      "id": "c16_07800",
+      "speaker": "Touga",
+      "en": "Roger.",
+      "display_variant": "en",
+      "display_text": "「Roger.」"
+    },
+    {
+      "id": "c16_07810",
+      "speaker": "Loran",
+      "en": "That look on your face... you're getting serious, huh.",
+      "display_variant": "en",
+      "display_text": "「That look on your face... you're getting\nserious, huh.」"
+    },
+    {
+      "id": "c16_07840",
+      "speaker": "$n",
+      "en": "Then, here I come...!",
+      "display_variant": "en",
+      "display_text": "「Then, here I come...!」"
+    },
+    {
+      "id": "c16_07860",
+      "speaker": "Maria",
+      "en": "Do your best, $n!",
+      "display_variant": "en",
+      "display_text": "「Do your best, $n!」"
+    },
+    {
+      "id": "c16_07880",
+      "speaker": "Kappei",
+      "en": "I'm up next, so don't you lose, big sis $n!",
+      "display_variant": "en",
+      "display_text": "「I'm up next, so don't you lose, big sis\n$n!」"
+    },
+    {
+      "id": "c16_078c0",
+      "speaker": "$n",
+      "en": "Thank you, everyone...",
+      "display_variant": "en",
+      "display_text": "（Thank you, everyone...）"
+    }
+  ]
+}

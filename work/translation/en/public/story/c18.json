@@ -1,0 +1,2427 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c18_07a10",
+      "speaker": "Cotset",
+      "en": "M-Miss...! The Hundred Demon Empire is... coming...",
+      "display_variant": "en",
+      "display_text": "「M-Miss...! The Hundred Demon Empire\nis... coming...」"
+    },
+    {
+      "id": "c18_07a50",
+      "speaker": "Elchi",
+      "en": "What a pathetic voice! Put some strength in your gut!",
+      "display_variant": "en",
+      "display_text": "「What a pathetic voice! Put some\nstrength in your gut!」"
+    },
+    {
+      "id": "c18_07a90",
+      "speaker": "Elchi",
+      "en": "...I'd like to say that, but I'm... in pretty bad shape myself...",
+      "display_variant": "en",
+      "display_text": "「...I'd like to say that, but I'm... in\npretty bad shape myself...」"
+    },
+    {
+      "id": "c18_07ad0",
+      "speaker": "Jamil",
+      "en": "If they struck at a moment like this, there's no doubt the Hundred Demon Empire is the one who's been cutting off our food supply lines.",
+      "display_variant": "compact",
+      "display_text": "「If they struck now, the Hundred Demon\nEmpire's clearly behind our cut food\nsupply lines.」"
+    },
+    {
+      "id": "c18_07b40",
+      "speaker": "Holland",
+      "en": "Then let's smash them and make them realize everything they've done was for nothing!",
+      "display_variant": "en",
+      "display_text": "「Then let's smash them and make them\nrealize everything they've done was for\nnothing!」"
+    },
+    {
+      "id": "c18_07ba0",
+      "speaker": "$n",
+      "en": "Easy for you to say...",
+      "display_variant": "en",
+      "display_text": "「Easy for you to say...」"
+    },
+    {
+      "id": "c18_07bc0",
+      "speaker": "Garrod",
+      "en": "No good...! I can't get my body to move!",
+      "display_variant": "en",
+      "display_text": "「No good...! I can't get my body to\nmove!」"
+    },
+    {
+      "id": "c18_07bf0",
+      "speaker": "Kei",
+      "en": "You can't fight a war on an empty stomach... This time it's seriously bad.",
+      "display_variant": "en",
+      "display_text": "「You can't fight a war on an empty\nstomach... This time it's seriously bad.」"
+    },
+    {
+      "id": "c18_07c30",
+      "speaker": "Sirius",
+      "en": "How pathetic...! To be toyed with by a scheme like this!",
+      "display_variant": "en",
+      "display_text": "「How pathetic...! To be toyed with by a\nscheme like this!」"
+    },
+    {
+      "id": "c18_07c70",
+      "speaker": "Sirius",
+      "en": "I absolutely refuse to accept this...! I will not be defeated by hunger!",
+      "display_variant": "en",
+      "display_text": "「I absolutely refuse to accept this...! I\nwill not be defeated by hunger!」"
+    },
+    {
+      "id": "c18_07cd0",
+      "speaker": "Roger",
+      "en": "A samurai keeps his toothpick even when he hasn't eaten... is that it.",
+      "display_variant": "en",
+      "display_text": "「A samurai keeps his toothpick even\nwhen he hasn't eaten... is that it.」"
+    },
+    {
+      "id": "c18_07d00",
+      "speaker": "$n",
+      "en": "That's a fine sentiment, but...",
+      "display_variant": "en",
+      "display_text": "「That's a fine sentiment, but...」"
+    },
+    {
+      "id": "c18_07d20",
+      "speaker": "Mel",
+      "en": "We're not samurai, so that's not gonna work for us!",
+      "display_variant": "en",
+      "display_text": "「We're not samurai, so that's not gonna\nwork for us!」"
+    },
+    {
+      "id": "c18_07d60",
+      "speaker": "Marin",
+      "en": "It galls me, but this round goes to them...!",
+      "display_variant": "en",
+      "display_text": "「It galls me, but this round goes to\nthem...!」"
+    },
+    {
+      "id": "c18_07da0",
+      "speaker": "Jiron",
+      "en": "Screw it, I'm past caring! Let's squeeze out what's left of our strength!!",
+      "display_variant": "en",
+      "display_text": "「Screw it, I'm past caring! Let's squeeze\nout what's left of our strength!!」"
+    },
+    {
+      "id": "c18_07de0",
+      "speaker": "Chill",
+      "en": "It's no use...! There's nothing left to squeeze out!",
+      "display_variant": "en",
+      "display_text": "「It's no use...! There's nothing left to\nsqueeze out!」"
+    },
+    {
+      "id": "c18_07e20",
+      "speaker": "Gainer",
+      "en": "Like this... can we even... fight...?",
+      "display_variant": "en",
+      "display_text": "「Like this... can we even... fight...?」"
+    },
+    {
+      "id": "c18_07e60",
+      "speaker": "Apollo",
+      "en": "Damn it...! I'm so hungry!!",
+      "display_variant": "en",
+      "display_text": "「Damn it...! I'm so hungry!!」"
+    },
+    {
+      "id": "c18_07ea0",
+      "speaker": "Renton",
+      "en": "N-No good...! There's no way we can win like this!",
+      "display_variant": "en",
+      "display_text": "「N-No good...! There's no way we can win\nlike this!」"
+    },
+    {
+      "id": "c18_07ee0",
+      "speaker": "Ryouma",
+      "en": "Don't talk weak, Renton! Dig deep and find your will...",
+      "display_variant": "en",
+      "display_text": "「Don't talk weak, Renton! Dig deep and\nfind your will...」"
+    },
+    {
+      "id": "c18_07f20",
+      "speaker": "Ryouma",
+      "en": "Ngh...!",
+      "display_variant": "en",
+      "display_text": "「Ngh...!」"
+    },
+    {
+      "id": "c18_07f30",
+      "speaker": "Gura",
+      "en": "Hahahahaha! How pitiful, Getter Robo!",
+      "display_variant": "en",
+      "display_text": "「Hahahahaha! How pitiful, Getter Robo!」"
+    },
+    {
+      "id": "c18_07f70",
+      "speaker": "Tekkouki",
+      "en": "That voice -- Dr. Gura!",
+      "display_variant": "en",
+      "display_text": "「That voice -- Dr. Gura!」"
+    },
+    {
+      "id": "c18_07f90",
+      "speaker": "Gura",
+      "en": "That's right, Tekkouki. Have you learned to fear the food-rotting nanomachines I developed!?",
+      "display_variant": "en",
+      "display_text": "「That's right, Tekkouki. Have you learned\nto fear the food-rotting nanomachines I\ndeveloped!?」"
+    },
+    {
+      "id": "c18_07ff0",
+      "speaker": "Garrod",
+      "en": "Damn it! Did you come here just to laugh at us while we're starving!?",
+      "display_variant": "en",
+      "display_text": "「Damn it! Did you come here just to\nlaugh at us while we're starving!?」"
+    },
+    {
+      "id": "c18_08030",
+      "speaker": "Jiron",
+      "en": "Get out here! Face us head-on!!",
+      "display_variant": "en",
+      "display_text": "「Get out here! Face us head-on!!」"
+    },
+    {
+      "id": "c18_08060",
+      "speaker": "Gura",
+      "en": "I'm afraid not. This Mecha Yosaiki also serves as the nanomachines' control system.",
+      "display_variant": "en",
+      "display_text": "「I'm afraid not. This Mecha Yosaiki also\nserves as the nanomachines' control\nsystem.」"
+    },
+    {
+      "id": "c18_080c0",
+      "speaker": "Sara",
+      "en": "Then if we defeat the demon doctor...",
+      "display_variant": "en",
+      "display_text": "「Then if we defeat the demon doctor...」"
+    },
+    {
+      "id": "c18_080f0",
+      "speaker": "Adette",
+      "en": "We can exterminate the little pest that's been spoiling our food too!",
+      "display_variant": "en",
+      "display_text": "「We can exterminate the little pest\nthat's been spoiling our food too!」"
+    },
+    {
+      "id": "c18_08130",
+      "speaker": "Gura",
+      "en": "Quite right. But can you defeat an enemy you cannot see?",
+      "display_variant": "en",
+      "display_text": "「Quite right. But can you defeat an\nenemy you cannot see?」"
+    },
+    {
+      "id": "c18_08170",
+      "speaker": "Gura",
+      "en": "The Mecha Yosaiki's stealth is perfect. No method will let you find it.",
+      "display_variant": "en",
+      "display_text": "「The Mecha Yosaiki's stealth is perfect.\nNo method will let you find it.」"
+    },
+    {
+      "id": "c18_081c0",
+      "speaker": "$n",
+      "en": "Then all we can do is spray fire everywhere and hope for a lucky hit!!",
+      "display_variant": "en",
+      "display_text": "「Then all we can do is spray fire\neverywhere and hope for a lucky hit!!」"
+    },
+    {
+      "id": "c18_08200",
+      "speaker": "Lowen",
+      "en": "That's reckless, $n! It's far too inefficient!!",
+      "display_variant": "en",
+      "display_text": "「That's reckless, $n! It's far too\ninefficient!!」"
+    },
+    {
+      "id": "c18_08240",
+      "speaker": "Duke",
+      "en": "Besides, in our current state, a tactic like that would just wear us out...",
+      "display_variant": "en",
+      "display_text": "「Besides, in our current state, a tactic\nlike that would just wear us out...」"
+    },
+    {
+      "id": "c18_08290",
+      "speaker": "Ryouma",
+      "en": "Is there no other option...?",
+      "display_variant": "en",
+      "display_text": "「Is there no other option...?」"
+    },
+    {
+      "id": "c18_082b0",
+      "speaker": "Gura",
+      "en": "Hahahahaha, $c! Despair before your own hunger!",
+      "display_variant": "en",
+      "display_text": "「Hahahahaha, $c! Despair before your\nown hunger!」"
+    },
+    {
+      "id": "c18_082f0",
+      "speaker": "Fudo",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c18_08300",
+      "speaker": "Silvia",
+      "en": "I-I can't take it anymore... I'm so hungry... my mind's going dark...",
+      "display_variant": "en",
+      "display_text": "「I-I can't take it anymore... I'm so\nhungry... my mind's going dark...」"
+    },
+    {
+      "id": "c18_08350",
+      "speaker": "Pala",
+      "en": "If I'd known it would come to this... I never should have dieted... I should've eaten until I was full...",
+      "display_variant": "fit",
+      "display_text": "「If I'd known it'd come to this... I\nnever should've dieted... I should've eaten\ntill I was full...」"
+    },
+    {
+      "id": "c18_083b0",
+      "speaker": "Sara",
+      "en": "N-No...! I don't want to die like this, starving...!",
+      "display_variant": "en",
+      "display_text": "「N-No...! I don't want to die like this,\nstarving...!」"
+    },
+    {
+      "id": "c18_08400",
+      "speaker": "Jamil",
+      "en": "It can't be helped... We'll fall back once and regroup.",
+      "display_variant": "en",
+      "display_text": "「It can't be helped... We'll fall back\nonce and regroup.」"
+    },
+    {
+      "id": "c18_08440",
+      "speaker": "Orson",
+      "en": "But if we don't break the enemy's strategy, we'll eventually starve to death.",
+      "display_variant": "en",
+      "display_text": "「But if we don't break the enemy's\nstrategy, we'll eventually starve to\ndeath.」"
+    },
+    {
+      "id": "c18_08490",
+      "speaker": "Elchi",
+      "en": "Even so, we're at our limit! We can't fight like this!",
+      "display_variant": "en",
+      "display_text": "「Even so, we're at our limit! We can't\nfight like this!」"
+    },
+    {
+      "id": "c18_084e0",
+      "speaker": "Fudo",
+      "en": "Hunger comes from the desire to eat.",
+      "display_variant": "en",
+      "display_text": "「Hunger comes from the desire to eat.」"
+    },
+    {
+      "id": "c18_08510",
+      "speaker": "Jun",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c18_08530",
+      "speaker": "Pierre",
+      "en": "Is now really the time to state the obvious!?",
+      "display_variant": "en",
+      "display_text": "「Is now really the time to state the\nobvious!?」"
+    },
+    {
+      "id": "c18_08570",
+      "speaker": "Fudo",
+      "en": "Being hungry and being famished are not the same.",
+      "display_variant": "en",
+      "display_text": "「Being hungry and being famished are not\nthe same.」"
+    },
+    {
+      "id": "c18_08590",
+      "speaker": "Reika",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c18_085a0",
+      "speaker": "Fudo",
+      "en": "When you come to know the 'emptiness' within your own belly... true power will emerge!",
+      "display_variant": "en",
+      "display_text": "「When you come to know the 'emptiness'\nwithin your own belly... true power will\nemerge!」"
+    },
+    {
+      "id": "c18_085e0",
+      "speaker": "Oliver",
+      "en": "What's that guy even talking about...?",
+      "display_variant": "en",
+      "display_text": "「What's that guy even talking about...?」"
+    },
+    {
+      "id": "c18_08610",
+      "speaker": "Raita",
+      "en": "How should I know!? I'm too hungry to even think!",
+      "display_variant": "en",
+      "display_text": "「How should I know!? I'm too hungry to\neven think!」"
+    },
+    {
+      "id": "c18_08650",
+      "speaker": "Gainer",
+      "en": "Hungry and famished... hungry and famished...",
+      "display_variant": "en",
+      "display_text": "「Hungry and famished... hungry and\nfamished...」"
+    },
+    {
+      "id": "c18_08680",
+      "speaker": "Jun",
+      "en": "The power of hunger... that's it!",
+      "display_variant": "en",
+      "display_text": "「The power of hunger... that's it!」"
+    },
+    {
+      "id": "c18_086a0",
+      "speaker": "Jun",
+      "en": "Since ancient times, when people fast, their consciousness awakens and their senses grow sharper...!",
+      "display_variant": "en",
+      "display_text": "「Since ancient times, when people fast,\ntheir consciousness awakens and their\nsenses grow sharper...!」"
+    },
+    {
+      "id": "c18_08700",
+      "speaker": "Pierre",
+      "en": "Sharpened senses... food...? I get it, it's the smell!",
+      "display_variant": "en",
+      "display_text": "「Sharpened senses... food...? I get it,\nit's the smell!」"
+    },
+    {
+      "id": "c18_08740",
+      "speaker": "Sirius",
+      "en": "Apollo, listen! Search for the smell!",
+      "display_variant": "en",
+      "display_text": "「Apollo, listen! Search for the smell!」"
+    },
+    {
+      "id": "c18_08770",
+      "speaker": "Apollo",
+      "en": "Smell...?",
+      "display_variant": "en",
+      "display_text": "「Smell...?」"
+    },
+    {
+      "id": "c18_08790",
+      "speaker": "Sirius",
+      "en": "That's right. The demons of the Hundred Demon Empire are living beings too. They consume food...!",
+      "display_variant": "en",
+      "display_text": "「That's right. The demons of the\nHundred Demon Empire are living beings\ntoo. They consume food...!」"
+    },
+    {
+      "id": "c18_087e0",
+      "speaker": "Sirius",
+      "en": "If it's their mothership, it should naturally be carrying food as well!",
+      "display_variant": "en",
+      "display_text": "「If it's their mothership, it should\nnaturally be carrying food as well!」"
+    },
+    {
+      "id": "c18_08830",
+      "speaker": "Apollo",
+      "en": "All right...!",
+      "display_variant": "en",
+      "display_text": "「All right...!」"
+    },
+    {
+      "id": "c18_08850",
+      "speaker": "Sirius",
+      "en": "Silvia, let's focus our minds too! We'll lend Apollo our strength!",
+      "display_variant": "en",
+      "display_text": "「Silvia, let's focus our minds too! We'll\nlend Apollo our strength!」"
+    },
+    {
+      "id": "c18_088a0",
+      "speaker": "Tsugumi",
+      "en": "Wait, please! That's...",
+      "display_variant": "en",
+      "display_text": "「Wait, please! That's...」"
+    },
+    {
+      "id": "c18_088d0",
+      "speaker": "Reika",
+      "en": "We'll do it too!",
+      "display_variant": "en",
+      "display_text": "「We'll do it too!」"
+    },
+    {
+      "id": "c18_088f0",
+      "speaker": "Silvia",
+      "en": "Right!",
+      "display_variant": "en",
+      "display_text": "「Right!」"
+    },
+    {
+      "id": "c18_08910",
+      "speaker": "Rena",
+      "en": "Those three... they've gone a day longer without food than Apollo or Sirius...",
+      "display_variant": "en",
+      "display_text": "「Those three... they've gone a day\nlonger without food than Apollo or\nSirius...」"
+    },
+    {
+      "id": "c18_08960",
+      "speaker": "Rena",
+      "en": "That means... they'll bring out even more power.",
+      "display_variant": "en",
+      "display_text": "「That means... they'll bring out even\nmore power.」"
+    },
+    {
+      "id": "c18_08990",
+      "speaker": "Silvia",
+      "en": "Let's do this, Reika, Tsugumi!",
+      "display_variant": "en",
+      "display_text": "「Let's do this, Reika, Tsugumi!」"
+    },
+    {
+      "id": "c18_089c0",
+      "speaker": "Reika",
+      "en": "Right!",
+      "display_variant": "en",
+      "display_text": "「Right!」"
+    },
+    {
+      "id": "c18_089d0",
+      "speaker": "Tsugumi",
+      "en": "Please, Apollo!",
+      "display_variant": "en",
+      "display_text": "「Please, Apollo!」"
+    },
+    {
+      "id": "c18_089f0",
+      "speaker": "Apollo",
+      "en": "Sniff sniff... sniff sniff sniff!",
+      "display_variant": "en",
+      "display_text": "「Sniff sniff... sniff sniff sniff!」"
+    },
+    {
+      "id": "c18_08a20",
+      "speaker": "Apollo",
+      "en": "Got it!",
+      "display_variant": "en",
+      "display_text": "「Got it!」"
+    },
+    {
+      "id": "c18_08a40",
+      "speaker": "Apollo",
+      "en": "There!!",
+      "display_variant": "en",
+      "display_text": "「There!!」"
+    },
+    {
+      "id": "c18_08a60",
+      "speaker": "Sirius",
+      "en": "Go, Silvia!!",
+      "display_variant": "en",
+      "display_text": "「Go, Silvia!!」"
+    },
+    {
+      "id": "c18_08a90",
+      "speaker": "Gura",
+      "en": "I-Impossible! How was my stealth broken!?",
+      "display_variant": "en",
+      "display_text": "「I-Impossible! How was my stealth\nbroken!?」"
+    },
+    {
+      "id": "c18_08ad0",
+      "speaker": "Tekkouki",
+      "en": "So this is the power of humanity's -- no, all life's -- primal instinct... the power of appetite!",
+      "display_variant": "en",
+      "display_text": "「So this is the power of humanity's --\nno, all life's -- primal instinct... the\npower of appetite!」"
+    },
+    {
+      "id": "c18_08b10",
+      "speaker": "Duke",
+      "en": "Well done, Aquarion!!",
+      "display_variant": "en",
+      "display_text": "「Well done, Aquarion!!」"
+    },
+    {
+      "id": "c18_08b40",
+      "speaker": "Kei",
+      "en": "Now all we have to do is take him down and everything's fine!",
+      "display_variant": "en",
+      "display_text": "「Now all we have to do is take him down\nand everything's fine!」"
+    },
+    {
+      "id": "c18_08b70",
+      "speaker": "Gura",
+      "en": "Enough! Don't think you can beat this Mecha Yosaiki!",
+      "display_variant": "en",
+      "display_text": "「Enough! Don't think you can beat this\nMecha Yosaiki!」"
+    },
+    {
+      "id": "c18_08bb0",
+      "speaker": "Gura",
+      "en": "Besides, what can you possibly do in that starved state!?",
+      "display_variant": "en",
+      "display_text": "「Besides, what can you possibly do in\nthat starved state!?」"
+    },
+    {
+      "id": "c18_08bf0",
+      "speaker": "Renton",
+      "en": "T-True enough...",
+      "display_variant": "en",
+      "display_text": "「T-True enough...」"
+    },
+    {
+      "id": "c18_08c10",
+      "speaker": "Garrod",
+      "en": "But if we win this fight, we get to eat!",
+      "display_variant": "en",
+      "display_text": "「But if we win this fight, we get to\neat!」"
+    },
+    {
+      "id": "c18_08c50",
+      "speaker": "Fudo",
+      "en": "Then let me give you all some words.",
+      "display_variant": "en",
+      "display_text": "「Then let me give you all some words.」"
+    },
+    {
+      "id": "c18_08c80",
+      "speaker": "Fudo",
+      "en": "Hunger is the best spice!",
+      "display_variant": "en",
+      "display_text": "「Hunger is the best spice!」"
+    },
+    {
+      "id": "c18_08cb0",
+      "speaker": "Marin",
+      "en": "Hunger is...",
+      "display_variant": "en",
+      "display_text": "「Hunger is...」"
+    },
+    {
+      "id": "c18_08cd0",
+      "speaker": "Stoner",
+      "en": "...the best spice...",
+      "display_variant": "en",
+      "display_text": "「...the best spice...」"
+    },
+    {
+      "id": "c18_08cf0",
+      "speaker": "Roger",
+      "en": "Words to live by.",
+      "display_variant": "en",
+      "display_text": "「Words to live by.」"
+    },
+    {
+      "id": "c18_08d10",
+      "speaker": "$n",
+      "en": "Let's do this, everyone! Win, and the best meal of our lives is waiting!",
+      "display_variant": "en",
+      "display_text": "「Let's do this, everyone! Win, and the\nbest meal of our lives is waiting!」"
+    },
+    {
+      "id": "c18_08d50",
+      "speaker": "Gura",
+      "en": "W-What is this intensity!?",
+      "display_variant": "en",
+      "display_text": "「W-What is this intensity!?」"
+    },
+    {
+      "id": "c18_08d80",
+      "speaker": "Ryouma",
+      "en": "This is the power of our instincts!!",
+      "display_variant": "en",
+      "display_text": "「This is the power of our instincts!!」"
+    },
+    {
+      "id": "c18_08db0",
+      "speaker": "Jiron",
+      "en": "Whoaaa! I'll eat it all! I'll devour every last bit!!",
+      "display_variant": "en",
+      "display_text": "「Whoaaa! I'll eat it all! I'll devour every\nlast bit!!」"
+    },
+    {
+      "id": "c18_08e00",
+      "speaker": "Apollo",
+      "en": "This is for our food! Get ready!!",
+      "display_variant": "en",
+      "display_text": "「This is for our food! Get ready!!」"
+    },
+    {
+      "id": "c18_08e40",
+      "speaker": "Mel",
+      "en": "We did it! A come-from-behind win!!",
+      "display_variant": "en",
+      "display_text": "「We did it! A come-from-behind win!!」"
+    },
+    {
+      "id": "c18_08e70",
+      "speaker": "$n",
+      "en": "Finally, we get to eat!!",
+      "display_variant": "en",
+      "display_text": "「Finally, we get to eat!!」"
+    },
+    {
+      "id": "c18_08ea0",
+      "speaker": "Fudo",
+      "en": "Well done. Here's a small gift of congratulations from me.",
+      "display_variant": "en",
+      "display_text": "「Well done. Here's a small gift of\ncongratulations from me.」"
+    },
+    {
+      "id": "c18_08ee0",
+      "speaker": "Fudo",
+      "en": "It's a DEAVA transport plane. It's loaded to the brim with food.",
+      "display_variant": "en",
+      "display_text": "「It's a DEAVA transport plane. It's\nloaded to the brim with food.」"
+    },
+    {
+      "id": "c18_08f20",
+      "speaker": "Reika",
+      "en": "F-Food...!",
+      "display_variant": "en",
+      "display_text": "「F-Food...!」"
+    },
+    {
+      "id": "c18_08f40",
+      "speaker": "Tsugumi",
+      "en": "It's here!!",
+      "display_variant": "en",
+      "display_text": "「It's here!!」"
+    },
+    {
+      "id": "c18_08f70",
+      "speaker": "Silvia",
+      "en": "Thank you, Commander!",
+      "display_variant": "en",
+      "display_text": "「Thank you, Commander!」"
+    },
+    {
+      "id": "c18_08fa0",
+      "speaker": "Apollo",
+      "en": "If you had food this whole time, you could've just brought it out from the start...",
+      "display_variant": "en",
+      "display_text": "「If you had food this whole time, you\ncould've just brought it out from the\nstart...」"
+    },
+    {
+      "id": "c18_08ff0",
+      "speaker": "Apollo",
+      "en": "No matter how starving we are, you're one old man we're not gonna eat.",
+      "display_variant": "en",
+      "display_text": "「No matter how starving we are, you're\none old man we're not gonna eat.」"
+    },
+    {
+      "id": "c18_09040",
+      "speaker": "Fudo",
+      "en": "Heh... I'll leave it there.",
+      "display_variant": "en",
+      "display_text": "「Heh... I'll leave it there.」"
+    },
+    {
+      "id": "c18_09060",
+      "speaker": "Gura",
+      "en": "Damn it! I had $c cornered, just one step away!",
+      "display_variant": "en",
+      "display_text": "「Damn it! I had $c cornered, just one\nstep away!」"
+    },
+    {
+      "id": "c18_090b0",
+      "speaker": "Gura",
+      "en": "Fall back! Next time won't go so easily!!",
+      "display_variant": "en",
+      "display_text": "「Fall back! Next time won't go so\neasily!!」"
+    },
+    {
+      "id": "c18_090e0",
+      "speaker": "Garrod",
+      "en": "Just wait, Tiffa! I'll definitely beat them and get you a full meal!",
+      "display_variant": "en",
+      "display_text": "「Just wait, Tiffa! I'll definitely beat\nthem and get you a full meal!」"
+    },
+    {
+      "id": "c18_09140",
+      "speaker": "Garrod",
+      "en": "Wait, 'get you a meal'? That makes me sound like a husband!",
+      "display_variant": "en",
+      "display_text": "「Wait, 'get you a meal'? That makes me\nsound like a husband!」"
+    },
+    {
+      "id": "c18_09190",
+      "speaker": "Jiron",
+      "en": "Whoaaa! I'm gonna eat! I'll devour it all!!",
+      "display_variant": "en",
+      "display_text": "「Whoaaa! I'm gonna eat! I'll devour it\nall!!」"
+    },
+    {
+      "id": "c18_091d0",
+      "speaker": "Jiron",
+      "en": "Lizards, snakes, natto, all of it! I'll even eat the demons!!",
+      "display_variant": "en",
+      "display_text": "「Lizards, snakes, natto, all of it! I'll\neven eat the demons!!」"
+    },
+    {
+      "id": "c18_09210",
+      "speaker": "Chill",
+      "en": "C-Calm down, Jiron! If you eat one of those, its horns will get stuck in your throat!!",
+      "display_variant": "en",
+      "display_text": "「C-Calm down, Jiron! If you eat one of\nthose, its horns will get stuck in your\nthroat!!」"
+    },
+    {
+      "id": "c18_09270",
+      "speaker": "Gainer",
+      "en": "How dare you torment Sara! Her figure was almost reduced to skin and bones!",
+      "display_variant": "en",
+      "display_text": "「How dare you torment Sara! Her figure\nwas almost reduced to skin and bones!」"
+    },
+    {
+      "id": "c18_092e0",
+      "speaker": "Gainer",
+      "en": "Unforgivable! For the sake of Sara's lovely body, I will absolutely defeat you!!",
+      "display_variant": "en",
+      "display_text": "「Unforgivable! For the sake of Sara's\nlovely body, I will absolutely defeat you!!」"
+    },
+    {
+      "id": "c18_09330",
+      "speaker": "Duke",
+      "en": "Not just us, but starving the people of Tresor Institute and the surrounding area too...!",
+      "display_variant": "en",
+      "display_text": "「Not just us, but starving the people of\nTresor Institute and the surrounding area\ntoo...!」"
+    },
+    {
+      "id": "c18_09380",
+      "speaker": "Duke",
+      "en": "Here we come, Hundred Demon Empire! Feel the wrath of humanity's most basic instincts!",
+      "display_variant": "en",
+      "display_text": "「Here we come, Hundred Demon Empire!\nFeel the wrath of humanity's most basic\ninstincts!」"
+    },
+    {
+      "id": "c18_093d0",
+      "speaker": "Ryouma",
+      "en": "Hundred Demon Empire! Your cowardly tactics end here!",
+      "display_variant": "en",
+      "display_text": "「Hundred Demon Empire! Your cowardly\ntactics end here!」"
+    },
+    {
+      "id": "c18_09410",
+      "speaker": "Hayato",
+      "en": "We're plenty angry today. Call it a case of hunger that just won't quiet down.",
+      "display_variant": "en",
+      "display_text": "「We're plenty angry today. Call it a\ncase of hunger that just won't quiet\ndown.」"
+    },
+    {
+      "id": "c18_09460",
+      "speaker": "Benkei",
+      "en": "Go, Ryo! Make them pay for every scrap of food they rotted!!",
+      "display_variant": "en",
+      "display_text": "「Go, Ryo! Make them pay for every scrap\nof food they rotted!!」"
+    },
+    {
+      "id": "c18_094b0",
+      "speaker": "Marin",
+      "en": "When I came to Earth, I met the blessings of natural food for the first time, and I was grateful for how wonderful it was.",
+      "display_variant": "fit",
+      "display_text": "「When I first came to Earth and tasted\nnature's bounty of food, I was grateful\nfor how wonderful it was.」"
+    },
+    {
+      "id": "c18_09510",
+      "speaker": "Marin",
+      "en": "You made it rot -- for that, I'll crush you thoroughly!!",
+      "display_variant": "en",
+      "display_text": "「You made it rot -- for that, I'll crush\nyou thoroughly!!」"
+    },
+    {
+      "id": "c18_09550",
+      "speaker": "Tsugumi",
+      "en": "How dare you... how dare you pull something so vile as stealing our food!",
+      "display_variant": "en",
+      "display_text": "「How dare you... how dare you pull\nsomething so vile as stealing our food!」"
+    },
+    {
+      "id": "c18_09590",
+      "speaker": "Reika",
+      "en": "We fight for the sake of food! I won't forgive anyone who takes it from us!",
+      "display_variant": "en",
+      "display_text": "「We fight for the sake of food! I won't\nforgive anyone who takes it from us!」"
+    },
+    {
+      "id": "c18_095d0",
+      "speaker": "Silvia",
+      "en": "To live is to eat! Long live food!!",
+      "display_variant": "en",
+      "display_text": "「To live is to eat! Long live food!!」"
+    },
+    {
+      "id": "c18_09610",
+      "speaker": "Sirius",
+      "en": "S-Silvia...",
+      "display_variant": "en",
+      "display_text": "「S-Silvia...」"
+    },
+    {
+      "id": "c18_09630",
+      "speaker": "Apollo",
+      "en": "Ain't nothing wrong with that. She's not wrong.",
+      "display_variant": "en",
+      "display_text": "「Ain't nothing wrong with that. She's\nnot wrong.」"
+    },
+    {
+      "id": "c18_09670",
+      "speaker": "Apollo",
+      "en": "Here I come, demons! Anyone who wastes food is gonna get pounded by me!!",
+      "display_variant": "en",
+      "display_text": "「Here I come, demons! Anyone who wastes\nfood is gonna get pounded by me!!」"
+    },
+    {
+      "id": "c18_096d0",
+      "speaker": "Kei",
+      "en": "Did you know, mister demon? The ultimate pleasure for girls is good food and sweets.",
+      "display_variant": "en",
+      "display_text": "「Did you know, mister demon? The\nultimate pleasure for girls is good food\nand sweets.」"
+    },
+    {
+      "id": "c18_09720",
+      "speaker": "Kei",
+      "en": "For taking that away, I, Kei Katsuragi, will punish you!",
+      "display_variant": "en",
+      "display_text": "「For taking that away, I, Kei Katsuragi,\nwill punish you!」"
+    },
+    {
+      "id": "c18_09760",
+      "speaker": "Renton",
+      "en": "Thanks to you, the convenience store's sales tanked, and Talho took it out on me!",
+      "display_variant": "en",
+      "display_text": "「Thanks to you, the convenience store's\nsales tanked, and Talho took it out on\nme!」"
+    },
+    {
+      "id": "c18_097d0",
+      "speaker": "Renton",
+      "en": "Get ready! This attack is payment for all that ruined pizza and chicken!!",
+      "display_variant": "en",
+      "display_text": "「Get ready! This attack is payment for\nall that ruined pizza and chicken!!」"
+    },
+    {
+      "id": "c18_09820",
+      "speaker": "Roger",
+      "en": "Even between enemies, intruding on one's daily life like this is the height of bad taste.",
+      "display_variant": "en",
+      "display_text": "「Even between enemies, intruding on\none's daily life like this is the height of\nbad taste.」"
+    },
+    {
+      "id": "c18_09890",
+      "speaker": "Roger",
+      "en": "I don't care for direct violence...",
+      "display_variant": "en",
+      "display_text": "「I don't care for direct violence...」"
+    },
+    {
+      "id": "c18_098c0",
+      "speaker": "Roger",
+      "en": "But if you're going to interfere with my private meals, you'll answer for it accordingly!",
+      "display_variant": "en",
+      "display_text": "「But if you're going to interfere with\nmy private meals, you'll answer for it\naccordingly!」"
+    },
+    {
+      "id": "c18_09930",
+      "speaker": "$n",
+      "en": "Did you know, demon? Eighty-eight gods live in a single grain of rice!",
+      "display_variant": "en",
+      "display_text": "「Did you know, demon? Eighty-eight gods\nlive in a single grain of rice!」"
+    },
+    {
+      "id": "c18_09980",
+      "speaker": "Mel",
+      "en": "The grains of rice you've spoiled are more than anyone could count!",
+      "display_variant": "en",
+      "display_text": "「The grains of rice you've spoiled are\nmore than anyone could count!」"
+    },
+    {
+      "id": "c18_099d0",
+      "speaker": "$n",
+      "en": "So that's how it is! On behalf of all those countless gods, I'm gonna knock you flat!",
+      "display_variant": "en",
+      "display_text": "「So that's how it is! On behalf of all\nthose countless gods, I'm gonna knock you\nflat!」"
+    },
+    {
+      "id": "c18_09a20",
+      "speaker": "$n",
+      "en": "Anyone who disrespects food like that can go reflect on it in the next world!!",
+      "display_variant": "en",
+      "display_text": "「Anyone who disrespects food like that\ncan go reflect on it in the next world!!」"
+    },
+    {
+      "id": "c18_09aa0",
+      "speaker": "Kei",
+      "en": "...How's the Nirvash's overhaul coming along, Renton?",
+      "display_variant": "en",
+      "display_text": "「...How's the Nirvash's overhaul coming\nalong, Renton?」"
+    },
+    {
+      "id": "c18_09af0",
+      "speaker": "Renton",
+      "en": "They say they're starting over from the design stage. Dr. Bear's helping out too, and they're pushing ahead at full speed.",
+      "display_variant": "fit",
+      "display_text": "「They're redoing it from the design\nstage. Dr. Bear's helping too, and they're\npushing ahead at full speed.」"
+    },
+    {
+      "id": "c18_09b60",
+      "speaker": "Gainer",
+      "en": "But I heard even if they rush, it'll take about two weeks.",
+      "display_variant": "en",
+      "display_text": "「But I heard even if they rush, it'll\ntake about two weeks.」"
+    },
+    {
+      "id": "c18_09bb0",
+      "speaker": "Kei",
+      "en": "That's taking a while. Orson's Orguss was already put back together.",
+      "display_variant": "en",
+      "display_text": "「That's taking a while. Orson's Orguss\nwas already put back together.」"
+    },
+    {
+      "id": "c18_09c10",
+      "speaker": "Garrod",
+      "en": "Until then, I guess we'll just have to keep relying on Tresor Institute's hospitality.",
+      "display_variant": "en",
+      "display_text": "「Until then, I guess we'll just have to\nkeep relying on Tresor Institute's\nhospitality.」"
+    },
+    {
+      "id": "c18_09c60",
+      "speaker": "Marin",
+      "en": "The fight with the Argama and the Minerva left every unit with serious damage. We need to get those repaired too.",
+      "display_variant": "fit",
+      "display_text": "「The fight with the Argama and Minerva\nleft every unit badly damaged. Those need\nrepairs too.」"
+    },
+    {
+      "id": "c18_09cd0",
+      "speaker": "Ryouma",
+      "en": "And the Archangel and the Freedom are still unaccounted for...",
+      "display_variant": "en",
+      "display_text": "「And the Archangel and the Freedom are\nstill unaccounted for...」"
+    },
+    {
+      "id": "c18_09d20",
+      "speaker": "Lowen",
+      "en": "We haven't received any information about what happened to them since.",
+      "display_variant": "en",
+      "display_text": "「We haven't received any information\nabout what happened to them since.」"
+    },
+    {
+      "id": "c18_09d60",
+      "speaker": "Lowen",
+      "en": "With the chaos from the New Earth Federation's coup, it seems neither the Federation nor ZAFT has time to spare for them.",
+      "display_variant": "fit",
+      "display_text": "「Amid the New Earth Federation's coup,\nneither the Federation nor ZAFT can\nspare time for them.」"
+    },
+    {
+      "id": "c18_09dd0",
+      "speaker": "Gainer",
+      "en": "There's a lot I want to ask them. I just hope they're safe...",
+      "display_variant": "en",
+      "display_text": "「There's a lot I want to ask them. I\njust hope they're safe...」"
+    },
+    {
+      "id": "c18_09e30",
+      "speaker": "Daisuke",
+      "en": "They're people who made up their minds to fight against the whole world.",
+      "display_variant": "en",
+      "display_text": "「They're people who made up their minds\nto fight against the whole world.」"
+    },
+    {
+      "id": "c18_09e70",
+      "speaker": "Daisuke",
+      "en": "People with strong will don't lose... For now, all we can do is believe in that.",
+      "display_variant": "en",
+      "display_text": "「People with strong will don't lose... For\nnow, all we can do is believe in that.」"
+    },
+    {
+      "id": "c18_09ec0",
+      "speaker": "Jiron",
+      "en": "...No use thinking about it. Let's just get some food for now.",
+      "display_variant": "en",
+      "display_text": "「...No use thinking about it. Let's just\nget some food for now.」"
+    },
+    {
+      "id": "c18_09f00",
+      "speaker": "Apollo",
+      "en": "The director here talks too much, but I'll give this place credit -- the food's great.",
+      "display_variant": "en",
+      "display_text": "「The director here talks too much, but\nI'll give this place credit -- the food's\ngreat.」"
+    },
+    {
+      "id": "c18_09f50",
+      "speaker": "$n",
+      "en": "Even so, you guys are seriously overeating...!",
+      "display_variant": "en",
+      "display_text": "「Even so, you guys are seriously\novereating...!」"
+    },
+    {
+      "id": "c18_09f90",
+      "speaker": "Roger",
+      "en": "'A guest holds back quietly by the third bowl'... That saying clearly doesn't apply to them.",
+      "display_variant": "en",
+      "display_text": "「'A guest holds back quietly by the\nthird bowl'... That saying clearly doesn't\napply to them.」"
+    },
+    {
+      "id": "c18_09fe0",
+      "speaker": "Tsugumi",
+      "en": "Food, food~! Time to dig in!",
+      "display_variant": "en",
+      "display_text": "「Food, food~! Time to dig in!」"
+    },
+    {
+      "id": "c18_0a010",
+      "speaker": "Reika",
+      "en": "You really do eat like everything's delicious, Tsugumi.",
+      "display_variant": "en",
+      "display_text": "「You really do eat like everything's\ndelicious, Tsugumi.」"
+    },
+    {
+      "id": "c18_0a040",
+      "speaker": "Tsugumi",
+      "en": "Huh...? Senpai, is it just a vegetable salad for you today?",
+      "display_variant": "en",
+      "display_text": "「Huh...? Senpai, is it just a vegetable\nsalad for you today?」"
+    },
+    {
+      "id": "c18_0a080",
+      "speaker": "Reika",
+      "en": "Y-Yeah...",
+      "display_variant": "en",
+      "display_text": "「Y-Yeah...」"
+    },
+    {
+      "id": "c18_0a0a0",
+      "speaker": "Tsugumi",
+      "en": "You're not dieting or anything, are you? I mean, you already have a great figure, Senpai.",
+      "display_variant": "en",
+      "display_text": "「You're not dieting or anything, are\nyou? I mean, you already have a great\nfigure, Senpai.」"
+    },
+    {
+      "id": "c18_0a100",
+      "speaker": "Reika",
+      "en": "W-Well... this morning when I got on the scale, I'd gained nine hundred grams...",
+      "display_variant": "en",
+      "display_text": "「W-Well... this morning when I got on\nthe scale, I'd gained nine hundred grams...」"
+    },
+    {
+      "id": "c18_0a150",
+      "speaker": "Tsugumi",
+      "en": "Huh!? I'm too scared to even get on a scale!",
+      "display_variant": "en",
+      "display_text": "「Huh!? I'm too scared to even get on a\nscale!」"
+    },
+    {
+      "id": "c18_0a190",
+      "speaker": "Reika",
+      "en": "Weight control is part of training too. If the relationship between body and mind falls out of sync...",
+      "display_variant": "fit",
+      "display_text": "「Weight control is part of training too.\nIf body and mind fall out of sync...」"
+    },
+    {
+      "id": "c18_0a1e0",
+      "speaker": "Tsugumi",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c18_0a200",
+      "speaker": "Reika",
+      "en": "...Aquarion's fusion sense dulls, and depending on the situation, it could be fatal...",
+      "display_variant": "en",
+      "display_text": "「...Aquarion's fusion sense dulls, and\ndepending on the situation, it could be\nfatal...」"
+    },
+    {
+      "id": "c18_0a250",
+      "speaker": "Tsugumi",
+      "en": "F-Fatal...!",
+      "display_variant": "en",
+      "display_text": "「F-Fatal...!」"
+    },
+    {
+      "id": "c18_0a270",
+      "speaker": "Silvia",
+      "en": "What are you two making a fuss about in the mess hall?",
+      "display_variant": "en",
+      "display_text": "「What are you two making a fuss about\nin the mess hall?」"
+    },
+    {
+      "id": "c18_0a2a0",
+      "speaker": "Tsugumi",
+      "en": "Oh... Silvia...",
+      "display_variant": "en",
+      "display_text": "「Oh... Silvia...」"
+    },
+    {
+      "id": "c18_0a2c0",
+      "speaker": "Silvia",
+      "en": "What's this, Reika... dieting? Suddenly cutting back on food like that is bad for you, you know~",
+      "display_variant": "en",
+      "display_text": "「What's this, Reika... dieting? Suddenly\ncutting back on food like that is bad for\nyou, you know~」"
+    },
+    {
+      "id": "c18_0a320",
+      "speaker": "Reika",
+      "en": "...I know that much.",
+      "display_variant": "en",
+      "display_text": "「...I know that much.」"
+    },
+    {
+      "id": "c18_0a350",
+      "speaker": "Silvia",
+      "en": "Scary, scary. Your eyes are glaring daggers at the food.",
+      "display_variant": "en",
+      "display_text": "「Scary, scary. Your eyes are glaring\ndaggers at the food.」"
+    },
+    {
+      "id": "c18_0a390",
+      "speaker": "Reika",
+      "en": "Wha--!",
+      "display_variant": "en",
+      "display_text": "「Wha--!」"
+    },
+    {
+      "id": "c18_0a3a0",
+      "speaker": "Silvia",
+      "en": "Sorry, but I'm eating without holding back. Dig innn~!",
+      "display_variant": "en",
+      "display_text": "「Sorry, but I'm eating without holding\nback. Dig innn~!」"
+    },
+    {
+      "id": "c18_0a400",
+      "speaker": "Rena",
+      "en": "...I can see it now. A princess, stuffed full and blown up round...",
+      "display_variant": "en",
+      "display_text": "「...I can see it now. A princess, stuffed\nfull and blown up round...」"
+    },
+    {
+      "id": "c18_0a450",
+      "speaker": "Silvia",
+      "en": "!",
+      "display_variant": "en",
+      "display_text": "「!」"
+    },
+    {
+      "id": "c18_0a470",
+      "speaker": "Rena",
+      "en": "A pitiful fate, abandoned by her beloved big brother...",
+      "display_variant": "en",
+      "display_text": "「A pitiful fate, abandoned by her\nbeloved big brother...」"
+    },
+    {
+      "id": "c18_0a4b0",
+      "speaker": "Silvia",
+      "en": "Ah... aah... no way!",
+      "display_variant": "en",
+      "display_text": "「Ah... aah... no way!」"
+    },
+    {
+      "id": "c18_0a4e0",
+      "speaker": "Maai",
+      "en": "It's okay, Silvia...! There's still time!",
+      "display_variant": "en",
+      "display_text": "「It's okay, Silvia...! There's still time!」"
+    },
+    {
+      "id": "c18_0a520",
+      "speaker": "Gidget",
+      "en": "Don't give up... Our battle starts right now.",
+      "display_variant": "en",
+      "display_text": "「Don't give up... Our battle starts right\nnow.」"
+    },
+    {
+      "id": "c18_0a570",
+      "speaker": "Silvia",
+      "en": "Everyone...",
+      "display_variant": "en",
+      "display_text": "「Everyone...」"
+    },
+    {
+      "id": "c18_0a590",
+      "speaker": "Mimsy",
+      "en": "Maybe because the food here is so good, but all of us... have put on weight.",
+      "display_variant": "en",
+      "display_text": "「Maybe because the food here is so\ngood, but all of us... have put on weight.」"
+    },
+    {
+      "id": "c18_0a5e0",
+      "speaker": "Mel",
+      "en": "Down with flab! Away with the pudgy belly and the thick thighs!",
+      "display_variant": "en",
+      "display_text": "「Down with flab! Away with the pudgy\nbelly and the thick thighs!」"
+    },
+    {
+      "id": "c18_0a620",
+      "speaker": "Michiru",
+      "en": "Even if it's hard, if we all encourage each other, I'm sure we can get through it.",
+      "display_variant": "en",
+      "display_text": "「Even if it's hard, if we all encourage\neach other, I'm sure we can get through\nit.」"
+    },
+    {
+      "id": "c18_0a670",
+      "speaker": "Toniya",
+      "en": "Announcement to all female personnel. Starting now, we're gathering every last ounce of strength and carrying out Operation Diet.",
+      "display_variant": "fit",
+      "display_text": "「Announcement to all female personnel:\nstarting now, we're gathering every last\nounce of strength for Operation Diet.」"
+    },
+    {
+      "id": "c18_0a6d0",
+      "speaker": "Tsugumi",
+      "en": "Yes!",
+      "display_variant": "en",
+      "display_text": "「Yes!」"
+    },
+    {
+      "id": "c18_0a6f0",
+      "speaker": "Reika",
+      "en": "Understood. I swear to give it everything I've got.",
+      "display_variant": "en",
+      "display_text": "「Understood. I swear to give it\neverything I've got.」"
+    },
+    {
+      "id": "c18_0a730",
+      "speaker": "Sara",
+      "en": "Diet Squad, ei, ei, oh!!",
+      "display_variant": "en",
+      "display_text": "「Diet Squad, ei, ei, oh!!」"
+    },
+    {
+      "id": "c18_0a770",
+      "speaker": "Silvia",
+      "en": "Oh!!",
+      "display_variant": "en",
+      "display_text": "「Oh!!」"
+    },
+    {
+      "id": "c18_0a7d0",
+      "speaker": "Reika",
+      "en": "Focus... focus. Clear the mind, and even hunger can't touch you...",
+      "display_variant": "en",
+      "display_text": "（Focus... focus. Clear the mind, and even\nhunger can't touch you...）"
+    },
+    {
+      "id": "c18_0a820",
+      "speaker": "Silvia",
+      "en": "Soft-serve... fried chicken... oh... pizza sounds good too...",
+      "display_variant": "en",
+      "display_text": "（Soft-serve... fried chicken... oh... pizza\nsounds good too...）"
+    },
+    {
+      "id": "c18_0a870",
+      "speaker": "Tsugumi",
+      "en": "I want to swim in a sea of chocolate... then drown in a sea of whipped cream, and then a sea of pudding...",
+      "display_variant": "fit",
+      "display_text": "（I want to swim in a sea of chocolate...\nthen drown in seas of whipped cream and\npudding...）"
+    },
+    {
+      "id": "c18_0a8d0",
+      "speaker": "Hikaru",
+      "en": "I want to eat toast topped with cheese made from freshly squeezed milk...",
+      "display_variant": "en",
+      "display_text": "（I want to eat toast topped with cheese\nmade from freshly squeezed milk...）"
+    },
+    {
+      "id": "c18_0a920",
+      "speaker": "Michiru",
+      "en": "Gunma's famous konjac is low-calorie, so maybe it'd be okay to eat...",
+      "display_variant": "en",
+      "display_text": "（Gunma's famous konjac is low-calorie,\nso maybe it'd be okay to eat...）"
+    },
+    {
+      "id": "c18_0a970",
+      "speaker": "Sara",
+      "en": "Ahh... that sukiyaki I had in Yapan was so good...",
+      "display_variant": "en",
+      "display_text": "（Ahh... that sukiyaki I had in Yapan was\nso good...）"
+    },
+    {
+      "id": "c18_0a9b0",
+      "speaker": "Pala",
+      "en": "Hold on... hold on. I'll definitely show Ennil up...",
+      "display_variant": "en",
+      "display_text": "（Hold on... hold on. I'll definitely show\nEnnil up...）"
+    },
+    {
+      "id": "c18_0a9f0",
+      "speaker": "Toniya",
+      "en": "Ngh... I'm the one who started this, so there's no way I can be the first to drop out...",
+      "display_variant": "en",
+      "display_text": "（Ngh... I'm the one who started this, so\nthere's no way I can be the first to\ndrop out...）"
+    },
+    {
+      "id": "c18_0aa50",
+      "speaker": "Jamie",
+      "en": "I wonder if the girls back on Planet S-1 used to diet too...",
+      "display_variant": "en",
+      "display_text": "（I wonder if the girls back on Planet\nS-1 used to diet too...）"
+    },
+    {
+      "id": "c18_0aa90",
+      "speaker": "Maai",
+      "en": "I can't lose to Lieea...",
+      "display_variant": "en",
+      "display_text": "（I can't lose to Lieea...）"
+    },
+    {
+      "id": "c18_0aac0",
+      "speaker": "Lieea",
+      "en": "I can't lose to Maai...",
+      "display_variant": "en",
+      "display_text": "（I can't lose to Maai...）"
+    },
+    {
+      "id": "c18_0aaf0",
+      "speaker": "Mimsy",
+      "en": "I'll be eighteen soon too... I'm going to be at my most beautiful before that day comes...",
+      "display_variant": "en",
+      "display_text": "（I'll be eighteen soon too... I'm going to\nbe at my most beautiful before that day\ncomes...）"
+    },
+    {
+      "id": "c18_0ab50",
+      "speaker": "Gidget",
+      "en": "Standing next to Eureka just makes my chub stand out more...",
+      "display_variant": "en",
+      "display_text": "（Standing next to Eureka just makes my\nchub stand out more...）"
+    },
+    {
+      "id": "c18_0aba0",
+      "speaker": "Daisuke",
+      "en": "Amazing... all the women are dieting together, huh...",
+      "display_variant": "en",
+      "display_text": "「Amazing... all the women are dieting\ntogether, huh...」"
+    },
+    {
+      "id": "c18_0abf0",
+      "speaker": "Talho",
+      "en": "Watch your mouth, Daisuke. Some of us don't need anything like that.",
+      "display_variant": "en",
+      "display_text": "「Watch your mouth, Daisuke. Some of us\ndon't need anything like that.」"
+    },
+    {
+      "id": "c18_0ac50",
+      "speaker": "Daisuke",
+      "en": "R-Right...",
+      "display_variant": "en",
+      "display_text": "「R-Right...」"
+    },
+    {
+      "id": "c18_0ac70",
+      "speaker": "Adette",
+      "en": "That's right. Only sloppy little kids need something like that.",
+      "display_variant": "en",
+      "display_text": "「That's right. Only sloppy little kids\nneed something like that.」"
+    },
+    {
+      "id": "c18_0acc0",
+      "speaker": "Sara",
+      "en": "That's certainly true. It's because they can't discipline themselves that they end up in a state like this.",
+      "display_variant": "fit",
+      "display_text": "「That's certainly true. It's because they\ncan't discipline themselves that they end\nup like this.」"
+    },
+    {
+      "id": "c18_0ad20",
+      "speaker": "Ennil",
+      "en": "Heh... those girls must have forgotten they're women.",
+      "display_variant": "en",
+      "display_text": "「Heh... those girls must have forgotten\nthey're women.」"
+    },
+    {
+      "id": "c18_0ad70",
+      "speaker": "Hilda",
+      "en": "You're all so harsh. Let's be kind and watch over them like grown women, shall we?",
+      "display_variant": "en",
+      "display_text": "「You're all so harsh. Let's be kind and\nwatch over them like grown women, shall\nwe?」"
+    },
+    {
+      "id": "c18_0add0",
+      "speaker": "Chill",
+      "en": "Hey, Hilda... what's a diet?",
+      "display_variant": "en",
+      "display_text": "「Hey, Hilda... what's a diet?」"
+    },
+    {
+      "id": "c18_0ae00",
+      "speaker": "Hilda",
+      "en": "Simply put, it's not eating in order to lose weight.",
+      "display_variant": "en",
+      "display_text": "「Simply put, it's not eating in order to\nlose weight.」"
+    },
+    {
+      "id": "c18_0ae40",
+      "speaker": "Maetel",
+      "en": "If you do that, you'll just get hungry! That's ridiculous!",
+      "display_variant": "en",
+      "display_text": "「If you do that, you'll just get hungry!\nThat's ridiculous!」"
+    },
+    {
+      "id": "c18_0ae90",
+      "speaker": "Ana",
+      "en": "That won't do, Maetel. For a young woman, beauty is a very important matter.",
+      "display_variant": "en",
+      "display_text": "「That won't do, Maetel. For a young\nwoman, beauty is a very important matter.」"
+    },
+    {
+      "id": "c18_0aef0",
+      "speaker": "Ana",
+      "en": "That said, we're still growing, so let's make sure to eat properly.",
+      "display_variant": "en",
+      "display_text": "「That said, we're still growing, so let's\nmake sure to eat properly.」"
+    },
+    {
+      "id": "c18_0af40",
+      "speaker": "Mischa",
+      "en": "Speaking as a doctor too, I agree with Princess Ana.",
+      "display_variant": "en",
+      "display_text": "「Speaking as a doctor too, I agree with\nPrincess Ana.」"
+    },
+    {
+      "id": "c18_0af80",
+      "speaker": "Chill",
+      "en": "I'm all for it too! So let's have a snack!",
+      "display_variant": "en",
+      "display_text": "「I'm all for it too! So let's have a\nsnack!」"
+    },
+    {
+      "id": "c18_0afc0",
+      "speaker": "Elchi",
+      "en": "It's kind of sad for Silvia and the others... not being able to eat cookies this good.",
+      "display_variant": "en",
+      "display_text": "「It's kind of sad for Silvia and the\nothers... not being able to eat cookies\nthis good.」"
+    },
+    {
+      "id": "c18_0b020",
+      "speaker": "Rag",
+      "en": "Eh... just let them do it. Once they're really hungry, they'll feel silly and quit.",
+      "display_variant": "en",
+      "display_text": "「Eh... just let them do it. Once they're\nreally hungry, they'll feel silly and quit.」"
+    },
+    {
+      "id": "c18_0b080",
+      "speaker": "Shaya",
+      "en": "Heheh... being a girl is tough. I already dropped out, so I can take it easy.",
+      "display_variant": "en",
+      "display_text": "「Heheh... being a girl is tough. I already\ndropped out, so I can take it easy.」"
+    },
+    {
+      "id": "c18_0b0e0",
+      "speaker": "Papty",
+      "en": "I don't think there's anything to worry about, but please make sure you eat properly, Talho.",
+      "display_variant": "en",
+      "display_text": "「I don't think there's anything to worry\nabout, but please make sure you eat\nproperly, Talho.」"
+    },
+    {
+      "id": "c18_0b140",
+      "speaker": "Talho",
+      "en": "I know. Thanks, Papty.",
+      "display_variant": "en",
+      "display_text": "「I know. Thanks, Papty.」"
+    },
+    {
+      "id": "c18_0b180",
+      "speaker": "Mome",
+      "en": "Lady Tiffa, aren't you dieting?",
+      "display_variant": "en",
+      "display_text": "「Lady Tiffa, aren't you dieting?」"
+    },
+    {
+      "id": "c18_0b1c0",
+      "speaker": "Tiffa",
+      "en": "Um, yeah...",
+      "display_variant": "en",
+      "display_text": "「Um, yeah...」"
+    },
+    {
+      "id": "c18_0b1e0",
+      "speaker": "Dorothy",
+      "en": "You're too light... you should eat more.",
+      "display_variant": "en",
+      "display_text": "「You're too light... you should eat more.」"
+    },
+    {
+      "id": "c18_0b220",
+      "speaker": "Tiffa",
+      "en": "I think so too, but... I just can't eat very much...",
+      "display_variant": "en",
+      "display_text": "「I think so too, but... I just can't eat\nvery much...」"
+    },
+    {
+      "id": "c18_0b270",
+      "speaker": "Tiffa",
+      "en": "I really do wish I could gain a little more weight...",
+      "display_variant": "en",
+      "display_text": "「I really do wish I could gain a little\nmore weight...」"
+    },
+    {
+      "id": "c18_0b2b0",
+      "speaker": "Rena",
+      "en": "If the diet squad heard that, they'd probably cry and get furious.",
+      "display_variant": "en",
+      "display_text": "「If the diet squad heard that, they'd\nprobably cry and get furious.」"
+    },
+    {
+      "id": "c18_0b2f0",
+      "speaker": "Dorothy",
+      "en": "What about you, then?",
+      "display_variant": "en",
+      "display_text": "「What about you, then?」"
+    },
+    {
+      "id": "c18_0b310",
+      "speaker": "Rena",
+      "en": "Heh... it seems I take in nutrients a little differently from normal people.",
+      "display_variant": "en",
+      "display_text": "「Heh... it seems I take in nutrients a\nlittle differently from normal people.」"
+    },
+    {
+      "id": "c18_0b360",
+      "speaker": "Dorothy",
+      "en": "Then what about you?",
+      "display_variant": "en",
+      "display_text": "「Then what about you?」"
+    },
+    {
+      "id": "c18_0b380",
+      "speaker": "Eureka",
+      "en": "I... don't seem to gain weight no matter what I eat.",
+      "display_variant": "en",
+      "display_text": "「I... don't seem to gain weight no\nmatter what I eat.」"
+    },
+    {
+      "id": "c18_0b3b0",
+      "speaker": "Rena",
+      "en": "Well then, let's have tea, just the members here.",
+      "display_variant": "en",
+      "display_text": "「Well then, let's have tea, just the\nmembers here.」"
+    },
+    {
+      "id": "c18_0b3f0",
+      "speaker": "Rena",
+      "en": "There are a lot of us who can't eat much, so the tea snacks will probably be left over today anyway.",
+      "display_variant": "en",
+      "display_text": "「There are a lot of us who can't eat\nmuch, so the tea snacks will probably be\nleft over today anyway.」"
+    },
+    {
+      "id": "c18_0b440",
+      "speaker": "Pierre",
+      "en": "Still, is it really something to fuss over that much? Girls look cute with a little softness to them.",
+      "display_variant": "fit",
+      "display_text": "「Still, is it really something to fuss\nover that much? Girls look cute with a\nbit of softness.」"
+    },
+    {
+      "id": "c18_0b4b0",
+      "speaker": "Sirius",
+      "en": "It can't be helped. It's in pursuit of perfect beauty.",
+      "display_variant": "en",
+      "display_text": "「It can't be helped. It's in pursuit of\nperfect beauty.」"
+    },
+    {
+      "id": "c18_0b4f0",
+      "speaker": "Kei",
+      "en": "Besides, that's just male logic. Girls always want to make themselves look more beautiful, no matter what.",
+      "display_variant": "fit",
+      "display_text": "「Besides, that's just male logic. Girls\nalways want to look more beautiful, no\nmatter what.」"
+    },
+    {
+      "id": "c18_0b550",
+      "speaker": "Roybea",
+      "en": "On top of that, a lot of girls are taking part in this one.",
+      "display_variant": "en",
+      "display_text": "「On top of that, a lot of girls are\ntaking part in this one.」"
+    },
+    {
+      "id": "c18_0b590",
+      "speaker": "Roybea",
+      "en": "It's less about the eyes of men and more that they're being judged so harshly by each other -- that makes it hard to just quit.",
+      "display_variant": "fit",
+      "display_text": "「It's less about men's eyes and more\nthat they judge each other so harshly --\nthat's what makes quitting so hard.」"
+    },
+    {
+      "id": "c18_0b610",
+      "speaker": "Witz",
+      "en": "Huh... so whoever drops out gets branded a loser, then.",
+      "display_variant": "en",
+      "display_text": "「Huh... so whoever drops out gets\nbranded a loser, then.」"
+    },
+    {
+      "id": "c18_0b660",
+      "speaker": "$n",
+      "en": "Well... it's only the first day. Surely nobody's already--",
+      "display_variant": "en",
+      "display_text": "「Well... it's only the first day. Surely\nnobody's already--」"
+    },
+    {
+      "id": "c18_0b6a0",
+      "speaker": "Mel",
+      "en": "Darling... I'm so hungry... help me...",
+      "display_variant": "en",
+      "display_text": "「Darling... I'm so hungry... help me...」"
+    },
+    {
+      "id": "c18_0b6e0",
+      "speaker": "$n",
+      "en": "There's one right here!",
+      "display_variant": "en",
+      "display_text": "「There's one right here!」"
+    },
+    {
+      "id": "c18_0b700",
+      "speaker": "Ana",
+      "en": "That won't do, Mel! What happened to escaping that pudgy tummy!?",
+      "display_variant": "en",
+      "display_text": "「That won't do, Mel! What happened to\nescaping that pudgy tummy!?」"
+    },
+    {
+      "id": "c18_0b760",
+      "speaker": "Mel",
+      "en": "But... they say when you lose weight, it comes off your chest first...",
+      "display_variant": "en",
+      "display_text": "「But... they say when you lose weight,\nit comes off your chest first...」"
+    },
+    {
+      "id": "c18_0b7b0",
+      "speaker": "Mel",
+      "en": "It's fine for Tsugumi, Michiru, and Pala, but me... if I lose any more, I'll go into negative numbers...",
+      "display_variant": "en",
+      "display_text": "「It's fine for Tsugumi, Michiru, and Pala,\nbut me... if I lose any more, I'll go into\nnegative numbers...」"
+    },
+    {
+      "id": "c18_0b820",
+      "speaker": "Hayato",
+      "en": "Now that's a problem.",
+      "display_variant": "en",
+      "display_text": "「Now that's a problem.」"
+    },
+    {
+      "id": "c18_0b840",
+      "speaker": "Pierre",
+      "en": "If it comes to that, you've got it completely backwards! Everyone, wake up!",
+      "display_variant": "en",
+      "display_text": "「If it comes to that, you've got it\ncompletely backwards! Everyone, wake up!」"
+    },
+    {
+      "id": "c18_0b890",
+      "speaker": "Renton",
+      "en": "This is bad, Hilda!",
+      "display_variant": "en",
+      "display_text": "「This is bad, Hilda!」"
+    },
+    {
+      "id": "c18_0b8c0",
+      "speaker": "Hilda",
+      "en": "What's wrong, Renton? Are you done stocking the shelves at the store already?",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Renton? Are you done\nstocking the shelves at the store\nalready?」"
+    },
+    {
+      "id": "c18_0b910",
+      "speaker": "Renton",
+      "en": "W-Well...! No food supplies are coming in at all!",
+      "display_variant": "en",
+      "display_text": "「W-Well...! No food supplies are coming in\nat all!」"
+    },
+    {
+      "id": "c18_0b950",
+      "speaker": "Renton",
+      "en": "Tresor Institute's food stores are about to run completely empty!",
+      "display_variant": "en",
+      "display_text": "「Tresor Institute's food stores are\nabout to run completely empty!」"
+    },
+    {
+      "id": "c18_0b9a0",
+      "speaker": "Benkei",
+      "en": "What did you say!?",
+      "display_variant": "en",
+      "display_text": "「What did you say!?」"
+    },
+    {
+      "id": "c18_0b9c0",
+      "speaker": "Ryouma",
+      "en": "Our food supplies aren't being restocked...? What in the world is going on...",
+      "display_variant": "en",
+      "display_text": "「Our food supplies aren't being\nrestocked...? What in the world is going\non...」"
+    },
+    {
+      "id": "c18_0ba50",
+      "speaker": "Shilha",
+      "en": "...Are you watching how the wingless ones live, Futaba?",
+      "display_variant": "en",
+      "display_text": "「...Are you watching how the wingless\nones live, Futaba?」"
+    },
+    {
+      "id": "c18_0ba90",
+      "speaker": "Futaba",
+      "en": "Yeah... but they're really disgusting, aren't they...",
+      "display_variant": "en",
+      "display_text": "「Yeah... but they're really disgusting,\naren't they...」"
+    },
+    {
+      "id": "c18_0bad0",
+      "speaker": "Futaba",
+      "en": "Using their sacred mouths just to eat things.",
+      "display_variant": "en",
+      "display_text": "「Using their sacred mouths just to eat\nthings.」"
+    },
+    {
+      "id": "c18_0bb10",
+      "speaker": "Shilha",
+      "en": "Futaba... that is the cursed fate of the wingless ones...",
+      "display_variant": "en",
+      "display_text": "「Futaba... that is the cursed fate of\nthe wingless ones...」"
+    },
+    {
+      "id": "c18_0bb40",
+      "speaker": "Shilha",
+      "en": "From the moment they're born into this world until the day they die, they must devour the bodies of birds and fish and beasts, of green grass and fruit -- feeding on life just to survive.",
+      "display_variant": "compact",
+      "display_text": "「From birth to death they must devour\nbirds, fish, beasts, grass, and fruit --\nfeeding on life just to survive.」"
+    },
+    {
+      "id": "c18_0bbc0",
+      "speaker": "Futaba",
+      "en": "Hmph... and here the sacred mouth exists to breathe in the spirit of the air and sing the words of the stars.",
+      "display_variant": "fit",
+      "display_text": "「Hmph... and the sacred mouth exists to\nbreathe in the air's spirit and sing the\nstars' words.」"
+    },
+    {
+      "id": "c18_0bc10",
+      "speaker": "Shilha",
+      "en": "And now, it seems the demons are moving against those wingless ones...",
+      "display_variant": "en",
+      "display_text": "「And now, it seems the demons are\nmoving against those wingless ones...」"
+    },
+    {
+      "id": "c18_0bc80",
+      "speaker": "Jamil",
+      "en": "Nanomachines?",
+      "display_variant": "en",
+      "display_text": "「Nanomachines?」"
+    },
+    {
+      "id": "c18_0bca0",
+      "speaker": "Holland",
+      "en": "According to Morita, whatever infiltrated Tresor Institute and rotted every scrap of stored food was its doing.",
+      "display_variant": "fit",
+      "display_text": "「According to Morita, whatever\ninfiltrated Tresor Institute and rotted all\nour stored food was its doing.」"
+    },
+    {
+      "id": "c18_0bd10",
+      "speaker": "Hap",
+      "en": "It even worked its way into sealed containers and vacuum packs, real thorough about it.",
+      "display_variant": "en",
+      "display_text": "「It even worked its way into sealed\ncontainers and vacuum packs, real\nthorough about it.」"
+    },
+    {
+      "id": "c18_0bd50",
+      "speaker": "Gain",
+      "en": "Thanks to that thing, the food inside this facility is completely wiped out...",
+      "display_variant": "en",
+      "display_text": "「Thanks to that thing, the food inside\nthis facility is completely wiped out...」"
+    },
+    {
+      "id": "c18_0bd90",
+      "speaker": "Gain",
+      "en": "On top of that, the whole surrounding area's been attacked by someone, and the supply line here's been cut off completely.",
+      "display_variant": "fit",
+      "display_text": "「On top of that, someone's attacked the\nwhole surrounding area, cutting off our\nsupply line here completely.」"
+    },
+    {
+      "id": "c18_0bdf0",
+      "speaker": "Shaya",
+      "en": "Even if we buy food, it just rots again right away. We're completely at a loss.",
+      "display_variant": "en",
+      "display_text": "「Even if we buy food, it just rots again\nright away. We're completely at a loss.」"
+    },
+    {
+      "id": "c18_0be50",
+      "speaker": "Roger",
+      "en": "It's already been five days since the food ran out. Those with less stamina are starting to lose the ability to move.",
+      "display_variant": "fit",
+      "display_text": "「It's already been five days since the\nfood ran out. Those with less stamina are\nstarting to lose mobility.」"
+    },
+    {
+      "id": "c18_0beb0",
+      "speaker": "Tex",
+      "en": "Man does not live by bread alone... but it's also true that without bread -- without food -- we can't live at all.",
+      "display_variant": "fit",
+      "display_text": "「Man does not live by bread alone... but\nwithout bread -- without food -- we\ncan't live at all, either.」"
+    },
+    {
+      "id": "c18_0bf20",
+      "speaker": "Elchi",
+      "en": "How did things end up like this...?",
+      "display_variant": "en",
+      "display_text": "「How did things end up like this...?」"
+    },
+    {
+      "id": "c18_0bf60",
+      "speaker": "Holland",
+      "en": "Someone's out there working to crush us, I'd guess.",
+      "display_variant": "en",
+      "display_text": "「Someone's out there working to crush\nus, I'd guess.」"
+    },
+    {
+      "id": "c18_0bfa0",
+      "speaker": "$n",
+      "en": "So what, then...! Whoever it is is just waiting for us to starve to death!?",
+      "display_variant": "en",
+      "display_text": "「So what, then...! Whoever it is is just\nwaiting for us to starve to death!?」"
+    },
+    {
+      "id": "c18_0bff0",
+      "speaker": "Jamil",
+      "en": "I doubt they're being that leisurely about it. They'll strike once our strength has dropped enough.",
+      "display_variant": "en",
+      "display_text": "「I doubt they're being that leisurely\nabout it. They'll strike once our strength\nhas dropped enough.」"
+    },
+    {
+      "id": "c18_0c050",
+      "speaker": "Holland",
+      "en": "That time's coming soon...",
+      "display_variant": "en",
+      "display_text": "「That time's coming soon...」"
+    },
+    {
+      "id": "c18_0c080",
+      "speaker": "Garrod",
+      "en": "Everyone, look! Apollo's eating something!",
+      "display_variant": "en",
+      "display_text": "「Everyone, look! Apollo's eating\nsomething!」"
+    },
+    {
+      "id": "c18_0c0c0",
+      "speaker": "Jiron",
+      "en": "Did you find some food!? If you did, share it!",
+      "display_variant": "en",
+      "display_text": "「Did you find some food!? If you did,\nshare it!」"
+    },
+    {
+      "id": "c18_0c100",
+      "speaker": "Apollo",
+      "en": "Nah, that's not it... I'm just sucking on a pebble to take my mind off things.",
+      "display_variant": "en",
+      "display_text": "「Nah, that's not it... I'm just sucking on\na pebble to take my mind off things.」"
+    },
+    {
+      "id": "c18_0c140",
+      "speaker": "Garrod",
+      "en": "I'm starving out of my mind, but even I can't eat rocks...",
+      "display_variant": "en",
+      "display_text": "「I'm starving out of my mind, but even I\ncan't eat rocks...」"
+    },
+    {
+      "id": "c18_0c180",
+      "speaker": "Benkei",
+      "en": "If we leave the institute, there's gotta be food out there somewhere. Let's go, everyone.",
+      "display_variant": "en",
+      "display_text": "「If we leave the institute, there's gotta\nbe food out there somewhere. Let's go,\neveryone.」"
+    },
+    {
+      "id": "c18_0c1d0",
+      "speaker": "Ryouma",
+      "en": "Calm down, Benkei. If we do that, wherever we go next will just end up in the same state as here.",
+      "display_variant": "en",
+      "display_text": "「Calm down, Benkei. If we do that,\nwherever we go next will just end up in\nthe same state as here.」"
+    },
+    {
+      "id": "c18_0c230",
+      "speaker": "Hayato",
+      "en": "Captain Jamil and the others know that too, which is why they're not moving.",
+      "display_variant": "en",
+      "display_text": "「Captain Jamil and the others know that\ntoo, which is why they're not moving.」"
+    },
+    {
+      "id": "c18_0c280",
+      "speaker": "Sirius",
+      "en": "This won't end unless we defeat the enemy stealing our food, will it...",
+      "display_variant": "en",
+      "display_text": "「This won't end unless we defeat the\nenemy stealing our food, will it...」"
+    },
+    {
+      "id": "c18_0c2e0",
+      "speaker": "Apollo",
+      "en": "I don't know who's behind this, but they'd better hurry up and attack already...! Then I'll turn it right back on them!",
+      "display_variant": "fit",
+      "display_text": "「Whoever's behind this better hurry up\nand attack already...! Then I'll turn it\nright back on them!」"
+    },
+    {
+      "id": "c18_0c350",
+      "speaker": "Fudo",
+      "en": "Can you manage that, the way you are now?",
+      "display_variant": "en",
+      "display_text": "「Can you manage that, the way you are\nnow?」"
+    },
+    {
+      "id": "c18_0c380",
+      "speaker": "Apollo",
+      "en": "Whoa!",
+      "display_variant": "en",
+      "display_text": "「Whoa!」"
+    },
+    {
+      "id": "c18_0c3a0",
+      "speaker": "Jun",
+      "en": "Commander Fudo...! You were here!",
+      "display_variant": "en",
+      "display_text": "「Commander Fudo...! You were here!」"
+    },
+    {
+      "id": "c18_0c3d0",
+      "speaker": "Fudo",
+      "en": "I only just arrived.",
+      "display_variant": "en",
+      "display_text": "「I only just arrived.」"
+    },
+    {
+      "id": "c18_0c400",
+      "speaker": "Chill",
+      "en": "Hey, mister... you don't happen to have any food, do you?",
+      "display_variant": "en",
+      "display_text": "「Hey, mister... you don't happen to have\nany food, do you?」"
+    },
+    {
+      "id": "c18_0c430",
+      "speaker": "Rag",
+      "en": "At this point, natto, anything, just give us some food.",
+      "display_variant": "en",
+      "display_text": "「At this point, natto, anything, just\ngive us some food.」"
+    },
+    {
+      "id": "c18_0c470",
+      "speaker": "Fudo",
+      "en": "No.",
+      "display_variant": "en",
+      "display_text": "「No.」"
+    },
+    {
+      "id": "c18_0c480",
+      "speaker": "Apollo",
+      "en": "Then what the hell did you come here for!? If it's something pointless, you won't get off easy!",
+      "display_variant": "en",
+      "display_text": "「Then what the hell did you come here\nfor!? If it's something pointless, you\nwon't get off easy!」"
+    },
+    {
+      "id": "c18_0c4e0",
+      "speaker": "Fudo",
+      "en": "Heh... on edge from hunger, are you. How small.",
+      "display_variant": "en",
+      "display_text": "「Heh... on edge from hunger, are you.\nHow small.」"
+    },
+    {
+      "id": "c18_0c510",
+      "speaker": "Apollo",
+      "en": "Wha--",
+      "display_variant": "en",
+      "display_text": "「Wha--」"
+    },
+    {
+      "id": "c18_0c520",
+      "speaker": "Fudo",
+      "en": "I'm not the one you should be fighting. ...It's coming.",
+      "display_variant": "en",
+      "display_text": "「I'm not the one you should be fighting.\n...It's coming.」"
+    },
+    {
+      "id": "c18_0c560",
+      "speaker": "Mel",
+      "en": "This is bad, everyone! The demons are attacking!",
+      "display_variant": "en",
+      "display_text": "「This is bad, everyone! The demons are\nattacking!」"
+    },
+    {
+      "id": "c18_0c5a0",
+      "speaker": "Ryouma",
+      "en": "So it was the Hundred Demon Empire starving us out!",
+      "display_variant": "en",
+      "display_text": "「So it was the Hundred Demon Empire\nstarving us out!」"
+    },
+    {
+      "id": "c18_0c5d0",
+      "speaker": "Jiron",
+      "en": "This is for our food! Everyone, let's launch!!",
+      "display_variant": "en",
+      "display_text": "「This is for our food! Everyone, let's\nlaunch!!」"
+    },
+    {
+      "id": "c18_0c610",
+      "speaker": "Apollo",
+      "en": "You demon bastards...! I'll pay you back in full for messing with our food!",
+      "display_variant": "en",
+      "display_text": "「You demon bastards...! I'll pay you back\nin full for messing with our food!」"
+    },
+    {
+      "id": "c18_0c660",
+      "speaker": "Fudo",
+      "en": "Heh...",
+      "display_variant": "en",
+      "display_text": "「Heh...」"
+    },
+    {
+      "id": "c18_0c680",
+      "speaker": "Elchi",
+      "en": "Well then...",
+      "display_variant": "en",
+      "display_text": "「Well then...」"
+    },
+    {
+      "id": "c18_0c6a0",
+      "speaker": "Jiron",
+      "en": "Time to eat!!",
+      "display_variant": "en",
+      "display_text": "「Time to eat!!」"
+    },
+    {
+      "id": "c18_0c6c0",
+      "speaker": "Hikaru",
+      "en": "It's delicious...! This meal is so good it's bringing tears to my eyes...",
+      "display_variant": "en",
+      "display_text": "「It's delicious...! This meal is so good\nit's bringing tears to my eyes...」"
+    },
+    {
+      "id": "c18_0c700",
+      "speaker": "Daisuke",
+      "en": "Hunger is the best spice, huh... That couldn't be more true.",
+      "display_variant": "en",
+      "display_text": "「Hunger is the best spice, huh... That\ncouldn't be more true.」"
+    },
+    {
+      "id": "c18_0c740",
+      "speaker": "Marin",
+      "en": "And Earth's natural blessings give us the strength to live.",
+      "display_variant": "en",
+      "display_text": "「And Earth's natural blessings give us\nthe strength to live.」"
+    },
+    {
+      "id": "c18_0c780",
+      "speaker": "Daisuke",
+      "en": "That's right. We should never forget to be grateful for all our food.",
+      "display_variant": "en",
+      "display_text": "「That's right. We should never forget to\nbe grateful for all our food.」"
+    },
+    {
+      "id": "c18_0c7d0",
+      "speaker": "Apollo",
+      "en": "What, Daisuke. If you don't want it, I'll take that meat.",
+      "display_variant": "en",
+      "display_text": "「What, Daisuke. If you don't want it, I'll\ntake that meat.」"
+    },
+    {
+      "id": "c18_0c820",
+      "speaker": "Daisuke",
+      "en": "Not a chance, Apollo. This one's mine.",
+      "display_variant": "en",
+      "display_text": "「Not a chance, Apollo. This one's mine.」"
+    },
+    {
+      "id": "c18_0c860",
+      "speaker": "Adette",
+      "en": "Guess even the Little Prince turns into a starving beast today.",
+      "display_variant": "en",
+      "display_text": "「Guess even the Little Prince turns into\na starving beast today.」"
+    },
+    {
+      "id": "c18_0c8a0",
+      "speaker": "Sara",
+      "en": "You know, snide remarks don't really land when you've got sauce on the corner of your mouth.",
+      "display_variant": "en",
+      "display_text": "「You know, snide remarks don't really\nland when you've got sauce on the corner\nof your mouth.」"
+    },
+    {
+      "id": "c18_0c8f0",
+      "speaker": "Adette",
+      "en": "Well, look who's got cream on the tip of her nose.",
+      "display_variant": "en",
+      "display_text": "「Well, look who's got cream on the tip\nof her nose.」"
+    },
+    {
+      "id": "c18_0c930",
+      "speaker": "$n",
+      "en": "Eating well, Gain?",
+      "display_variant": "en",
+      "display_text": "「Eating well, Gain?」"
+    },
+    {
+      "id": "c18_0c950",
+      "speaker": "Gain",
+      "en": "Yeah, well. Even you seem to be more about food than booze today.",
+      "display_variant": "en",
+      "display_text": "「Yeah, well. Even you seem to be more\nabout food than booze today.」"
+    },
+    {
+      "id": "c18_0c9a0",
+      "speaker": "$n",
+      "en": "Not really. Good food just makes the drink go down easier.",
+      "display_variant": "en",
+      "display_text": "「Not really. Good food just makes the\ndrink go down easier.」"
+    },
+    {
+      "id": "c18_0c9e0",
+      "speaker": "$n",
+      "en": "Booze, food, booze, food, booze, food -- the perfect combo! Then a last plate to finish it off! Doesn't get better than this!",
+      "display_variant": "fit",
+      "display_text": "「Booze, food, booze, food, booze, food\n-- perfect combo! One last plate to top\nit off! Nothing beats this!」"
+    },
+    {
+      "id": "c18_0ca40",
+      "speaker": "Gain",
+      "en": "Couldn't agree more. Here's to good food and the sweet wine of victory.",
+      "display_variant": "en",
+      "display_text": "「Couldn't agree more. Here's to good\nfood and the sweet wine of victory.」"
+    },
+    {
+      "id": "c18_0ca80",
+      "speaker": "Pala",
+      "en": "It's good... this is so good! I've never had meat this delicious before!",
+      "display_variant": "en",
+      "display_text": "「It's good... this is so good! I've never\nhad meat this delicious before!」"
+    },
+    {
+      "id": "c18_0cad0",
+      "speaker": "Chill",
+      "en": "Sis Pala... that's lizard meat, you know.",
+      "display_variant": "en",
+      "display_text": "「Sis Pala... that's lizard meat, you know.」"
+    },
+    {
+      "id": "c18_0cb10",
+      "speaker": "Pala",
+      "en": "Huh...",
+      "display_variant": "en",
+      "display_text": "「Huh...」"
+    },
+    {
+      "id": "c18_0cb20",
+      "speaker": "Pala",
+      "en": "But I don't care! If it's this good, I'll eat lizard, snake, whatever!!",
+      "display_variant": "en",
+      "display_text": "「But I don't care! If it's this good, I'll\neat lizard, snake, whatever!!」"
+    },
+    {
+      "id": "c18_0cb80",
+      "speaker": "Jiron",
+      "en": "This whole-roasted one's good too. Try it.",
+      "display_variant": "en",
+      "display_text": "「This whole-roasted one's good too. Try\nit.」"
+    },
+    {
+      "id": "c18_0cbc0",
+      "speaker": "Pala",
+      "en": "Anything's fine by me now! Ahh, eating is just wonderful!",
+      "display_variant": "en",
+      "display_text": "「Anything's fine by me now! Ahh, eating\nis just wonderful!」"
+    },
+    {
+      "id": "c18_0cc00",
+      "speaker": "Ennil",
+      "en": "Heh... guess it's still appetite over vanity for her.",
+      "display_variant": "en",
+      "display_text": "「Heh... guess it's still appetite over\nvanity for her.」"
+    },
+    {
+      "id": "c18_0cc40",
+      "speaker": "Raita",
+      "en": "Renton! More fried chicken over here!",
+      "display_variant": "en",
+      "display_text": "「Renton! More fried chicken over here!」"
+    },
+    {
+      "id": "c18_0cc70",
+      "speaker": "Matthieu",
+      "en": "Pizza for me! And don't forget the Tabasco!",
+      "display_variant": "en",
+      "display_text": "「Pizza for me! And don't forget the\nTabasco!」"
+    },
+    {
+      "id": "c18_0ccb0",
+      "speaker": "Renton",
+      "en": "Hold on a second! At this rate I won't get a chance to eat myself!",
+      "display_variant": "en",
+      "display_text": "「Hold on a second! At this rate I won't\nget a chance to eat myself!」"
+    },
+    {
+      "id": "c18_0cd10",
+      "speaker": "Eureka",
+      "en": "Renton, here...",
+      "display_variant": "en",
+      "display_text": "「Renton, here...」"
+    },
+    {
+      "id": "c18_0cd30",
+      "speaker": "Renton",
+      "en": "A sandwich...! Did you... did you make this, Eureka?",
+      "display_variant": "en",
+      "display_text": "「A sandwich...! Did you... did you make\nthis, Eureka?」"
+    },
+    {
+      "id": "c18_0cd80",
+      "speaker": "Eureka",
+      "en": "This way you can eat even while you're moving around.",
+      "display_variant": "en",
+      "display_text": "「This way you can eat even while you're\nmoving around.」"
+    },
+    {
+      "id": "c18_0cdc0",
+      "speaker": "Renton",
+      "en": "Oh, thanks! I'm... gonna keep this forever!",
+      "display_variant": "en",
+      "display_text": "「Oh, thanks! I'm... gonna keep this\nforever!」"
+    },
+    {
+      "id": "c18_0ce00",
+      "speaker": "Benkei",
+      "en": "Hey, Renton! Is that hot dog ready yet!?",
+      "display_variant": "en",
+      "display_text": "「Hey, Renton! Is that hot dog ready\nyet!?」"
+    },
+    {
+      "id": "c18_0ce40",
+      "speaker": "Renton",
+      "en": "Coming right up! I'm... gonna give it my all!",
+      "display_variant": "en",
+      "display_text": "「Coming right up! I'm... gonna give it my\nall!」"
+    },
+    {
+      "id": "c18_0ce80",
+      "speaker": "Eureka",
+      "en": "Ah... Renton...",
+      "display_variant": "en",
+      "display_text": "「Ah... Renton...」"
+    },
+    {
+      "id": "c18_0cea0",
+      "speaker": "Eureka",
+      "en": "I went to all that trouble making it, and it's pointless if you don't eat it...",
+      "display_variant": "en",
+      "display_text": "「I went to all that trouble making it,\nand it's pointless if you don't eat it...」"
+    },
+    {
+      "id": "c18_0cee0",
+      "speaker": "Rena",
+      "en": "Heh... guess his stomach and head are empty, but his heart's full.",
+      "display_variant": "en",
+      "display_text": "「Heh... guess his stomach and head are\nempty, but his heart's full.」"
+    },
+    {
+      "id": "c18_0cf20",
+      "speaker": "Hilda",
+      "en": "Still, I bet this whole ordeal taught everyone to appreciate food a little more.",
+      "display_variant": "en",
+      "display_text": "「Still, I bet this whole ordeal taught\neveryone to appreciate food a little more.」"
+    },
+    {
+      "id": "c18_0cf70",
+      "speaker": "Mischa",
+      "en": "This should put an end to that reckless dieting fuss too.",
+      "display_variant": "en",
+      "display_text": "「This should put an end to that reckless\ndieting fuss too.」"
+    },
+    {
+      "id": "c18_0cfb0",
+      "speaker": "Rena",
+      "en": "I wonder about that...",
+      "display_variant": "en",
+      "display_text": "「I wonder about that...」"
+    },
+    {
+      "id": "c18_0cfd0",
+      "speaker": "Mischa",
+      "en": "What do you mean?",
+      "display_variant": "en",
+      "display_text": "「What do you mean?」"
+    },
+    {
+      "id": "c18_0cff0",
+      "speaker": "Rena",
+      "en": "Heh... you'll see soon enough. Just watch those three -- they're off in their own little world...",
+      "display_variant": "en",
+      "display_text": "「Heh... you'll see soon enough. Just\nwatch those three -- they're off in\ntheir own little world...」"
+    },
+    {
+      "id": "c18_0d060",
+      "speaker": "Reika",
+      "en": "This is happiness...! This is what happiness feels like! My tongue and my stomach are both singing...!",
+      "display_variant": "en",
+      "display_text": "「This is happiness...! This is what\nhappiness feels like! My tongue and my\nstomach are both singing...!」"
+    },
+    {
+      "id": "c18_0d0a0",
+      "speaker": "Tsugumi",
+      "en": "Ohh... I'm about to explode from how delicious this is!!",
+      "display_variant": "en",
+      "display_text": "「Ohh... I'm about to explode from how\ndelicious this is!!」"
+    },
+    {
+      "id": "c18_0d0e0",
+      "speaker": "Silvia",
+      "en": "Food is the best! Sweets are paradise! Long live us foodies!!",
+      "display_variant": "en",
+      "display_text": "「Food is the best! Sweets are paradise!\nLong live us foodies!!」"
+    },
+    {
+      "id": "c18_0d160",
+      "speaker": "Tsugumi",
+      "en": "Kyaaaaaaaaaa!!",
+      "display_variant": "en",
+      "display_text": "「Kyaaaaaaaaaa!!」"
+    },
+    {
+      "id": "c18_0d190",
+      "speaker": "Reika",
+      "en": "No way... this can't be happening...!?",
+      "display_variant": "en",
+      "display_text": "「No way... this can't be happening...!?」"
+    },
+    {
+      "id": "c18_0d1c0",
+      "speaker": "Silvia",
+      "en": "Why...!? I lost weight from fasting, but it's all back after just one day...!",
+      "display_variant": "en",
+      "display_text": "「Why...!? I lost weight from fasting, but\nit's all back after just one day...!」"
+    },
+    {
+      "id": "c18_0d210",
+      "speaker": "Silvia",
+      "en": "If anything, I've gained even more than before!!",
+      "display_variant": "en",
+      "display_text": "「If anything, I've gained even more than\nbefore!!」"
+    },
+    {
+      "id": "c18_0d240",
+      "speaker": "Ennil",
+      "en": "Oh my... that's rebound weight gain for you.",
+      "display_variant": "en",
+      "display_text": "「Oh my... that's rebound weight gain for\nyou.」"
+    },
+    {
+      "id": "c18_0d260",
+      "speaker": "Tsugumi",
+      "en": "Rebound!?",
+      "display_variant": "en",
+      "display_text": "「Rebound!?」"
+    },
+    {
+      "id": "c18_0d280",
+      "speaker": "Sara",
+      "en": "It seems like fasting made your bodies absorb nutrients better than usual.",
+      "display_variant": "en",
+      "display_text": "「It seems like fasting made your bodies\nabsorb nutrients better than usual.」"
+    },
+    {
+      "id": "c18_0d2c0",
+      "speaker": "Sara",
+      "en": "So if you binge eat in that state, you gain weight more easily than normal, which means your weight ends up higher than it was before.",
+      "display_variant": "compact",
+      "display_text": "「Binge eating in that state makes you\ngain weight more easily, so you end up\nheavier than before.」"
+    },
+    {
+      "id": "c18_0d330",
+      "speaker": "Reika",
+      "en": "T-That can't be...",
+      "display_variant": "en",
+      "display_text": "「T-That can't be...」"
+    },
+    {
+      "id": "c18_0d350",
+      "speaker": "Tsugumi",
+      "en": "After going through all that suffering, and we end up fatter anyway...",
+      "display_variant": "en",
+      "display_text": "「After going through all that suffering,\nand we end up fatter anyway...」"
+    },
+    {
+      "id": "c18_0d3a0",
+      "speaker": "Silvia",
+      "en": "Ah... ahaha... ahahaha... what even was the point... of our whole week...",
+      "display_variant": "en",
+      "display_text": "「Ah... ahaha... ahahaha... what even was\nthe point... of our whole week...」"
+    }
+  ]
+}

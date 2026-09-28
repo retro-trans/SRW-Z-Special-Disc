@@ -1,0 +1,26 @@
+# Game images, patches, build outputs and private working data
+*.chd
+*.iso
+*.bin
+*.cue
+*.xdelta
+*.zip
+*.7z
+*.stackdump
+work/*
+!work/translation/
+work/translation/*
+!work/translation/en/
+work/translation/en/*
+!work/translation/en/public/
+!work/translation/en/public/**
+# Secrets and local runtimes
+.env
+.env.*
+*.pem
+*.key
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+.pytest_cache/

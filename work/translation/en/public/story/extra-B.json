@@ -1,0 +1,1205 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "x_8788fc7b24",
+      "en": "Newark Base - Command Room"
+    },
+    {
+      "id": "x_8c1229ad42",
+      "en": "Newark Base - Briefing Room"
+    },
+    {
+      "id": "x_6f1f8f7826",
+      "en": "Executive Office"
+    },
+    {
+      "id": "x_fdc99b0f4d",
+      "en": "Izumo - Bridge"
+    },
+    {
+      "id": "x_eacf09328e",
+      "en": "Izumo - Hangar"
+    },
+    {
+      "id": "x_4d3e6c8c12",
+      "en": "McConnell Base - Hangar"
+    },
+    {
+      "id": "x_5d025a7e08",
+      "en": "McConnell Base - Interior"
+    },
+    {
+      "id": "x_5a66dfd33d",
+      "en": "Central North Ameria Continent - City Streets"
+    },
+    {
+      "id": "x_9e4e3f390e",
+      "en": "Archangel - Mess Hall"
+    },
+    {
+      "id": "x_34052c22aa",
+      "en": "Gekko-Goh - Living Room"
+    },
+    {
+      "id": "x_975a1d7935",
+      "en": "Dome Polis Katez - Interior"
+    },
+    {
+      "id": "x_cc2f9ab147",
+      "en": "The Great Tower of Bellforest"
+    },
+    {
+      "id": "x_dbbb37618f",
+      "en": "Thurston Garage"
+    },
+    {
+      "id": "x_b85d30fc3a",
+      "en": "Thurston Residence - Interior"
+    },
+    {
+      "id": "x_b35af42db5",
+      "en": "Bandits' Hideout"
+    },
+    {
+      "id": "x_fb24a93aa4",
+      "en": "Town Square"
+    },
+    {
+      "id": "x_33a469a21a",
+      "en": "Vigilante Corps Station"
+    },
+    {
+      "id": "x_6150a68ba4",
+      "en": "King Beal - Bridge"
+    },
+    {
+      "id": "x_af4526a85b",
+      "en": "Gurabi Hot Spring - Arcade"
+    },
+    {
+      "id": "x_ea788d5eca",
+      "en": "Saint Germain Castle - Command Room"
+    },
+    {
+      "id": "x_d3062f4015",
+      "en": "Eldar Forces - Battleship"
+    },
+    {
+      "id": "x_90db114236",
+      "en": "Teral - Private Room"
+    },
+    {
+      "id": "x_0efe59f25c",
+      "en": "Skull Moon Base - Command Room"
+    },
+    {
+      "id": "x_911649a89a",
+      "en": "Minerva - Briefing Room"
+    },
+    {
+      "id": "x_a64b54c4a4",
+      "en": "King Beal - Hangar"
+    },
+    {
+      "id": "x_4e4e681156",
+      "en": "Guin - Private Room"
+    },
+    {
+      "id": "x_6435c4799a",
+      "en": "Mountain Cycle"
+    },
+    {
+      "id": "x_8e0ce31590",
+      "en": "Minerva - Hangar"
+    },
+    {
+      "id": "x_ea67b51b8f",
+      "en": "Tresor Institute - Mess Hall"
+    },
+    {
+      "id": "x_4abd70418b",
+      "en": "Atlandia"
+    },
+    {
+      "id": "x_62fc645f75",
+      "en": "Tresor Institute"
+    },
+    {
+      "id": "x_c9826ac45d",
+      "en": "Shower Room - Changing Area"
+    },
+    {
+      "id": "x_0d03773456",
+      "en": "Iron Gear - Hangar"
+    },
+    {
+      "id": "x_28dd401a7f",
+      "en": "UN Center"
+    },
+    {
+      "id": "x_21749e2809",
+      "en": "Freeden - Rec Room"
+    },
+    {
+      "id": "x_9621fee297",
+      "en": "Este Co. - President's Office"
+    },
+    {
+      "id": "x_5b4edd589c",
+      "en": "Anemone - Private Room"
+    },
+    {
+      "id": "x_b31fa016ea",
+      "en": "Iron Gear - Private Cabin"
+    },
+    {
+      "id": "x_2ccc079ca2",
+      "en": "Gekko-Goh - Living Room"
+    },
+    {
+      "id": "x_43a6d61e1b",
+      "en": "Freeden - Hangar"
+    },
+    {
+      "id": "x_fab3c1ed6e",
+      "en": "Gekko-Goh - Shop 'Bon Marche'"
+    },
+    {
+      "id": "x_726d75463d",
+      "en": "Gekko-Goh - Hangar"
+    },
+    {
+      "id": "x_241fbfb327",
+      "en": "Siberian Plain"
+    },
+    {
+      "id": "x_a359945ffd",
+      "en": "Vicinity - Heim Mine"
+    },
+    {
+      "id": "x_59afc90c6d",
+      "en": "Glomar - Living Room"
+    },
+    {
+      "id": "x_813db1d5ad",
+      "en": "DEAVA Element School"
+    },
+    {
+      "id": "x_4f776987c9",
+      "en": "Paradigm City - Roger's Mansion"
+    },
+    {
+      "id": "x_6b85e18423",
+      "en": "Trinity City"
+    },
+    {
+      "id": "x_1a3af3ec6c",
+      "en": "Suruga Bay"
+    },
+    {
+      "id": "x_963bdb23c6",
+      "en": "Orb Union - Memorial"
+    },
+    {
+      "id": "x_b7d4569d6b",
+      "en": "Photon Power Lab"
+    },
+    {
+      "id": "x_51f1031552",
+      "en": "Moon - Lutetium Base"
+    },
+    {
+      "id": "x_e6a99be353",
+      "en": "Wulgusk - Duke Medaiyu's Residence"
+    },
+    {
+      "id": "x_41b7c6164f",
+      "en": "UN Public Site - Broadcast"
+    },
+    {
+      "id": "x_bb03544911",
+      "en": "Vicinity - Heim Family Living Room"
+    },
+    {
+      "id": "x_95556d67c9",
+      "en": "North Ameria Federation Forces - Newark Base Interior"
+    },
+    {
+      "id": "x_4aab0fa522",
+      "en": "Argama - Mess Hall"
+    },
+    {
+      "id": "x_adcd10aef5",
+      "en": "Eastern Gallia Continent - Old Battlefield"
+    },
+    {
+      "id": "x_debe799abd",
+      "en": "Briefing Room"
+    },
+    {
+      "id": "x_f572d64fe2",
+      "en": "Wulgusk - Duke Medaiyu"
+    },
+    {
+      "id": "x_c6d245cd4d",
+      "en": "Argama - Briefing Room"
+    },
+    {
+      "id": "x_f168213e98",
+      "en": "New Saotome Institute"
+    },
+    {
+      "id": "x_01db636e48",
+      "en": "Gekko-Goh - Bridge"
+    },
+    {
+      "id": "x_ac36727ec4",
+      "en": "Bachkron - Bridge"
+    },
+    {
+      "id": "x_6daba12bd6",
+      "en": "Soleil - Bridge"
+    },
+    {
+      "id": "x_c64f6bae99",
+      "en": "Eternal - Bridge"
+    },
+    {
+      "id": "x_7ccb11fe00",
+      "en": "Glomar - Bridge"
+    },
+    {
+      "id": "x_1aa58a8dd9",
+      "en": "Freeden - Bridge"
+    },
+    {
+      "id": "x_51f61bd3cd",
+      "en": "Argama - Bridge"
+    },
+    {
+      "id": "x_9787215d9c",
+      "en": "Trinity City - Command Room"
+    },
+    {
+      "id": "x_a3f2524ff6",
+      "en": "Minerva - Bridge"
+    },
+    {
+      "id": "x_d8a077c760",
+      "en": "Any allied unit is shot down."
+    },
+    {
+      "id": "x_dd3942a109",
+      "en": "Defeat Shurouga."
+    },
+    {
+      "id": "x_97a14284d6",
+      "en": "Defeat the Lemures Test Type."
+    },
+    {
+      "id": "x_ac7a606b32",
+      "en": "Gekko-Goh is shot down."
+    },
+    {
+      "id": "x_617524dc60",
+      "en": "Defeat the Eldar Battleship."
+    },
+    {
+      "id": "x_3fa0961837",
+      "en": "Adette is shot down."
+    },
+    {
+      "id": "x_2ef007209d",
+      "en": "Defeat 2 Grave Cherubim in the same turn."
+    },
+    {
+      "id": "x_9fc4224eba",
+      "en": "Aquarion is shot down."
+    },
+    {
+      "id": "x_e6f4d36874",
+      "en": "Defeat the Assault Aquarion."
+    },
+    {
+      "id": "x_5683d792c2",
+      "en": "Defeat XAN -Zan-."
+    },
+    {
+      "id": "x_85a41cf74a",
+      "en": "Defeat 100 or more enemies within 4 turns.\nThe battle continues past 100 kills and ends at the start of turn 5.\nEvery 20 Gaza C shot down, 20 more appear as reinforcements."
+    },
+    {
+      "id": "x_e946e70f14",
+      "en": "Argama is shot down."
+    },
+    {
+      "id": "x_9a9bd995b0",
+      "en": "The total kill count is under 100 at the start of turn 5."
+    },
+    {
+      "id": "x_c3111548d9",
+      "en": "Deal 30,000 or more damage in a single attack to the Science Fortress Island that appears on turn 5."
+    },
+    {
+      "id": "x_d0d47090ed",
+      "en": "You fail to deal 30,000 or more damage to the Science Fortress Island in a single attack."
+    },
+    {
+      "id": "x_23032e0dbb",
+      "en": "Turn 6 begins."
+    },
+    {
+      "id": "x_2628e1e2b4",
+      "en": "All allies are defeated."
+    },
+    {
+      "id": "x_27aa18d1af",
+      "en": "Defend Vodara Shrine through turn 6."
+    },
+    {
+      "id": "x_b5ee29f9b6",
+      "en": "All enemies are defeated.\nNo reinforcements will appear."
+    },
+    {
+      "id": "x_acae2cccb3",
+      "en": "An enemy reaches Vodara Shrine."
+    },
+    {
+      "id": "x_ebdddeb6f7",
+      "en": "Earn 350,000 or more funds within 5 turns.\nNote: each enemy defeated earns 10,000 funds.\nEven after reaching 350,000, the map continues through turn 6."
+    },
+    {
+      "id": "x_fabf0c518d",
+      "en": "Iron Gear is shot down."
+    },
+    {
+      "id": "x_011be79c1b",
+      "en": "Funds earned are under 350,000 at the start of turn 6."
+    },
+    {
+      "id": "x_56749a788c",
+      "en": "Funds earned are under 350,000 when all enemies are defeated."
+    },
+    {
+      "id": "x_586e9d9ec5",
+      "en": "Defeat Rushrod, Golem, and Planeta within 7 turns."
+    },
+    {
+      "id": "x_38f8365f92",
+      "en": "Turn 8 begins."
+    },
+    {
+      "id": "x_b822a4c90b",
+      "en": "Defeat all enemies within 9 turns (no reinforcements)."
+    },
+    {
+      "id": "x_668b7819f3",
+      "en": "Soleil or Freeden is shot down."
+    },
+    {
+      "id": "x_9553ab529b",
+      "en": "Turn 10 begins."
+    },
+    {
+      "id": "x_9c7b29bd19",
+      "en": "Defeat 150 or more enemies within 4 turns.\nThe battle continues past 150 kills and ends at the start of turn 5.\nEvery 20 enemies shot down, 20 more appear as reinforcements."
+    },
+    {
+      "id": "x_60ed52c394",
+      "en": "The total kill count is under 150 at the start of turn 5."
+    },
+    {
+      "id": "x_8f1a9aaf0b",
+      "en": "Defeat every enemy within 5 turns, then defeat the Bandock that appears afterward in a single attack."
+    },
+    {
+      "id": "x_4bf834d580",
+      "en": "You fail to defeat the Bandock in a single attack."
+    },
+    {
+      "id": "x_1973da93e2",
+      "en": "King Beal is shot down."
+    },
+    {
+      "id": "x_01a6f01f23",
+      "en": "Turn 6 begins."
+    },
+    {
+      "id": "x_e8989f925a",
+      "en": "The Emaan Battleship is shot down."
+    },
+    {
+      "id": "x_845f4dcf26",
+      "en": "Glomar is shot down."
+    },
+    {
+      "id": "x_9c63088a7f",
+      "en": "Defeat all enemies within 5 turns and earn 450,000 or more funds.\nFunds per kill are as follows.\nDaughtress Neo = 10,000   Gadeel = 15,000\nYou do not need to defeat the Frost Brothers."
+    },
+    {
+      "id": "x_a331b5861e",
+      "en": "Freeden is shot down."
+    },
+    {
+      "id": "x_360dd8f206",
+      "en": "Funds earned are under 450,000 when all unmanned mobile suits are defeated."
+    },
+    {
+      "id": "x_bda675a1e6",
+      "en": "Defeat Gear Gear, Mecha Yosaiki, Planeta, Dominator, The O, Nirvash the END, and Big Duo Inferno within 8 turns."
+    },
+    {
+      "id": "x_e05ba067d9",
+      "en": "Turn 9 begins."
+    },
+    {
+      "id": "x_373d235352",
+      "en": "Eternal or Glomar is shot down."
+    },
+    {
+      "id": "x_84936773c8",
+      "en": "Defeat 100 enemies within 3 turns.\nHowever, spirit commands and map weapons cannot be used.\nEvery 20 enemies shot down, 20 more appear as reinforcements, for a total of 100 enemies."
+    },
+    {
+      "id": "x_c43d149bce",
+      "en": "An allied battleship is shot down (1 battleship may be deployed)."
+    },
+    {
+      "id": "x_3705ca91a1",
+      "en": "Turn 4 begins."
+    },
+    {
+      "id": "x_edba6724af",
+      "en": "Defeat the Artificial Sun within 5 turns.\nHowever, spirit commands cannot be used."
+    },
+    {
+      "id": "x_6753bd0efd",
+      "en": "Turn 6 begins.\nHowever, spirit commands and map weapons cannot be used.\nAll Coralians are organized into squads of 3.\nDefeat 5 squads and 5 more will appear as reinforcements."
+    },
+    {
+      "id": "x_9e5a3d0168",
+      "en": "An enemy reaches the edge of the map."
+    },
+    {
+      "id": "x_24470a24cf",
+      "en": "Defeat all enemies within 4 turns and earn 800,000 or more funds.\nEnemies come in squads of 3; defeating one earns 10,000 funds.\nHowever, spirit commands cannot be used.\nFunds from enemies defeated by the 3rd Army cannot be collected."
+    },
+    {
+      "id": "x_a5bd01ec9d",
+      "en": "An allied battleship is shot down (2 battleships may be deployed)."
+    },
+    {
+      "id": "x_b429dd8101",
+      "en": "Funds earned are under 800,000 when all enemies are defeated."
+    },
+    {
+      "id": "x_df0cf43d49",
+      "en": "Turn 5 begins."
+    },
+    {
+      "id": "x_29abdae111",
+      "en": "Defeat Haman, Scirocco, Shagia, Olba, and Ghingnham within 5 turns.\nHowever, spirit commands cannot be used."
+    },
+    {
+      "id": "x_5df791b40e",
+      "en": "Defeat all enemies within 12 turns."
+    },
+    {
+      "id": "x_a0c7b23e7a",
+      "en": "An allied battleship is shot down (4 battleships may be deployed)."
+    },
+    {
+      "id": "x_81aff43294",
+      "en": "Turn 13 begins."
+    },
+    {
+      "id": "x_fff05ec44e",
+      "en": "Office"
+    },
+    {
+      "id": "x_b2a5351e11",
+      "en": "Briefing Room"
+    },
+    {
+      "id": "x_864e5e1f0b",
+      "en": "???"
+    },
+    {
+      "id": "x_192f9ad279",
+      "en": "Sting"
+    },
+    {
+      "id": "x_776f35804c",
+      "en": "Anemone"
+    },
+    {
+      "id": "x_2d6ed9d98b",
+      "en": "Auel"
+    },
+    {
+      "id": "x_3e55261646",
+      "en": "Jerid"
+    },
+    {
+      "id": "x_2bad96121e",
+      "en": "Stella"
+    },
+    {
+      "id": "x_68b6ab91cc",
+      "en": "Mouar"
+    },
+    {
+      "id": "x_4e94ef3151",
+      "en": "Lowen"
+    },
+    {
+      "id": "x_eb32215002",
+      "en": "Kacricon"
+    },
+    {
+      "id": "x_f3e4b806ad",
+      "en": "Schlan"
+    },
+    {
+      "id": "x_f200c997ca",
+      "en": "Neo"
+    },
+    {
+      "id": "x_0cc6af3aa4",
+      "en": "Izumo"
+    },
+    {
+      "id": "x_b61793a723",
+      "en": "Executive Office"
+    },
+    {
+      "id": "x_590fab857d",
+      "en": "Black Screen"
+    },
+    {
+      "id": "x_9cb54cc126",
+      "en": "United Federation Airship - Bridge"
+    },
+    {
+      "id": "x_610714d096",
+      "en": "Izumo - Hangar"
+    },
+    {
+      "id": "x_1b2d7d4728",
+      "en": "Izumo - Bridge"
+    },
+    {
+      "id": "x_0f286ebe67",
+      "en": "Bazaar Grounds"
+    },
+    {
+      "id": "x_039aad4eb7",
+      "en": "Frost Brothers"
+    },
+    {
+      "id": "x_e05a2b17ec",
+      "en": "Siberian Railway"
+    },
+    {
+      "id": "x_d278226cce",
+      "en": "Breaker"
+    },
+    {
+      "id": "x_82b9fcfd24",
+      "en": "Military Hangar"
+    },
+    {
+      "id": "x_99a4d7fa0f",
+      "en": "Military Facility Corridor"
+    },
+    {
+      "id": "x_5d09a455d7",
+      "en": "In Town"
+    },
+    {
+      "id": "x_2ff977bc76",
+      "en": "Beck"
+    },
+    {
+      "id": "x_c741d3ed1b",
+      "en": "Corin"
+    },
+    {
+      "id": "x_26d5b1c673",
+      "en": "Corin & Beck"
+    },
+    {
+      "id": "x_6c26e67601",
+      "en": "Bridge"
+    },
+    {
+      "id": "x_50850c04a7",
+      "en": "Hangar"
+    },
+    {
+      "id": "x_2fe23451a4",
+      "en": "Archangel - Mess Hall"
+    },
+    {
+      "id": "x_672fce0ecc",
+      "en": "Gekko-Goh - Living Room"
+    },
+    {
+      "id": "x_bd62753d3d",
+      "en": "Matthieu"
+    },
+    {
+      "id": "x_bfbfd8dbaa",
+      "en": "Renton"
+    },
+    {
+      "id": "x_d3e0e0286d",
+      "en": "Hilda"
+    },
+    {
+      "id": "x_37cf20b164",
+      "en": "Gainer"
+    },
+    {
+      "id": "x_9047c5566f",
+      "en": "Adette"
+    },
+    {
+      "id": "x_63b351f67e",
+      "en": "Sara"
+    },
+    {
+      "id": "x_87450e46ce",
+      "en": "Witz"
+    },
+    {
+      "id": "x_e4570ff119",
+      "en": "Garrod"
+    },
+    {
+      "id": "x_9fdbc8afb9",
+      "en": "Roybea"
+    },
+    {
+      "id": "x_cae0303ae1",
+      "en": "Holland"
+    },
+    {
+      "id": "x_a933c60ae0",
+      "en": "Game Center"
+    },
+    {
+      "id": "x_421da754b0",
+      "en": "Gekko-Goh - Living Room"
+    },
+    {
+      "id": "x_8a642f833c",
+      "en": "Wulgusk"
+    },
+    {
+      "id": "x_d6216e0977",
+      "en": "Gekko-Goh"
+    },
+    {
+      "id": "x_a83b7ac64f",
+      "en": "Roger"
+    },
+    {
+      "id": "x_58703dd92c",
+      "en": "Banjo"
+    },
+    {
+      "id": "x_726edecef7",
+      "en": "Bellforest"
+    },
+    {
+      "id": "x_1de79753d2",
+      "en": "Thurston Garage"
+    },
+    {
+      "id": "x_2f89818cfe",
+      "en": "Medaiyu Mansion - Interior"
+    },
+    {
+      "id": "x_a33f2b0f4b",
+      "en": "Gorge"
+    },
+    {
+      "id": "x_972055628f",
+      "en": "Xabungle Town"
+    },
+    {
+      "id": "x_3bfe1d840f",
+      "en": "Freeden - Hangar"
+    },
+    {
+      "id": "x_02a2a4b3d2",
+      "en": "Noir 7"
+    },
+    {
+      "id": "x_07140b01c6",
+      "en": "King Beal - Bridge"
+    },
+    {
+      "id": "x_f9aeb7ecb7",
+      "en": "Hot Springs Town"
+    },
+    {
+      "id": "x_8b1948bff1",
+      "en": "Table Tennis Hall"
+    },
+    {
+      "id": "x_1ab22cccd4",
+      "en": "Pitch Dark"
+    },
+    {
+      "id": "x_864977e20a",
+      "en": "Saint Germain Castle"
+    },
+    {
+      "id": "x_d904ac6e0c",
+      "en": "Quarterfinal Group 6"
+    },
+    {
+      "id": "x_a139d72d9b",
+      "en": "First-Round Losers"
+    },
+    {
+      "id": "x_25a5bdcf2d",
+      "en": "Quarterfinal Group 1"
+    },
+    {
+      "id": "x_becc70d390",
+      "en": "Quarterfinal Group 7"
+    },
+    {
+      "id": "x_36cdee9e18",
+      "en": "Quarterfinal Group 2"
+    },
+    {
+      "id": "x_bff2ddacef",
+      "en": "Quarterfinal Group 8"
+    },
+    {
+      "id": "x_574edd78ed",
+      "en": "Quarterfinal Group 3"
+    },
+    {
+      "id": "x_a8d63b06b1",
+      "en": "Quarterfinal Group 4"
+    },
+    {
+      "id": "x_841f16d530",
+      "en": "Quarterfinal Group 5"
+    },
+    {
+      "id": "x_acb060884b",
+      "en": "Argama"
+    },
+    {
+      "id": "x_dfc5835687",
+      "en": "Minerva"
+    },
+    {
+      "id": "x_049a771bc1",
+      "en": "King Beal"
+    },
+    {
+      "id": "x_a02d31cf5b",
+      "en": "Eldar Space Battleship"
+    },
+    {
+      "id": "x_5efc52c12a",
+      "en": "Teral - Private Room"
+    },
+    {
+      "id": "x_8fca3fb1b2",
+      "en": "Skull Moon Base"
+    },
+    {
+      "id": "x_17964654d0",
+      "en": "Minerva - Briefing Room"
+    },
+    {
+      "id": "x_1ee22a7afe",
+      "en": "Militia"
+    },
+    {
+      "id": "x_e9df6ee65b",
+      "en": "Glory Star"
+    },
+    {
+      "id": "x_ef1c367abf",
+      "en": "Argama - Interior"
+    },
+    {
+      "id": "x_58a4d98367",
+      "en": "Ancient Ruins"
+    },
+    {
+      "id": "x_215fb8b1cd",
+      "en": "Night Sky"
+    },
+    {
+      "id": "x_39f925b1d8",
+      "en": "Minerva - Hangar"
+    },
+    {
+      "id": "x_ca6af88422",
+      "en": "Mess Hall"
+    },
+    {
+      "id": "x_efeb1fad81",
+      "en": "Atlandia"
+    },
+    {
+      "id": "x_bd99f52966",
+      "en": "Storeroom"
+    },
+    {
+      "id": "x_8ff3f1ab6a",
+      "en": "Argama - Mess Hall"
+    },
+    {
+      "id": "x_8aaf62bab2",
+      "en": "Another World"
+    },
+    {
+      "id": "x_06cca2e105",
+      "en": "Gekko-Goh - Bath"
+    },
+    {
+      "id": "x_de8f575212",
+      "en": "Aquarion"
+    },
+    {
+      "id": "x_fa0f2ffa72",
+      "en": "Freeden"
+    },
+    {
+      "id": "x_13acf30f5c",
+      "en": "Getter Robo"
+    },
+    {
+      "id": "x_f42dd6fa94",
+      "en": "Baldios"
+    },
+    {
+      "id": "x_438b32a5ee",
+      "en": "Iron Gear"
+    },
+    {
+      "id": "x_3b755c43c7",
+      "en": "Factory"
+    },
+    {
+      "id": "x_25c8d0f9c3",
+      "en": "Yapan"
+    },
+    {
+      "id": "x_658de7d0ba",
+      "en": "Gekkostate"
+    },
+    {
+      "id": "x_a30327ddec",
+      "en": "Beater Service"
+    },
+    {
+      "id": "x_6cdbf1b0f9",
+      "en": "Glomar"
+    },
+    {
+      "id": "x_1969559e36",
+      "en": "Adette Squad"
+    },
+    {
+      "id": "x_ba157d0117",
+      "en": "Iron Gear - Hangar"
+    },
+    {
+      "id": "x_bbaf091716",
+      "en": "Small Base"
+    },
+    {
+      "id": "x_0251ae1a6b",
+      "en": "Bazaar Town"
+    },
+    {
+      "id": "x_161a2d971d",
+      "en": "Adette Squad 2"
+    },
+    {
+      "id": "x_02f6e17fc2",
+      "en": "Negotiator"
+    },
+    {
+      "id": "x_9d1bd1012c",
+      "en": "Freeden - Rec Room"
+    },
+    {
+      "id": "x_4aaf767e1e",
+      "en": "European-style Town"
+    },
+    {
+      "id": "x_823775b02f",
+      "en": "Rose Garden"
+    },
+    {
+      "id": "x_291e6eed28",
+      "en": "Paradigm City"
+    },
+    {
+      "id": "x_567f598d53",
+      "en": "European Town"
+    },
+    {
+      "id": "x_1579c41e2e",
+      "en": "Anemone's Room"
+    },
+    {
+      "id": "x_be9eede555",
+      "en": "Iron Gear - Private Cabin"
+    },
+    {
+      "id": "x_f22a88a4ea",
+      "en": "Freeden - Rec Room"
+    },
+    {
+      "id": "x_1307f2393a",
+      "en": "Gekko-Goh - Shop"
+    },
+    {
+      "id": "x_9a000ce3a3",
+      "en": "Siberian Plain"
+    },
+    {
+      "id": "x_aa1eb5cd89",
+      "en": "Heim Mine"
+    },
+    {
+      "id": "x_4d92899475",
+      "en": "Element School"
+    },
+    {
+      "id": "x_1a18991a9b",
+      "en": "Roger's Mansion"
+    },
+    {
+      "id": "x_25fe5d907f",
+      "en": "Tower-View Town"
+    },
+    {
+      "id": "x_8995e67d8e",
+      "en": "Trinity City"
+    },
+    {
+      "id": "x_537cf247f9",
+      "en": "Suruga Bay"
+    },
+    {
+      "id": "x_94e1e00090",
+      "en": "Orb - Memorial"
+    },
+    {
+      "id": "x_ec8b1092c8",
+      "en": "Photon Power Lab"
+    },
+    {
+      "id": "x_1f38588911",
+      "en": "Some Base"
+    },
+    {
+      "id": "x_7acfe423c0",
+      "en": "Some Wasteland"
+    },
+    {
+      "id": "x_59df599532",
+      "en": "Medaiyu Mansion"
+    },
+    {
+      "id": "x_e26ad2451a",
+      "en": "Ruins"
+    },
+    {
+      "id": "x_f8a0312a1f",
+      "en": "Executive Office"
+    },
+    {
+      "id": "x_83f64c8c96",
+      "en": "Archangel"
+    },
+    {
+      "id": "x_85c70a9ad5",
+      "en": "Eternal"
+    },
+    {
+      "id": "x_5916442717",
+      "en": "Soleil"
+    },
+    {
+      "id": "x_12b554290f",
+      "en": "Argama - Mess Hall"
+    },
+    {
+      "id": "x_93ab20f98e",
+      "en": "King Beal"
+    },
+    {
+      "id": "x_ca0c35771a",
+      "en": "Old Battlefield Town"
+    },
+    {
+      "id": "x_89a09cef98",
+      "en": "King Beal - Bridge"
+    },
+    {
+      "id": "x_ed47fe25ca",
+      "en": "Nirvash"
+    },
+    {
+      "id": "x_0503a05410",
+      "en": "AEUG"
+    },
+    {
+      "id": "x_ab52ab08a0",
+      "en": "Mazinger Z"
+    },
+    {
+      "id": "x_705cb2f95a",
+      "en": "Great Mazinger"
+    },
+    {
+      "id": "x_27dc41cf0f",
+      "en": "Grendizer"
+    },
+    {
+      "id": "x_5a89826048",
+      "en": "Gekko-Goh - Bridge"
+    },
+    {
+      "id": "x_328875d00d",
+      "en": "Iron Gear - Hangar"
+    },
+    {
+      "id": "x_bf71c7ed02",
+      "en": "Chill"
+    },
+    {
+      "id": "x_9c4c8fe368",
+      "en": "Birin"
+    },
+    {
+      "id": "x_55e8c27fa6",
+      "en": "Jiron"
+    },
+    {
+      "id": "x_87586de96b",
+      "en": "Maria"
+    },
+    {
+      "id": "x_9b46d0e88b",
+      "en": "Rag"
+    },
+    {
+      "id": "x_f23e2fe373",
+      "en": "Blume"
+    },
+    {
+      "id": "x_74f8504748",
+      "en": "Dike"
+    },
+    {
+      "id": "x_2faf6157c6",
+      "en": "Bachkron - Bridge"
+    },
+    {
+      "id": "x_97390fd5a2",
+      "en": "Bello"
+    },
+    {
+      "id": "x_7afb7444f3",
+      "en": "Gain"
+    },
+    {
+      "id": "x_d005e6aeba",
+      "en": "Gauli"
+    },
+    {
+      "id": "x_e0832b3e36",
+      "en": "Soleil - Bridge"
+    },
+    {
+      "id": "x_483b339813",
+      "en": "Eternal - Bridge"
+    },
+    {
+      "id": "x_b128a59e8c",
+      "en": "Orb"
+    },
+    {
+      "id": "x_c852a4daf8",
+      "en": "Zambot 3"
+    },
+    {
+      "id": "x_840c3adedf",
+      "en": "God Sigma"
+    },
+    {
+      "id": "x_145e488b32",
+      "en": "Gravion"
+    },
+    {
+      "id": "x_99fb327f55",
+      "en": "Glomar - Bridge"
+    },
+    {
+      "id": "x_800613f6fd",
+      "en": "Lieea"
+    },
+    {
+      "id": "x_76700e83f7",
+      "en": "Kei"
+    },
+    {
+      "id": "x_850182e8d1",
+      "en": "Orson"
+    },
+    {
+      "id": "x_0ad11f76fb",
+      "en": "Athena"
+    },
+    {
+      "id": "x_d81c7e169f",
+      "en": "Maai"
+    },
+    {
+      "id": "x_75d8d80bf4",
+      "en": "Freeden - Bridge"
+    },
+    {
+      "id": "x_6ebe379db8",
+      "en": "Ennil"
+    },
+    {
+      "id": "x_b4bf2a5617",
+      "en": "Carris"
+    },
+    {
+      "id": "x_60372354bd",
+      "en": "Pala"
+    },
+    {
+      "id": "x_5670c61e77",
+      "en": "Jamil"
+    },
+    {
+      "id": "x_476c7950aa",
+      "en": "Argama - Bridge"
+    },
+    {
+      "id": "x_df58a427a9",
+      "en": "Minerva - Bridge"
+    }
+  ]
+}

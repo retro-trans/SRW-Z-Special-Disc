@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c50_02690",
+      "speaker": "Hugi",
+      "en": "Come then, you foolish humans...",
+      "display_variant": "en",
+      "display_text": "「Come then, you foolish humans...」"
+    },
+    {
+      "id": "c50_026c0",
+      "speaker": "Butcher",
+      "en": "Ho ho ho ho ho! Impossible, impossible! No one could stand against a force this size!",
+      "display_variant": "en",
+      "display_text": "「Ho ho ho ho ho! Impossible, impossible!\nNo one could stand against a force this\nsize!」"
+    },
+    {
+      "id": "c50_02720",
+      "speaker": "Gagarn",
+      "en": "Then let us turn your fear into despair next -- by burning the Earth to ashes.",
+      "display_variant": "en",
+      "display_text": "「Then let us turn your fear into despair\nnext -- by burning the Earth to ashes.」"
+    },
+    {
+      "id": "c50_02780",
+      "speaker": "Gattler",
+      "en": "All forces, forward! If anyone stands in our way, remove them by force!",
+      "display_variant": "en",
+      "display_text": "「All forces, forward! If anyone stands in\nour way, remove them by force!」"
+    },
+    {
+      "id": "c50_027d0",
+      "speaker": "King Vega",
+      "en": "You Earthlings! I'll settle the score for years of grudges, right here and now!",
+      "display_variant": "en",
+      "display_text": "「You Earthlings! I'll settle the score for\nyears of grudges, right here and now!」"
+    },
+    {
+      "id": "c50_02820",
+      "speaker": "Moroha",
+      "en": "Whatever the situation, my heart still races before a fight...!",
+      "display_variant": "en",
+      "display_text": "「Whatever the situation, my heart still\nraces before a fight...!」"
+    },
+    {
+      "id": "c50_02860",
+      "speaker": "Toma",
+      "en": "And it seems our opponents have arrived.",
+      "display_variant": "en",
+      "display_text": "「And it seems our opponents have\narrived.」"
+    },
+    {
+      "id": "c50_028a0",
+      "speaker": "Duke",
+      "en": "That's as far as you go, Alien Alliance! And you too, Shadow Angels!",
+      "display_variant": "en",
+      "display_text": "「That's as far as you go, Alien Alliance!\nAnd you too, Shadow Angels!」"
+    },
+    {
+      "id": "c50_028e0",
+      "speaker": "Toshiya",
+      "en": "Now that we're here, we won't let you take one more step forward!",
+      "display_variant": "en",
+      "display_text": "「Now that we're here, we won't let you\ntake one more step forward!」"
+    },
+    {
+      "id": "c50_02930",
+      "speaker": "Marin",
+      "en": "I won't let you have your way with the Earth!",
+      "display_variant": "en",
+      "display_text": "「I won't let you have your way with the\nEarth!」"
+    },
+    {
+      "id": "c50_02970",
+      "speaker": "Apollo",
+      "en": "Good timing! I'll clean you all up in one go, right here!",
+      "display_variant": "en",
+      "display_text": "「Good timing! I'll clean you all up in one\ngo, right here!」"
+    },
+    {
+      "id": "c50_029b0",
+      "speaker": "Quattro",
+      "en": "Attention all units. We've been given nine minutes. We annihilate the enemy force within that time.",
+      "display_variant": "en",
+      "display_text": "「Attention all units. We've been given\nnine minutes. We annihilate the enemy\nforce within that time.」"
+    },
+    {
+      "id": "c50_02a10",
+      "speaker": "Kira",
+      "en": "I'll protect it... the Earth... everyone's future.",
+      "display_variant": "en",
+      "display_text": "「I'll protect it... the Earth... everyone's\nfuture.」"
+    },
+    {
+      "id": "c50_02a50",
+      "speaker": "Koji",
+      "en": "Let's go, everyone! This is the big gamble with the Earth on the line!!",
+      "display_variant": "en",
+      "display_text": "「Let's go, everyone! This is the big\ngamble with the Earth on the line!!」"
+    },
+    {
+      "id": "c50_02a90",
+      "speaker": "Mome",
+      "en": "Enemy force confirmed annihilated! This is our victory!",
+      "display_variant": "en",
+      "display_text": "「Enemy force confirmed annihilated! This\nis our victory!」"
+    },
+    {
+      "id": "c50_02ad0",
+      "speaker": "Shaya",
+      "en": "Phew... I wondered how it would turn out, but somehow we made it.",
+      "display_variant": "en",
+      "display_text": "「Phew... I wondered how it would turn\nout, but somehow we made it.」"
+    },
+    {
+      "id": "c50_02b20",
+      "speaker": "Lacus",
+      "en": "Everyone's feelings and strength are what brought us today's victory.",
+      "display_variant": "en",
+      "display_text": "「Everyone's feelings and strength are\nwhat brought us today's victory.」"
+    },
+    {
+      "id": "c50_02b60",
+      "speaker": "Lacus",
+      "en": "But the fight isn't over yet. I'll be praying for everyone's continued efforts.",
+      "display_variant": "en",
+      "display_text": "「But the fight isn't over yet. I'll be\npraying for everyone's continued efforts.」"
+    },
+    {
+      "id": "c50_02bc0",
+      "speaker": "Meyrin",
+      "en": "Captain Waltfeld! At this rate, our losses will push past the limit!",
+      "display_variant": "en",
+      "display_text": "「Captain Waltfeld! At this rate, our\nlosses will push past the limit!」"
+    },
+    {
+      "id": "c50_02c20",
+      "speaker": "Waltfeld",
+      "en": "Tch...! If we can't settle this in the next minute, we'll have no choice but to fall back...!",
+      "display_variant": "en",
+      "display_text": "「Tch...! If we can't settle this in the\nnext minute, we'll have no choice but to\nfall back...!」"
+    },
+    {
+      "id": "c50_02c80",
+      "speaker": "Lacus",
+      "en": "Everyone, rally your spirits! Stake everything on this one minute!",
+      "display_variant": "en",
+      "display_text": "「Everyone, rally your spirits! Stake\neverything on this one minute!」"
+    },
+    {
+      "id": "c50_02cc0",
+      "speaker": "Mimsy",
+      "en": "The 9-minute operation time has passed!",
+      "display_variant": "en",
+      "display_text": "「The 9-minute operation time has passed!」"
+    },
+    {
+      "id": "c50_02cf0",
+      "speaker": "Mome",
+      "en": "N-no good! If we keep fighting like this, we can't win!!",
+      "display_variant": "en",
+      "display_text": "「N-no good! If we keep fighting like\nthis, we can't win!!」"
+    },
+    {
+      "id": "c50_02d40",
+      "speaker": "Shaya",
+      "en": "E-even if you say that! What are we supposed to do!?",
+      "display_variant": "en",
+      "display_text": "「E-even if you say that! What are we\nsupposed to do!?」"
+    },
+    {
+      "id": "c50_02d80",
+      "speaker": "Waltfeld",
+      "en": "The operation's a failure! All units, retreat!!",
+      "display_variant": "en",
+      "display_text": "「The operation's a failure! All units,\nretreat!!」"
+    },
+    {
+      "id": "c50_02e10",
+      "speaker": "Lacus",
+      "en": "What's the status of Goma's movements?",
+      "display_variant": "en",
+      "display_text": "「What's the status of Goma's movements?」"
+    },
+    {
+      "id": "c50_02e40",
+      "speaker": "Meyrin",
+      "en": "It's accelerating as it approaches Earth. It'll enter the combat area in one more hour.",
+      "display_variant": "en",
+      "display_text": "「It's accelerating as it approaches\nEarth. It'll enter the combat area in one\nmore hour.」"
+    },
+    {
+      "id": "c50_02e90",
+      "speaker": "Meyrin",
+      "en": "Also, the Alien Alliance and the Shadow Angels are deployed in the surrounding area.",
+      "display_variant": "en",
+      "display_text": "「Also, the Alien Alliance and the Shadow\nAngels are deployed in the surrounding\narea.」"
+    },
+    {
+      "id": "c50_02ee0",
+      "speaker": "Waltfeld",
+      "en": "Who would've thought a mixed force like that would form, of all times.",
+      "display_variant": "en",
+      "display_text": "「Who would've thought a mixed force like\nthat would form, of all times.」"
+    },
+    {
+      "id": "c50_02f30",
+      "speaker": "Lacus",
+      "en": "We mustn't give up. We have a mission to fight, carrying humanity's tomorrow on our backs.",
+      "display_variant": "en",
+      "display_text": "「We mustn't give up. We have a mission\nto fight, carrying humanity's tomorrow on\nour backs.」"
+    },
+    {
+      "id": "c50_02f90",
+      "speaker": "Waltfeld",
+      "en": "I know. Once we've come this far, all that's left is to throw everything we have at it.",
+      "display_variant": "en",
+      "display_text": "「I know. Once we've come this far, all\nthat's left is to throw everything we\nhave at it.」"
+    },
+    {
+      "id": "c50_02ff0",
+      "speaker": "Lacus",
+      "en": "Then, issue the sortie order to all forces. Let's give it our all, without giving up hope until the very last moment.",
+      "display_variant": "en",
+      "display_text": "「Then, issue the sortie order to all\nforces. Let's give it our all, without\ngiving up hope until the very last moment.」"
+    }
+  ]
+}

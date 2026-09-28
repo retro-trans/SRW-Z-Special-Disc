@@ -1,0 +1,404 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c49_03810",
+      "speaker": "Torres",
+      "en": "Enemy forces incoming!",
+      "display_variant": "en",
+      "display_text": "「Enemy forces incoming!」"
+    },
+    {
+      "id": "c49_03830",
+      "speaker": "Bright",
+      "en": "All units, prepare to intercept!",
+      "display_variant": "en",
+      "display_text": "「All units, prepare to intercept!」"
+    },
+    {
+      "id": "c49_03850",
+      "speaker": "Matthieu",
+      "en": "Here they come! All the big names lined up together!",
+      "display_variant": "en",
+      "display_text": "「Here they come! All the big names lined\nup together!」"
+    },
+    {
+      "id": "c49_03880",
+      "speaker": "Scirocco",
+      "en": "Kamille Bidan isn't here...? Not Char, not Amuro Ray either...?",
+      "display_variant": "en",
+      "display_text": "「Kamille Bidan isn't here...? Not Char,\nnot Amuro Ray either...?」"
+    },
+    {
+      "id": "c49_038d0",
+      "speaker": "Alan",
+      "en": "You're telling me Roger Smith isn't here either...!?",
+      "display_variant": "en",
+      "display_text": "「You're telling me Roger Smith isn't here\neither...!?」"
+    },
+    {
+      "id": "c49_03910",
+      "speaker": "Cynthia",
+      "en": "Ehh! King isn't even here either!",
+      "display_variant": "en",
+      "display_text": "「Ehh! King isn't even here either!」"
+    },
+    {
+      "id": "c49_03950",
+      "speaker": "Anemone",
+      "en": "What?! Where's that lookalike of the END!?",
+      "display_variant": "en",
+      "display_text": "「What?! Where's that lookalike of the\nEND!?」"
+    },
+    {
+      "id": "c49_039a0",
+      "speaker": "Scirocco",
+      "en": "Hmph... Sounds like this is going to be a dull fight.",
+      "display_variant": "en",
+      "display_text": "「Hmph... Sounds like this is going to be\na dull fight.」"
+    },
+    {
+      "id": "c49_039e0",
+      "speaker": "Adette",
+      "en": "Shut your mouth!",
+      "display_variant": "en",
+      "display_text": "「Shut your mouth!」"
+    },
+    {
+      "id": "c49_03a00",
+      "speaker": "Sochie",
+      "en": "We're the ones who'll be taking you all on!",
+      "display_variant": "en",
+      "display_text": "「We're the ones who'll be taking you all\non!」"
+    },
+    {
+      "id": "c49_03a40",
+      "speaker": "Birin",
+      "en": "Look away for a second and you'll get more than just hurt!",
+      "display_variant": "en",
+      "display_text": "「Look away for a second and you'll get\nmore than just hurt!」"
+    },
+    {
+      "id": "c49_03a80",
+      "speaker": "Gavane",
+      "en": "We'll show you! The fighting spirit of the Suicide Squad!",
+      "display_variant": "en",
+      "display_text": "「We'll show you! The fighting spirit of\nthe Suicide Squad!」"
+    },
+    {
+      "id": "c49_03ac0",
+      "speaker": "Gauli",
+      "en": "Don't let your guard down, everyone! Burn with the spirit of Yapan!",
+      "display_variant": "en",
+      "display_text": "「Don't let your guard down, everyone!\nBurn with the spirit of Yapan!」"
+    },
+    {
+      "id": "c49_03b00",
+      "speaker": "Hidler",
+      "en": "Silence! If Getter Robo isn't here, that only works in our favor!",
+      "display_variant": "en",
+      "display_text": "「Silence! If Getter Robo isn't here, that\nonly works in our favor!」"
+    },
+    {
+      "id": "c49_03b50",
+      "speaker": "Hola",
+      "en": "We'll crush you all and drag Jiron out of hiding!",
+      "display_variant": "en",
+      "display_text": "「We'll crush you all and drag Jiron out\nof hiding!」"
+    },
+    {
+      "id": "c49_03b90",
+      "speaker": "Blume",
+      "en": "You really think you lot can pull that off?",
+      "display_variant": "en",
+      "display_text": "「You really think you lot can pull that\noff?」"
+    },
+    {
+      "id": "c49_03bc0",
+      "speaker": "Maai",
+      "en": "We'll make you regret ever underestimating us!",
+      "display_variant": "en",
+      "display_text": "「We'll make you regret ever\nunderestimating us!」"
+    },
+    {
+      "id": "c49_03c00",
+      "speaker": "Sayaka",
+      "en": "Watch closely, Koji! Watch us fight!",
+      "display_variant": "en",
+      "display_text": "「Watch closely, Koji! Watch us fight!」"
+    },
+    {
+      "id": "c49_03c40",
+      "speaker": "Bright",
+      "en": "All units, begin the attack! Target the enemy's ace pilots!",
+      "display_variant": "en",
+      "display_text": "「All units, begin the attack! Target the\nenemy's ace pilots!」"
+    },
+    {
+      "id": "c49_03c80",
+      "speaker": "Bright",
+      "en": "The operation time limit is 8 minutes! We settle this before then!",
+      "display_variant": "en",
+      "display_text": "「The operation time limit is 8 minutes!\nWe settle this before then!」"
+    },
+    {
+      "id": "c49_03cc0",
+      "speaker": "Torres",
+      "en": "Enemy force confirmed destroyed!",
+      "display_variant": "en",
+      "display_text": "「Enemy force confirmed destroyed!」"
+    },
+    {
+      "id": "c49_03cf0",
+      "speaker": "Bright",
+      "en": "Somehow, we pulled out a win...",
+      "display_variant": "en",
+      "display_text": "「Somehow, we pulled out a win...」"
+    },
+    {
+      "id": "c49_03d10",
+      "speaker": "Adette",
+      "en": "Of course we did, Captain. This is what we're really capable of.",
+      "display_variant": "en",
+      "display_text": "「Of course we did, Captain. This is what\nwe're really capable of.」"
+    },
+    {
+      "id": "c49_03d50",
+      "speaker": "Katz",
+      "en": "We've come through some fierce battles ourselves, you know.",
+      "display_variant": "en",
+      "display_text": "「We've come through some fierce battles\nourselves, you know.」"
+    },
+    {
+      "id": "c49_03d90",
+      "speaker": "Bright",
+      "en": "That's true. Well done, everyone. I salute your hard-fought efforts.",
+      "display_variant": "en",
+      "display_text": "「That's true. Well done, everyone. I\nsalute your hard-fought efforts.」"
+    },
+    {
+      "id": "c49_03de0",
+      "speaker": "Hola",
+      "en": "Th-that's ridiculous! Losing to mere side characters!!",
+      "display_variant": "en",
+      "display_text": "「Th-that's ridiculous! Losing to mere\nside characters!!」"
+    },
+    {
+      "id": "c49_03e20",
+      "speaker": "Dike",
+      "en": "You never stop running your mouth, do you, right to the bitter end.",
+      "display_variant": "en",
+      "display_text": "「You never stop running your mouth, do\nyou, right to the bitter end.」"
+    },
+    {
+      "id": "c49_03e50",
+      "speaker": "Blume",
+      "en": "If we're side characters, then you're the eternal loser of the show.",
+      "display_variant": "en",
+      "display_text": "「If we're side characters, then you're\nthe eternal loser of the show.」"
+    },
+    {
+      "id": "c49_03e90",
+      "speaker": "Hidler",
+      "en": "Nuaaah! To fall before I even get to fight Getter Robo!",
+      "display_variant": "en",
+      "display_text": "「Nuaaah! To fall before I even get to\nfight Getter Robo!」"
+    },
+    {
+      "id": "c49_03ee0",
+      "speaker": "Jun",
+      "en": "We're warriors fighting to protect peace too, you know.",
+      "display_variant": "en",
+      "display_text": "「We're warriors fighting to protect\npeace too, you know.」"
+    },
+    {
+      "id": "c49_03f10",
+      "speaker": "Maria",
+      "en": "We won't lose to some demon who only ever fights dirty!",
+      "display_variant": "en",
+      "display_text": "「We won't lose to some demon who only\never fights dirty!」"
+    },
+    {
+      "id": "c49_03f60",
+      "speaker": "Scirocco",
+      "en": "I, of all people...! Falling here, before I could even fulfill my role of guiding the world!",
+      "display_variant": "en",
+      "display_text": "「I, of all people...! Falling here, before\nI could even fulfill my role of guiding\nthe world!」"
+    },
+    {
+      "id": "c49_03fb0",
+      "speaker": "Fa",
+      "en": "We did it...! We took down Paptimus Scirocco!",
+      "display_variant": "en",
+      "display_text": "「We did it...! We took down Paptimus\nScirocco!」"
+    },
+    {
+      "id": "c49_03ff0",
+      "speaker": "Apolly",
+      "en": "Differences in mobile suit performance aren't what decide the outcome of a fight... The same goes for having an ace pilot.",
+      "display_variant": "fit",
+      "display_text": "「Mobile suit performance differences\ndon't decide a fight's outcome... The same\ngoes for having an ace pilot.」"
+    },
+    {
+      "id": "c49_04060",
+      "speaker": "Roberto",
+      "en": "If you think one pilot's skill decides the tide of a battle, you're dead wrong.",
+      "display_variant": "en",
+      "display_text": "「If you think one pilot's skill decides\nthe tide of a battle, you're dead wrong.」"
+    },
+    {
+      "id": "c49_040b0",
+      "speaker": "Kashmir",
+      "en": "Th-this power exceeds my calculations...! It's thrown my whole schedule into chaos!!",
+      "display_variant": "en",
+      "display_text": "「Th-this power exceeds my\ncalculations...! It's thrown my whole\nschedule into chaos!!」"
+    },
+    {
+      "id": "c49_040f0",
+      "speaker": "Gauli",
+      "en": "For a man who's mastered Yapan Ninpo like me, your Overskill was wasted effort.",
+      "display_variant": "en",
+      "display_text": "「For a man who's mastered Yapan Ninpo\nlike me, your Overskill was wasted effort.」"
+    },
+    {
+      "id": "c49_04150",
+      "speaker": "Bello",
+      "en": "Did you see that, Gainer! We did it!!",
+      "display_variant": "en",
+      "display_text": "「Did you see that, Gainer! We did it!!」"
+    },
+    {
+      "id": "c49_04190",
+      "speaker": "Cynthia",
+      "en": "What is going on here!? I refuse to accept a game over in a place like this!",
+      "display_variant": "en",
+      "display_text": "「What is going on here!? I refuse to\naccept a game over in a place like this!」"
+    },
+    {
+      "id": "c49_041f0",
+      "speaker": "Adette",
+      "en": "Teacher Adette doesn't lose to some kid who's still playing at war like it's a game.",
+      "display_variant": "en",
+      "display_text": "「Teacher Adette doesn't lose to some\nkid who's still playing at war like it's a\ngame.」"
+    },
+    {
+      "id": "c49_04250",
+      "speaker": "Anemone",
+      "en": "What?! What is this!? Why am I the one losing!?",
+      "display_variant": "en",
+      "display_text": "「What?! What is this!? Why am I the one\nlosing!?」"
+    },
+    {
+      "id": "c49_04290",
+      "speaker": "Matthieu",
+      "en": "Little lady... you sure you're not underestimating us?",
+      "display_variant": "en",
+      "display_text": "「Little lady... you sure you're not\nunderestimating us?」"
+    },
+    {
+      "id": "c49_042d0",
+      "speaker": "Hilda",
+      "en": "We're Gekkostate too, you know. We're not fighting with half-hearted feelings.",
+      "display_variant": "en",
+      "display_text": "「We're Gekkostate too, you know. We're\nnot fighting with half-hearted feelings.」"
+    },
+    {
+      "id": "c49_04320",
+      "speaker": "Alan",
+      "en": "Wh-why, Big Duo!? Why do you reject me!?",
+      "display_variant": "en",
+      "display_text": "「Wh-why, Big Duo!? Why do you reject\nme!?」"
+    },
+    {
+      "id": "c49_04370",
+      "speaker": "Joseph",
+      "en": "So this is the end for a man seduced by the power of a mechanical giant. How pitiful...",
+      "display_variant": "en",
+      "display_text": "「So this is the end for a man seduced\nby the power of a mechanical giant. How\npitiful...」"
+    },
+    {
+      "id": "c49_043c0",
+      "speaker": "Saegusa",
+      "en": "Captain! If we keep fighting like this, we'll only take heavier losses!",
+      "display_variant": "en",
+      "display_text": "「Captain! If we keep fighting like this,\nwe'll only take heavier losses!」"
+    },
+    {
+      "id": "c49_04410",
+      "speaker": "Bright",
+      "en": "One minute...! We settle this in the next one minute! If it's no good, we pull back!!",
+      "display_variant": "en",
+      "display_text": "「One minute...! We settle this in the\nnext one minute! If it's no good, we pull\nback!!」"
+    },
+    {
+      "id": "c49_04460",
+      "speaker": "Torres",
+      "en": "T-the operation's 8-minute time limit has passed!",
+      "display_variant": "en",
+      "display_text": "「T-the operation's 8-minute time limit\nhas passed!」"
+    },
+    {
+      "id": "c49_04490",
+      "speaker": "Bright",
+      "en": "Damn... this force isn't enough! All units, fall back!!",
+      "display_variant": "en",
+      "display_text": "「Damn... this force isn't enough! All\nunits, fall back!!」"
+    },
+    {
+      "id": "c49_04520",
+      "speaker": "Bright",
+      "en": "Food poisoning!?",
+      "display_variant": "en",
+      "display_text": "「Food poisoning!?」"
+    },
+    {
+      "id": "c49_04540",
+      "speaker": "Torres",
+      "en": "Y-yes sir! Most of the pilots are unable to sortie!",
+      "display_variant": "en",
+      "display_text": "「Y-yes sir! Most of the pilots are\nunable to sortie!」"
+    },
+    {
+      "id": "c49_04580",
+      "speaker": "Saegusa",
+      "en": "Enemy forces approaching our position! Radish reports it's a considerable force!",
+      "display_variant": "en",
+      "display_text": "「Enemy forces approaching our position!\nRadish reports it's a considerable force!」"
+    },
+    {
+      "id": "c49_045f0",
+      "speaker": "Saegusa",
+      "en": "Confirmed sightings: Gear Gear, Mecha Yosaiki, The O, Planeta, Dominator, the END, and Big Duo Inferno!",
+      "display_variant": "en",
+      "display_text": "「Confirmed sightings: Gear Gear, Mecha\nYosaiki, The O, Planeta, Dominator, the\nEND, and Big Duo Inferno!」"
+    },
+    {
+      "id": "c49_04680",
+      "speaker": "Bright",
+      "en": "This is unbelievable...",
+      "display_variant": "en",
+      "display_text": "「This is unbelievable...」"
+    },
+    {
+      "id": "c49_046a0",
+      "speaker": "Torres",
+      "en": "What do we do, Captain!? Do we fall back!?",
+      "display_variant": "en",
+      "display_text": "「What do we do, Captain!? Do we fall\nback!?」"
+    },
+    {
+      "id": "c49_046e0",
+      "speaker": "Bright",
+      "en": "We've come too far to turn back now! We fight with whatever pilots we've got able to sortie!",
+      "display_variant": "en",
+      "display_text": "「We've come too far to turn back now!\nWe fight with whatever pilots we've got\nable to sortie!」"
+    },
+    {
+      "id": "c49_04740",
+      "speaker": "Bright",
+      "en": "Anyone fit to fight, borrow a unit from a pilot with food poisoning and get out there!",
+      "display_variant": "en",
+      "display_text": "「Anyone fit to fight, borrow a unit from\na pilot with food poisoning and get out\nthere!」"
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c27_02590",
+      "speaker": "Shaya",
+      "en": "Brings back memories. This is the trading point where we all first met, isn't it?",
+      "display_variant": "fit",
+      "display_text": "「Brings back memories. This is where we\nall first met, isn't it?」"
+    },
+    {
+      "id": "c27_025e0",
+      "speaker": "Elchi",
+      "en": "That's right. We fought all sorts of enemies here, and then Captain Lowen showed up...",
+      "display_variant": "fit",
+      "display_text": "「That's right. We fought enemies here,\nthen Captain Lowen showed up...」"
+    },
+    {
+      "id": "c27_02630",
+      "speaker": "Talho",
+      "en": "Sure, but if I recall, we didn't want to get dragged into it, so we ran off.",
+      "display_variant": "fit",
+      "display_text": "「Sure, but if I recall, we didn't want to\nget dragged in, so we ran off.」"
+    },
+    {
+      "id": "c27_02690",
+      "speaker": "Heizaemon",
+      "en": "So our battle begins again, here in this land...",
+      "display_variant": "fit",
+      "display_text": "「So our battle begins again in this\nland...」"
+    },
+    {
+      "id": "c27_026d0",
+      "speaker": "Ichitaro",
+      "en": "Everyone, $c from North Ameria is here.",
+      "display_variant": "en",
+      "display_text": "「Everyone, $c from North Ameria is\nhere.」"
+    },
+    {
+      "id": "c27_02700",
+      "speaker": "Meyrin",
+      "en": "I've confirmed each of $c's ships.",
+      "display_variant": "en",
+      "display_text": "「I've confirmed each of $c's ships.」"
+    },
+    {
+      "id": "c27_02730",
+      "speaker": "Lacus",
+      "en": "It's been a while, everyone.",
+      "display_variant": "en",
+      "display_text": "「It's been a while, everyone.」"
+    },
+    {
+      "id": "c27_02760",
+      "speaker": "Dianna",
+      "en": "I can't say I'm glad for a reunion under these circumstances, but let's first confirm everyone's safety.",
+      "display_variant": "fit",
+      "display_text": "「I can't say I'm glad for a reunion like\nthis, but let's first confirm everyone's\nsafety.」"
+    },
+    {
+      "id": "c27_027d0",
+      "speaker": "Bright",
+      "en": "I hear some promising intelligence has come in. I'd like to move straight into a briefing.",
+      "display_variant": "fit",
+      "display_text": "「I hear promising intel has come in. I'd\nlike to move straight into a briefing.」"
+    },
+    {
+      "id": "c27_02830",
+      "speaker": "Gengoro",
+      "en": "Understood. I'll get the crew assembled.",
+      "display_variant": "en",
+      "display_text": "「Understood. I'll get the crew assembled.」"
+    },
+    {
+      "id": "c27_02870",
+      "speaker": "Heizaemon",
+      "en": "A new enemy of unknown identity... and to face them, comrades gathered together beyond nation and standing...",
+      "display_variant": "fit",
+      "display_text": "「A new enemy of unknown identity... to\nface them, comrades gathered beyond\nnation and standing...」"
+    },
+    {
+      "id": "c27_028d0",
+      "speaker": "Heizaemon",
+      "en": "Now then... how shall we see this fight through...",
+      "display_variant": "fit",
+      "display_text": "「Now, how shall we see this fight\nthrough...」"
+    },
+    {
+      "id": "c27_02940",
+      "speaker": "Eiji",
+      "en": "Been a while, Shinn. Figured you'd be here too.",
+      "display_variant": "en",
+      "display_text": "「Been a while, Shinn. Figured you'd be\nhere too.」"
+    },
+    {
+      "id": "c27_02980",
+      "speaker": "Shinn",
+      "en": "Every nation's cooperating on this operation. Kira, Athrun, and the Archangel are here too.",
+      "display_variant": "fit",
+      "display_text": "「Every nation's cooperating on this op.\nKira, Athrun, and the Archangel are here\ntoo.」"
+    },
+    {
+      "id": "c27_029f0",
+      "speaker": "Touga",
+      "en": "So Kamille and the others are here as well, huh.",
+      "display_variant": "fit",
+      "display_text": "「So Kamille and the others are here too,\nhuh.」"
+    },
+    {
+      "id": "c27_02a10",
+      "speaker": "Kamille",
+      "en": "The AEUG members were folded straight into the Federation forces, so we're all here, present and accounted for.",
+      "display_variant": "fit",
+      "display_text": "「The AEUG members were folded straight\ninto the Federation forces, so we're all\nhere, accounted for.」"
+    },
+    {
+      "id": "c27_02a70",
+      "speaker": "Luna",
+      "en": "Huh...? Didn't Lt. Quattro leave the military?",
+      "display_variant": "en",
+      "display_text": "「Huh...? Didn't Lt. Quattro leave the\nmilitary?」"
+    },
+    {
+      "id": "c27_02ac0",
+      "speaker": "Kamille",
+      "en": "It's an emergency, after all. The Lieutenant's come back temporarily too, and he's taking overall command.",
+      "display_variant": "fit",
+      "display_text": "「It's an emergency. The Lieutenant's\ncome back temporarily too, and he's\ntaking overall command.」"
+    },
+    {
+      "id": "c27_02b20",
+      "speaker": "Koji",
+      "en": "Feels kind of strange. Not that long ago you all were fighting the Federation.",
+      "display_variant": "fit",
+      "display_text": "「Strange, huh -- not long ago, you all\nwere fighting the Federation.」"
+    },
+    {
+      "id": "c27_02b70",
+      "speaker": "Amuro",
+      "en": "What the AEUG was fighting was the Titans faction that had seized control of the Federation from the inside.",
+      "display_variant": "fit",
+      "display_text": "「The AEUG was fighting the Titans\nfaction that had seized control of the\nFederation from the inside.」"
+    },
+    {
+      "id": "c27_02bd0",
+      "speaker": "Amuro",
+      "en": "Now that they've been swept away, returning to the Federation forces is only natural.",
+      "display_variant": "fit",
+      "display_text": "「Now that they're swept away, returning\nto the Federation forces is only natural.」"
+    },
+    {
+      "id": "c27_02c20",
+      "speaker": "Emma",
+      "en": "Although, both the Federation and ZAFT are still caught up in internal turmoil, same as every other nation...",
+      "display_variant": "fit",
+      "display_text": "「Although, the Federation and ZAFT are\nstill in internal turmoil, like every other\nnation...」"
+    },
+    {
+      "id": "c27_02c80",
+      "speaker": "Emma",
+      "en": "...so our own standing is still up in the air, honestly.",
+      "display_variant": "fit",
+      "display_text": "「...so our standing's still up in the air,\nhonestly.」"
+    },
+    {
+      "id": "c27_02cb0",
+      "speaker": "Kira",
+      "en": "Even so, we have to keep fighting. We carry the hopes of so many people from the last war on our shoulders.",
+      "display_variant": "fit",
+      "display_text": "「Even so, we must keep fighting. We\ncarry the hopes of so many from the last\nwar on our shoulders.」"
+    },
+    {
+      "id": "c27_02d20",
+      "speaker": "Shinn",
+      "en": "The hopes of the people who fought for the future... I'll make sure to carry them on.",
+      "display_variant": "fit",
+      "display_text": "「Hopes of those who fought for the\nfuture... I'll make sure to carry them on.」"
+    },
+    {
+      "id": "c27_02d60",
+      "speaker": "Athrun",
+      "en": "Every last one of us in $c shares that same feeling.",
+      "display_variant": "en",
+      "display_text": "「Every last one of us in $c shares\nthat same feeling.」"
+    },
+    {
+      "id": "c27_02d90",
+      "speaker": "Harry",
+      "en": "Lady Dianna has also set aside her life as an Earth-dweller for now, and is standing at the front lines as Queen of the Moon.",
+      "display_variant": "fit",
+      "display_text": "「Lady Dianna too has set aside her life\non Earth for now, standing at the front\nlines as Queen of the Moon.」"
+    },
+    {
+      "id": "c27_02df0",
+      "speaker": "Tetsuya",
+      "en": "Everyone... really is of one mind, aren't they.",
+      "display_variant": "fit",
+      "display_text": "「Everyone really is of one mind, aren't\nthey.」"
+    },
+    {
+      "id": "c27_02e20",
+      "speaker": "Garrod",
+      "en": "Yeah, that's right. We're fighting so that the same mistakes and sorrow never happen again.",
+      "display_variant": "fit",
+      "display_text": "「Yeah, that's right. We fight so the\nsame mistakes and sorrow never happen\nagain.」"
+    },
+    {
+      "id": "c27_02e70",
+      "speaker": "???",
+      "en": "$n...?",
+      "display_variant": "en",
+      "display_text": "「$n...?」"
+    },
+    {
+      "id": "c27_02e90",
+      "speaker": "$n",
+      "en": "You're...!",
+      "display_variant": "en",
+      "display_text": "「You're...!」"
+    },
+    {
+      "id": "c27_02eb0",
+      "speaker": "Setsuko",
+      "en": "It's been a long time. I'm glad to see you're doing well.",
+      "display_variant": "en",
+      "display_text": "「It's been a long time. I'm glad to see\nyou're doing well.」"
+    },
+    {
+      "id": "c27_02ef0",
+      "speaker": "Mel",
+      "en": "Setsuko! You're safe!",
+      "display_variant": "en",
+      "display_text": "「Setsuko! You're safe!」"
+    },
+    {
+      "id": "c27_02f20",
+      "speaker": "$n",
+      "en": "We'd lost contact with you, so we were worried, sis.",
+      "display_variant": "fit",
+      "display_text": "「We'd lost contact, so we were worried,\nsis.」"
+    },
+    {
+      "id": "c27_02f60",
+      "speaker": "Setsuko",
+      "en": "I'm sorry. I've caused you all trouble.",
+      "display_variant": "fit",
+      "display_text": "「Sorry. I've caused you all trouble.」"
+    },
+    {
+      "id": "c27_02f90",
+      "speaker": "Toby",
+      "en": "Setsuko... who's this?",
+      "display_variant": "en",
+      "display_text": "「Setsuko... who's this?」"
+    },
+    {
+      "id": "c27_02fc0",
+      "speaker": "Setsuko",
+      "en": "This is $F, the repairman who looked after me.",
+      "display_variant": "en",
+      "display_text": "「This is $F, the repairman who looked\nafter me.」"
+    },
+    {
+      "id": "c27_03000",
+      "speaker": "Denzel",
+      "en": "Mister $l. Let me offer my own thanks, for what you did for my subordinate.",
+      "display_variant": "fit",
+      "display_text": "「Mister $l. Let me offer my thanks for\nwhat you did for my subordinate.」"
+    },
+    {
+      "id": "c27_03050",
+      "speaker": "$n",
+      "en": "Subordinate, huh? So you folks are Setsuko's comrades?",
+      "display_variant": "fit",
+      "display_text": "「Subordinate? So you folks are Setsuko's\ncomrades?」"
+    },
+    {
+      "id": "c27_03090",
+      "speaker": "Toby",
+      "en": "Yeah, more or less. It's a bit of a story, but we've put together a new team.",
+      "display_variant": "fit",
+      "display_text": "「Yeah, more or less. It's a bit of a\nstory, but we put together a new team.」"
+    },
+    {
+      "id": "c27_030e0",
+      "speaker": "Mel",
+      "en": "A team... don't tell me...",
+      "display_variant": "en",
+      "display_text": "「A team... don't tell me...」"
+    },
+    {
+      "id": "c27_03110",
+      "speaker": "Setsuko",
+      "en": "That's right. The new Glory Star.",
+      "display_variant": "en",
+      "display_text": "「That's right. The new Glory Star.」"
+    },
+    {
+      "id": "c27_03140",
+      "speaker": "$n",
+      "en": "Sounds like a lot's happened, but with a smile like that, I don't need to worry.",
+      "display_variant": "fit",
+      "display_text": "「Sounds like a lot's happened, but with\nthat smile, I don't need to worry.」"
+    },
+    {
+      "id": "c27_03190",
+      "speaker": "$n",
+      "en": "So, since you're all here, does that mean you're joining $c too?",
+      "display_variant": "fit",
+      "display_text": "「So, since you're here, does that mean\nyou're joining $c too?」"
+    },
+    {
+      "id": "c27_031e0",
+      "speaker": "Denzel",
+      "en": "Yeah... Lt. Quattro Bajeena scouted us.",
+      "display_variant": "en",
+      "display_text": "「Yeah... Lt. Quattro Bajeena scouted us.」"
+    },
+    {
+      "id": "c27_03230",
+      "speaker": "Toby",
+      "en": "Good to be working with you, repairman.",
+      "display_variant": "en",
+      "display_text": "「Good to be working with you, repairman.」"
+    },
+    {
+      "id": "c27_03260",
+      "speaker": "$n",
+      "en": "Just call me the Heat.",
+      "display_variant": "en",
+      "display_text": "「Just call me the Heat.」"
+    },
+    {
+      "id": "c27_03290",
+      "speaker": "Denzel",
+      "en": "That's a good smile. Sounds like you and I could share a good beer together.",
+      "display_variant": "fit",
+      "display_text": "「Good smile. Sounds like you and I could\nshare a good beer together.」"
+    },
+    {
+      "id": "c27_032d0",
+      "speaker": "Setsuko",
+      "en": "The Chief and Toby I met in the multiverse, from a parallel world...",
+      "display_variant": "en",
+      "display_text": "（The Chief and Toby I met in the\nmultiverse, from a parallel world...）"
+    },
+    {
+      "id": "c27_03310",
+      "speaker": "Setsuko",
+      "en": "They're different people from the two I once knew, but... I think that with them, I can find something new.",
+      "display_variant": "fit",
+      "display_text": "（They're different from the two I once\nknew, but... I think with them, I can find\nsomething new.）"
+    },
+    {
+      "id": "c27_03370",
+      "speaker": "Setsuko",
+      "en": "The right qualities that only I possess... Carrying that mission and pride in my heart, we'll keep on fighting.",
+      "display_variant": "fit",
+      "display_text": "（The right qualities only I possess...\nCarrying that mission and pride in my\nheart, we'll keep fighting.）"
+    },
+    {
+      "id": "c27_033d0",
+      "speaker": "Gainer",
+      "en": "So the Turn A ran out of control too...",
+      "display_variant": "en",
+      "display_text": "「So the Turn A ran out of control too...」"
+    },
+    {
+      "id": "c27_033f0",
+      "speaker": "Loran",
+      "en": "Around the time the drones woke up all over the world, the Turn A started up on its own too, and used the Moonlight Butterfly with no one aboard.",
+      "display_variant": "fit",
+      "display_text": "「Drones woke worldwide; the Turn A\ntoo woke unmanned, on its own, and used\nthe Moonlight Butterfly.」"
+    },
+    {
+      "id": "c27_03450",
+      "speaker": "Loran",
+      "en": "I got into the cockpit right away and shut it down, so it didn't turn into anything serious, though.",
+      "display_variant": "fit",
+      "display_text": "「I got into the cockpit right away and\nshut it down, so it didn't turn into\nanything serious.」"
+    },
+    {
+      "id": "c27_034b0",
+      "speaker": "Gainer",
+      "en": "Could it be...?",
+      "display_variant": "en",
+      "display_text": "「Could it be...?」"
+    },
+    {
+      "id": "c27_034d0",
+      "speaker": "Loran",
+      "en": "Yeah... The Turn A might have that same system they call the Executor built into it too...",
+      "display_variant": "fit",
+      "display_text": "「Yeah... the Turn A might have that\nsame Executor system built into it too...」"
+    },
+    {
+      "id": "c27_03540",
+      "speaker": "Sandman",
+      "en": "Gentlemen, assemble in the briefing room. It's time you all learned about the enemy we're up against.",
+      "display_variant": "fit",
+      "display_text": "「Gentlemen, assemble in the briefing\nroom. Time you all learned about the\nenemy we're facing.」"
+    },
+    {
+      "id": "c27_035a0",
+      "speaker": "Eiji",
+      "en": "Just what I wanted to hear. Whatever they turn out to be, I won't forgive anyone who tramples on peace and happiness.",
+      "display_variant": "fit",
+      "display_text": "「Just what I wanted to hear. Whatever\nthey are, I won't forgive anyone who\ntramples on peace and happiness.」"
+    },
+    {
+      "id": "c27_03600",
+      "speaker": "Kamille",
+      "en": "Whoever it was that awakened the Black History's legacy... do we know their identity?",
+      "display_variant": "fit",
+      "display_text": "「Whoever awakened the Black History's\nlegacy... do we know their identity?」"
+    },
+    {
+      "id": "c27_03650",
+      "speaker": "Loran",
+      "en": "And how exactly do the Turn A and King Gainer factor into this...?",
+      "display_variant": "en",
+      "display_text": "（And how exactly do the Turn A and\nKing Gainer factor into this...?）"
+    },
+    {
+      "id": "c27_03690",
+      "speaker": "Gainer",
+      "en": "What is this uneasy feeling...? Is King Gainer trying to tell me something...?",
+      "display_variant": "fit",
+      "display_text": "（What's this uneasy feeling...? Is King\nGainer trying to tell me something...?）"
+    }
+  ]
+}

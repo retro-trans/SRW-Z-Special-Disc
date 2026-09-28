@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c52_02b10",
+      "speaker": "Tsukikage",
+      "en": "So, in the end, this is all the strength that managed to reach Antarctica.",
+      "display_variant": "en",
+      "display_text": "「So, in the end, this is all the strength\nthat managed to reach Antarctica.」"
+    },
+    {
+      "id": "c52_02b50",
+      "speaker": "Quinstein",
+      "en": "The other unit members have taken on the surrounding defense force. Destroy the artificial sun while you still can.",
+      "display_variant": "fit",
+      "display_text": "「The other units have taken on the\nsurrounding defense force. Destroy the\nartificial sun while you still can.」"
+    },
+    {
+      "id": "c52_02bc0",
+      "speaker": "Quinstein",
+      "en": "By my calculations, in five more minutes the artificial sun will be fully operational and start melting Antarctica's ice.",
+      "display_variant": "fit",
+      "display_text": "「By my calculations, in five more minutes\nthe artificial sun will be operational and\nstart melting Antarctica's ice.」"
+    },
+    {
+      "id": "c52_02c20",
+      "speaker": "Tsukikage",
+      "en": "The next five minutes decide the Earth's future! Everyone, pour every bit of firepower you have into the artificial sun!",
+      "display_variant": "fit",
+      "display_text": "「Five minutes decide Earth's fate!\nEveryone, unload everything on the\nartificial sun!」"
+    },
+    {
+      "id": "c52_02c80",
+      "speaker": "Jamie",
+      "en": "Artificial sun confirmed shot down! The ice melt in the area has stopped too!",
+      "display_variant": "en",
+      "display_text": "「Artificial sun confirmed shot down! The\nice melt in the area has stopped too!」"
+    },
+    {
+      "id": "c52_02cd0",
+      "speaker": "Tsukikage",
+      "en": "Well done, everyone. The operation's a success.",
+      "display_variant": "en",
+      "display_text": "「Well done, everyone. The operation's a\nsuccess.」"
+    },
+    {
+      "id": "c52_02d00",
+      "speaker": "Quinstein",
+      "en": "Thank you, Marin. It was your strength that saved tomorrow.",
+      "display_variant": "en",
+      "display_text": "（Thank you, Marin. It was your strength\nthat saved tomorrow.）"
+    },
+    {
+      "id": "c52_02d50",
+      "speaker": "Jamie",
+      "en": "Th-this way, the Earth will... flood...",
+      "display_variant": "en",
+      "display_text": "「Th-this way, the Earth will... flood...」"
+    },
+    {
+      "id": "c52_02d80",
+      "speaker": "Marin",
+      "en": "No good, Marin... What exactly are you doing...",
+      "display_variant": "en",
+      "display_text": "「No good, Marin... What exactly are you\ndoing...」"
+    },
+    {
+      "id": "c52_02dd0",
+      "speaker": "Marin",
+      "en": "You're supposed to be saving the Earth, aren't you... That blue sky and sea... and the land...",
+      "display_variant": "en",
+      "display_text": "「You're supposed to be saving the Earth,\naren't you... That blue sky and sea... and\nthe land...」"
+    },
+    {
+      "id": "c52_02e70",
+      "speaker": "Marin",
+      "en": "An artificial sun!?",
+      "display_variant": "en",
+      "display_text": "「An artificial sun!?」"
+    },
+    {
+      "id": "c52_02e90",
+      "speaker": "Quinstein",
+      "en": "That's right. That devil's weapon has been deployed to Antarctica once again.",
+      "display_variant": "en",
+      "display_text": "「That's right. That devil's weapon has\nbeen deployed to Antarctica once again.」"
+    },
+    {
+      "id": "c52_02ee0",
+      "speaker": "Tsukikage",
+      "en": "The Alien Alliance has formed a defense line across the surrounding area.",
+      "display_variant": "en",
+      "display_text": "「The Alien Alliance has formed a defense\nline across the surrounding area.」"
+    },
+    {
+      "id": "c52_02f30",
+      "speaker": "Tsukikage",
+      "en": "Breaking through that defense line is going to cost us a considerable amount of our forces.",
+      "display_variant": "en",
+      "display_text": "「Breaking through that defense line is\ngoing to cost us a considerable amount of\nour forces.」"
+    },
+    {
+      "id": "c52_02f80",
+      "speaker": "Quinstein",
+      "en": "By my calculations, even sending our entire force to Antarctica, the most we could commit to destroying the artificial sun is one warship and six squads.",
+      "display_variant": "fit",
+      "display_text": "「By my math, all-out to Antarctica nets\none warship, six squads max against the\nartificial sun.」"
+    },
+    {
+      "id": "c52_03000",
+      "speaker": "Marin",
+      "en": "Even so, there's nothing to do but go through with it... I can't let the Earth become another Planet S-1...!",
+      "display_variant": "en",
+      "display_text": "「Even so, there's nothing to do but go\nthrough with it... I can't let the Earth\nbecome another Planet S-1...!」"
+    }
+  ]
+}

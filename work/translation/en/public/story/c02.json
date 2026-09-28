@@ -1,0 +1,1769 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c02_05310",
+      "speaker": "Dominic",
+      "en": "All units have launched! We've caught BG on sensors!",
+      "display_variant": "en",
+      "display_text": "「All units have launched! We've caught\nBG on sensors!」"
+    },
+    {
+      "id": "c02_05350",
+      "speaker": "Jerid",
+      "en": "So that's BG... the Black Gale...!",
+      "display_variant": "en",
+      "display_text": "「So that's BG... the Black Gale...!」"
+    },
+    {
+      "id": "c02_05380",
+      "speaker": "Kacricon",
+      "en": "What'll it be, Captain? Should we move in?",
+      "display_variant": "en",
+      "display_text": "「What'll it be, Captain? Should we move\nin?」"
+    },
+    {
+      "id": "c02_053c0",
+      "speaker": "Neo",
+      "en": "Capture is the priority objective. First, I'll try hailing them on an open channel.",
+      "display_variant": "en",
+      "display_text": "「Capture is the priority objective. First,\nI'll try hailing them on an open channel.」"
+    },
+    {
+      "id": "c02_05410",
+      "speaker": "Neo",
+      "en": "Black machine, and your escort -- can you hear me? This is the New Earth Federation Forces.",
+      "display_variant": "en",
+      "display_text": "「Black machine, and your escort -- can\nyou hear me? This is the New Earth\nFederation Forces.」"
+    },
+    {
+      "id": "c02_05460",
+      "speaker": "Neo",
+      "en": "We're acting under orders to capture you. I strongly advise you disarm and surrender peacefully.",
+      "display_variant": "fit",
+      "display_text": "「We're acting under orders to capture\nyou. I advise you disarm and surrender\npeacefully.」"
+    },
+    {
+      "id": "c02_054c0",
+      "speaker": "Neo",
+      "en": "Be warned, if you refuse this advisory, we will move to attack.",
+      "display_variant": "en",
+      "display_text": "「Be warned, if you refuse this advisory,\nwe will move to attack.」"
+    },
+    {
+      "id": "c02_05500",
+      "speaker": "Ziene",
+      "en": "...That's what he's saying. What do you want to do?",
+      "display_variant": "en",
+      "display_text": "「...That's what he's saying. What do you\nwant to do?」"
+    },
+    {
+      "id": "c02_05520",
+      "speaker": "Asakim",
+      "en": "Capture me, huh. Even as a joke, that's in poor taste.",
+      "display_variant": "en",
+      "display_text": "「Capture me, huh. Even as a joke, that's\nin poor taste.」"
+    },
+    {
+      "id": "c02_05560",
+      "speaker": "Ziene",
+      "en": "They're the unit that man had organized. Shall we humor them with a match, as you wished?",
+      "display_variant": "en",
+      "display_text": "「They're the unit that man had\norganized. Shall we humor them with a\nmatch, as you wished?」"
+    },
+    {
+      "id": "c02_055b0",
+      "speaker": "Asakim",
+      "en": "The time isn't ripe yet. ...Ah, right on cue, guests are arriving. Let's leave them to deal with it.",
+      "display_variant": "fit",
+      "display_text": "「The time isn't ripe. ...Ah, right on cue,\nguests are arriving. Let's leave them to\ndeal with it.」"
+    },
+    {
+      "id": "c02_05610",
+      "speaker": "Sting",
+      "en": "That guy... is he trying to ignore us?",
+      "display_variant": "en",
+      "display_text": "「That guy... is he trying to ignore us?」"
+    },
+    {
+      "id": "c02_05640",
+      "speaker": "Auel",
+      "en": "If they won't surrender, let's just wrap this up already!",
+      "display_variant": "en",
+      "display_text": "「If they won't surrender, let's just\nwrap this up already!」"
+    },
+    {
+      "id": "c02_05680",
+      "speaker": "Neo",
+      "en": "Wait! Something's off with the area around us!",
+      "display_variant": "en",
+      "display_text": "「Wait! Something's off with the area\naround us!」"
+    },
+    {
+      "id": "c02_056b0",
+      "speaker": "Dominic",
+      "en": "All units, stay alert! We've confirmed a distortion in the dimensional boundary!",
+      "display_variant": "en",
+      "display_text": "「All units, stay alert! We've confirmed a\ndistortion in the dimensional boundary!」"
+    },
+    {
+      "id": "c02_056f0",
+      "speaker": "Lowen",
+      "en": "Is a dimensional quake about to hit!?",
+      "display_variant": "en",
+      "display_text": "「Is a dimensional quake about to hit!?」"
+    },
+    {
+      "id": "c02_05720",
+      "speaker": "Anemone",
+      "en": "What is with those things! They're creepy!",
+      "display_variant": "en",
+      "display_text": "「What is with those things! They're\ncreepy!」"
+    },
+    {
+      "id": "c02_05750",
+      "speaker": "Dominic",
+      "en": "Calm down, Anemone! Those are Shadow Angels -- the enemy of all mankind!",
+      "display_variant": "en",
+      "display_text": "「Calm down, Anemone! Those are Shadow\nAngels -- the enemy of all mankind!」"
+    },
+    {
+      "id": "c02_057a0",
+      "speaker": "Asakim",
+      "en": "Fallen wings, imprisoned in a cage of cause and effect... Have you come seeking me, who bears the same curse?",
+      "display_variant": "fit",
+      "display_text": "「Fallen wings, caged by cause and\neffect... Have you come seeking me, who\nbears the same curse?」"
+    },
+    {
+      "id": "c02_05800",
+      "speaker": "Asakim",
+      "en": "But I'm still going... I don't need any more chains than I already carry.",
+      "display_variant": "en",
+      "display_text": "「But I'm still going... I don't need any\nmore chains than I already carry.」"
+    },
+    {
+      "id": "c02_05840",
+      "speaker": "Jerid",
+      "en": "Fast...! What is that speed!?",
+      "display_variant": "en",
+      "display_text": "「Fast...! What is that speed!?」"
+    },
+    {
+      "id": "c02_05880",
+      "speaker": "Schlan",
+      "en": "Target has broken away outside combat range. Do we pursue, Captain?",
+      "display_variant": "en",
+      "display_text": "「Target has broken away outside combat\nrange. Do we pursue, Captain?」"
+    },
+    {
+      "id": "c02_058d0",
+      "speaker": "Neo",
+      "en": "No... we'll deal with the Shadow Angels.",
+      "display_variant": "en",
+      "display_text": "「No... we'll deal with the Shadow Angels.」"
+    },
+    {
+      "id": "c02_05900",
+      "speaker": "Jerid",
+      "en": "But, our mission is...!",
+      "display_variant": "en",
+      "display_text": "「But, our mission is...!」"
+    },
+    {
+      "id": "c02_05930",
+      "speaker": "Neo",
+      "en": "The mission can wait. But if we leave the Shadow Angels alone, the damage will spread to the surrounding area.",
+      "display_variant": "fit",
+      "display_text": "「The mission can wait. But leaving the\nShadow Angels alone would let the damage\nspread to the area.」"
+    },
+    {
+      "id": "c02_05990",
+      "speaker": "Neo",
+      "en": "Adjust priorities to match the situation...! New attack target: the Shadow Angels!",
+      "display_variant": "en",
+      "display_text": "「Adjust priorities to match the\nsituation...! New attack target: the\nShadow Angels!」"
+    },
+    {
+      "id": "c02_059e0",
+      "speaker": "Sting",
+      "en": "Roger!",
+      "display_variant": "en",
+      "display_text": "「Roger!」"
+    },
+    {
+      "id": "c02_05a00",
+      "speaker": "Auel",
+      "en": "Taking down BG here would be no fun anyway. I'll save that treat for later.",
+      "display_variant": "en",
+      "display_text": "「Taking down BG here would be no fun\nanyway. I'll save that treat for later.」"
+    },
+    {
+      "id": "c02_05a60",
+      "speaker": "Neo",
+      "en": "Everyone, be careful. That monster's toughness is no joke. Focus fire and take them down one at a time.",
+      "display_variant": "fit",
+      "display_text": "「Everyone, be careful. That monster's\ntoughness is no joke. Focus fire, take\nthem down one at a time.」"
+    },
+    {
+      "id": "c02_05ac0",
+      "speaker": "Lowen",
+      "en": "It's pulled back...?",
+      "display_variant": "en",
+      "display_text": "「It's pulled back...?」"
+    },
+    {
+      "id": "c02_05ae0",
+      "speaker": "Auel",
+      "en": "Guess it got scared of us and ran, huh?",
+      "display_variant": "en",
+      "display_text": "「Guess it got scared of us and ran,\nhuh?」"
+    },
+    {
+      "id": "c02_05b20",
+      "speaker": "Sting",
+      "en": "That's not it...! Another enemy's coming!",
+      "display_variant": "en",
+      "display_text": "「That's not it...! Another enemy's\ncoming!」"
+    },
+    {
+      "id": "c02_05b60",
+      "speaker": "Lowen",
+      "en": "Confirmed the Shadow Angels have been completely wiped out.",
+      "display_variant": "en",
+      "display_text": "「Confirmed the Shadow Angels have been\ncompletely wiped out.」"
+    },
+    {
+      "id": "c02_05b90",
+      "speaker": "Auel",
+      "en": "Piece of cake. The special duty force isn't just for show.",
+      "display_variant": "en",
+      "display_text": "「Piece of cake. The special duty force\nisn't just for show.」"
+    },
+    {
+      "id": "c02_05bd0",
+      "speaker": "Sting",
+      "en": "Don't get carried away, Auel...! Another enemy's coming!",
+      "display_variant": "en",
+      "display_text": "「Don't get carried away, Auel...! Another\nenemy's coming!」"
+    },
+    {
+      "id": "c02_05c10",
+      "speaker": "Jerid",
+      "en": "Those horns...! The Hundred Demon Empire!",
+      "display_variant": "en",
+      "display_text": "「Those horns...! The Hundred Demon\nEmpire!」"
+    },
+    {
+      "id": "c02_05c40",
+      "speaker": "Hyakki Hundred",
+      "en": "The Shadow Angels have already withdrawn...! At this rate we can't gather their data!",
+      "display_variant": "fit",
+      "display_text": "「The Shadow Angels already withdrew...!\nAt this rate, we can't gather their data!」"
+    },
+    {
+      "id": "c02_05ca0",
+      "speaker": "Hyakki Hundred",
+      "en": "Out of spite, then! We'll crush the human army instead!",
+      "display_variant": "en",
+      "display_text": "「Out of spite, then! We'll crush the\nhuman army instead!」"
+    },
+    {
+      "id": "c02_05ce0",
+      "speaker": "Mouar",
+      "en": "It appears the Hundred Demon Empire is about to attack us.",
+      "display_variant": "en",
+      "display_text": "「It appears the Hundred Demon Empire is\nabout to attack us.」"
+    },
+    {
+      "id": "c02_05d20",
+      "speaker": "Kacricon",
+      "en": "Tch! We're outnumbered by way too much!",
+      "display_variant": "en",
+      "display_text": "「Tch! We're outnumbered by way too\nmuch!」"
+    },
+    {
+      "id": "c02_05d50",
+      "speaker": "Neo",
+      "en": "No need to worry.",
+      "display_variant": "en",
+      "display_text": "「No need to worry.」"
+    },
+    {
+      "id": "c02_05d70",
+      "speaker": "Hyakki Hundred",
+      "en": "Guoh! Where'd that shot come from!?",
+      "display_variant": "en",
+      "display_text": "「Guoh! Where'd that shot come from!?」"
+    },
+    {
+      "id": "c02_05da0",
+      "speaker": "Asuham",
+      "en": "Can you hear my voice, Colonel Neo Roanoke?",
+      "display_variant": "en",
+      "display_text": "「Can you hear my voice, Colonel Neo\nRoanoke?」"
+    },
+    {
+      "id": "c02_05de0",
+      "speaker": "Asuham",
+      "en": "At the New Federation's request, we of the Siberian Railway Guard will be joining you as well.",
+      "display_variant": "fit",
+      "display_text": "「At the New Federation's request, we of\nthe Siberian Railway Guard will join you\ntoo.」"
+    },
+    {
+      "id": "c02_05e40",
+      "speaker": "Neo",
+      "en": "Understood. Perfect timing.",
+      "display_variant": "en",
+      "display_text": "「Understood. Perfect timing.」"
+    },
+    {
+      "id": "c02_05e70",
+      "speaker": "Auel",
+      "en": "Siberian Railway -- that's the railroad company laying track all over the world, right?",
+      "display_variant": "en",
+      "display_text": "「Siberian Railway -- that's the railroad\ncompany laying track all over the world,\nright?」"
+    },
+    {
+      "id": "c02_05ec0",
+      "speaker": "Anemone",
+      "en": "So then, those people are...",
+      "display_variant": "en",
+      "display_text": "「So then, those people are...」"
+    },
+    {
+      "id": "c02_05ef0",
+      "speaker": "Jurgens",
+      "en": "The civilian collaborators the captain mentioned, huh.",
+      "display_variant": "en",
+      "display_text": "「The civilian collaborators the captain\nmentioned, huh.」"
+    },
+    {
+      "id": "c02_05f30",
+      "speaker": "Zakki",
+      "en": "Chased out of Saint Regan, picked up by Sibe Rail, and now enlisted into the Federation's special duty force...",
+      "display_variant": "fit",
+      "display_text": "（Chased from Saint Regan, picked up by\nSibe Rail, and now enlisted in the\nFederation's special duty force...）"
+    },
+    {
+      "id": "c02_05f90",
+      "speaker": "Zakki",
+      "en": "Sticking with the captain just keeps rolling me further and further...",
+      "display_variant": "en",
+      "display_text": "（Sticking with the captain just keeps\nrolling me further and further...）"
+    },
+    {
+      "id": "c02_05fd0",
+      "speaker": "Cynthia",
+      "en": "Asuham Boone. So you're the one taking on that demon.",
+      "display_variant": "en",
+      "display_text": "「Asuham Boone. So you're the one taking\non that demon.」"
+    },
+    {
+      "id": "c02_06010",
+      "speaker": "Cynthia",
+      "en": "Getting to battle a legendary monster from Yapan -- what luck.",
+      "display_variant": "en",
+      "display_text": "「Getting to battle a legendary monster\nfrom Yapan -- what luck.」"
+    },
+    {
+      "id": "c02_06060",
+      "speaker": "Kejinan",
+      "en": "...I tagged along with boss Asuham for that special bonus, but I've got a feeling this was a mistake.",
+      "display_variant": "fit",
+      "display_text": "「...I tagged along with boss Asuham for\nthe bonus, but I've got a feeling this\nwas a mistake.」"
+    },
+    {
+      "id": "c02_060d0",
+      "speaker": "Enge",
+      "en": "Guess we were just born under that kind of star.",
+      "display_variant": "en",
+      "display_text": "「Guess we were just born under that\nkind of star.」"
+    },
+    {
+      "id": "c02_06110",
+      "speaker": "Jaboli",
+      "en": "If I'd known it'd come to this, I should've just stayed doing odd jobs at head office...!",
+      "display_variant": "en",
+      "display_text": "「If I'd known it'd come to this, I\nshould've just stayed doing odd jobs at\nhead office...!」"
+    },
+    {
+      "id": "c02_06160",
+      "speaker": "Hola",
+      "en": "Hmph... nothing but complaints. What small-minded lot.",
+      "display_variant": "en",
+      "display_text": "「Hmph... nothing but complaints. What\nsmall-minded lot.」"
+    },
+    {
+      "id": "c02_061a0",
+      "speaker": "Hola",
+      "en": "If we make our mark here, we might just get taken on as members of the New Federation, you know.",
+      "display_variant": "fit",
+      "display_text": "「If we make our mark here, we might get\ntaken on as members of the New\nFederation, you know.」"
+    },
+    {
+      "id": "c02_06200",
+      "speaker": "Geraba",
+      "en": "Let's do it, boss! Our road to the top starts right here!",
+      "display_variant": "en",
+      "display_text": "「Let's do it, boss! Our road to the top\nstarts right here!」"
+    },
+    {
+      "id": "c02_06250",
+      "speaker": "Timp",
+      "en": "Always so positive, that droopy-eyed guy...",
+      "display_variant": "en",
+      "display_text": "（Always so positive, that droopy-eyed\nguy...）"
+    },
+    {
+      "id": "c02_06280",
+      "speaker": "Timp",
+      "en": "Well... after Siberia fell through, all we can do for now is dance to the chairman's tune.",
+      "display_variant": "en",
+      "display_text": "（Well... after Siberia fell through, all we\ncan do for now is dance to the\nchairman's tune.）"
+    },
+    {
+      "id": "c02_062e0",
+      "speaker": "Shagia",
+      "en": "Colonel Neo Roanoke. These are Shagia Frost and Olba Frost, of intelligence.",
+      "display_variant": "en",
+      "display_text": "「Colonel Neo Roanoke. These are Shagia\nFrost and Olba Frost, of intelligence.」"
+    },
+    {
+      "id": "c02_06350",
+      "speaker": "Olba",
+      "en": "We'll be providing support the moment we join the Special Task Force 013.",
+      "display_variant": "en",
+      "display_text": "「We'll be providing support the moment\nwe join the Special Task Force 013.」"
+    },
+    {
+      "id": "c02_063a0",
+      "speaker": "Neo",
+      "en": "So you're the military's agents. Good to have you.",
+      "display_variant": "en",
+      "display_text": "「So you're the military's agents. Good to\nhave you.」"
+    },
+    {
+      "id": "c02_063e0",
+      "speaker": "Asuham",
+      "en": "Thank you for the escort this far, Frost brothers.",
+      "display_variant": "en",
+      "display_text": "「Thank you for the escort this far,\nFrost brothers.」"
+    },
+    {
+      "id": "c02_06420",
+      "speaker": "Shagia",
+      "en": "No thanks needed. Starting today, we're all comrades.",
+      "display_variant": "en",
+      "display_text": "「No thanks needed. Starting today, we're\nall comrades.」"
+    },
+    {
+      "id": "c02_06470",
+      "speaker": "Olba",
+      "en": "I'll get to see for myself the strength of Captain Asuham Boone of Saint Regan, the one I've heard so much about.",
+      "display_variant": "fit",
+      "display_text": "「I'll see for myself the strength of\nCaptain Asuham Boone of Saint Regan, the\none I've heard so much about.」"
+    },
+    {
+      "id": "c02_064d0",
+      "speaker": "Asuham",
+      "en": "The man I am now has thrown away everything from his past, all for the sake of revenge...!",
+      "display_variant": "en",
+      "display_text": "「The man I am now has thrown away\neverything from his past, all for the sake\nof revenge...!」"
+    },
+    {
+      "id": "c02_06510",
+      "speaker": "Asuham",
+      "en": "Let's go, you demons! My resolve will make even the damned of hell tremble!",
+      "display_variant": "en",
+      "display_text": "「Let's go, you demons! My resolve will\nmake even the damned of hell tremble!」"
+    },
+    {
+      "id": "c02_06570",
+      "speaker": "Cynthia",
+      "en": "Ahahahaha! Let's do our best, Asuham!",
+      "display_variant": "en",
+      "display_text": "「Ahahahaha! Let's do our best, Asuham!」"
+    },
+    {
+      "id": "c02_065b0",
+      "speaker": "Jurgens",
+      "en": "Looks like that's settled.",
+      "display_variant": "en",
+      "display_text": "「Looks like that's settled.」"
+    },
+    {
+      "id": "c02_065d0",
+      "speaker": "Sting",
+      "en": "Yeah, but we lost BG completely in all this.",
+      "display_variant": "en",
+      "display_text": "「Yeah, but we lost BG completely in all\nthis.」"
+    },
+    {
+      "id": "c02_06620",
+      "speaker": "Neo",
+      "en": "We can pick that back up later.",
+      "display_variant": "en",
+      "display_text": "「We can pick that back up later.」"
+    },
+    {
+      "id": "c02_06650",
+      "speaker": "Neo",
+      "en": "First, let's join up with our new allies. All units, land on the carrier.",
+      "display_variant": "en",
+      "display_text": "「First, let's join up with our new allies.\nAll units, land on the carrier.」"
+    },
+    {
+      "id": "c02_06690",
+      "speaker": "Shagia",
+      "en": "Understood.",
+      "display_variant": "en",
+      "display_text": "「Understood.」"
+    },
+    {
+      "id": "c02_066b0",
+      "speaker": "Dominic",
+      "en": "The Frost brothers from intelligence... Colonel Dewey told me to keep an eye on them.",
+      "display_variant": "en",
+      "display_text": "（The Frost brothers from intelligence...\nColonel Dewey told me to keep an eye on\nthem.）"
+    },
+    {
+      "id": "c02_06710",
+      "speaker": "Dominic",
+      "en": "If people like that are being called in too, then this special duty force... I should assume there's something behind its formation after all...",
+      "display_variant": "fit",
+      "display_text": "（If people like that are being called in\ntoo, there's likely more behind this unit's\nformation than it seems...）"
+    },
+    {
+      "id": "c02_06780",
+      "speaker": "Shagia",
+      "en": "Don't forget, Olba. What we're here to do.",
+      "display_variant": "en",
+      "display_text": "（Don't forget, Olba. What we're here to\ndo.）"
+    },
+    {
+      "id": "c02_067c0",
+      "speaker": "Olba",
+      "en": "I know, brother. For a unit meant to chase an unidentified target, this lineup is far too unnatural.",
+      "display_variant": "fit",
+      "display_text": "（I know, brother. For a unit chasing an\nunidentified target, this lineup's far too\nunnatural.）"
+    },
+    {
+      "id": "c02_06820",
+      "speaker": "Shagia",
+      "en": "Being sent to a unit like this... maybe it's because someone's caught on to our true purpose.",
+      "display_variant": "fit",
+      "display_text": "（Being sent to a unit like this... maybe\nsomeone's caught on to our true purpose.）"
+    },
+    {
+      "id": "c02_06890",
+      "speaker": "Olba",
+      "en": "But still, we can't afford to stop.",
+      "display_variant": "en",
+      "display_text": "（But still, we can't afford to stop.）"
+    },
+    {
+      "id": "c02_068d0",
+      "speaker": "Shagia",
+      "en": "That's right... Until we've taken our revenge on this whole world and its fate, our fight isn't over.",
+      "display_variant": "fit",
+      "display_text": "（That's right... Our fight isn't over till\nwe've taken revenge on this whole world\nand its fate.）"
+    },
+    {
+      "id": "c02_06930",
+      "speaker": "Asuham",
+      "en": "This is an operation I only joined out of obligation to Kizz Munt...!",
+      "display_variant": "en",
+      "display_text": "「This is an operation I only joined out\nof obligation to Kizz Munt...!」"
+    },
+    {
+      "id": "c02_06980",
+      "speaker": "Asuham",
+      "en": "Let's wrap this up fast, and get moving on taking down Gain Bijou!",
+      "display_variant": "en",
+      "display_text": "「Let's wrap this up fast, and get moving\non taking down Gain Bijou!」"
+    },
+    {
+      "id": "c02_069d0",
+      "speaker": "Zakki",
+      "en": "Even in a situation like this, his hatred for the Black Southern Cross hasn't changed one bit. That's some serious obsession.",
+      "display_variant": "fit",
+      "display_text": "（Even in times like these, his hatred for\nthe Black Southern Cross hasn't changed.\nSerious obsession.）"
+    },
+    {
+      "id": "c02_06a20",
+      "speaker": "Cynthia",
+      "en": "Ahaha! Let's rack up some experience here, so I can go challenge the King!",
+      "display_variant": "en",
+      "display_text": "「Ahaha! Let's rack up some experience\nhere, so I can go challenge the King!」"
+    },
+    {
+      "id": "c02_06a70",
+      "speaker": "Cynthia",
+      "en": "Now then... Mr. Demon! You're going to keep me company!",
+      "display_variant": "en",
+      "display_text": "「Now then... Mr. Demon! You're going to\nkeep me company!」"
+    },
+    {
+      "id": "c02_06ab0",
+      "speaker": "Kejinan",
+      "en": "Well, since it's come to this, screw it! I'm surviving this and getting promoted, no matter what!",
+      "display_variant": "fit",
+      "display_text": "「Well, since it's come to this, screw it!\nI'll survive and get promoted, no matter\nwhat!」"
+    },
+    {
+      "id": "c02_06b00",
+      "speaker": "Enge",
+      "en": "If we make it back to Sibe Rail alive, there's a special bonus waiting! ...At least, I want to believe that!",
+      "display_variant": "fit",
+      "display_text": "「If we get back to Sibe Rail alive,\nthere's a bonus waiting! ...At least, I\nwant to believe that!」"
+    },
+    {
+      "id": "c02_06b50",
+      "speaker": "Jaboli",
+      "en": "If we make it back, I swear this time I'm filing for a transfer!",
+      "display_variant": "en",
+      "display_text": "「If we make it back, I swear this time\nI'm filing for a transfer!」"
+    },
+    {
+      "id": "c02_06ba0",
+      "speaker": "Hola",
+      "en": "Let's go, Geraba! Time to show the Federation what we've got!",
+      "display_variant": "en",
+      "display_text": "「Let's go, Geraba! Time to show the\nFederation what we've got!」"
+    },
+    {
+      "id": "c02_06be0",
+      "speaker": "Geraba",
+      "en": "Got it, boss! Better safe under a big tree's shade, right!",
+      "display_variant": "en",
+      "display_text": "「Got it, boss! Better safe under a big\ntree's shade, right!」"
+    },
+    {
+      "id": "c02_06c20",
+      "speaker": "Timp",
+      "en": "Hey, you two. Getting fired up is all well and good, but don't you dare drag me down.",
+      "display_variant": "en",
+      "display_text": "「Hey, you two. Getting fired up is all\nwell and good, but don't you dare drag me\ndown.」"
+    },
+    {
+      "id": "c02_06c80",
+      "speaker": "Geraba",
+      "en": "What'd you say!?",
+      "display_variant": "en",
+      "display_text": "「What'd you say!?」"
+    },
+    {
+      "id": "c02_06ca0",
+      "speaker": "Timp",
+      "en": "Whoa, that's enough chit-chat. The enemy's already bearing down on us.",
+      "display_variant": "en",
+      "display_text": "「Whoa, that's enough chit-chat. The\nenemy's already bearing down on us.」"
+    },
+    {
+      "id": "c02_06cf0",
+      "speaker": "Timp",
+      "en": "You want to look good in front of the Federation, right? Then you'd better put in the effort.",
+      "display_variant": "fit",
+      "display_text": "「You want to look good in front of the\nFederation, right? Then put in the effort.」"
+    },
+    {
+      "id": "c02_06d40",
+      "speaker": "Hola",
+      "en": "You don't have to tell me twice! Here we goooo!",
+      "display_variant": "en",
+      "display_text": "「You don't have to tell me twice! Here\nwe goooo!」"
+    },
+    {
+      "id": "c02_06d80",
+      "speaker": "Timp",
+      "en": "Simple guy. Well... at least that secures me a meat shield.",
+      "display_variant": "en",
+      "display_text": "（Simple guy. Well... at least that secures\nme a meat shield.）"
+    },
+    {
+      "id": "c02_06e00",
+      "speaker": "Dewey",
+      "en": "...So the Special Task Force 013 has been set into motion, hm.",
+      "display_variant": "en",
+      "display_text": "「...So the Special Task Force 013 has\nbeen set into motion, hm.」"
+    },
+    {
+      "id": "c02_06e30",
+      "speaker": "Scirocco",
+      "en": "Still, it's a strange thing, gathering the elite of every unit just to chase an unidentified target.",
+      "display_variant": "fit",
+      "display_text": "「Still, it's odd gathering the elite of\nevery unit just to chase an unidentified\ntarget.」"
+    },
+    {
+      "id": "c02_06e80",
+      "speaker": "Dewey",
+      "en": "The order came from Lord Djibril, but the mission itself was apparently proposed by someone else.",
+      "display_variant": "fit",
+      "display_text": "「The order came from Lord Djibril, but\nthe mission itself was apparently someone\nelse's idea.」"
+    },
+    {
+      "id": "c02_06ee0",
+      "speaker": "Scirocco",
+      "en": "And who might that be?",
+      "display_variant": "en",
+      "display_text": "「And who might that be?」"
+    },
+    {
+      "id": "c02_06f00",
+      "speaker": "Dewey",
+      "en": "General Edel Bernal.",
+      "display_variant": "en",
+      "display_text": "「General Edel Bernal.」"
+    },
+    {
+      "id": "c02_06f30",
+      "speaker": "Scirocco",
+      "en": "Ah, the one rumored to be joining the Council of Sages... I hear she's approached Djibril before too, moving units around in secret.",
+      "display_variant": "fit",
+      "display_text": "「Ah, the one rumored for the Council of\nSages... I hear she's approached Djibril\nbefore too, moving units in secret.」"
+    },
+    {
+      "id": "c02_06fb0",
+      "speaker": "Dewey",
+      "en": "Djibril's likely trying to solidify LOGOS's faction, if only to push the old guard out.",
+      "display_variant": "en",
+      "display_text": "「Djibril's likely trying to solidify\nLOGOS's faction, if only to push the old\nguard out.」"
+    },
+    {
+      "id": "c02_07010",
+      "speaker": "Scirocco",
+      "en": "So he intends to win Edel Bernal over as a card to play toward that end.",
+      "display_variant": "en",
+      "display_text": "「So he intends to win Edel Bernal over\nas a card to play toward that end.」"
+    },
+    {
+      "id": "c02_07060",
+      "speaker": "Scirocco",
+      "en": "But that man alone won't be able to make full use of her, or the power she commands.",
+      "display_variant": "en",
+      "display_text": "「But that man alone won't be able to\nmake full use of her, or the power she\ncommands.」"
+    },
+    {
+      "id": "c02_070c0",
+      "speaker": "Dewey",
+      "en": "I agree. ...So, what do we do?",
+      "display_variant": "en",
+      "display_text": "「I agree. ...So, what do we do?」"
+    },
+    {
+      "id": "c02_070f0",
+      "speaker": "Scirocco",
+      "en": "I'm thinking the same as you, Dewey Novak.",
+      "display_variant": "en",
+      "display_text": "「I'm thinking the same as you, Dewey\nNovak.」"
+    },
+    {
+      "id": "c02_07130",
+      "speaker": "Scirocco",
+      "en": "Besides, she's someone who values law and order. I doubt she approves of the New Earth Federation's current state of affairs.",
+      "display_variant": "fit",
+      "display_text": "「Besides, she values law and order. I\ndoubt she approves of the New Earth\nFederation's current state.」"
+    },
+    {
+      "id": "c02_071a0",
+      "speaker": "Dewey",
+      "en": "Understood. With her strength behind us, the Crusade's plan gains that much more reality.",
+      "display_variant": "en",
+      "display_text": "「Understood. With her strength behind\nus, the Crusade's plan gains that much\nmore reality.」"
+    },
+    {
+      "id": "c02_07200",
+      "speaker": "Scirocco",
+      "en": "Then it's decided. ...Edel Bernal... let's welcome her as a comrade.",
+      "display_variant": "en",
+      "display_text": "「Then it's decided. ...Edel Bernal... let's\nwelcome her as a comrade.」"
+    },
+    {
+      "id": "c02_072b0",
+      "speaker": "Neo",
+      "en": "All right, Staff Officer Dominic... go ahead with the briefing.",
+      "display_variant": "en",
+      "display_text": "「All right, Staff Officer Dominic... go\nahead with the briefing.」"
+    },
+    {
+      "id": "c02_072e0",
+      "speaker": "Dominic",
+      "en": "...Regarding the target, BG, this is all the information we've been given so far.",
+      "display_variant": "en",
+      "display_text": "「...Regarding the target, BG, this is all\nthe information we've been given so far.」"
+    },
+    {
+      "id": "c02_07350",
+      "speaker": "Dominic",
+      "en": "Target BG has been confirmed acting alone, or occasionally with a small number of escort units...",
+      "display_variant": "fit",
+      "display_text": "「Target BG has been confirmed acting\nalone, or with a small number of escort\nunits...」"
+    },
+    {
+      "id": "c02_073b0",
+      "speaker": "Dominic",
+      "en": "But its affiliation and the pilot's identity remain unknown.",
+      "display_variant": "en",
+      "display_text": "「But its affiliation and the pilot's\nidentity remain unknown.」"
+    },
+    {
+      "id": "c02_07400",
+      "speaker": "Jurgens",
+      "en": "If they've formed a special duty force just to hunt it down, does that mean it's a threat to the New Federation?",
+      "display_variant": "fit",
+      "display_text": "「If they formed a special duty force\njust to hunt it down, is it a threat to\nthe New Federation?」"
+    },
+    {
+      "id": "c02_07460",
+      "speaker": "Dominic",
+      "en": "There's nothing on that point in either the deployment order or the military database.",
+      "display_variant": "en",
+      "display_text": "「There's nothing on that point in either\nthe deployment order or the military\ndatabase.」"
+    },
+    {
+      "id": "c02_074c0",
+      "speaker": "Schlan",
+      "en": "So its very reason for existing is classified even from the people out in the field...",
+      "display_variant": "en",
+      "display_text": "「So its very reason for existing is\nclassified even from the people out in\nthe field...」"
+    },
+    {
+      "id": "c02_07520",
+      "speaker": "Neo",
+      "en": "Even so, hiding even the sighting reports is on another level entirely.",
+      "display_variant": "en",
+      "display_text": "「Even so, hiding even the sighting\nreports is on another level entirely.」"
+    },
+    {
+      "id": "c02_07570",
+      "speaker": "Schlan",
+      "en": "Still, there is one thing that's certain about BG.",
+      "display_variant": "en",
+      "display_text": "「Still, there is one thing that's certain\nabout BG.」"
+    },
+    {
+      "id": "c02_075c0",
+      "speaker": "Neo",
+      "en": "What's that?",
+      "display_variant": "en",
+      "display_text": "「What's that?」"
+    },
+    {
+      "id": "c02_075e0",
+      "speaker": "Schlan",
+      "en": "That it's dangerous enough to require a team this large just to track it down.",
+      "display_variant": "en",
+      "display_text": "「That it's dangerous enough to require a\nteam this large just to track it down.」"
+    },
+    {
+      "id": "c02_07640",
+      "speaker": "Neo",
+      "en": "...That's not exactly a comforting fact.",
+      "display_variant": "en",
+      "display_text": "「...That's not exactly a comforting fact.」"
+    },
+    {
+      "id": "c02_07670",
+      "speaker": "Jurgens",
+      "en": "I hear Captain Dominic is with intelligence -- can't your contacts turn up anything?",
+      "display_variant": "en",
+      "display_text": "「I hear Captain Dominic is with\nintelligence -- can't your contacts turn\nup anything?」"
+    },
+    {
+      "id": "c02_076d0",
+      "speaker": "Dominic",
+      "en": "I'll reach out to some contacts, but I doubt we'll learn much.",
+      "display_variant": "en",
+      "display_text": "「I'll reach out to some contacts, but I\ndoubt we'll learn much.」"
+    },
+    {
+      "id": "c02_07720",
+      "speaker": "Neo",
+      "en": "A dangerous enemy shrouded in mystery, huh... Orders or not, this is a heavy mission.",
+      "display_variant": "en",
+      "display_text": "「A dangerous enemy shrouded in mystery,\nhuh... Orders or not, this is a heavy\nmission.」"
+    },
+    {
+      "id": "c02_07770",
+      "speaker": "Neo",
+      "en": "Well... I can't say whether that's worse or better than dealing with $c.",
+      "display_variant": "en",
+      "display_text": "「Well... I can't say whether that's worse\nor better than dealing with $c.」"
+    },
+    {
+      "id": "c02_077b0",
+      "speaker": "Dominic",
+      "en": "$c... the independent guerrilla organization built around AEUG, ZAFT, and their special machines?",
+      "display_variant": "fit",
+      "display_text": "「$c... the independent guerrilla group\nbuilt around AEUG, ZAFT, and their special\nmachines?」"
+    },
+    {
+      "id": "c02_07800",
+      "speaker": "Neo",
+      "en": "Apparently, once we finish tracking down BG, this special duty force will shift over to a unit that deals with them.",
+      "display_variant": "fit",
+      "display_text": "「Apparently, once BG tracking ends, this\nspecial duty force shifts to a unit that\ndeals with them.」"
+    },
+    {
+      "id": "c02_07860",
+      "speaker": "Jurgens",
+      "en": "So if BG isn't caught, does that mean this mission continues indefinitely?",
+      "display_variant": "en",
+      "display_text": "「So if BG isn't caught, does that mean\nthis mission continues indefinitely?」"
+    },
+    {
+      "id": "c02_078c0",
+      "speaker": "Neo",
+      "en": "Who knows... That's for the higher-ups to decide.",
+      "display_variant": "en",
+      "display_text": "「Who knows... That's for the higher-ups\nto decide.」"
+    },
+    {
+      "id": "c02_078f0",
+      "speaker": "Schlan",
+      "en": "I hear $c is currently in Japan, fighting some kind of alien intelligent life form.",
+      "display_variant": "en",
+      "display_text": "「I hear $c is currently in Japan,\nfighting some kind of alien intelligent life\nform.」"
+    },
+    {
+      "id": "c02_07940",
+      "speaker": "Jurgens",
+      "en": "The Hundred Demon Empire, huh... Even in a multiverse, I can't believe things like that actually exist.",
+      "display_variant": "fit",
+      "display_text": "「The Hundred Demon Empire, huh... Even\nin a multiverse, I can't believe things\nlike that exist.」"
+    },
+    {
+      "id": "c02_079a0",
+      "speaker": "Neo",
+      "en": "That's how things stand. No matter how dangerous BG is, we can't stay assigned to it forever.",
+      "display_variant": "en",
+      "display_text": "「That's how things stand. No matter how\ndangerous BG is, we can't stay assigned\nto it forever.」"
+    },
+    {
+      "id": "c02_07a10",
+      "speaker": "Neo",
+      "en": "We need to wrap this up quickly and move on to the next mission.",
+      "display_variant": "en",
+      "display_text": "「We need to wrap this up quickly and\nmove on to the next mission.」"
+    },
+    {
+      "id": "c02_07a50",
+      "speaker": "Dominic",
+      "en": "Captain, when will the rest of our members be joining us?",
+      "display_variant": "en",
+      "display_text": "「Captain, when will the rest of our\nmembers be joining us?」"
+    },
+    {
+      "id": "c02_07aa0",
+      "speaker": "Neo",
+      "en": "For now, I hear the civilian collaborators are being guided our way by a military agent to rendezvous.",
+      "display_variant": "fit",
+      "display_text": "「For now, I hear the civilian\ncollaborators are being guided here by a\nmilitary agent to rendezvous.」"
+    },
+    {
+      "id": "c02_07b10",
+      "speaker": "Schlan",
+      "en": "Heh... seems we're shaping up to be just as much a mixed-bag unit as $c.",
+      "display_variant": "en",
+      "display_text": "「Heh... seems we're shaping up to be\njust as much a mixed-bag unit as $c.」"
+    },
+    {
+      "id": "c02_07b60",
+      "speaker": "Neo",
+      "en": "Tracking down an unidentified enemy with this hodgepodge of military and civilian personnel... I really have to wonder what's going through the higher-ups' heads...",
+      "display_variant": "fit",
+      "display_text": "「Chasing an unidentified enemy with this\nmilitary-civilian hodgepodge... I wonder\nwhat the higher-ups are thinking...」"
+    },
+    {
+      "id": "c02_07c30",
+      "speaker": "Kacricon",
+      "en": "Whoa!",
+      "display_variant": "en",
+      "display_text": "「Whoa!」"
+    },
+    {
+      "id": "c02_07c50",
+      "speaker": "Jerid",
+      "en": "What's wrong, Kacricon!?",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Kacricon!?」"
+    },
+    {
+      "id": "c02_07c80",
+      "speaker": "Kacricon",
+      "en": "Watch out! There's something behind the hangar!",
+      "display_variant": "en",
+      "display_text": "「Watch out! There's something behind the\nhangar!」"
+    },
+    {
+      "id": "c02_07cc0",
+      "speaker": "Gulliver",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c02_07ce0",
+      "speaker": "Mouar",
+      "en": "...An animal?",
+      "display_variant": "en",
+      "display_text": "「...An animal?」"
+    },
+    {
+      "id": "c02_07d00",
+      "speaker": "Mouar",
+      "en": "It doesn't look like it means us any harm, but...",
+      "display_variant": "en",
+      "display_text": "「It doesn't look like it means us any\nharm, but...」"
+    },
+    {
+      "id": "c02_07d40",
+      "speaker": "Mouar",
+      "en": "It's probably someone's pet. ...Come here, come here.",
+      "display_variant": "en",
+      "display_text": "「It's probably someone's pet. ...Come\nhere, come here.」"
+    },
+    {
+      "id": "c02_07d80",
+      "speaker": "Mouar",
+      "en": "Heh heh... aren't you cute. Seems used to people.",
+      "display_variant": "en",
+      "display_text": "「Heh heh... aren't you cute. Seems used\nto people.」"
+    },
+    {
+      "id": "c02_07dc0",
+      "speaker": "Kacricon",
+      "en": "S-stop it, Ensign! It might just bite you out of nowhere!",
+      "display_variant": "en",
+      "display_text": "「S-stop it, Ensign! It might just bite\nyou out of nowhere!」"
+    },
+    {
+      "id": "c02_07e10",
+      "speaker": "Sting",
+      "en": "...Something happen? I heard the lieutenant scream...",
+      "display_variant": "en",
+      "display_text": "「...Something happen? I heard the\nlieutenant scream...」"
+    },
+    {
+      "id": "c02_07e50",
+      "speaker": "Auel",
+      "en": "What is this thing! It's kind of great!",
+      "display_variant": "en",
+      "display_text": "「What is this thing! It's kind of great!」"
+    },
+    {
+      "id": "c02_07e80",
+      "speaker": "Anemone",
+      "en": "Gulliver! So this is where you were!",
+      "display_variant": "en",
+      "display_text": "「Gulliver! So this is where you were!」"
+    },
+    {
+      "id": "c02_07eb0",
+      "speaker": "Mouar",
+      "en": "Is it your pet?",
+      "display_variant": "en",
+      "display_text": "「Is it your pet?」"
+    },
+    {
+      "id": "c02_07ed0",
+      "speaker": "Anemone",
+      "en": "Nope, we're friends! Right, Gulliver?",
+      "display_variant": "en",
+      "display_text": "「Nope, we're friends! Right, Gulliver?」"
+    },
+    {
+      "id": "c02_07f10",
+      "speaker": "Anemone",
+      "en": "Aha...! Look, it's happy!",
+      "display_variant": "en",
+      "display_text": "「Aha...! Look, it's happy!」"
+    },
+    {
+      "id": "c02_07f40",
+      "speaker": "Stella",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c02_07f60",
+      "speaker": "Anemone",
+      "en": "Wh-what's your problem...!?",
+      "display_variant": "en",
+      "display_text": "「Wh-what's your problem...!?」"
+    },
+    {
+      "id": "c02_07f90",
+      "speaker": "Stella",
+      "en": "Can I... pet it?",
+      "display_variant": "en",
+      "display_text": "「Can I... pet it?」"
+    },
+    {
+      "id": "c02_07fb0",
+      "speaker": "Anemone",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c02_07fd0",
+      "speaker": "Stella",
+      "en": "Cute.",
+      "display_variant": "en",
+      "display_text": "「Cute.」"
+    },
+    {
+      "id": "c02_07ff0",
+      "speaker": "Anemone",
+      "en": "Sure. Just be gentle, this one's delicate.",
+      "display_variant": "en",
+      "display_text": "「Sure. Just be gentle, this one's\ndelicate.」"
+    },
+    {
+      "id": "c02_08040",
+      "speaker": "Stella",
+      "en": "Thank you.",
+      "display_variant": "en",
+      "display_text": "「Thank you.」"
+    },
+    {
+      "id": "c02_08060",
+      "speaker": "Sting",
+      "en": "Pretty pathetic, Lieutenant. Screaming over something like an oversized rat.",
+      "display_variant": "en",
+      "display_text": "「Pretty pathetic, Lieutenant. Screaming\nover something like an oversized rat.」"
+    },
+    {
+      "id": "c02_080b0",
+      "speaker": "Auel",
+      "en": "Wait, huh! Isn't that a bear!?",
+      "display_variant": "en",
+      "display_text": "「Wait, huh! Isn't that a bear!?」"
+    },
+    {
+      "id": "c02_080e0",
+      "speaker": "Kacricon",
+      "en": "That doesn't matter right now...! The problem is having a sloth on a warship in the middle of an operation!",
+      "display_variant": "fit",
+      "display_text": "「That doesn't matter now...! The problem\nis having a sloth on a warship\nmid-operation!」"
+    },
+    {
+      "id": "c02_08140",
+      "speaker": "Jerid",
+      "en": "Cut her some slack. It's probably Anemone's pet.",
+      "display_variant": "en",
+      "display_text": "「Cut her some slack. It's probably\nAnemone's pet.」"
+    },
+    {
+      "id": "c02_08180",
+      "speaker": "Kacricon",
+      "en": "But still...!",
+      "display_variant": "en",
+      "display_text": "「But still...!」"
+    },
+    {
+      "id": "c02_081a0",
+      "speaker": "Jerid",
+      "en": "All that matters is getting the job done. That's just how a special duty force works, isn't it?",
+      "display_variant": "fit",
+      "display_text": "「All that matters is getting the job\ndone. That's how a special duty force\nworks, isn't it?」"
+    },
+    {
+      "id": "c02_08200",
+      "speaker": "Mouar",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c02_08220",
+      "speaker": "Jerid",
+      "en": "What's wrong, Ensign? Something strange about what I said?",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Ensign? Something strange\nabout what I said?」"
+    },
+    {
+      "id": "c02_08260",
+      "speaker": "Mouar",
+      "en": "It's the same as what happened the other day -- you really are all about ability, aren't you, Lieutenant.",
+      "display_variant": "fit",
+      "display_text": "「Same as what happened the other day\n-- you're really all about ability, aren't\nyou, Lieutenant.」"
+    },
+    {
+      "id": "c02_082b0",
+      "speaker": "Jerid",
+      "en": "It's this kind of world now... I never thought I could get by on the Titans name alone.",
+      "display_variant": "en",
+      "display_text": "「It's this kind of world now... I never\nthought I could get by on the Titans\nname alone.」"
+    },
+    {
+      "id": "c02_08310",
+      "speaker": "Jerid",
+      "en": "And I've learned the hard way what it means not to have the strength to protect what matters.",
+      "display_variant": "fit",
+      "display_text": "「And I've learned the hard way what it\nmeans to lack the strength to protect\nwhat matters.」"
+    },
+    {
+      "id": "c02_08380",
+      "speaker": "Jerid",
+      "en": "I'm going to get everything by becoming a stronger man... I plan to make the most of this chance I got, being picked for this special duty force.",
+      "display_variant": "fit",
+      "display_text": "「I'll get everything by growing\nstronger... I'll make the most of being\npicked for this special duty force.」"
+    },
+    {
+      "id": "c02_08400",
+      "speaker": "Jerid",
+      "en": "That's about the size of it, as far as how I think.",
+      "display_variant": "en",
+      "display_text": "「That's about the size of it, as far as\nhow I think.」"
+    },
+    {
+      "id": "c02_08430",
+      "speaker": "Mouar",
+      "en": "Understood, Lieutenant.",
+      "display_variant": "en",
+      "display_text": "「Understood, Lieutenant.」"
+    },
+    {
+      "id": "c02_08450",
+      "speaker": "Jerid",
+      "en": "I saw your skill in the last battle, Ensign. You can just call me Jerid.",
+      "display_variant": "en",
+      "display_text": "「I saw your skill in the last battle,\nEnsign. You can just call me Jerid.」"
+    },
+    {
+      "id": "c02_084a0",
+      "speaker": "Mouar",
+      "en": "Huh...",
+      "display_variant": "en",
+      "display_text": "「Huh...」"
+    },
+    {
+      "id": "c02_084c0",
+      "speaker": "Jerid",
+      "en": "I'm all about results, Mouar. If I'm going to trust someone to watch my back, I want to deal with them as equals.",
+      "display_variant": "fit",
+      "display_text": "「I'm all about results, Mouar. If I'm\ntrusting someone to watch my back, I\nwant to deal with them as equals.」"
+    },
+    {
+      "id": "c02_08520",
+      "speaker": "Mouar",
+      "en": "Understood... Jerid.",
+      "display_variant": "en",
+      "display_text": "「Understood... Jerid.」"
+    },
+    {
+      "id": "c02_08550",
+      "speaker": "Lowen",
+      "en": "Scramble! Everyone, prepare to launch!",
+      "display_variant": "en",
+      "display_text": "「Scramble! Everyone, prepare to launch!」"
+    },
+    {
+      "id": "c02_08590",
+      "speaker": "Sting",
+      "en": "What's going on, Captain? Enemy attack...!?",
+      "display_variant": "en",
+      "display_text": "「What's going on, Captain? Enemy\nattack...!?」"
+    },
+    {
+      "id": "c02_085d0",
+      "speaker": "Lowen",
+      "en": "We've caught BG. Moving into pursuit right away.",
+      "display_variant": "en",
+      "display_text": "「We've caught BG. Moving into pursuit\nright away.」"
+    },
+    {
+      "id": "c02_08610",
+      "speaker": "Jerid",
+      "en": "Finding the target this fast, now that's lucky! Let's go, Mouar!",
+      "display_variant": "en",
+      "display_text": "「Finding the target this fast, now\nthat's lucky! Let's go, Mouar!」"
+    },
+    {
+      "id": "c02_08660",
+      "speaker": "Mouar",
+      "en": "Jerid... I'll hold you to that.",
+      "display_variant": "en",
+      "display_text": "（Jerid... I'll hold you to that.）"
+    },
+    {
+      "id": "c02_086b0",
+      "speaker": "Neo",
+      "en": "You saved us, Shagia Frost. Back-to-back fights with that tough Hundred Demon Empire were rough, that's for sure.",
+      "display_variant": "fit",
+      "display_text": "「You saved us, Shagia Frost. Those\nback-to-back fights with the Hundred\nDemon Empire were brutal, for sure.」"
+    },
+    {
+      "id": "c02_08720",
+      "speaker": "Shagia",
+      "en": "Glad we made it in time. It wouldn't do the whole army much good if the special duty force got wiped out halfway through its mission.",
+      "display_variant": "fit",
+      "display_text": "「Glad we made it in time. It'd be bad\nfor the whole army if the special duty\nforce got wiped out mid-mission.」"
+    },
+    {
+      "id": "c02_08790",
+      "speaker": "Jurgens",
+      "en": "Still, I have to say I'm surprised. I'd heard civilian collaborators were joining, but I didn't expect a Breaker among them.",
+      "display_variant": "fit",
+      "display_text": "「Still, I'm surprised. I'd heard civilian\ncollaborators were joining, but not that a\nBreaker would be among them.」"
+    },
+    {
+      "id": "c02_08800",
+      "speaker": "Olba",
+      "en": "As for that, it seems Sibe Rail, as the one providing the manpower, was given a fair amount of discretion.",
+      "display_variant": "fit",
+      "display_text": "「As for that, Sibe Rail, providing the\nmanpower, seems to have been given a\nfair amount of discretion.」"
+    },
+    {
+      "id": "c02_08860",
+      "speaker": "Jurgens",
+      "en": "But with a unit this mixed together, we can't rely on standard military tactics.",
+      "display_variant": "en",
+      "display_text": "「But with a unit this mixed together, we\ncan't rely on standard military tactics.」"
+    },
+    {
+      "id": "c02_088b0",
+      "speaker": "Shagia",
+      "en": "With respect, Captain, $c is made up of an even more varied group of members than we are.",
+      "display_variant": "en",
+      "display_text": "「With respect, Captain, $c is made up\nof an even more varied group of members\nthan we are.」"
+    },
+    {
+      "id": "c02_08910",
+      "speaker": "Olba",
+      "en": "That may be why... their tactics are so diverse and flexible, and it's earned them plenty of results.",
+      "display_variant": "fit",
+      "display_text": "「That may be why... their tactics are\ndiverse and flexible, earning them plenty\nof results.」"
+    },
+    {
+      "id": "c02_08970",
+      "speaker": "Asuham",
+      "en": "Much as I hate to admit it, that's the truth. Even Sibe Rail's elite guard lost to them, right at Yapan's doorstep.",
+      "display_variant": "fit",
+      "display_text": "「Much as I hate to admit it, that's\ntrue. Even Sibe Rail's elite guard lost to\nthem, right at Yapan's doorstep.」"
+    },
+    {
+      "id": "c02_089e0",
+      "speaker": "Neo",
+      "en": "Thinking about it that way, I can start to see the point of putting this unit together.",
+      "display_variant": "en",
+      "display_text": "「Thinking about it that way, I can start\nto see the point of putting this unit\ntogether.」"
+    },
+    {
+      "id": "c02_08a30",
+      "speaker": "Schlan",
+      "en": "How do you mean?",
+      "display_variant": "en",
+      "display_text": "「How do you mean?」"
+    },
+    {
+      "id": "c02_08a50",
+      "speaker": "Neo",
+      "en": "I'd guess the higher-ups are trying to learn from that $c.",
+      "display_variant": "en",
+      "display_text": "「I'd guess the higher-ups are trying to\nlearn from that $c.」"
+    },
+    {
+      "id": "c02_08a90",
+      "speaker": "Neo",
+      "en": "And while they're at it, probably building a unit with the same concept, to study tactics for beating them.",
+      "display_variant": "fit",
+      "display_text": "「And while at it, probably building a\nunit with the same concept, to study\ntactics for beating them.」"
+    },
+    {
+      "id": "c02_08af0",
+      "speaker": "Schlan",
+      "en": "Tracking down an unidentified target while also building a model case for new tactics... it's not an unreasonable idea.",
+      "display_variant": "fit",
+      "display_text": "「Tracking an unidentified target while\nbuilding a model case for new tactics...\nnot an unreasonable idea.」"
+    },
+    {
+      "id": "c02_08b60",
+      "speaker": "Neo",
+      "en": "Just my own guess, is all. ...By the way, Shagia Frost, how's the rest of our members joining up?",
+      "display_variant": "fit",
+      "display_text": "「Just my own guess. ...By the way,\nShagia Frost, how's the rest of our\nmembers joining up?」"
+    },
+    {
+      "id": "c02_08bd0",
+      "speaker": "Neo",
+      "en": "I hear there's a pilot being sent from Augusta...",
+      "display_variant": "en",
+      "display_text": "「I hear there's a pilot being sent from\nAugusta...」"
+    },
+    {
+      "id": "c02_08c20",
+      "speaker": "Jurgens",
+      "en": "Augusta...? Was there even a base out there?",
+      "display_variant": "en",
+      "display_text": "「Augusta...? Was there even a base out\nthere?」"
+    },
+    {
+      "id": "c02_08c60",
+      "speaker": "Neo",
+      "en": "Apparently there's some facility called the Newtype Research Institute.",
+      "display_variant": "en",
+      "display_text": "「Apparently there's some facility called\nthe Newtype Research Institute.」"
+    },
+    {
+      "id": "c02_08ca0",
+      "speaker": "Jurgens",
+      "en": "Newtype?",
+      "display_variant": "en",
+      "display_text": "「Newtype?」"
+    },
+    {
+      "id": "c02_08cc0",
+      "speaker": "Schlan",
+      "en": "Someone with an extraordinarily heightened sensitivity, beyond the norm... If I had to give a partial definition, that's about how I'd put it.",
+      "display_variant": "fit",
+      "display_text": "「Someone with extraordinarily heightened\nsensitivity beyond the norm -- that's a\npartial definition, at least.」"
+    },
+    {
+      "id": "c02_08d30",
+      "speaker": "Schlan",
+      "en": "At Augusta, they're researching military applications for people with that kind of ability.",
+      "display_variant": "fit",
+      "display_text": "「At Augusta, they're researching military\nuses for people with that kind of ability.」"
+    },
+    {
+      "id": "c02_08d90",
+      "speaker": "Shagia",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c02_08db0",
+      "speaker": "Olba",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c02_08dd0",
+      "speaker": "Neo",
+      "en": "What's wrong? Something on your mind?",
+      "display_variant": "en",
+      "display_text": "「What's wrong? Something on your mind?」"
+    },
+    {
+      "id": "c02_08e10",
+      "speaker": "Olba",
+      "en": "No... it's nothing.",
+      "display_variant": "en",
+      "display_text": "「No... it's nothing.」"
+    },
+    {
+      "id": "c02_08e40",
+      "speaker": "Shagia",
+      "en": "As for that personnel and equipment from Augusta, they're scheduled to join us at McConnell Base, up ahead.",
+      "display_variant": "fit",
+      "display_text": "「That personnel and equipment from\nAugusta are scheduled to join us at\nMcConnell Base, up ahead.」"
+    },
+    {
+      "id": "c02_08eb0",
+      "speaker": "Neo",
+      "en": "I see... We'll use that time to sort out what we know about BG as well.",
+      "display_variant": "en",
+      "display_text": "「I see... We'll use that time to sort out\nwhat we know about BG as well.」"
+    },
+    {
+      "id": "c02_08f00",
+      "speaker": "Neo",
+      "en": "Captain, set course for McConnell. We're going to pick up our new members.",
+      "display_variant": "en",
+      "display_text": "「Captain, set course for McConnell. We're\ngoing to pick up our new members.」"
+    },
+    {
+      "id": "c02_08f50",
+      "speaker": "Jurgens",
+      "en": "Understood.",
+      "display_variant": "en",
+      "display_text": "「Understood.」"
+    },
+    {
+      "id": "c02_08f80",
+      "speaker": "Kejinan",
+      "en": "This is bad, Miss Cynthia. Word is the ship's about to head out any minute.",
+      "display_variant": "en",
+      "display_text": "「This is bad, Miss Cynthia. Word is the\nship's about to head out any minute.」"
+    },
+    {
+      "id": "c02_08fd0",
+      "speaker": "Cynthia",
+      "en": "That's fine. If it leaves without me, I'll just catch up in the Dominator.",
+      "display_variant": "en",
+      "display_text": "「That's fine. If it leaves without me,\nI'll just catch up in the Dominator.」"
+    },
+    {
+      "id": "c02_09020",
+      "speaker": "Enge",
+      "en": "No way...! We're in the Dogozzo! You can't just leave us behind!",
+      "display_variant": "en",
+      "display_text": "「No way...! We're in the Dogozzo! You\ncan't just leave us behind!」"
+    },
+    {
+      "id": "c02_09070",
+      "speaker": "Cynthia",
+      "en": "Then you two head back to the ship first. I'm going to finish my shopping at the bazaar before I go.",
+      "display_variant": "fit",
+      "display_text": "「Then you two head back to the ship\nfirst. I'll finish shopping at the bazaar\nbefore I go.」"
+    },
+    {
+      "id": "c02_090d0",
+      "speaker": "Kejinan",
+      "en": "Come on, have a heart. We were sent along specifically to be your bodyguards, Miss Cynthia.",
+      "display_variant": "fit",
+      "display_text": "「Come on, have a heart. We were sent\nspecifically as your bodyguards, Miss\nCynthia.」"
+    },
+    {
+      "id": "c02_09130",
+      "speaker": "Cynthia",
+      "en": "Ahahahaha, that's hilarious! Bodyguards, when you're both weaker than me!",
+      "display_variant": "en",
+      "display_text": "「Ahahahaha, that's hilarious! Bodyguards,\nwhen you're both weaker than me!」"
+    },
+    {
+      "id": "c02_09190",
+      "speaker": "Kejinan",
+      "en": "D-damn it...! It's true, so I can't even talk back...!",
+      "display_variant": "en",
+      "display_text": "（D-damn it...! It's true, so I can't even\ntalk back...!）"
+    },
+    {
+      "id": "c02_091d0",
+      "speaker": "Enge",
+      "en": "That tiny little butt, and that cute little chest you can't even tell is there or not...",
+      "display_variant": "en",
+      "display_text": "（That tiny little butt, and that cute\nlittle chest you can't even tell is there\nor not...）"
+    },
+    {
+      "id": "c02_09220",
+      "speaker": "Enge",
+      "en": "Ohh, Miss Cynthia... why do you have to be so charming, and so harsh, at the same time...",
+      "display_variant": "en",
+      "display_text": "（Ohh, Miss Cynthia... why do you have to\nbe so charming, and so harsh, at the\nsame time...）"
+    },
+    {
+      "id": "c02_09280",
+      "speaker": "Cynthia",
+      "en": "Ooh...! That brooch, it's so cute! I think I'll buy it!",
+      "display_variant": "en",
+      "display_text": "「Ooh...! That brooch, it's so cute! I\nthink I'll buy it!」"
+    },
+    {
+      "id": "c02_092c0",
+      "speaker": "Anemone",
+      "en": "Hey, what's your problem! I was about to buy that!",
+      "display_variant": "en",
+      "display_text": "「Hey, what's your problem! I was about\nto buy that!」"
+    },
+    {
+      "id": "c02_09300",
+      "speaker": "Cynthia",
+      "en": "First come, first served. Too bad for you, being so slow.",
+      "display_variant": "en",
+      "display_text": "「First come, first served. Too bad for\nyou, being so slow.」"
+    },
+    {
+      "id": "c02_09350",
+      "speaker": "Anemone",
+      "en": "Huh... you looking to start something with me?",
+      "display_variant": "en",
+      "display_text": "「Huh... you looking to start something\nwith me?」"
+    },
+    {
+      "id": "c02_09380",
+      "speaker": "Cynthia",
+      "en": "That goes for you too...! Bazaar or not, aren't you selling yourself pretty cheap!",
+      "display_variant": "en",
+      "display_text": "「That goes for you too...! Bazaar or\nnot, aren't you selling yourself pretty\ncheap!」"
+    },
+    {
+      "id": "c02_093e0",
+      "speaker": "Enge",
+      "en": "This is bad, Miss Cynthia! That pink girl over there is a member of the special duty force!",
+      "display_variant": "en",
+      "display_text": "「This is bad, Miss Cynthia! That pink\ngirl over there is a member of the\nspecial duty force!」"
+    },
+    {
+      "id": "c02_09440",
+      "speaker": "Cynthia",
+      "en": "So what, you want me to back down for her?",
+      "display_variant": "en",
+      "display_text": "「So what, you want me to back down for\nher?」"
+    },
+    {
+      "id": "c02_09480",
+      "speaker": "Enge",
+      "en": "It's not that, it's just...",
+      "display_variant": "en",
+      "display_text": "「It's not that, it's just...」"
+    },
+    {
+      "id": "c02_094a0",
+      "speaker": "Cynthia",
+      "en": "Aren't you two supposed to be my bodyguards! Then go push that girl out of the way and buy me that brooch!",
+      "display_variant": "fit",
+      "display_text": "「Aren't you two my bodyguards! Then\npush that girl aside and buy me that\nbrooch!」"
+    },
+    {
+      "id": "c02_09510",
+      "speaker": "Kejinan",
+      "en": "Are you serious!?",
+      "display_variant": "en",
+      "display_text": "「Are you serious!?」"
+    },
+    {
+      "id": "c02_09530",
+      "speaker": "Dominic",
+      "en": "What do you think you're doing, Anemone? It's already time to assemble.",
+      "display_variant": "en",
+      "display_text": "「What do you think you're doing,\nAnemone? It's already time to assemble.」"
+    },
+    {
+      "id": "c02_09570",
+      "speaker": "Anemone",
+      "en": "Perfect timing, Dominic. Go beat up that girl's bodyguards and buy me that brooch.",
+      "display_variant": "en",
+      "display_text": "「Perfect timing, Dominic. Go beat up\nthat girl's bodyguards and buy me that\nbrooch.」"
+    },
+    {
+      "id": "c02_095e0",
+      "speaker": "Dominic",
+      "en": "Wh-why me!?",
+      "display_variant": "en",
+      "display_text": "「Wh-why me!?」"
+    },
+    {
+      "id": "c02_09600",
+      "speaker": "Anemone",
+      "en": "Fine! If you won't do it, I'll take those two down myself!",
+      "display_variant": "en",
+      "display_text": "「Fine! If you won't do it, I'll take\nthose two down myself!」"
+    },
+    {
+      "id": "c02_09660",
+      "speaker": "Dominic",
+      "en": "N-no, wait!",
+      "display_variant": "en",
+      "display_text": "「N-no, wait!」"
+    },
+    {
+      "id": "c02_09680",
+      "speaker": "Cynthia",
+      "en": "Hurry up, Kejinan, Enge!",
+      "display_variant": "en",
+      "display_text": "「Hurry up, Kejinan, Enge!」"
+    },
+    {
+      "id": "c02_096b0",
+      "speaker": "Anemone",
+      "en": "Dominic! Can't you just do what I say for once!?",
+      "display_variant": "en",
+      "display_text": "「Dominic! Can't you just do what I say\nfor once!?」"
+    },
+    {
+      "id": "c02_096f0",
+      "speaker": "Lowen",
+      "en": "Finally found you... You two... playtime's over.",
+      "display_variant": "en",
+      "display_text": "「Finally found you... You two...\nplaytime's over.」"
+    },
+    {
+      "id": "c02_09740",
+      "speaker": "Lowen",
+      "en": "All right, let's get going. Both of you, back to the ship...",
+      "display_variant": "en",
+      "display_text": "「All right, let's get going. Both of you,\nback to the ship...」"
+    },
+    {
+      "id": "c02_09780",
+      "speaker": "Anemone",
+      "en": "Be quiet, you!",
+      "display_variant": "en",
+      "display_text": "「Be quiet, you!」"
+    },
+    {
+      "id": "c02_097a0",
+      "speaker": "Cynthia",
+      "en": "Don't get in the way of a girl's shopping!",
+      "display_variant": "en",
+      "display_text": "「Don't get in the way of a girl's\nshopping!」"
+    },
+    {
+      "id": "c02_097d0",
+      "speaker": "Lowen",
+      "en": "Uh... um, well...",
+      "display_variant": "en",
+      "display_text": "「Uh... um, well...」"
+    },
+    {
+      "id": "c02_097f0",
+      "speaker": "Anemone",
+      "en": "Forget it! Dominic, let's go back!",
+      "display_variant": "en",
+      "display_text": "「Forget it! Dominic, let's go back!」"
+    },
+    {
+      "id": "c02_09830",
+      "speaker": "Cynthia",
+      "en": "Ahh... what a buzzkill. Let's head back, Kejinan, Enge.",
+      "display_variant": "en",
+      "display_text": "「Ahh... what a buzzkill. Let's head back,\nKejinan, Enge.」"
+    },
+    {
+      "id": "c02_09880",
+      "speaker": "Lowen",
+      "en": "U-um... well...",
+      "display_variant": "en",
+      "display_text": "「U-um... well...」"
+    },
+    {
+      "id": "c02_098a0",
+      "speaker": "Kejinan",
+      "en": "Tough break, boss. Guess the timing was just bad.",
+      "display_variant": "en",
+      "display_text": "「Tough break, boss. Guess the timing was\njust bad.」"
+    },
+    {
+      "id": "c02_098f0",
+      "speaker": "Dominic",
+      "en": "Thank you, Captain. Somehow that settled things down.",
+      "display_variant": "en",
+      "display_text": "「Thank you, Captain. Somehow that\nsettled things down.」"
+    },
+    {
+      "id": "c02_09940",
+      "speaker": "Kejinan",
+      "en": "Well then... we'll head back first.",
+      "display_variant": "en",
+      "display_text": "「Well then... we'll head back first.」"
+    },
+    {
+      "id": "c02_09970",
+      "speaker": "Lowen",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c02_09990",
+      "speaker": "Schlan",
+      "en": "Heh... what a rotten hand you drew there, Lowen.",
+      "display_variant": "en",
+      "display_text": "「Heh... what a rotten hand you drew\nthere, Lowen.」"
+    },
+    {
+      "id": "c02_099d0",
+      "speaker": "Lowen",
+      "en": "E-even if she's just a girl, she's still a woman... Terrifying...",
+      "display_variant": "en",
+      "display_text": "「E-even if she's just a girl, she's still\na woman... Terrifying...」"
+    }
+  ]
+}

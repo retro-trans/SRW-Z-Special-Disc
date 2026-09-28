@@ -1,0 +1,2987 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c21_08510",
+      "speaker": "Garrod",
+      "en": "Man, it's gotten real late. The sun's already down.",
+      "display_variant": "en",
+      "display_text": "「Man, it's gotten real late. The sun's\nalready down.」"
+    },
+    {
+      "id": "c21_08560",
+      "speaker": "Renton",
+      "en": "Sorry, Garrod. Thanks for putting up with us.",
+      "display_variant": "en",
+      "display_text": "「Sorry, Garrod. Thanks for putting up\nwith us.」"
+    },
+    {
+      "id": "c21_085a0",
+      "speaker": "Garrod",
+      "en": "Huh... Weren't we crashing your date?",
+      "display_variant": "en",
+      "display_text": "「Huh... Weren't we crashing your date?」"
+    },
+    {
+      "id": "c21_085e0",
+      "speaker": "Renton",
+      "en": "N-no, that's not true at all!",
+      "display_variant": "en",
+      "display_text": "「N-no, that's not true at all!」"
+    },
+    {
+      "id": "c21_08610",
+      "speaker": "Renton",
+      "en": "(Even as I said that, I couldn't help feeling a little disappointed...)",
+      "display_variant": "en",
+      "display_text": "（(Even as I said that, I couldn't help\nfeeling a little disappointed...)）"
+    },
+    {
+      "id": "c21_08650",
+      "speaker": "Garrod",
+      "en": "So, did you manage to buy what you wanted, Eureka?",
+      "display_variant": "en",
+      "display_text": "「So, did you manage to buy what you\nwanted, Eureka?」"
+    },
+    {
+      "id": "c21_08690",
+      "speaker": "Eureka",
+      "en": "Yeah.",
+      "display_variant": "en",
+      "display_text": "「Yeah.」"
+    },
+    {
+      "id": "c21_086b0",
+      "speaker": "Garrod",
+      "en": "You were talking with Tiffa before we left. Did she ask you to get something?",
+      "display_variant": "en",
+      "display_text": "「You were talking with Tiffa before we\nleft. Did she ask you to get something?」"
+    },
+    {
+      "id": "c21_08700",
+      "speaker": "Eureka",
+      "en": ".......",
+      "display_variant": "en",
+      "display_text": "「.......」"
+    },
+    {
+      "id": "c21_08720",
+      "speaker": "Renton",
+      "en": "You wouldn't even let us watch you buy it. Is it something secret?",
+      "display_variant": "en",
+      "display_text": "「You wouldn't even let us watch you buy\nit. Is it something secret?」"
+    },
+    {
+      "id": "c21_08780",
+      "speaker": "Eureka",
+      "en": "I can't say.",
+      "display_variant": "en",
+      "display_text": "「I can't say.」"
+    },
+    {
+      "id": "c21_087a0",
+      "speaker": "Renton",
+      "en": "W-well... if you say it's a secret, I won't push you...",
+      "display_variant": "en",
+      "display_text": "「W-well... if you say it's a secret, I\nwon't push you...」"
+    },
+    {
+      "id": "c21_087f0",
+      "speaker": "Eureka",
+      "en": "Renton, Garrod! Look out!",
+      "display_variant": "en",
+      "display_text": "「Renton, Garrod! Look out!」"
+    },
+    {
+      "id": "c21_08830",
+      "speaker": "Renton",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c21_08850",
+      "speaker": "Garrod",
+      "en": "This is... a Shadow Angel's singing!",
+      "display_variant": "en",
+      "display_text": "「This is... a Shadow Angel's singing!」"
+    },
+    {
+      "id": "c21_08880",
+      "speaker": "Renton",
+      "en": "Then...!?",
+      "display_variant": "en",
+      "display_text": "「Then...!?」"
+    },
+    {
+      "id": "c21_088a0",
+      "speaker": "Renton",
+      "en": "T-there it is!!",
+      "display_variant": "en",
+      "display_text": "「T-there it is!!」"
+    },
+    {
+      "id": "c21_088c0",
+      "speaker": "Garrod",
+      "en": "Not just the skeletons and the flat-hands--now the Shadow Angel from Tokyo's here too!",
+      "display_variant": "en",
+      "display_text": "「Not just the skeletons and the\nflat-hands--now the Shadow Angel from\nTokyo's here too!」"
+    },
+    {
+      "id": "c21_08910",
+      "speaker": "Moroha",
+      "en": "I can feel it. The kin of those who nest in the wall between dimensions...",
+      "display_variant": "en",
+      "display_text": "「I can feel it. The kin of those who\nnest in the wall between dimensions...」"
+    },
+    {
+      "id": "c21_08950",
+      "speaker": "Eureka",
+      "en": "Is it looking at me...?",
+      "display_variant": "en",
+      "display_text": "「Is it looking at me...?」"
+    },
+    {
+      "id": "c21_08970",
+      "speaker": "Moroha",
+      "en": "Learning that one's power might help break the Infinite Prison too. I'll take her Prana...!",
+      "display_variant": "en",
+      "display_text": "「Learning that one's power might help\nbreak the Infinite Prison too. I'll take\nher Prana...!」"
+    },
+    {
+      "id": "c21_089d0",
+      "speaker": "Garrod",
+      "en": "So you mean business! Watch yourself, Renton!",
+      "display_variant": "en",
+      "display_text": "「So you mean business! Watch yourself,\nRenton!」"
+    },
+    {
+      "id": "c21_08a10",
+      "speaker": "Renton",
+      "en": "R-right!",
+      "display_variant": "en",
+      "display_text": "「R-right!」"
+    },
+    {
+      "id": "c21_08a30",
+      "speaker": "Eureka",
+      "en": "Renton... that thing is after me...",
+      "display_variant": "en",
+      "display_text": "「Renton... that thing is after me...」"
+    },
+    {
+      "id": "c21_08a60",
+      "speaker": "Renton",
+      "en": "No need to worry, Eureka. Whether it's a Shadow Angel, a demon, or the devil itself...",
+      "display_variant": "en",
+      "display_text": "「No need to worry, Eureka. Whether it's\na Shadow Angel, a demon, or the devil\nitself...」"
+    },
+    {
+      "id": "c21_08ac0",
+      "speaker": "Eureka",
+      "en": "Huh...",
+      "display_variant": "en",
+      "display_text": "「Huh...」"
+    },
+    {
+      "id": "c21_08ae0",
+      "speaker": "Renton",
+      "en": "I promised I'd protect you! So it's going to be okay, no matter what!",
+      "display_variant": "en",
+      "display_text": "「I promised I'd protect you! So it's\ngoing to be okay, no matter what!」"
+    },
+    {
+      "id": "c21_08b30",
+      "speaker": "Eureka",
+      "en": "Okay...",
+      "display_variant": "en",
+      "display_text": "「Okay...」"
+    },
+    {
+      "id": "c21_08b50",
+      "speaker": "Garrod",
+      "en": "Here they come, Renton! It's $c!",
+      "display_variant": "en",
+      "display_text": "「Here they come, Renton! It's $c!」"
+    },
+    {
+      "id": "c21_08b80",
+      "speaker": "Moroha",
+      "en": "So you've come, wingless ones.",
+      "display_variant": "en",
+      "display_text": "「So you've come, wingless ones.」"
+    },
+    {
+      "id": "c21_08ba0",
+      "speaker": "Renton",
+      "en": "Huh...? Aquarion hasn't launched...",
+      "display_variant": "en",
+      "display_text": "「Huh...? Aquarion hasn't launched...」"
+    },
+    {
+      "id": "c21_08be0",
+      "speaker": "Garrod",
+      "en": "What are you doing, Apollo!? The enemy's a Shadow Angel!",
+      "display_variant": "en",
+      "display_text": "「What are you doing, Apollo!? The\nenemy's a Shadow Angel!」"
+    },
+    {
+      "id": "c21_08c20",
+      "speaker": "Apollo",
+      "en": "Shut up! We've got our own problems over here!",
+      "display_variant": "en",
+      "display_text": "「Shut up! We've got our own problems\nover here!」"
+    },
+    {
+      "id": "c21_08c60",
+      "speaker": "Ryouma",
+      "en": "Sirius...! How's Pierre doing!?",
+      "display_variant": "en",
+      "display_text": "「Sirius...! How's Pierre doing!?」"
+    },
+    {
+      "id": "c21_08c90",
+      "speaker": "Sirius",
+      "en": "No good...! He won't come out of Vector Mars's cockpit!",
+      "display_variant": "en",
+      "display_text": "「No good...! He won't come out of Vector\nMars's cockpit!」"
+    },
+    {
+      "id": "c21_08ce0",
+      "speaker": "Pierre",
+      "en": "Dammit! Let me launch! Let me combine!!",
+      "display_variant": "en",
+      "display_text": "「Dammit! Let me launch! Let me combine!!」"
+    },
+    {
+      "id": "c21_08d30",
+      "speaker": "Silvia",
+      "en": "No, Pierre! You're in no shape to fight!",
+      "display_variant": "en",
+      "display_text": "「No, Pierre! You're in no shape to fight!」"
+    },
+    {
+      "id": "c21_08d80",
+      "speaker": "Reika",
+      "en": "Sirius, switch with Jun! You can't be the one fighting right now!",
+      "display_variant": "en",
+      "display_text": "「Sirius, switch with Jun! You can't be\nthe one fighting right now!」"
+    },
+    {
+      "id": "c21_08dd0",
+      "speaker": "Pierre",
+      "en": "Aaargh! I'm gonna fight... I have to fight!! Combine... let me combine!!",
+      "display_variant": "en",
+      "display_text": "「Aaargh! I'm gonna fight... I have to\nfight!! Combine... let me combine!!」"
+    },
+    {
+      "id": "c21_08e30",
+      "speaker": "Talho",
+      "en": "Doggy! Don't you dare open that hatch!",
+      "display_variant": "en",
+      "display_text": "「Doggy! Don't you dare open that hatch!」"
+    },
+    {
+      "id": "c21_08e70",
+      "speaker": "Talho",
+      "en": "If Pierre combines, it'll kill him!",
+      "display_variant": "en",
+      "display_text": "「If Pierre combines, it'll kill him!」"
+    },
+    {
+      "id": "c21_08ec0",
+      "speaker": "Moondoggie",
+      "en": "I know that much!",
+      "display_variant": "en",
+      "display_text": "「I know that much!」"
+    },
+    {
+      "id": "c21_08ee0",
+      "speaker": "Moroha",
+      "en": "Hmph... Solar Wing. Have you grown afraid of me?",
+      "display_variant": "en",
+      "display_text": "「Hmph... Solar Wing. Have you grown\nafraid of me?」"
+    },
+    {
+      "id": "c21_08f20",
+      "speaker": "Moroha",
+      "en": "No matter. Once I have the one who dwells beyond the dimensional wall, I'll head for the nearest city.",
+      "display_variant": "en",
+      "display_text": "「No matter. Once I have the one who\ndwells beyond the dimensional wall, I'll\nhead for the nearest city.」"
+    },
+    {
+      "id": "c21_08f70",
+      "speaker": "Pierre",
+      "en": "!",
+      "display_variant": "en",
+      "display_text": "「!」"
+    },
+    {
+      "id": "c21_08f80",
+      "speaker": "Moroha",
+      "en": "Come forth, Twin Cherubim Soldiers!",
+      "display_variant": "en",
+      "display_text": "「Come forth, Twin Cherubim Soldiers!」"
+    },
+    {
+      "id": "c21_08fb0",
+      "speaker": "Chill",
+      "en": "That dumpy thing showed up!",
+      "display_variant": "en",
+      "display_text": "「That dumpy thing showed up!」"
+    },
+    {
+      "id": "c21_08fd0",
+      "speaker": "Jiron",
+      "en": "That persistent thing again...! Fighting without Aquarion is gonna be rough!",
+      "display_variant": "en",
+      "display_text": "「That persistent thing again...! Fighting\nwithout Aquarion is gonna be rough!」"
+    },
+    {
+      "id": "c21_09020",
+      "speaker": "Pierre",
+      "en": "Let me out! Let me out! I have to go... I have to combine!!",
+      "display_variant": "en",
+      "display_text": "「Let me out! Let me out! I have to go...\nI have to combine!!」"
+    },
+    {
+      "id": "c21_09080",
+      "speaker": "Pierre",
+      "en": "I can't let them... those Shadow Angels reach San Jose!!",
+      "display_variant": "en",
+      "display_text": "「I can't let them... those Shadow Angels\nreach San Jose!!」"
+    },
+    {
+      "id": "c21_090e0",
+      "speaker": "Tsugumi",
+      "en": "San Jose...?",
+      "display_variant": "en",
+      "display_text": "「San Jose...?」"
+    },
+    {
+      "id": "c21_09100",
+      "speaker": "Jun",
+      "en": "That's the city where Pierre's family lives! It's close by, right near here!",
+      "display_variant": "en",
+      "display_text": "「That's the city where Pierre's family\nlives! It's close by, right near here!」"
+    },
+    {
+      "id": "c21_09160",
+      "speaker": "Pierre",
+      "en": "I want to protect my family... Esperansa!!",
+      "display_variant": "en",
+      "display_text": "「I want to protect my family...\nEsperansa!!」"
+    },
+    {
+      "id": "c21_091b0",
+      "speaker": "Sirius",
+      "en": "Pierre... you...",
+      "display_variant": "en",
+      "display_text": "「Pierre... you...」"
+    },
+    {
+      "id": "c21_091d0",
+      "speaker": "Apollo",
+      "en": "...Moondoggie! Open the hatch!!",
+      "display_variant": "en",
+      "display_text": "「...Moondoggie! Open the hatch!!」"
+    },
+    {
+      "id": "c21_09210",
+      "speaker": "Moondoggie",
+      "en": "But...",
+      "display_variant": "en",
+      "display_text": "「But...」"
+    },
+    {
+      "id": "c21_09230",
+      "speaker": "Sirius",
+      "en": "If you're a man, honor Pierre's feelings...! Feelings he's staking his life on!",
+      "display_variant": "en",
+      "display_text": "「If you're a man, honor Pierre's\nfeelings...! Feelings he's staking his life\non!」"
+    },
+    {
+      "id": "c21_09280",
+      "speaker": "Moondoggie",
+      "en": "Right!",
+      "display_variant": "en",
+      "display_text": "「Right!」"
+    },
+    {
+      "id": "c21_092a0",
+      "speaker": "Ryouma",
+      "en": "Pierre!",
+      "display_variant": "en",
+      "display_text": "「Pierre!」"
+    },
+    {
+      "id": "c21_092c0",
+      "speaker": "Pierre",
+      "en": "I'll do it... I'm doing this!! To protect everyone!!",
+      "display_variant": "en",
+      "display_text": "「I'll do it... I'm doing this!! To protect\neveryone!!」"
+    },
+    {
+      "id": "c21_09300",
+      "speaker": "Apollo",
+      "en": "Focus!",
+      "display_variant": "en",
+      "display_text": "「Focus!」"
+    },
+    {
+      "id": "c21_09320",
+      "speaker": "Silvia",
+      "en": "Combine!",
+      "display_variant": "en",
+      "display_text": "「Combine!」"
+    },
+    {
+      "id": "c21_09340",
+      "speaker": "Pierre",
+      "en": "GO! Aquari...oooon!!",
+      "display_variant": "en",
+      "display_text": "「GO! Aquari...oooon!!」"
+    },
+    {
+      "id": "c21_09370",
+      "speaker": "Pierre",
+      "en": "Waaaaaaaaargh!!",
+      "display_variant": "en",
+      "display_text": "「Waaaaaaaaargh!!」"
+    },
+    {
+      "id": "c21_093a0",
+      "speaker": "Pierre",
+      "en": "Aquari...oon Maaars!!",
+      "display_variant": "en",
+      "display_text": "「Aquari...oon Maaars!!」"
+    },
+    {
+      "id": "c21_093d0",
+      "speaker": "Pierre",
+      "en": "Aaargh! Fire Shoot!!",
+      "display_variant": "en",
+      "display_text": "「Aaargh! Fire Shoot!!」"
+    },
+    {
+      "id": "c21_09410",
+      "speaker": "Renton",
+      "en": "Yes! Nice shot, Pierre!",
+      "display_variant": "en",
+      "display_text": "「Yes! Nice shot, Pierre!」"
+    },
+    {
+      "id": "c21_09450",
+      "speaker": "Mischa",
+      "en": "What do you think you're doing!? Release the combination right now!",
+      "display_variant": "en",
+      "display_text": "「What do you think you're doing!?\nRelease the combination right now!」"
+    },
+    {
+      "id": "c21_094a0",
+      "speaker": "Tex",
+      "en": "At this rate I can't guarantee Pierre's life! Fall back, now!",
+      "display_variant": "en",
+      "display_text": "「At this rate I can't guarantee Pierre's\nlife! Fall back, now!」"
+    },
+    {
+      "id": "c21_09500",
+      "speaker": "Apollo",
+      "en": "Watching over him is what friends do too! I saw a flame in that guy.",
+      "display_variant": "en",
+      "display_text": "「Watching over him is what friends do\ntoo! I saw a flame in that guy.」"
+    },
+    {
+      "id": "c21_09540",
+      "speaker": "Sirius",
+      "en": "A flame that burns even at the cost of one's own life... it's simply beautiful...",
+      "display_variant": "en",
+      "display_text": "「A flame that burns even at the cost\nof one's own life... it's simply beautiful...」"
+    },
+    {
+      "id": "c21_09580",
+      "speaker": "Silvia",
+      "en": "Let's do this, Pierre...! For Esperansa's sake too!",
+      "display_variant": "en",
+      "display_text": "「Let's do this, Pierre...! For Esperansa's\nsake too!」"
+    },
+    {
+      "id": "c21_095d0",
+      "speaker": "Pierre",
+      "en": "Waaaaaaaargh!!",
+      "display_variant": "en",
+      "display_text": "「Waaaaaaaargh!!」"
+    },
+    {
+      "id": "c21_09600",
+      "speaker": "Moroha",
+      "en": "So you've come back, Solar Wing. But my servant will not fall...!",
+      "display_variant": "en",
+      "display_text": "「So you've come back, Solar Wing. But my\nservant will not fall...!」"
+    },
+    {
+      "id": "c21_09640",
+      "speaker": "Gainer",
+      "en": "It revived!?",
+      "display_variant": "en",
+      "display_text": "「It revived!?」"
+    },
+    {
+      "id": "c21_09660",
+      "speaker": "Jun",
+      "en": "T-the analysis is in! Those two Cherubim Soldiers' hearts pass back and forth between them!",
+      "display_variant": "en",
+      "display_text": "「T-the analysis is in! Those two\nCherubim Soldiers' hearts pass back and\nforth between them!」"
+    },
+    {
+      "id": "c21_096d0",
+      "speaker": "Jun",
+      "en": "It looks like right before dying, each one sends its life to the other!",
+      "display_variant": "en",
+      "display_text": "「It looks like right before dying, each\none sends its life to the other!」"
+    },
+    {
+      "id": "c21_09720",
+      "speaker": "Duke",
+      "en": "So unless we destroy the heart, it won't go down!?",
+      "display_variant": "en",
+      "display_text": "「So unless we destroy the heart, it\nwon't go down!?」"
+    },
+    {
+      "id": "c21_09760",
+      "speaker": "Kei",
+      "en": "What kind of ridiculous tech is that!",
+      "display_variant": "en",
+      "display_text": "「What kind of ridiculous tech is that!」"
+    },
+    {
+      "id": "c21_09780",
+      "speaker": "Moroha",
+      "en": "Front and back, light and shadow... that heart races back and forth between the two.",
+      "display_variant": "en",
+      "display_text": "「Front and back, light and shadow... that\nheart races back and forth between the\ntwo.」"
+    },
+    {
+      "id": "c21_097c0",
+      "speaker": "Moroha",
+      "en": "In other words, Immortal and Deathless. Think you can win against Immortal and Deathless?",
+      "display_variant": "en",
+      "display_text": "「In other words, Immortal and Deathless.\nThink you can win against Immortal and\nDeathless?」"
+    },
+    {
+      "id": "c21_09810",
+      "speaker": "$n",
+      "en": "Then I'll smash that little hiding place of yours to bits along with you!",
+      "display_variant": "en",
+      "display_text": "「Then I'll smash that little hiding place\nof yours to bits along with you!」"
+    },
+    {
+      "id": "c21_09850",
+      "speaker": "Gain",
+      "en": "If we take down both twins at the same time, they shouldn't be able to revive...!",
+      "display_variant": "en",
+      "display_text": "「If we take down both twins at the\nsame time, they shouldn't be able to\nrevive...!」"
+    },
+    {
+      "id": "c21_09890",
+      "speaker": "Marin",
+      "en": "According to my calculations, it takes it about a minute to revive!",
+      "display_variant": "en",
+      "display_text": "「According to my calculations, it takes\nit about a minute to revive!」"
+    },
+    {
+      "id": "c21_098e0",
+      "speaker": "Apollo",
+      "en": "So if we take down the other one within a minute of downing the first, it won't come back!",
+      "display_variant": "en",
+      "display_text": "「So if we take down the other one\nwithin a minute of downing the first, it\nwon't come back!」"
+    },
+    {
+      "id": "c21_09940",
+      "speaker": "Renton",
+      "en": "Garrod!",
+      "display_variant": "en",
+      "display_text": "「Garrod!」"
+    },
+    {
+      "id": "c21_09960",
+      "speaker": "Garrod",
+      "en": "Right!",
+      "display_variant": "en",
+      "display_text": "「Right!」"
+    },
+    {
+      "id": "c21_09980",
+      "speaker": "Pierre",
+      "en": "You guys...",
+      "display_variant": "en",
+      "display_text": "「You guys...」"
+    },
+    {
+      "id": "c21_099a0",
+      "speaker": "Garrod",
+      "en": "I'm in, Pierre. This Esperansa--she's the one you're serious about, right?",
+      "display_variant": "en",
+      "display_text": "「I'm in, Pierre. This Esperansa--she's\nthe one you're serious about, right?」"
+    },
+    {
+      "id": "c21_09a00",
+      "speaker": "Renton",
+      "en": "We'll set it up for you! Pierre, you just have to score the goal!",
+      "display_variant": "en",
+      "display_text": "「We'll set it up for you! Pierre, you\njust have to score the goal!」"
+    },
+    {
+      "id": "c21_09a60",
+      "speaker": "Silvia",
+      "en": "Garrod, Renton...",
+      "display_variant": "en",
+      "display_text": "「Garrod, Renton...」"
+    },
+    {
+      "id": "c21_09a90",
+      "speaker": "Apollo",
+      "en": "You guys are gonna make me cry...",
+      "display_variant": "en",
+      "display_text": "「You guys are gonna make me cry...」"
+    },
+    {
+      "id": "c21_09ac0",
+      "speaker": "Pierre",
+      "en": "Thanks, you two! And Apollo, Silvia, you too!",
+      "display_variant": "en",
+      "display_text": "「Thanks, you two! And Apollo, Silvia, you\ntoo!」"
+    },
+    {
+      "id": "c21_09b10",
+      "speaker": "Ryouma",
+      "en": "Go, Pierre! You're the one who's gonna score this!!",
+      "display_variant": "en",
+      "display_text": "「Go, Pierre! You're the one who's gonna\nscore this!!」"
+    },
+    {
+      "id": "c21_09b50",
+      "speaker": "Pierre",
+      "en": "Right! I'll give 'em the finest shot the great Pierre's got!!",
+      "display_variant": "en",
+      "display_text": "「Right! I'll give 'em the finest shot the\ngreat Pierre's got!!」"
+    },
+    {
+      "id": "c21_09bb0",
+      "speaker": "$n",
+      "en": "Alright! We wrecked the twins!",
+      "display_variant": "en",
+      "display_text": "「Alright! We wrecked the twins!」"
+    },
+    {
+      "id": "c21_09be0",
+      "speaker": "Pierre",
+      "en": "Ah... uhh...",
+      "display_variant": "en",
+      "display_text": "「Ah... uhh...」"
+    },
+    {
+      "id": "c21_09c00",
+      "speaker": "Silvia",
+      "en": "Pierre!",
+      "display_variant": "en",
+      "display_text": "「Pierre!」"
+    },
+    {
+      "id": "c21_09c20",
+      "speaker": "Apollo",
+      "en": "Pierre... did you burn yourself out...?",
+      "display_variant": "en",
+      "display_text": "「Pierre... did you burn yourself out...?」"
+    },
+    {
+      "id": "c21_09c60",
+      "speaker": "Garrod",
+      "en": "Pierre...",
+      "display_variant": "en",
+      "display_text": "「Pierre...」"
+    },
+    {
+      "id": "c21_09c80",
+      "speaker": "Renton",
+      "en": "Our assist... did it help even a little...?",
+      "display_variant": "en",
+      "display_text": "「Our assist... did it help even a\nlittle...?」"
+    },
+    {
+      "id": "c21_09cc0",
+      "speaker": "Fudo",
+      "en": "They say the character for 'person' shows two people leaning on each other for support...",
+      "display_variant": "en",
+      "display_text": "「They say the character for 'person'\nshows two people leaning on each other\nfor support...」"
+    },
+    {
+      "id": "c21_09d00",
+      "speaker": "Apollo",
+      "en": "Old man...",
+      "display_variant": "en",
+      "display_text": "「Old man...」"
+    },
+    {
+      "id": "c21_09d20",
+      "speaker": "Fudo",
+      "en": "I don't know who came up with that, but don't you think it's a load of nonsense?",
+      "display_variant": "en",
+      "display_text": "「I don't know who came up with that,\nbut don't you think it's a load of\nnonsense?」"
+    },
+    {
+      "id": "c21_09d60",
+      "speaker": "Ryouma",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c21_09d70",
+      "speaker": "Fudo",
+      "en": "Does a person who loses their support just fall down?",
+      "display_variant": "en",
+      "display_text": "「Does a person who loses their support\njust fall down?」"
+    },
+    {
+      "id": "c21_09da0",
+      "speaker": "Fudo",
+      "en": "When you're about to fall, there's something you need to do before anyone props you up. Something you must do before you can lean on each other.",
+      "display_variant": "compact",
+      "display_text": "「Before anyone props you up, there's\nsomething you must do first--the same\nthing needed to lean on each other.」"
+    },
+    {
+      "id": "c21_09e10",
+      "speaker": "Apollo",
+      "en": "You trying to say something about Pierre!?",
+      "display_variant": "en",
+      "display_text": "「You trying to say something about\nPierre!?」"
+    },
+    {
+      "id": "c21_09e40",
+      "speaker": "Fudo",
+      "en": "The thing you need to do before someone catches you when you're about to fall... is fall.",
+      "display_variant": "en",
+      "display_text": "「The thing you need to do before\nsomeone catches you when you're about to\nfall... is fall.」"
+    },
+    {
+      "id": "c21_09ea0",
+      "speaker": "Pierre",
+      "en": ".......",
+      "display_variant": "en",
+      "display_text": "「.......」"
+    },
+    {
+      "id": "c21_09ec0",
+      "speaker": "Fudo",
+      "en": "You can't stand back up until you've hit the ground completely. You haven't fallen all the way yet. Somewhere in your heart, you're still hoping someone will prop you up.",
+      "display_variant": "compact",
+      "display_text": "「You can't stand until you've fallen all\nthe way. You still want someone to prop\nyou up.」"
+    },
+    {
+      "id": "c21_09f30",
+      "speaker": "Mischa",
+      "en": "Relying on support...",
+      "display_variant": "en",
+      "display_text": "「Relying on support...」"
+    },
+    {
+      "id": "c21_09f50",
+      "speaker": "Tex",
+      "en": "Meaning... he's become dependent?",
+      "display_variant": "en",
+      "display_text": "「Meaning... he's become dependent?」"
+    },
+    {
+      "id": "c21_09f80",
+      "speaker": "Benkei",
+      "en": "They went and revived, damn it!",
+      "display_variant": "en",
+      "display_text": "「They went and revived, damn it!」"
+    },
+    {
+      "id": "c21_09fb0",
+      "speaker": "Hayato",
+      "en": "Tch! Looks like we've got to take them down at the exact same time!",
+      "display_variant": "en",
+      "display_text": "「Tch! Looks like we've got to take them\ndown at the exact same time!」"
+    },
+    {
+      "id": "c21_0a000",
+      "speaker": "Apollo",
+      "en": "Pierre, get up! This isn't over yet!!",
+      "display_variant": "en",
+      "display_text": "「Pierre, get up! This isn't over yet!!」"
+    },
+    {
+      "id": "c21_0a040",
+      "speaker": "Pierre",
+      "en": "(Was I... just wanting someone to prop me up all along...)",
+      "display_variant": "en",
+      "display_text": "（(Was I... just wanting someone to prop\nme up all along...)）"
+    },
+    {
+      "id": "c21_0a080",
+      "speaker": "Pierre",
+      "en": "(That's why I kept hitting on every girl I saw... and in the end, turned to combining for it...)",
+      "display_variant": "en",
+      "display_text": "（(That's why I kept hitting on every\ngirl I saw... and in the end, turned to\ncombining for it...)）"
+    },
+    {
+      "id": "c21_0a0e0",
+      "speaker": "Fudo",
+      "en": "Only after falling, and falling all the way, can a person finally stand.",
+      "display_variant": "en",
+      "display_text": "「Only after falling, and falling all the\nway, can a person finally stand.」"
+    },
+    {
+      "id": "c21_0a120",
+      "speaker": "Fudo",
+      "en": "Both feet planted firmly on the ground! Just like the shape of that very character!",
+      "display_variant": "en",
+      "display_text": "「Both feet planted firmly on the ground!\nJust like the shape of that very\ncharacter!」"
+    },
+    {
+      "id": "c21_0a180",
+      "speaker": "Fudo",
+      "en": "Take 'person,' spread its arms wide, and you get 'great'!",
+      "display_variant": "en",
+      "display_text": "「Take 'person,' spread its arms wide, and\nyou get 'great'!」"
+    },
+    {
+      "id": "c21_0a1b0",
+      "speaker": "Fudo",
+      "en": "Children! Become a great person... become an adult!",
+      "display_variant": "en",
+      "display_text": "「Children! Become a great person...\nbecome an adult!」"
+    },
+    {
+      "id": "c21_0a1e0",
+      "speaker": "Pierre",
+      "en": "Waaaaaaargh!!",
+      "display_variant": "en",
+      "display_text": "「Waaaaaaargh!!」"
+    },
+    {
+      "id": "c21_0a200",
+      "speaker": "Apollo",
+      "en": "Pierre! You're back on your feet!",
+      "display_variant": "en",
+      "display_text": "「Pierre! You're back on your feet!」"
+    },
+    {
+      "id": "c21_0a230",
+      "speaker": "Sirius",
+      "en": "Silvia, switch with me.",
+      "display_variant": "en",
+      "display_text": "「Silvia, switch with me.」"
+    },
+    {
+      "id": "c21_0a260",
+      "speaker": "Silvia",
+      "en": "Brother...",
+      "display_variant": "en",
+      "display_text": "「Brother...」"
+    },
+    {
+      "id": "c21_0a280",
+      "speaker": "Sirius",
+      "en": "Heh... I've been struck by Pierre's flame too. I want to stand with him today.",
+      "display_variant": "en",
+      "display_text": "「Heh... I've been struck by Pierre's\nflame too. I want to stand with him\ntoday.」"
+    },
+    {
+      "id": "c21_0a2d0",
+      "speaker": "Pierre",
+      "en": "Here I gooooo!!",
+      "display_variant": "en",
+      "display_text": "「Here I gooooo!!」"
+    },
+    {
+      "id": "c21_0a300",
+      "speaker": "Pierre",
+      "en": "I'll make it count! The winning goal!!",
+      "display_variant": "en",
+      "display_text": "「I'll make it count! The winning goal!!」"
+    },
+    {
+      "id": "c21_0a330",
+      "speaker": "Moroha",
+      "en": "Nngh...! To think you'd bring down the Twin Cherubim Soldiers...!",
+      "display_variant": "en",
+      "display_text": "「Nngh...! To think you'd bring down the\nTwin Cherubim Soldiers...!」"
+    },
+    {
+      "id": "c21_0a370",
+      "speaker": "Moroha",
+      "en": "Solar Wing! Someday I'll make use of that power of yours for our great revival!",
+      "display_variant": "en",
+      "display_text": "「Solar Wing! Someday I'll make use of\nthat power of yours for our great\nrevival!」"
+    },
+    {
+      "id": "c21_0a3c0",
+      "speaker": "Renton",
+      "en": "Amazing...! That's amazing, Pierre!",
+      "display_variant": "en",
+      "display_text": "「Amazing...! That's amazing, Pierre!」"
+    },
+    {
+      "id": "c21_0a400",
+      "speaker": "Garrod",
+      "en": "I saw it--that soul-baring winning goal of yours!",
+      "display_variant": "en",
+      "display_text": "「I saw it--that soul-baring winning goal\nof yours!」"
+    },
+    {
+      "id": "c21_0a440",
+      "speaker": "Pierre",
+      "en": "Heh heh... I guess so.",
+      "display_variant": "en",
+      "display_text": "「Heh heh... I guess so.」"
+    },
+    {
+      "id": "c21_0a460",
+      "speaker": "Ryouma",
+      "en": "You're all right now, Pierre.",
+      "display_variant": "en",
+      "display_text": "「You're all right now, Pierre.」"
+    },
+    {
+      "id": "c21_0a490",
+      "speaker": "Pierre",
+      "en": "Thanks, Ryo. And all of you too.",
+      "display_variant": "en",
+      "display_text": "「Thanks, Ryo. And all of you too.」"
+    },
+    {
+      "id": "c21_0a4d0",
+      "speaker": "Apollo",
+      "en": "Heh... don't go saying stuff that's not like you.",
+      "display_variant": "en",
+      "display_text": "「Heh... don't go saying stuff that's not\nlike you.」"
+    },
+    {
+      "id": "c21_0a500",
+      "speaker": "Pierre",
+      "en": "Thanks to everyone propping me up... I became an adult.",
+      "display_variant": "en",
+      "display_text": "「Thanks to everyone propping me up... I\nbecame an adult.」"
+    },
+    {
+      "id": "c21_0a540",
+      "speaker": "Pierre",
+      "en": "So that's the deal, Renton, Garrod. If you ever need advice about girls, come find me anytime!",
+      "display_variant": "en",
+      "display_text": "「So that's the deal, Renton, Garrod. If\nyou ever need advice about girls, come\nfind me anytime!」"
+    },
+    {
+      "id": "c21_0a5b0",
+      "speaker": "Renton",
+      "en": "Oss! Please and thank you!",
+      "display_variant": "en",
+      "display_text": "「Oss! Please and thank you!」"
+    },
+    {
+      "id": "c21_0a5e0",
+      "speaker": "Garrod",
+      "en": "Looks like the world's greatest playboy is back.",
+      "display_variant": "en",
+      "display_text": "「Looks like the world's greatest playboy\nis back.」"
+    },
+    {
+      "id": "c21_0a610",
+      "speaker": "Pierre",
+      "en": "A playboy, huh... Guess that suits me after all.",
+      "display_variant": "en",
+      "display_text": "「A playboy, huh... Guess that suits me\nafter all.」"
+    },
+    {
+      "id": "c21_0a650",
+      "speaker": "Pierre",
+      "en": "(So long, Esperansa... Be happy.)",
+      "display_variant": "en",
+      "display_text": "（(So long, Esperansa... Be happy.)）"
+    },
+    {
+      "id": "c21_0a690",
+      "speaker": "Moroha",
+      "en": "Not bad at all. But you still won't manage to bring down the Twin Cherubim Soldiers!",
+      "display_variant": "en",
+      "display_text": "「Not bad at all. But you still won't\nmanage to bring down the Twin Cherubim\nSoldiers!」"
+    },
+    {
+      "id": "c21_0a6e0",
+      "speaker": "Moroha",
+      "en": "Solar Wing! When your strength finally runs out, I'll make use of that power for our great revival!",
+      "display_variant": "en",
+      "display_text": "「Solar Wing! When your strength finally\nruns out, I'll make use of that power for\nour great revival!」"
+    },
+    {
+      "id": "c21_0a740",
+      "speaker": "Gainer",
+      "en": "It's back!",
+      "display_variant": "en",
+      "display_text": "「It's back!」"
+    },
+    {
+      "id": "c21_0a760",
+      "speaker": "Duke",
+      "en": "So unless we take both down within a minute, it'll just keep reviving forever!",
+      "display_variant": "en",
+      "display_text": "「So unless we take both down within a\nminute, it'll just keep reviving forever!」"
+    },
+    {
+      "id": "c21_0a7b0",
+      "speaker": "Pierre",
+      "en": "Then I'll just have to slam both of 'em into a hell of a goal at once! Let's go!!",
+      "display_variant": "en",
+      "display_text": "「Then I'll just have to slam both of 'em\ninto a hell of a goal at once! Let's go!!」"
+    },
+    {
+      "id": "c21_0a810",
+      "speaker": "Garrod",
+      "en": "Let's do this, Pierre! Show 'em a man on fire!",
+      "display_variant": "en",
+      "display_text": "「Let's do this, Pierre! Show 'em a man\non fire!」"
+    },
+    {
+      "id": "c21_0a850",
+      "speaker": "Renton",
+      "en": "Show some guts, Pierre! Let's go!",
+      "display_variant": "en",
+      "display_text": "「Show some guts, Pierre! Let's go!」"
+    },
+    {
+      "id": "c21_0a890",
+      "speaker": "Pierre",
+      "en": "You boys are fired up! Guess I can't afford to lose to you either!",
+      "display_variant": "en",
+      "display_text": "「You boys are fired up! Guess I can't\nafford to lose to you either!」"
+    },
+    {
+      "id": "c21_0a8d0",
+      "speaker": "Apollo",
+      "en": "Pierre... you...",
+      "display_variant": "en",
+      "display_text": "「Pierre... you...」"
+    },
+    {
+      "id": "c21_0a8f0",
+      "speaker": "Silvia",
+      "en": "(He's trying to squeeze out every last bit of strength he has...)",
+      "display_variant": "en",
+      "display_text": "（(He's trying to squeeze out every last\nbit of strength he has...)）"
+    },
+    {
+      "id": "c21_0a930",
+      "speaker": "Moroha",
+      "en": "This life force... it's like a flame!",
+      "display_variant": "en",
+      "display_text": "「This life force... it's like a flame!」"
+    },
+    {
+      "id": "c21_0a960",
+      "speaker": "Pierre",
+      "en": "That's right! Today I'm gonna burn even my soul to ash!",
+      "display_variant": "en",
+      "display_text": "「That's right! Today I'm gonna burn even\nmy soul to ash!」"
+    },
+    {
+      "id": "c21_0a9b0",
+      "speaker": "Pierre",
+      "en": "Get ready, Shadow Angel! I'm kicking you straight down to the bottom of hell!",
+      "display_variant": "en",
+      "display_text": "「Get ready, Shadow Angel! I'm kicking\nyou straight down to the bottom of hell!」"
+    },
+    {
+      "id": "c21_0aa00",
+      "speaker": "Moroha",
+      "en": "Raw, naked emotion... This wingless one's Prana is remarkably dense.",
+      "display_variant": "en",
+      "display_text": "「Raw, naked emotion... This wingless\none's Prana is remarkably dense.」"
+    },
+    {
+      "id": "c21_0aa50",
+      "speaker": "Jiron",
+      "en": "Since we eat animals too, I figure it's no different, you gathering up human lives!",
+      "display_variant": "en",
+      "display_text": "「Since we eat animals too, I figure it's\nno different, you gathering up human\nlives!」"
+    },
+    {
+      "id": "c21_0aab0",
+      "speaker": "Jiron",
+      "en": "But don't think I'll just let myself be hunted quietly! I'll fight with everything I've got to live!",
+      "display_variant": "en",
+      "display_text": "「But don't think I'll just let myself be\nhunted quietly! I'll fight with everything\nI've got to live!」"
+    },
+    {
+      "id": "c21_0ab10",
+      "speaker": "Moroha",
+      "en": "This wingless one's mechanical doll... so, an Executor after all.",
+      "display_variant": "en",
+      "display_text": "「This wingless one's mechanical doll... so,\nan Executor after all.」"
+    },
+    {
+      "id": "c21_0ab50",
+      "speaker": "Gainer",
+      "en": "An Executor...!?",
+      "display_variant": "en",
+      "display_text": "「An Executor...!?」"
+    },
+    {
+      "id": "c21_0ab70",
+      "speaker": "Moroha",
+      "en": "I'll crush you before that devil's power can awaken!",
+      "display_variant": "en",
+      "display_text": "「I'll crush you before that devil's power\ncan awaken!」"
+    },
+    {
+      "id": "c21_0abb0",
+      "speaker": "Moroha",
+      "en": "This wingless one's giant machine... looking at it stirs something strange in me.",
+      "display_variant": "en",
+      "display_text": "「This wingless one's giant machine...\nlooking at it stirs something strange in\nme.」"
+    },
+    {
+      "id": "c21_0abf0",
+      "speaker": "Duke",
+      "en": "You know of Grendizer?",
+      "display_variant": "en",
+      "display_text": "「You know of Grendizer?」"
+    },
+    {
+      "id": "c21_0ac20",
+      "speaker": "Moroha",
+      "en": "That face...! There's something in it that echoes my own! Let's settle this!",
+      "display_variant": "en",
+      "display_text": "「That face...! There's something in it\nthat echoes my own! Let's settle this!」"
+    },
+    {
+      "id": "c21_0ac70",
+      "speaker": "Benkei",
+      "en": "The Shadow Angel we fought in Tokyo!",
+      "display_variant": "en",
+      "display_text": "「The Shadow Angel we fought in Tokyo!」"
+    },
+    {
+      "id": "c21_0ac90",
+      "speaker": "Moroha",
+      "en": "A giant machine with the same system as Solar Wing! I'll crush you first!",
+      "display_variant": "en",
+      "display_text": "「A giant machine with the same system\nas Solar Wing! I'll crush you first!」"
+    },
+    {
+      "id": "c21_0ace0",
+      "speaker": "Hayato",
+      "en": "Heh... we're the ones who pioneered this system, you know.",
+      "display_variant": "en",
+      "display_text": "「Heh... we're the ones who pioneered this\nsystem, you know.」"
+    },
+    {
+      "id": "c21_0ad20",
+      "speaker": "Ryouma",
+      "en": "Here we come, Shadow Angel! I'll make you feel the power of the ones who trained the Element pilots!",
+      "display_variant": "en",
+      "display_text": "「Here we come, Shadow Angel! I'll make\nyou feel the power of the ones who\ntrained the Element pilots!」"
+    },
+    {
+      "id": "c21_0ad70",
+      "speaker": "Moroha",
+      "en": "I came here myself. I do hope that hulking body of yours isn't just for show!",
+      "display_variant": "en",
+      "display_text": "「I came here myself. I do hope that\nhulking body of yours isn't just for show!」"
+    },
+    {
+      "id": "c21_0adc0",
+      "speaker": "Marin",
+      "en": "Don't underestimate Baldios's power! I'll make you regret waltzing out here!",
+      "display_variant": "en",
+      "display_text": "「Don't underestimate Baldios's power! I'll\nmake you regret waltzing out here!」"
+    },
+    {
+      "id": "c21_0ae20",
+      "speaker": "Moroha",
+      "en": "A little runt daring to challenge me...! Know your place!",
+      "display_variant": "en",
+      "display_text": "「A little runt daring to challenge me...!\nKnow your place!」"
+    },
+    {
+      "id": "c21_0ae70",
+      "speaker": "Kei",
+      "en": "I'll have you know, I'm a whole different animal today!",
+      "display_variant": "en",
+      "display_text": "「I'll have you know, I'm a whole\ndifferent animal today!」"
+    },
+    {
+      "id": "c21_0aeb0",
+      "speaker": "Kei",
+      "en": "A playboy's pure heart... I'm giving it everything to honor Pierre's resolve!",
+      "display_variant": "en",
+      "display_text": "「A playboy's pure heart... I'm giving it\neverything to honor Pierre's resolve!」"
+    },
+    {
+      "id": "c21_0af00",
+      "speaker": "Moroha",
+      "en": "You apostle of the Great Power...! I won't let you meddle in our world ever again!",
+      "display_variant": "en",
+      "display_text": "「You apostle of the Great Power...! I\nwon't let you meddle in our world ever\nagain!」"
+    },
+    {
+      "id": "c21_0af60",
+      "speaker": "Roger",
+      "en": "I'm sick to death of coy, suggestive talk--like some reporter who's forgotten his actual job.",
+      "display_variant": "en",
+      "display_text": "「I'm sick to death of coy, suggestive\ntalk--like some reporter who's forgotten\nhis actual job.」"
+    },
+    {
+      "id": "c21_0afc0",
+      "speaker": "Roger",
+      "en": "If you mean to erase my very existence, then we need no more words...! The Big O will answer you!",
+      "display_variant": "en",
+      "display_text": "「If you mean to erase my very\nexistence, then we need no more words...!\nThe Big O will answer you!」"
+    },
+    {
+      "id": "c21_0b030",
+      "speaker": "Moroha",
+      "en": "You Messenger...! It seems you're awakening to the Great Power!",
+      "display_variant": "en",
+      "display_text": "「You Messenger...! It seems you're\nawakening to the Great Power!」"
+    },
+    {
+      "id": "c21_0b080",
+      "speaker": "Mel",
+      "en": "The Great Power... could that be Gunleon's super power!?",
+      "display_variant": "en",
+      "display_text": "「The Great Power... could that be\nGunleon's super power!?」"
+    },
+    {
+      "id": "c21_0b0d0",
+      "speaker": "$n",
+      "en": "Sorry, Yajirobei! I've got no interest in hearing you out!",
+      "display_variant": "en",
+      "display_text": "「Sorry, Yajirobei! I've got no interest in\nhearing you out!」"
+    },
+    {
+      "id": "c21_0b110",
+      "speaker": "Moroha",
+      "en": "You mean to face me head-on...! You don't know your place!",
+      "display_variant": "en",
+      "display_text": "「You mean to face me head-on...! You\ndon't know your place!」"
+    },
+    {
+      "id": "c21_0b150",
+      "speaker": "$n",
+      "en": "Pierre bet his life on combining for the woman he loved!",
+      "display_variant": "en",
+      "display_text": "「Pierre bet his life on combining for the\nwoman he loved!」"
+    },
+    {
+      "id": "c21_0b190",
+      "speaker": "$n",
+      "en": "There's no way I'm gonna let myself fall behind that guy's fire!!",
+      "display_variant": "en",
+      "display_text": "「There's no way I'm gonna let myself\nfall behind that guy's fire!!」"
+    },
+    {
+      "id": "c21_0b230",
+      "speaker": "Ryouma",
+      "en": "What is it, Pierre? You said you had something to talk to me about...",
+      "display_variant": "en",
+      "display_text": "「What is it, Pierre? You said you had\nsomething to talk to me about...」"
+    },
+    {
+      "id": "c21_0b270",
+      "speaker": "Ryouma",
+      "en": "What's with you...? That grin's kind of creepy...",
+      "display_variant": "en",
+      "display_text": "「What's with you...? That grin's kind of\ncreepy...」"
+    },
+    {
+      "id": "c21_0b2b0",
+      "speaker": "Pierre",
+      "en": "Ryo... You're the leader of the Getter Team, so you oughta understand how I feel.",
+      "display_variant": "en",
+      "display_text": "「Ryo... You're the leader of the Getter\nTeam, so you oughta understand how I\nfeel.」"
+    },
+    {
+      "id": "c21_0b310",
+      "speaker": "Ryouma",
+      "en": "So what is it? I won't know unless you actually tell me.",
+      "display_variant": "en",
+      "display_text": "「So what is it? I won't know unless you\nactually tell me.」"
+    },
+    {
+      "id": "c21_0b360",
+      "speaker": "Pierre",
+      "en": "...want...",
+      "display_variant": "en",
+      "display_text": "「...want...」"
+    },
+    {
+      "id": "c21_0b380",
+      "speaker": "Pierre",
+      "en": "I want... to combine...",
+      "display_variant": "en",
+      "display_text": "「I want... to combine...」"
+    },
+    {
+      "id": "c21_0b3a0",
+      "speaker": "Pierre",
+      "en": "I want to combine so bad I can't stand it!!",
+      "display_variant": "en",
+      "display_text": "「I want to combine so bad I can't stand\nit!!」"
+    },
+    {
+      "id": "c21_0b3e0",
+      "speaker": "Ryouma",
+      "en": "P-Pierre...",
+      "display_variant": "en",
+      "display_text": "「P-Pierre...」"
+    },
+    {
+      "id": "c21_0b440",
+      "speaker": "Sirius",
+      "en": "Something's off about Pierre?",
+      "display_variant": "en",
+      "display_text": "「Something's off about Pierre?」"
+    },
+    {
+      "id": "c21_0b470",
+      "speaker": "Hayato",
+      "en": "Yeah. One second he's weirdly hyped up, the next he's totally down in the dumps.",
+      "display_variant": "en",
+      "display_text": "「Yeah. One second he's weirdly hyped up,\nthe next he's totally down in the dumps.」"
+    },
+    {
+      "id": "c21_0b4c0",
+      "speaker": "Benkei",
+      "en": "Those mood swings are so bad, I'd call it a sickness.",
+      "display_variant": "en",
+      "display_text": "「Those mood swings are so bad, I'd call\nit a sickness.」"
+    },
+    {
+      "id": "c21_0b500",
+      "speaker": "Jun",
+      "en": "He's just not right. He keeps muttering 'combine, combine' under his breath... It doesn't seem like the usual cheerful Pierre at all.",
+      "display_variant": "compact",
+      "display_text": "「He's not right. He mutters 'combine,\ncombine' nonstop... not like the usual\ncheerful Pierre.」"
+    },
+    {
+      "id": "c21_0b570",
+      "speaker": "Michiru",
+      "en": "I wonder if something shocked him...",
+      "display_variant": "en",
+      "display_text": "「I wonder if something shocked him...」"
+    },
+    {
+      "id": "c21_0b5a0",
+      "speaker": "Lieea",
+      "en": "Maybe it's from getting elbowed off every time he hits on a girl?",
+      "display_variant": "en",
+      "display_text": "「Maybe it's from getting elbowed off\nevery time he hits on a girl?」"
+    },
+    {
+      "id": "c21_0b5f0",
+      "speaker": "Maai",
+      "en": "But that's just business as usual for him.",
+      "display_variant": "en",
+      "display_text": "「But that's just business as usual for\nhim.」"
+    },
+    {
+      "id": "c21_0b620",
+      "speaker": "Kei",
+      "en": "True. If he let that get him down, he couldn't keep up the playboy act at all.",
+      "display_variant": "en",
+      "display_text": "「True. If he let that get him down, he\ncouldn't keep up the playboy act at all.」"
+    },
+    {
+      "id": "c21_0b670",
+      "speaker": "Orson",
+      "en": "Sheesh... If you were even a little more sensitive, my life would be a lot more peaceful...",
+      "display_variant": "en",
+      "display_text": "「Sheesh... If you were even a little more\nsensitive, my life would be a lot more\npeaceful...」"
+    },
+    {
+      "id": "c21_0b6d0",
+      "speaker": "Sirius",
+      "en": "...Now that I think of it, when Commander Fudo came by the other day, it looked like he received some kind of letter.",
+      "display_variant": "fit",
+      "display_text": "「...Now I think of it, when Commander\nFudo stopped by the other day, he seemed\nto have received some kind of letter.」"
+    },
+    {
+      "id": "c21_0b740",
+      "speaker": "Roybea",
+      "en": "I heard about that letter. Apparently it was from his family back home.",
+      "display_variant": "en",
+      "display_text": "「I heard about that letter. Apparently\nit was from his family back home.」"
+    },
+    {
+      "id": "c21_0b790",
+      "speaker": "Ryouma",
+      "en": "So Pierre's family is here in this multiverse too...",
+      "display_variant": "en",
+      "display_text": "「So Pierre's family is here in this\nmultiverse too...」"
+    },
+    {
+      "id": "c21_0b7d0",
+      "speaker": "Silvia",
+      "en": "That's right. I heard they're living here in South Ameria.",
+      "display_variant": "en",
+      "display_text": "「That's right. I heard they're living here\nin South Ameria.」"
+    },
+    {
+      "id": "c21_0b810",
+      "speaker": "Sirius",
+      "en": "Pierre's odd behavior might have something to do with that letter.",
+      "display_variant": "en",
+      "display_text": "「Pierre's odd behavior might have\nsomething to do with that letter.」"
+    },
+    {
+      "id": "c21_0b860",
+      "speaker": "Witz",
+      "en": ".......",
+      "display_variant": "en",
+      "display_text": "「.......」"
+    },
+    {
+      "id": "c21_0b880",
+      "speaker": "Kei",
+      "en": "What's wrong, Witz? You got some idea what this is about?",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Witz? You got some idea\nwhat this is about?」"
+    },
+    {
+      "id": "c21_0b8c0",
+      "speaker": "Witz",
+      "en": "Well... it ain't that I got an idea exactly, it's just... y'know... something's kinda bugging me...",
+      "display_variant": "en",
+      "display_text": "「Well... it ain't that I got an idea\nexactly, it's just... y'know... something's\nkinda bugging me...」"
+    },
+    {
+      "id": "c21_0b920",
+      "speaker": "Toniya",
+      "en": "That's a pretty wishy-washy way to put it. What's bugging you, exactly?",
+      "display_variant": "en",
+      "display_text": "「That's a pretty wishy-washy way to\nput it. What's bugging you, exactly?」"
+    },
+    {
+      "id": "c21_0b960",
+      "speaker": "Witz",
+      "en": "Well, uh... it's just...",
+      "display_variant": "en",
+      "display_text": "「Well, uh... it's just...」"
+    },
+    {
+      "id": "c21_0b980",
+      "speaker": "Roybea",
+      "en": "What now? Looks like Witz has gone weird on us too.",
+      "display_variant": "en",
+      "display_text": "「What now? Looks like Witz has gone\nweird on us too.」"
+    },
+    {
+      "id": "c21_0b9c0",
+      "speaker": "Pala",
+      "en": "This is kinda creepy... Just spit it out already.",
+      "display_variant": "en",
+      "display_text": "「This is kinda creepy... Just spit it out\nalready.」"
+    },
+    {
+      "id": "c21_0b9f0",
+      "speaker": "Toniya",
+      "en": "This isn't like you at all. You're usually so blunt about everything.",
+      "display_variant": "en",
+      "display_text": "「This isn't like you at all. You're\nusually so blunt about everything.」"
+    },
+    {
+      "id": "c21_0ba40",
+      "speaker": "Witz",
+      "en": "Well, see... I think he might be... in love?",
+      "display_variant": "en",
+      "display_text": "「Well, see... I think he might be... in\nlove?」"
+    },
+    {
+      "id": "c21_0ba80",
+      "speaker": "Sirius",
+      "en": "Love...!?",
+      "display_variant": "en",
+      "display_text": "「Love...!?」"
+    },
+    {
+      "id": "c21_0baa0",
+      "speaker": "Roybea",
+      "en": "Heh... never thought I'd hear a word like that out of Witz's mouth.",
+      "display_variant": "en",
+      "display_text": "「Heh... never thought I'd hear a word\nlike that out of Witz's mouth.」"
+    },
+    {
+      "id": "c21_0baf0",
+      "speaker": "Witz",
+      "en": "That's exactly why I didn't wanna say it...!",
+      "display_variant": "en",
+      "display_text": "「That's exactly why I didn't wanna say\nit...!」"
+    },
+    {
+      "id": "c21_0bb20",
+      "speaker": "Jun",
+      "en": "But Pierre, in love...?",
+      "display_variant": "en",
+      "display_text": "「But Pierre, in love...?」"
+    },
+    {
+      "id": "c21_0bb50",
+      "speaker": "Silvia",
+      "en": "Right. Being in love with every girl in the world is basically Pierre's whole way of life.",
+      "display_variant": "en",
+      "display_text": "「Right. Being in love with every girl in\nthe world is basically Pierre's whole way\nof life.」"
+    },
+    {
+      "id": "c21_0bbb0",
+      "speaker": "Kei",
+      "en": "No... maybe he's narrowed that 'every girl in the world' down to just one.",
+      "display_variant": "en",
+      "display_text": "「No... maybe he's narrowed that 'every\ngirl in the world' down to just one.」"
+    },
+    {
+      "id": "c21_0bc00",
+      "speaker": "Roybea",
+      "en": "So in other words, it's the real deal this time.",
+      "display_variant": "en",
+      "display_text": "「So in other words, it's the real deal\nthis time.」"
+    },
+    {
+      "id": "c21_0bc30",
+      "speaker": "Pala",
+      "en": ".......",
+      "display_variant": "en",
+      "display_text": "「.......」"
+    },
+    {
+      "id": "c21_0bc50",
+      "speaker": "Michiru",
+      "en": "What's wrong, Pala?",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Pala?」"
+    },
+    {
+      "id": "c21_0bc70",
+      "speaker": "Pala",
+      "en": "I... I just figured out who Pierre's in love with.",
+      "display_variant": "en",
+      "display_text": "「I... I just figured out who Pierre's in\nlove with.」"
+    },
+    {
+      "id": "c21_0bcb0",
+      "speaker": "Silvia",
+      "en": "Really!?",
+      "display_variant": "en",
+      "display_text": "「Really!?」"
+    },
+    {
+      "id": "c21_0bcd0",
+      "speaker": "Pala",
+      "en": "These past few days... the way Pierre looks at that person hasn't been normal at all...",
+      "display_variant": "en",
+      "display_text": "「These past few days... the way Pierre\nlooks at that person hasn't been normal\nat all...」"
+    },
+    {
+      "id": "c21_0bd20",
+      "speaker": "Pala",
+      "en": "How should I put it... He looked like a wild beast staring down its prey.",
+      "display_variant": "en",
+      "display_text": "「How should I put it... He looked like a\nwild beast staring down its prey.」"
+    },
+    {
+      "id": "c21_0bd70",
+      "speaker": "Hayato",
+      "en": "A wild beast, huh... Well put.",
+      "display_variant": "en",
+      "display_text": "「A wild beast, huh... Well put.」"
+    },
+    {
+      "id": "c21_0bda0",
+      "speaker": "Ryouma",
+      "en": "Then that woman's in danger. Pala... where is she right now?",
+      "display_variant": "en",
+      "display_text": "「Then that woman's in danger. Pala...\nwhere is she right now?」"
+    },
+    {
+      "id": "c21_0bde0",
+      "speaker": "Pala",
+      "en": "I think she's probably in the Freeden's hangar.",
+      "display_variant": "en",
+      "display_text": "「I think she's probably in the Freeden's\nhangar.」"
+    },
+    {
+      "id": "c21_0be70",
+      "speaker": "Ennil",
+      "en": "What's wrong, Eureka? Do I have something on my face?",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Eureka? Do I have\nsomething on my face?」"
+    },
+    {
+      "id": "c21_0beb0",
+      "speaker": "Eureka",
+      "en": "Ennil, you always look so pretty.",
+      "display_variant": "en",
+      "display_text": "「Ennil, you always look so pretty.」"
+    },
+    {
+      "id": "c21_0bee0",
+      "speaker": "Ennil",
+      "en": "Thanks. It's nice getting complimented by another girl too.",
+      "display_variant": "en",
+      "display_text": "「Thanks. It's nice getting complimented\nby another girl too.」"
+    },
+    {
+      "id": "c21_0bf20",
+      "speaker": "Eureka",
+      "en": "Um... can I stay here with you?",
+      "display_variant": "en",
+      "display_text": "「Um... can I stay here with you?」"
+    },
+    {
+      "id": "c21_0bf50",
+      "speaker": "Ennil",
+      "en": "Sure. Though I'll be tied up with maintenance on my machine for a while.",
+      "display_variant": "en",
+      "display_text": "「Sure. Though I'll be tied up with\nmaintenance on my machine for a while.」"
+    },
+    {
+      "id": "c21_0bf90",
+      "speaker": "Eureka",
+      "en": "You really take care of that machine.",
+      "display_variant": "en",
+      "display_text": "「You really take care of that machine.」"
+    },
+    {
+      "id": "c21_0bfc0",
+      "speaker": "Ennil",
+      "en": "This Mobile Armor's name... it actually means 'hope,' you know.",
+      "display_variant": "en",
+      "display_text": "「This Mobile Armor's name... it actually\nmeans 'hope,' you know.」"
+    },
+    {
+      "id": "c21_0c010",
+      "speaker": "Ennil",
+      "en": "Riding this machine is what let me become part of $c. Just like its name promised.",
+      "display_variant": "en",
+      "display_text": "「Riding this machine is what let me\nbecome part of $c. Just like its name\npromised.」"
+    },
+    {
+      "id": "c21_0c060",
+      "speaker": "Eureka",
+      "en": "That's why I'm polishing it for you.",
+      "display_variant": "en",
+      "display_text": "「That's why I'm polishing it for you.」"
+    },
+    {
+      "id": "c21_0c090",
+      "speaker": "Ennil",
+      "en": "Fighting always leaves scratches on it. I've got to fix it up as best I can.",
+      "display_variant": "en",
+      "display_text": "「Fighting always leaves scratches on it.\nI've got to fix it up as best I can.」"
+    },
+    {
+      "id": "c21_0c0e0",
+      "speaker": "Ennil",
+      "en": "Sorry. ...I knew it, that thing on your cheek--does it bother you?",
+      "display_variant": "en",
+      "display_text": "「Sorry. ...I knew it, that thing on your\ncheek--does it bother you?」"
+    },
+    {
+      "id": "c21_0c120",
+      "speaker": "Eureka",
+      "en": "...Because I think Renton likes pretty people too.",
+      "display_variant": "en",
+      "display_text": "「...Because I think Renton likes pretty\npeople too.」"
+    },
+    {
+      "id": "c21_0c160",
+      "speaker": "Ennil",
+      "en": "You really are adorable, you know that?",
+      "display_variant": "en",
+      "display_text": "「You really are adorable, you know that?」"
+    },
+    {
+      "id": "c21_0c190",
+      "speaker": "Renton",
+      "en": "...Come on, Pierre. You could at least hear me out a little, couldn't you?",
+      "display_variant": "en",
+      "display_text": "「...Come on, Pierre. You could at least\nhear me out a little, couldn't you?」"
+    },
+    {
+      "id": "c21_0c200",
+      "speaker": "Pierre",
+      "en": "I'm busy, man. If you want advice, go bug Gainer about it.",
+      "display_variant": "en",
+      "display_text": "「I'm busy, man. If you want advice, go\nbug Gainer about it.」"
+    },
+    {
+      "id": "c21_0c250",
+      "speaker": "Garrod",
+      "en": "Gainer's no use for this. It's about girls.",
+      "display_variant": "en",
+      "display_text": "「Gainer's no use for this. It's about\ngirls.」"
+    },
+    {
+      "id": "c21_0c2a0",
+      "speaker": "Pierre",
+      "en": "Then go ask Kei or Roybea. Those two are top-tier playboys--they can handle any girl.",
+      "display_variant": "en",
+      "display_text": "「Then go ask Kei or Roybea. Those two\nare top-tier playboys--they can handle\nany girl.」"
+    },
+    {
+      "id": "c21_0c310",
+      "speaker": "Renton",
+      "en": "But everyone says those two already have someone they're serious about.",
+      "display_variant": "en",
+      "display_text": "「But everyone says those two already\nhave someone they're serious about.」"
+    },
+    {
+      "id": "c21_0c360",
+      "speaker": "Pierre",
+      "en": "Mimsy and Sara, huh...",
+      "display_variant": "en",
+      "display_text": "「Mimsy and Sara, huh...」"
+    },
+    {
+      "id": "c21_0c380",
+      "speaker": "Garrod",
+      "en": "Exactly. So the only real playboy left is you, Pierre.",
+      "display_variant": "en",
+      "display_text": "「Exactly. So the only real playboy left\nis you, Pierre.」"
+    },
+    {
+      "id": "c21_0c3e0",
+      "speaker": "Pierre",
+      "en": "A playboy, huh... Even I've got a girl I'm serious about...",
+      "display_variant": "en",
+      "display_text": "「A playboy, huh... Even I've got a girl\nI'm serious about...」"
+    },
+    {
+      "id": "c21_0c420",
+      "speaker": "Renton",
+      "en": "Huh... who is it!?",
+      "display_variant": "en",
+      "display_text": "「Huh... who is it!?」"
+    },
+    {
+      "id": "c21_0c450",
+      "speaker": "Pierre",
+      "en": "Does it matter who!?",
+      "display_variant": "en",
+      "display_text": "「Does it matter who!?」"
+    },
+    {
+      "id": "c21_0c480",
+      "speaker": "Eureka",
+      "en": "Ah... Renton...",
+      "display_variant": "en",
+      "display_text": "「Ah... Renton...」"
+    },
+    {
+      "id": "c21_0c4a0",
+      "speaker": "Renton",
+      "en": "Eureka... you were over with Ennil.",
+      "display_variant": "en",
+      "display_text": "「Eureka... you were over with Ennil.」"
+    },
+    {
+      "id": "c21_0c4e0",
+      "speaker": "Ennil",
+      "en": "Sounds like you were having an interesting talk. I'm curious who Pierre's serious about too.",
+      "display_variant": "en",
+      "display_text": "「Sounds like you were having an\ninteresting talk. I'm curious who Pierre's\nserious about too.」"
+    },
+    {
+      "id": "c21_0c540",
+      "speaker": "Ennil",
+      "en": "What's wrong? Why the scary look...?",
+      "display_variant": "en",
+      "display_text": "「What's wrong? Why the scary look...?」"
+    },
+    {
+      "id": "c21_0c570",
+      "speaker": "Pierre",
+      "en": "Ah... uhh... aaah...",
+      "display_variant": "en",
+      "display_text": "「Ah... uhh... aaah...」"
+    },
+    {
+      "id": "c21_0c590",
+      "speaker": "Renton",
+      "en": "P-Pierre...?",
+      "display_variant": "en",
+      "display_text": "「P-Pierre...?」"
+    },
+    {
+      "id": "c21_0c5c0",
+      "speaker": "Pierre",
+      "en": "Uwaaaaargh!",
+      "display_variant": "en",
+      "display_text": "「Uwaaaaargh!」"
+    },
+    {
+      "id": "c21_0c5e0",
+      "speaker": "Garrod",
+      "en": "Run, Ennil, Eureka! Something's wrong with Pierre!!",
+      "display_variant": "en",
+      "display_text": "「Run, Ennil, Eureka! Something's wrong\nwith Pierre!!」"
+    },
+    {
+      "id": "c21_0c630",
+      "speaker": "Ennil",
+      "en": "W-what's going on!?",
+      "display_variant": "en",
+      "display_text": "「W-what's going on!?」"
+    },
+    {
+      "id": "c21_0c650",
+      "speaker": "Pierre",
+      "en": "Waaaaaaaargh!!",
+      "display_variant": "en",
+      "display_text": "「Waaaaaaaargh!!」"
+    },
+    {
+      "id": "c21_0c680",
+      "speaker": "Pierre",
+      "en": "Esperansaaaaaa!!",
+      "display_variant": "en",
+      "display_text": "「Esperansaaaaaa!!」"
+    },
+    {
+      "id": "c21_0c6b0",
+      "speaker": "Renton",
+      "en": "E-Esperansa!?",
+      "display_variant": "en",
+      "display_text": "「E-Esperansa!?」"
+    },
+    {
+      "id": "c21_0c6e0",
+      "speaker": "Eureka",
+      "en": "He's nuzzling that machine...",
+      "display_variant": "en",
+      "display_text": "「He's nuzzling that machine...」"
+    },
+    {
+      "id": "c21_0c710",
+      "speaker": "Pierre",
+      "en": "Waaaaaaargh!! Esperansaaaaaa!!",
+      "display_variant": "en",
+      "display_text": "「Waaaaaaargh!! Esperansaaaaaa!!」"
+    },
+    {
+      "id": "c21_0c760",
+      "speaker": "Garrod",
+      "en": "What in the world is going on...?",
+      "display_variant": "en",
+      "display_text": "「What in the world is going on...?」"
+    },
+    {
+      "id": "c21_0c790",
+      "speaker": "Sirius",
+      "en": "Doctor, how's Pierre's condition?",
+      "display_variant": "en",
+      "display_text": "「Doctor, how's Pierre's condition?」"
+    },
+    {
+      "id": "c21_0c7c0",
+      "speaker": "Tex",
+      "en": "He's asleep right now, sedated.",
+      "display_variant": "en",
+      "display_text": "「He's asleep right now, sedated.」"
+    },
+    {
+      "id": "c21_0c7f0",
+      "speaker": "Apollo",
+      "en": "So what's the deal here? Did Pierre fall for a Mobile Armor and lose his mind?",
+      "display_variant": "en",
+      "display_text": "「So what's the deal here? Did Pierre fall\nfor a Mobile Armor and lose his mind?」"
+    },
+    {
+      "id": "c21_0c860",
+      "speaker": "Tex",
+      "en": "As for that, I attempted counseling with Tiffa and Rena's help.",
+      "display_variant": "en",
+      "display_text": "「As for that, I attempted counseling\nwith Tiffa and Rena's help.」"
+    },
+    {
+      "id": "c21_0c8c0",
+      "speaker": "Rena",
+      "en": "He was so worked up he couldn't even talk straight.",
+      "display_variant": "en",
+      "display_text": "「He was so worked up he couldn't even\ntalk straight.」"
+    },
+    {
+      "id": "c21_0c910",
+      "speaker": "Tiffa",
+      "en": "And deep in his heart, there was a darkness that no one seemed able to reach.",
+      "display_variant": "en",
+      "display_text": "「And deep in his heart, there was a\ndarkness that no one seemed able to\nreach.」"
+    },
+    {
+      "id": "c21_0c960",
+      "speaker": "Silvia",
+      "en": "A deep darkness... Pierre, of all people...",
+      "display_variant": "en",
+      "display_text": "「A deep darkness... Pierre, of all\npeople...」"
+    },
+    {
+      "id": "c21_0c990",
+      "speaker": "Tex",
+      "en": "But this concerns his privacy. Promise me you won't speak of this to anyone outside the Element.",
+      "display_variant": "en",
+      "display_text": "「But this concerns his privacy. Promise\nme you won't speak of this to anyone\noutside the Element.」"
+    },
+    {
+      "id": "c21_0ca00",
+      "speaker": "Reika",
+      "en": "Y-yes, sir...",
+      "display_variant": "en",
+      "display_text": "「Y-yes, sir...」"
+    },
+    {
+      "id": "c21_0ca20",
+      "speaker": "Tex",
+      "en": "Esperansa... that's also the name of Pierre's first love.",
+      "display_variant": "en",
+      "display_text": "「Esperansa... that's also the name of\nPierre's first love.」"
+    },
+    {
+      "id": "c21_0ca70",
+      "speaker": "Tsugumi",
+      "en": "His first love...",
+      "display_variant": "en",
+      "display_text": "「His first love...」"
+    },
+    {
+      "id": "c21_0ca90",
+      "speaker": "Tex",
+      "en": "And apparently, that Esperansa is now set to marry Pierre's older brother.",
+      "display_variant": "en",
+      "display_text": "「And apparently, that Esperansa is now\nset to marry Pierre's older brother.」"
+    },
+    {
+      "id": "c21_0cae0",
+      "speaker": "Sirius",
+      "en": "Could it be that's why Pierre...",
+      "display_variant": "en",
+      "display_text": "「Could it be that's why Pierre...」"
+    },
+    {
+      "id": "c21_0cb10",
+      "speaker": "Tex",
+      "en": "Just as you suspected. The letter Commander Fudo handed him the other day was apparently from his family, telling him the news.",
+      "display_variant": "fit",
+      "display_text": "「Just as you suspected. The letter\nCommander Fudo handed him the other day\nwas from his family, breaking the news.」"
+    },
+    {
+      "id": "c21_0cb80",
+      "speaker": "Jun",
+      "en": "So Pierre's gone strange from the shock of a broken heart?",
+      "display_variant": "en",
+      "display_text": "「So Pierre's gone strange from the shock\nof a broken heart?」"
+    },
+    {
+      "id": "c21_0cbe0",
+      "speaker": "Tex",
+      "en": "There's no doubt that stress was what triggered this whole incident.",
+      "display_variant": "en",
+      "display_text": "「There's no doubt that stress was what\ntriggered this whole incident.」"
+    },
+    {
+      "id": "c21_0cc30",
+      "speaker": "Sirius",
+      "en": "I wonder if that abnormal obsession with 'combining' is connected to it too...",
+      "display_variant": "en",
+      "display_text": "「I wonder if that abnormal obsession\nwith 'combining' is connected to it too...」"
+    },
+    {
+      "id": "c21_0cc80",
+      "speaker": "Tsugumi",
+      "en": "But, an obsession with combining...?",
+      "display_variant": "en",
+      "display_text": "「But, an obsession with combining...?」"
+    },
+    {
+      "id": "c21_0ccb0",
+      "speaker": "Tex",
+      "en": "If my hypothesis is correct, then he...",
+      "display_variant": "en",
+      "display_text": "「If my hypothesis is correct, then he...」"
+    },
+    {
+      "id": "c21_0cce0",
+      "speaker": "Mischa",
+      "en": "Doctor Tex... your hypothesis has been confirmed.",
+      "display_variant": "en",
+      "display_text": "「Doctor Tex... your hypothesis has been\nconfirmed.」"
+    },
+    {
+      "id": "c21_0cd20",
+      "speaker": "Tex",
+      "en": "Then...",
+      "display_variant": "en",
+      "display_text": "「Then...」"
+    },
+    {
+      "id": "c21_0cd40",
+      "speaker": "Mischa",
+      "en": "Judging from the Element's training data, he can be diagnosed with combination dependency.",
+      "display_variant": "en",
+      "display_text": "「Judging from the Element's training\ndata, he can be diagnosed with\ncombination dependency.」"
+    },
+    {
+      "id": "c21_0cda0",
+      "speaker": "Apollo",
+      "en": "Dependency? The what, now?",
+      "display_variant": "en",
+      "display_text": "「Dependency? The what, now?」"
+    },
+    {
+      "id": "c21_0cdd0",
+      "speaker": "Jun",
+      "en": "It means he can't live without it.",
+      "display_variant": "en",
+      "display_text": "「It means he can't live without it.」"
+    },
+    {
+      "id": "c21_0ce10",
+      "speaker": "Apollo",
+      "en": "So basically, it's a sickness where he's dying to combine!",
+      "display_variant": "en",
+      "display_text": "「So basically, it's a sickness where he's\ndying to combine!」"
+    },
+    {
+      "id": "c21_0ce40",
+      "speaker": "Silvia",
+      "en": "That's way too on the nose!",
+      "display_variant": "en",
+      "display_text": "「That's way too on the nose!」"
+    },
+    {
+      "id": "c21_0ce70",
+      "speaker": "Mischa",
+      "en": "His dopamine release during combination has spiked to abnormal levels. It's more than double what the rest of you produce.",
+      "display_variant": "fit",
+      "display_text": "「His dopamine release during combination\nhas spiked abnormally -- over double what\nthe rest of you produce.」"
+    },
+    {
+      "id": "c21_0ced0",
+      "speaker": "Sirius",
+      "en": "Dopamine... the neurotransmitter that governs pleasure?",
+      "display_variant": "en",
+      "display_text": "「Dopamine... the neurotransmitter that\ngoverns pleasure?」"
+    },
+    {
+      "id": "c21_0cf10",
+      "speaker": "Tsugumi",
+      "en": "So when Pierre combines, it feels more than twice as good to him as it does to the rest of us!?",
+      "display_variant": "en",
+      "display_text": "「So when Pierre combines, it feels more\nthan twice as good to him as it does to\nthe rest of us!?」"
+    },
+    {
+      "id": "c21_0cf70",
+      "speaker": "Reika",
+      "en": "That really could get you hooked, I guess...",
+      "display_variant": "en",
+      "display_text": "「That really could get you hooked, I\nguess...」"
+    },
+    {
+      "id": "c21_0cfa0",
+      "speaker": "Tex",
+      "en": "He likely turned to the pleasure of combining as a way to numb the shock of his heartbreak.",
+      "display_variant": "en",
+      "display_text": "「He likely turned to the pleasure of\ncombining as a way to numb the shock of\nhis heartbreak.」"
+    },
+    {
+      "id": "c21_0d000",
+      "speaker": "Tex",
+      "en": "But a state that abnormal will eventually be more than his brain can withstand.",
+      "display_variant": "en",
+      "display_text": "「But a state that abnormal will\neventually be more than his brain can\nwithstand.」"
+    },
+    {
+      "id": "c21_0d050",
+      "speaker": "Mischa",
+      "en": "By my calculations, if he combines even once more in this state...",
+      "display_variant": "en",
+      "display_text": "「By my calculations, if he combines even\nonce more in this state...」"
+    },
+    {
+      "id": "c21_0d090",
+      "speaker": "Apollo",
+      "en": "What happens!?",
+      "display_variant": "en",
+      "display_text": "「What happens!?」"
+    },
+    {
+      "id": "c21_0d0b0",
+      "speaker": "Mischa",
+      "en": "His mind will collapse.",
+      "display_variant": "en",
+      "display_text": "「His mind will collapse.」"
+    },
+    {
+      "id": "c21_0d0e0",
+      "speaker": "Silvia",
+      "en": "No way...",
+      "display_variant": "en",
+      "display_text": "「No way...」"
+    },
+    {
+      "id": "c21_0d100",
+      "speaker": "Pala",
+      "en": "Sorry to barge in on you! Have Garrod, Renton, and Eureka come by here?",
+      "display_variant": "en",
+      "display_text": "「Sorry to barge in on you! Have Garrod,\nRenton, and Eureka come by here?」"
+    },
+    {
+      "id": "c21_0d160",
+      "speaker": "Apollo",
+      "en": "Nah... haven't seen 'em.",
+      "display_variant": "en",
+      "display_text": "「Nah... haven't seen 'em.」"
+    },
+    {
+      "id": "c21_0d180",
+      "speaker": "Pala",
+      "en": "Ugh... don't tell me they went off on their own. This could be bad...",
+      "display_variant": "en",
+      "display_text": "「Ugh... don't tell me they went off on\ntheir own. This could be bad...」"
+    },
+    {
+      "id": "c21_0d1c0",
+      "speaker": "Silvia",
+      "en": "Did something happen?",
+      "display_variant": "en",
+      "display_text": "「Did something happen?」"
+    },
+    {
+      "id": "c21_0d1e0",
+      "speaker": "Pala",
+      "en": "We picked up a high-dimensional quantum reaction nearby.",
+      "display_variant": "en",
+      "display_text": "「We picked up a high-dimensional quantum\nreaction nearby.」"
+    },
+    {
+      "id": "c21_0d220",
+      "speaker": "Apollo",
+      "en": "The Shadow Angels showed up, didn't they!",
+      "display_variant": "en",
+      "display_text": "「The Shadow Angels showed up, didn't\nthey!」"
+    },
+    {
+      "id": "c21_0d250",
+      "speaker": "Tiffa",
+      "en": "Ah...",
+      "display_variant": "en",
+      "display_text": "「Ah...」"
+    },
+    {
+      "id": "c21_0d270",
+      "speaker": "Pala",
+      "en": "Tiffa... do you know where Garrod and the others went!?",
+      "display_variant": "en",
+      "display_text": "「Tiffa... do you know where Garrod and\nthe others went!?」"
+    },
+    {
+      "id": "c21_0d2c0",
+      "speaker": "Tiffa",
+      "en": "It's because of... what I said... that Eureka...",
+      "display_variant": "en",
+      "display_text": "「It's because of... what I said... that\nEureka...」"
+    },
+    {
+      "id": "c21_0d350",
+      "speaker": "$n",
+      "en": "Pierre... he's really come into his own.",
+      "display_variant": "en",
+      "display_text": "「Pierre... he's really come into his own.」"
+    },
+    {
+      "id": "c21_0d380",
+      "speaker": "Gain",
+      "en": "It must've been a real spark for the boys.",
+      "display_variant": "en",
+      "display_text": "「It must've been a real spark for the\nboys.」"
+    },
+    {
+      "id": "c21_0d3b0",
+      "speaker": "Holland",
+      "en": "Still, as long as they can be kids, kids oughta just act like kids.",
+      "display_variant": "en",
+      "display_text": "「Still, as long as they can be kids, kids\noughta just act like kids.」"
+    },
+    {
+      "id": "c21_0d400",
+      "speaker": "Roger",
+      "en": "True enough. Whether they like it or not, everyone's time to grow up comes eventually.",
+      "display_variant": "en",
+      "display_text": "「True enough. Whether they like it or\nnot, everyone's time to grow up comes\neventually.」"
+    },
+    {
+      "id": "c21_0d450",
+      "speaker": "Tex",
+      "en": "And the things they encounter in their boyhood will become a great source of strength when that time comes.",
+      "display_variant": "en",
+      "display_text": "「And the things they encounter in their\nboyhood will become a great source of\nstrength when that time comes.」"
+    },
+    {
+      "id": "c21_0d4a0",
+      "speaker": "$n",
+      "en": "So 'person' spreads its arms and becomes 'adult,' huh... Well, seems like today's little incident affected the girls too, not just the boys.",
+      "display_variant": "compact",
+      "display_text": "「'Person' spreads its arms into 'adult,'\nhuh... seems today hit the girls too, not\njust the boys.」"
+    },
+    {
+      "id": "c21_0d510",
+      "speaker": "Jamil",
+      "en": "Then let's raise tonight's drink to the future of these boys and girls.",
+      "display_variant": "en",
+      "display_text": "「Then let's raise tonight's drink to the\nfuture of these boys and girls.」"
+    },
+    {
+      "id": "c21_0d550",
+      "speaker": "Holland",
+      "en": "Well then, a toast.",
+      "display_variant": "en",
+      "display_text": "「Well then, a toast.」"
+    },
+    {
+      "id": "c21_0d570",
+      "speaker": "Gain",
+      "en": "Cheers.",
+      "display_variant": "en",
+      "display_text": "「Cheers.」"
+    },
+    {
+      "id": "c21_0d580",
+      "speaker": "$n",
+      "en": "Cheers.",
+      "display_variant": "en",
+      "display_text": "「Cheers.」"
+    },
+    {
+      "id": "c21_0d5d0",
+      "speaker": "Gidget",
+      "en": "Pierre today... he was kind of cool, wasn't he?",
+      "display_variant": "en",
+      "display_text": "「Pierre today... he was kind of cool,\nwasn't he?」"
+    },
+    {
+      "id": "c21_0d610",
+      "speaker": "Pala",
+      "en": "Yeah! I totally see him in a new light now!",
+      "display_variant": "en",
+      "display_text": "「Yeah! I totally see him in a new light\nnow!」"
+    },
+    {
+      "id": "c21_0d640",
+      "speaker": "Silvia",
+      "en": "Single-minded devotion, huh... I should take a page from that too.",
+      "display_variant": "en",
+      "display_text": "「Single-minded devotion, huh... I should\ntake a page from that too.」"
+    },
+    {
+      "id": "c21_0d680",
+      "speaker": "Tsugumi",
+      "en": "In your case, Silvia, that would be Sirius, wouldn't it...",
+      "display_variant": "en",
+      "display_text": "「In your case, Silvia, that would be\nSirius, wouldn't it...」"
+    },
+    {
+      "id": "c21_0d6d0",
+      "speaker": "Silvia",
+      "en": "Got a problem with that? Says the girl who's head over heels for Reika.",
+      "display_variant": "en",
+      "display_text": "「Got a problem with that? Says the girl\nwho's head over heels for Reika.」"
+    },
+    {
+      "id": "c21_0d710",
+      "speaker": "Tsugumi",
+      "en": "N-no... none at all!",
+      "display_variant": "en",
+      "display_text": "「N-no... none at all!」"
+    },
+    {
+      "id": "c21_0d730",
+      "speaker": "Rena",
+      "en": "Everyone's feelings are their own... but you've gotta work to make sure they're received, too.",
+      "display_variant": "en",
+      "display_text": "「Everyone's feelings are their own... but\nyou've gotta work to make sure they're\nreceived, too.」"
+    },
+    {
+      "id": "c21_0d790",
+      "speaker": "Tiffa",
+      "en": "Eureka... did you manage to buy makeup supplies?",
+      "display_variant": "en",
+      "display_text": "「Eureka... did you manage to buy makeup\nsupplies?」"
+    },
+    {
+      "id": "c21_0d7c0",
+      "speaker": "Eureka",
+      "en": "Yeah... I wasn't sure what to get, so I bought whatever the shop clerk told me to.",
+      "display_variant": "en",
+      "display_text": "「Yeah... I wasn't sure what to get, so I\nbought whatever the shop clerk told me\nto.」"
+    },
+    {
+      "id": "c21_0d810",
+      "speaker": "Gidget",
+      "en": "With this much, you're all set! It'll cover that scar just fine.",
+      "display_variant": "en",
+      "display_text": "「With this much, you're all set! It'll\ncover that scar just fine.」"
+    },
+    {
+      "id": "c21_0d860",
+      "speaker": "Gidget",
+      "en": "I could've lent you my concealer and foundation, but our skin tones don't match.",
+      "display_variant": "en",
+      "display_text": "「I could've lent you my concealer and\nfoundation, but our skin tones don't\nmatch.」"
+    },
+    {
+      "id": "c21_0d8d0",
+      "speaker": "Pala",
+      "en": "But Tiffa... you go bare-faced yourself, so it's surprising you thought of makeup.",
+      "display_variant": "en",
+      "display_text": "「But Tiffa... you go bare-faced yourself,\nso it's surprising you thought of makeup.」"
+    },
+    {
+      "id": "c21_0d920",
+      "speaker": "Tiffa",
+      "en": "I've... done it myself before.",
+      "display_variant": "en",
+      "display_text": "「I've... done it myself before.」"
+    },
+    {
+      "id": "c21_0d950",
+      "speaker": "Mel",
+      "en": "No way!",
+      "display_variant": "en",
+      "display_text": "「No way!」"
+    },
+    {
+      "id": "c21_0d970",
+      "speaker": "Tiffa",
+      "en": "I washed it off right away, but... for a little while, I felt a bit prettier.",
+      "display_variant": "en",
+      "display_text": "「I washed it off right away, but... for\na little while, I felt a bit prettier.」"
+    },
+    {
+      "id": "c21_0d9c0",
+      "speaker": "Eureka",
+      "en": "If I do my makeup, can I become pretty too?",
+      "display_variant": "en",
+      "display_text": "「If I do my makeup, can I become pretty\ntoo?」"
+    },
+    {
+      "id": "c21_0d9f0",
+      "speaker": "Gidget",
+      "en": "You can!",
+      "display_variant": "en",
+      "display_text": "「You can!」"
+    },
+    {
+      "id": "c21_0da10",
+      "speaker": "Silvia",
+      "en": "You've got great features to start with, Eureka. Just a little touch-up and your charm doubles.",
+      "display_variant": "en",
+      "display_text": "「You've got great features to start\nwith, Eureka. Just a little touch-up and\nyour charm doubles.」"
+    },
+    {
+      "id": "c21_0da60",
+      "speaker": "Tsugumi",
+      "en": "If you get prettier, Eureka, I'm sure Renton will be thrilled.",
+      "display_variant": "en",
+      "display_text": "「If you get prettier, Eureka, I'm sure\nRenton will be thrilled.」"
+    },
+    {
+      "id": "c21_0dab0",
+      "speaker": "Eureka",
+      "en": "Do you think he'll be happy?",
+      "display_variant": "en",
+      "display_text": "「Do you think he'll be happy?」"
+    },
+    {
+      "id": "c21_0dad0",
+      "speaker": "Pala",
+      "en": "He'll definitely be happy.",
+      "display_variant": "en",
+      "display_text": "「He'll definitely be happy.」"
+    },
+    {
+      "id": "c21_0daf0",
+      "speaker": "Eureka",
+      "en": "Then... I'll give it a try.",
+      "display_variant": "en",
+      "display_text": "「Then... I'll give it a try.」"
+    },
+    {
+      "id": "c21_0db20",
+      "speaker": "Gidget",
+      "en": "You sure you don't want help?",
+      "display_variant": "en",
+      "display_text": "「You sure you don't want help?」"
+    },
+    {
+      "id": "c21_0db50",
+      "speaker": "Eureka",
+      "en": "I want to try it myself.",
+      "display_variant": "en",
+      "display_text": "「I want to try it myself.」"
+    },
+    {
+      "id": "c21_0db70",
+      "speaker": "Rena",
+      "en": "So you want to stand without any support. Well then, good luck.",
+      "display_variant": "en",
+      "display_text": "「So you want to stand without any\nsupport. Well then, good luck.」"
+    },
+    {
+      "id": "c21_0dbc0",
+      "speaker": "Eureka",
+      "en": "Thank you, everyone...",
+      "display_variant": "en",
+      "display_text": "「Thank you, everyone...」"
+    },
+    {
+      "id": "c21_0dc30",
+      "speaker": "Renton",
+      "en": "...So Esperansa was Pierre's first love, huh.",
+      "display_variant": "en",
+      "display_text": "「...So Esperansa was Pierre's first love,\nhuh.」"
+    },
+    {
+      "id": "c21_0dc80",
+      "speaker": "Pierre",
+      "en": "Don't make that face, Renton. I've already moved past it.",
+      "display_variant": "en",
+      "display_text": "「Don't make that face, Renton. I've\nalready moved past it.」"
+    },
+    {
+      "id": "c21_0dcd0",
+      "speaker": "Pierre",
+      "en": "Besides, every girl in the world is my sweetheart.",
+      "display_variant": "en",
+      "display_text": "「Besides, every girl in the world is my\nsweetheart.」"
+    },
+    {
+      "id": "c21_0dd10",
+      "speaker": "Roybea",
+      "en": "That positivity of yours is a real weapon.",
+      "display_variant": "en",
+      "display_text": "「That positivity of yours is a real\nweapon.」"
+    },
+    {
+      "id": "c21_0dd40",
+      "speaker": "Kei",
+      "en": "Anyway, glad to hear the combination dependency's cured. Guess the playboy trio's back in business.",
+      "display_variant": "en",
+      "display_text": "「Anyway, glad to hear the combination\ndependency's cured. Guess the playboy\ntrio's back in business.」"
+    },
+    {
+      "id": "c21_0dda0",
+      "speaker": "Pierre",
+      "en": "You sure about that? Keep flirting around and your girl's gonna hate you for it.",
+      "display_variant": "en",
+      "display_text": "「You sure about that? Keep flirting\naround and your girl's gonna hate you for\nit.」"
+    },
+    {
+      "id": "c21_0dde0",
+      "speaker": "Roybea",
+      "en": "None of your business. I'm dead serious about her.",
+      "display_variant": "en",
+      "display_text": "「None of your business. I'm dead serious\nabout her.」"
+    },
+    {
+      "id": "c21_0de20",
+      "speaker": "Roybea",
+      "en": "Still, what really surprised me was who figured out the cause of your stress.",
+      "display_variant": "en",
+      "display_text": "「Still, what really surprised me was who\nfigured out the cause of your stress.」"
+    },
+    {
+      "id": "c21_0de80",
+      "speaker": "Gainer",
+      "en": "Who's this surprising person?",
+      "display_variant": "en",
+      "display_text": "「Who's this surprising person?」"
+    },
+    {
+      "id": "c21_0deb0",
+      "speaker": "Roybea",
+      "en": "Witz.",
+      "display_variant": "en",
+      "display_text": "「Witz.」"
+    },
+    {
+      "id": "c21_0ded0",
+      "speaker": "Moondoggie",
+      "en": "Heh... now that's a surprise.",
+      "display_variant": "en",
+      "display_text": "「Heh... now that's a surprise.」"
+    },
+    {
+      "id": "c21_0df00",
+      "speaker": "Matthieu",
+      "en": "What, here I thought you were all tough-guy stoic, but look at you, Spike.",
+      "display_variant": "en",
+      "display_text": "「What, here I thought you were all\ntough-guy stoic, but look at you, Spike.」"
+    },
+    {
+      "id": "c21_0df50",
+      "speaker": "Witz",
+      "en": "Y-yeah... I guess.",
+      "display_variant": "en",
+      "display_text": "「Y-yeah... I guess.」"
+    },
+    {
+      "id": "c21_0df70",
+      "speaker": "Roybea",
+      "en": "Maybe you're the one who's fallen for somebody too.",
+      "display_variant": "en",
+      "display_text": "「Maybe you're the one who's fallen for\nsomebody too.」"
+    },
+    {
+      "id": "c21_0dfb0",
+      "speaker": "Witz",
+      "en": "Y-you idiot! I'll have you know--!",
+      "display_variant": "en",
+      "display_text": "「Y-you idiot! I'll have you know--!」"
+    },
+    {
+      "id": "c21_0dfe0",
+      "speaker": "Renton",
+      "en": "You're turning red, Witz!",
+      "display_variant": "en",
+      "display_text": "「You're turning red, Witz!」"
+    },
+    {
+      "id": "c21_0e010",
+      "speaker": "Eureka",
+      "en": "...Renton...",
+      "display_variant": "en",
+      "display_text": "「...Renton...」"
+    },
+    {
+      "id": "c21_0e030",
+      "speaker": "Renton",
+      "en": "Hey, Eure--",
+      "display_variant": "en",
+      "display_text": "「Hey, Eure--」"
+    },
+    {
+      "id": "c21_0e050",
+      "speaker": "Renton",
+      "en": "--ka!?",
+      "display_variant": "en",
+      "display_text": "「--ka!?」"
+    },
+    {
+      "id": "c21_0e070",
+      "speaker": "Eureka",
+      "en": "How... do I look...?",
+      "display_variant": "en",
+      "display_text": "「How... do I look...?」"
+    },
+    {
+      "id": "c21_0e090",
+      "speaker": "Renton",
+      "en": "Uh... um...",
+      "display_variant": "en",
+      "display_text": "「Uh... um...」"
+    },
+    {
+      "id": "c21_0e0b0",
+      "speaker": "Moondoggie",
+      "en": "Uhh...",
+      "display_variant": "en",
+      "display_text": "「Uhh...」"
+    },
+    {
+      "id": "c21_0e0d0",
+      "speaker": "Witz",
+      "en": "Did she eat something bad or what!?",
+      "display_variant": "en",
+      "display_text": "「Did she eat something bad or what!?」"
+    },
+    {
+      "id": "c21_0e100",
+      "speaker": "Renton",
+      "en": "W-what happened to your face...?",
+      "display_variant": "en",
+      "display_text": "「W-what happened to your face...?」"
+    },
+    {
+      "id": "c21_0e130",
+      "speaker": "Renton",
+      "en": "Huh... huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh... huh...?」"
+    },
+    {
+      "id": "c21_0e150",
+      "speaker": "Kei",
+      "en": "What are you doing, Renton! Go after her, now!",
+      "display_variant": "en",
+      "display_text": "「What are you doing, Renton! Go after\nher, now!」"
+    },
+    {
+      "id": "c21_0e190",
+      "speaker": "Renton",
+      "en": "Y-yes sir!!",
+      "display_variant": "en",
+      "display_text": "「Y-yes sir!!」"
+    },
+    {
+      "id": "c21_0e1b0",
+      "speaker": "Moondoggie",
+      "en": "What was that, just now...?",
+      "display_variant": "en",
+      "display_text": "「What was that, just now...?」"
+    },
+    {
+      "id": "c21_0e1e0",
+      "speaker": "Matthieu",
+      "en": "I don't get it... I don't get it at all...!",
+      "display_variant": "en",
+      "display_text": "「I don't get it... I don't get it at\nall...!」"
+    },
+    {
+      "id": "c21_0e220",
+      "speaker": "Roybea",
+      "en": "(Good luck, Renton...)",
+      "display_variant": "en",
+      "display_text": "（(Good luck, Renton...)）"
+    },
+    {
+      "id": "c21_0e250",
+      "speaker": "Pierre",
+      "en": "(Looks like he's got a shot. Direction notwithstanding.)",
+      "display_variant": "en",
+      "display_text": "（(Looks like he's got a shot. Direction\nnotwithstanding.)）"
+    },
+    {
+      "id": "c21_0e290",
+      "speaker": "Kei",
+      "en": "(This is where a man's true mettle gets tested... Pull it off.)",
+      "display_variant": "en",
+      "display_text": "（(This is where a man's true mettle\ngets tested... Pull it off.)）"
+    },
+    {
+      "id": "c21_0e300",
+      "speaker": "Renton",
+      "en": "Wait, Eureka!",
+      "display_variant": "en",
+      "display_text": "「Wait, Eureka!」"
+    },
+    {
+      "id": "c21_0e330",
+      "speaker": "Renton",
+      "en": "Did Maetel or Linck play a prank on you?",
+      "display_variant": "en",
+      "display_text": "「Did Maetel or Linck play a prank on\nyou?」"
+    },
+    {
+      "id": "c21_0e360",
+      "speaker": "Eureka",
+      "en": "No...",
+      "display_variant": "en",
+      "display_text": "「No...」"
+    },
+    {
+      "id": "c21_0e380",
+      "speaker": "Renton",
+      "en": "Then who did something so awful...? What happened? Here... let me wipe it off, so look this way.",
+      "display_variant": "en",
+      "display_text": "「Then who did something so awful...?\nWhat happened? Here... let me wipe it off,\nso look this way.」"
+    },
+    {
+      "id": "c21_0e3f0",
+      "speaker": "Eureka",
+      "en": "No!",
+      "display_variant": "en",
+      "display_text": "「No!」"
+    },
+    {
+      "id": "c21_0e410",
+      "speaker": "Renton",
+      "en": "Eureka...",
+      "display_variant": "en",
+      "display_text": "「Eureka...」"
+    },
+    {
+      "id": "c21_0e430",
+      "speaker": "Eureka",
+      "en": "Tiffa and Gidget told me... that if I did my makeup, I could become pretty...",
+      "display_variant": "en",
+      "display_text": "「Tiffa and Gidget told me... that if I\ndid my makeup, I could become pretty...」"
+    },
+    {
+      "id": "c21_0e490",
+      "speaker": "Eureka",
+      "en": "Because... I wanted Renton to see me looking pretty... I wanted to make you happy...",
+      "display_variant": "en",
+      "display_text": "「Because... I wanted Renton to see me\nlooking pretty... I wanted to make you\nhappy...」"
+    },
+    {
+      "id": "c21_0e4f0",
+      "speaker": "Renton",
+      "en": ".......",
+      "display_variant": "en",
+      "display_text": "「.......」"
+    },
+    {
+      "id": "c21_0e510",
+      "speaker": "Eureka",
+      "en": "It really is... weird, isn't it?",
+      "display_variant": "en",
+      "display_text": "「It really is... weird, isn't it?」"
+    },
+    {
+      "id": "c21_0e530",
+      "speaker": "Renton",
+      "en": "No, you look pretty. ...But even without any makeup, you're...",
+      "display_variant": "en",
+      "display_text": "「No, you look pretty. ...But even without\nany makeup, you're...」"
+    },
+    {
+      "id": "c21_0e580",
+      "speaker": "Renton",
+      "en": "I love you, Eureka.",
+      "display_variant": "en",
+      "display_text": "「I love you, Eureka.」"
+    },
+    {
+      "id": "c21_0e5b0",
+      "speaker": "Ennil",
+      "en": "Well done, you two.",
+      "display_variant": "en",
+      "display_text": "「Well done, you two.」"
+    },
+    {
+      "id": "c21_0e5d0",
+      "speaker": "Renton",
+      "en": "E-Ennil...! You were listening!?",
+      "display_variant": "en",
+      "display_text": "「E-Ennil...! You were listening!?」"
+    },
+    {
+      "id": "c21_0e610",
+      "speaker": "Talho",
+      "en": "Ennil's not the only one who was listening.",
+      "display_variant": "en",
+      "display_text": "「Ennil's not the only one who was\nlistening.」"
+    },
+    {
+      "id": "c21_0e640",
+      "speaker": "Eureka",
+      "en": "Everyone...",
+      "display_variant": "en",
+      "display_text": "「Everyone...」"
+    },
+    {
+      "id": "c21_0e660",
+      "speaker": "Sara",
+      "en": "Just as Tiffa worried. That's the classic beginner's mistake.",
+      "display_variant": "en",
+      "display_text": "「Just as Tiffa worried. That's the\nclassic beginner's mistake.」"
+    },
+    {
+      "id": "c21_0e6a0",
+      "speaker": "Adette",
+      "en": "I already called the young ladies together.",
+      "display_variant": "en",
+      "display_text": "「I already called the young ladies\ntogether.」"
+    },
+    {
+      "id": "c21_0e6d0",
+      "speaker": "Talho",
+      "en": "Come on in, Eureka. Spread those arms of yours wide--we'll make you a little more grown-up.",
+      "display_variant": "en",
+      "display_text": "「Come on in, Eureka. Spread those arms\nof yours wide--we'll make you a little\nmore grown-up.」"
+    },
+    {
+      "id": "c21_0e730",
+      "speaker": "Adette",
+      "en": "Listen up, girls.",
+      "display_variant": "en",
+      "display_text": "「Listen up, girls.」"
+    },
+    {
+      "id": "c21_0e760",
+      "speaker": "Pala",
+      "en": "Y-yes!",
+      "display_variant": "en",
+      "display_text": "「Y-yes!」"
+    },
+    {
+      "id": "c21_0e780",
+      "speaker": "Sara",
+      "en": "At your age, you really don't need that much makeup yet.",
+      "display_variant": "en",
+      "display_text": "「At your age, you really don't need that\nmuch makeup yet.」"
+    },
+    {
+      "id": "c21_0e7c0",
+      "speaker": "Toniya",
+      "en": "Right, right. It'd be a waste not to make the most of that smooth young skin of yours.",
+      "display_variant": "en",
+      "display_text": "「Right, right. It'd be a waste not to\nmake the most of that smooth young skin\nof yours.」"
+    },
+    {
+      "id": "c21_0e810",
+      "speaker": "Silvia",
+      "en": "Uhh...",
+      "display_variant": "en",
+      "display_text": "「Uhh...」"
+    },
+    {
+      "id": "c21_0e830",
+      "speaker": "Adette",
+      "en": "(...she says, but Toniya's only seventeen herself...)",
+      "display_variant": "en",
+      "display_text": "（(...she says, but Toniya's only\nseventeen herself...)）"
+    },
+    {
+      "id": "c21_0e880",
+      "speaker": "Hilda",
+      "en": "Gidget... your makeup's been pretty heavy lately.",
+      "display_variant": "en",
+      "display_text": "「Gidget... your makeup's been pretty\nheavy lately.」"
+    },
+    {
+      "id": "c21_0e8b0",
+      "speaker": "Gidget",
+      "en": "Y-you think so?",
+      "display_variant": "en",
+      "display_text": "「Y-you think so?」"
+    },
+    {
+      "id": "c21_0e8d0",
+      "speaker": "Ennil",
+      "en": "I get wanting to look pretty. But overdoing it backfires. ...Should be about time for the sample look to be done.",
+      "display_variant": "en",
+      "display_text": "「I get wanting to look pretty. But\noverdoing it backfires. ...Should be about\ntime for the sample look to be done.」"
+    },
+    {
+      "id": "c21_0e940",
+      "speaker": "Tiffa",
+      "en": "Yes.",
+      "display_variant": "en",
+      "display_text": "「Yes.」"
+    },
+    {
+      "id": "c21_0e960",
+      "speaker": "Talho",
+      "en": "At your age, this much is plenty.",
+      "display_variant": "en",
+      "display_text": "「At your age, this much is plenty.」"
+    },
+    {
+      "id": "c21_0e9a0",
+      "speaker": "Ennil",
+      "en": "You look lovely, Eureka.",
+      "display_variant": "en",
+      "display_text": "「You look lovely, Eureka.」"
+    },
+    {
+      "id": "c21_0e9c0",
+      "speaker": "Toniya",
+      "en": "Yep, yep... perfect!",
+      "display_variant": "en",
+      "display_text": "「Yep, yep... perfect!」"
+    },
+    {
+      "id": "c21_0e9e0",
+      "speaker": "Eureka",
+      "en": "Thank you, Talho... everyone.",
+      "display_variant": "en",
+      "display_text": "「Thank you, Talho... everyone.」"
+    },
+    {
+      "id": "c21_0ea10",
+      "speaker": "Talho",
+      "en": "You be careful now. No matter how smooth men talk, in the end they're all suckers for a cute girl.",
+      "display_variant": "en",
+      "display_text": "「You be careful now. No matter how\nsmooth men talk, in the end they're all\nsuckers for a cute girl.」"
+    },
+    {
+      "id": "c21_0ea80",
+      "speaker": "Tiffa",
+      "en": "But it's fine. Renton will accept every part of Eureka.",
+      "display_variant": "en",
+      "display_text": "「But it's fine. Renton will accept every\npart of Eureka.」"
+    },
+    {
+      "id": "c21_0ead0",
+      "speaker": "Talho",
+      "en": ".......",
+      "display_variant": "en",
+      "display_text": "「.......」"
+    },
+    {
+      "id": "c21_0eaf0",
+      "speaker": "Rena",
+      "en": "That's a gentle look on your face. Is it a change on the inside... or inside your belly?",
+      "display_variant": "en",
+      "display_text": "「That's a gentle look on your face. Is\nit a change on the inside... or inside your\nbelly?」"
+    },
+    {
+      "id": "c21_0eb30",
+      "speaker": "Talho",
+      "en": "Wha...?",
+      "display_variant": "en",
+      "display_text": "「Wha...?」"
+    },
+    {
+      "id": "c21_0eb40",
+      "speaker": "Rena",
+      "en": "Take good care of that new life.",
+      "display_variant": "en",
+      "display_text": "「Take good care of that new life.」"
+    },
+    {
+      "id": "c21_0eb70",
+      "speaker": "Talho",
+      "en": "Well, this is something... Guess it's about time I told everyone.",
+      "display_variant": "en",
+      "display_text": "「Well, this is something... Guess it's\nabout time I told everyone.」"
+    },
+    {
+      "id": "c21_0ebb0",
+      "speaker": "Mel",
+      "en": "Told everyone what?",
+      "display_variant": "en",
+      "display_text": "「Told everyone what?」"
+    },
+    {
+      "id": "c21_0ebd0",
+      "speaker": "Talho",
+      "en": "Just wait a little longer. I'll explain properly to everyone.",
+      "display_variant": "en",
+      "display_text": "「Just wait a little longer. I'll explain\nproperly to everyone.」"
+    },
+    {
+      "id": "c21_0ec20",
+      "speaker": "Talho",
+      "en": "Mel... when that time comes, I want you to capture it on your camera.",
+      "display_variant": "en",
+      "display_text": "「Mel... when that time comes, I want you\nto capture it on your camera.」"
+    },
+    {
+      "id": "c21_0ec70",
+      "speaker": "Mel",
+      "en": "Leave it to me. Not totally sure what's going on, but I'll snap some perfect shots!",
+      "display_variant": "en",
+      "display_text": "「Leave it to me. Not totally sure what's\ngoing on, but I'll snap some perfect\nshots!」"
+    },
+    {
+      "id": "c21_0ecc0",
+      "speaker": "Talho",
+      "en": "Thanks. ...Guess that means I've got to keep on living properly too, in this crazy mixed-up world.",
+      "display_variant": "en",
+      "display_text": "「Thanks. ...Guess that means I've got to\nkeep on living properly too, in this crazy\nmixed-up world.」"
+    }
+  ]
+}

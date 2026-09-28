@@ -1,0 +1,313 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c54_03410",
+      "speaker": "Jamil",
+      "en": "I'll go over the operation once more.",
+      "display_variant": "en",
+      "display_text": "「I'll go over the operation once more.」"
+    },
+    {
+      "id": "c54_03440",
+      "speaker": "Jamil",
+      "en": "Combat time is 4 minutes. The objective is to wipe out the enemy and earn 800,000 or more in funds.",
+      "display_variant": "en",
+      "display_text": "「Combat time is 4 minutes. The objective\nis to wipe out the enemy and earn\n800,000 or more in funds.」"
+    },
+    {
+      "id": "c54_03490",
+      "speaker": "Garrod",
+      "en": "Hold on, Jamil. Something's coming!",
+      "display_variant": "en",
+      "display_text": "「Hold on, Jamil. Something's coming!」"
+    },
+    {
+      "id": "c54_034d0",
+      "speaker": "Kira",
+      "en": "Enemy reinforcements...!? No... it's not that!",
+      "display_variant": "en",
+      "display_text": "「Enemy reinforcements...!? No... it's not\nthat!」"
+    },
+    {
+      "id": "c54_03500",
+      "speaker": "Kamille",
+      "en": "Jerid and Yazan!",
+      "display_variant": "en",
+      "display_text": "「Jerid and Yazan!」"
+    },
+    {
+      "id": "c54_03530",
+      "speaker": "Jerid",
+      "en": "...Our mission isn't to fight you.",
+      "display_variant": "en",
+      "display_text": "「...Our mission isn't to fight you.」"
+    },
+    {
+      "id": "c54_03570",
+      "speaker": "Mouar",
+      "en": "We've come to put down the bandits. We have no intention of engaging you.",
+      "display_variant": "en",
+      "display_text": "「We've come to put down the bandits. We\nhave no intention of engaging you.」"
+    },
+    {
+      "id": "c54_035c0",
+      "speaker": "Roybea",
+      "en": "Heh... so the military's here to help us out. This oughta make things easy.",
+      "display_variant": "en",
+      "display_text": "「Heh... so the military's here to help us\nout. This oughta make things easy.」"
+    },
+    {
+      "id": "c54_03620",
+      "speaker": "Witz",
+      "en": "What are you talking about!? We won't get any funds for whatever units they shoot down!",
+      "display_variant": "en",
+      "display_text": "「What are you talking about!? We won't\nget any funds for whatever units they\nshoot down!」"
+    },
+    {
+      "id": "c54_03680",
+      "speaker": "Quattro",
+      "en": "But since they've made it clear they have no intention of engaging, we can't very well attack them.",
+      "display_variant": "en",
+      "display_text": "「But since they've made it clear they\nhave no intention of engaging, we can't\nvery well attack them.」"
+    },
+    {
+      "id": "c54_036e0",
+      "speaker": "Banjo",
+      "en": "Then we've got no choice but to beat them to it and put down the bandits ourselves.",
+      "display_variant": "en",
+      "display_text": "「Then we've got no choice but to beat\nthem to it and put down the bandits\nourselves.」"
+    },
+    {
+      "id": "c54_03730",
+      "speaker": "Shinn",
+      "en": "A race against the Titans, huh...! Can't afford to lose that!",
+      "display_variant": "en",
+      "display_text": "「A race against the Titans, huh...! Can't\nafford to lose that!」"
+    },
+    {
+      "id": "c54_03780",
+      "speaker": "Jamil",
+      "en": "We're carrying out the operation as planned. But don't lay a hand on the Titans' units.",
+      "display_variant": "en",
+      "display_text": "「We're carrying out the operation as\nplanned. But don't lay a hand on the\nTitans' units.」"
+    },
+    {
+      "id": "c54_037e0",
+      "speaker": "Jamil",
+      "en": "Our enemy is the bandits. Take them down before the Titans do.",
+      "display_variant": "en",
+      "display_text": "「Our enemy is the bandits. Take them\ndown before the Titans do.」"
+    },
+    {
+      "id": "c54_03830",
+      "speaker": "Toshiya",
+      "en": "Alright! The enemy's wiped out!",
+      "display_variant": "en",
+      "display_text": "「Alright! The enemy's wiped out!」"
+    },
+    {
+      "id": "c54_03850",
+      "speaker": "Kiraken",
+      "en": "Julie! How are we doing on funds!?",
+      "display_variant": "en",
+      "display_text": "「Julie! How are we doing on funds!?」"
+    },
+    {
+      "id": "c54_03890",
+      "speaker": "Julie",
+      "en": "Funds earned: {tm}. Target cleared.",
+      "display_variant": "en",
+      "display_text": "「Funds earned: {tm}. Target cleared.」"
+    },
+    {
+      "id": "c54_038e0",
+      "speaker": "Jiron",
+      "en": "A flawless operation success! That's us for you!",
+      "display_variant": "en",
+      "display_text": "「A flawless operation success! That's us\nfor you!」"
+    },
+    {
+      "id": "c54_03910",
+      "speaker": "Kei",
+      "en": "The Titans pulled back too, so I'd call this case closed.",
+      "display_variant": "en",
+      "display_text": "「The Titans pulled back too, so I'd call\nthis case closed.」"
+    },
+    {
+      "id": "c54_03950",
+      "speaker": "Julie",
+      "en": "By the way, according to my calculations, the theoretical ceiling is over a million.",
+      "display_variant": "en",
+      "display_text": "「By the way, according to my\ncalculations, the theoretical ceiling is\nover a million.」"
+    },
+    {
+      "id": "c54_039a0",
+      "speaker": "Kiraken",
+      "en": "The operation was a success and you're still all about the money. You really are stingy.",
+      "display_variant": "en",
+      "display_text": "「The operation was a success and you're\nstill all about the money. You really are\nstingy.」"
+    },
+    {
+      "id": "c54_039e0",
+      "speaker": "Kamille",
+      "en": "So the Titans pulled back too...",
+      "display_variant": "en",
+      "display_text": "「So the Titans pulled back too...」"
+    },
+    {
+      "id": "c54_03a10",
+      "speaker": "Jiron",
+      "en": "No need to worry about the ones who already left.",
+      "display_variant": "en",
+      "display_text": "「No need to worry about the ones who\nalready left.」"
+    },
+    {
+      "id": "c54_03a50",
+      "speaker": "Julie",
+      "en": "Funds earned: {tm}. Unfortunately, we're in the red.",
+      "display_variant": "en",
+      "display_text": "「Funds earned: {tm}. Unfortunately,\nwe're in the red.」"
+    },
+    {
+      "id": "c54_03aa0",
+      "speaker": "Kei",
+      "en": "So that means the operation's a failure, huh...",
+      "display_variant": "en",
+      "display_text": "「So that means the operation's a failure,\nhuh...」"
+    },
+    {
+      "id": "c54_03ac0",
+      "speaker": "Banjo",
+      "en": "Well... guess we'll just have to chalk this one up as volunteer work.",
+      "display_variant": "en",
+      "display_text": "「Well... guess we'll just have to chalk\nthis one up as volunteer work.」"
+    },
+    {
+      "id": "c54_03b00",
+      "speaker": "Kappei",
+      "en": "Tch! Being a hero of justice sure isn't easy!",
+      "display_variant": "en",
+      "display_text": "「Tch! Being a hero of justice sure isn't\neasy!」"
+    },
+    {
+      "id": "c54_03b40",
+      "speaker": "Jamil",
+      "en": "Damn it...! The 4-minute operation time has passed!",
+      "display_variant": "en",
+      "display_text": "「Damn it...! The 4-minute operation time\nhas passed!」"
+    },
+    {
+      "id": "c54_03b80",
+      "speaker": "Julie",
+      "en": "Keep this up any longer and we'll just dig the deficit deeper.",
+      "display_variant": "en",
+      "display_text": "「Keep this up any longer and we'll just\ndig the deficit deeper.」"
+    },
+    {
+      "id": "c54_03bc0",
+      "speaker": "Kiraken",
+      "en": "That doesn't mean we can just abandon the bandits, though!",
+      "display_variant": "en",
+      "display_text": "「That doesn't mean we can just abandon\nthe bandits, though!」"
+    },
+    {
+      "id": "c54_03c00",
+      "speaker": "Banjo",
+      "en": "Well... guess from here on out, we'll just have to call it volunteer work.",
+      "display_variant": "en",
+      "display_text": "「Well... guess from here on out, we'll\njust have to call it volunteer work.」"
+    },
+    {
+      "id": "c54_03c40",
+      "speaker": "Kei",
+      "en": "Guess it's 'a samurai keeps his toothpick even on an empty stomach.' Man, what a rough world...",
+      "display_variant": "en",
+      "display_text": "「Guess it's 'a samurai keeps his\ntoothpick even on an empty stomach.' Man,\nwhat a rough world...」"
+    },
+    {
+      "id": "c54_03cd0",
+      "speaker": "Elchi",
+      "en": "You're saying a group of bandits is rampaging around using unmanned mobile suits!?",
+      "display_variant": "en",
+      "display_text": "「You're saying a group of bandits is\nrampaging around using unmanned mobile\nsuits!?」"
+    },
+    {
+      "id": "c54_03d20",
+      "speaker": "Jamil",
+      "en": "We received a request from the local residents asking us to do something about it.",
+      "display_variant": "en",
+      "display_text": "「We received a request from the local\nresidents asking us to do something about\nit.」"
+    },
+    {
+      "id": "c54_03d60",
+      "speaker": "Elchi",
+      "en": "Let's do it! With our operating funds running dry, we've got no choice but to take it on!",
+      "display_variant": "en",
+      "display_text": "「Let's do it! With our operating funds\nrunning dry, we've got no choice but to\ntake it on!」"
+    },
+    {
+      "id": "c54_03dc0",
+      "speaker": "Bright",
+      "en": "Is earning money the objective here?",
+      "display_variant": "en",
+      "display_text": "「Is earning money the objective here?」"
+    },
+    {
+      "id": "c54_03df0",
+      "speaker": "Shaya",
+      "en": "Isn't that fine, though? Helping people in trouble and padding our funds at the same time -- that's killing two birds with one stone.",
+      "display_variant": "compact",
+      "display_text": "「Helping people in trouble while padding\nour funds -- two birds, one stone, isn't\nit?」"
+    },
+    {
+      "id": "c54_03e50",
+      "speaker": "Jamil",
+      "en": "But if we're going to do this, I don't want to end up in the red...",
+      "display_variant": "en",
+      "display_text": "「But if we're going to do this, I don't\nwant to end up in the red...」"
+    },
+    {
+      "id": "c54_03e90",
+      "speaker": "Julie",
+      "en": "The calculations are already done. We sortie with two warships and six squads, combat time within four minutes...",
+      "display_variant": "en",
+      "display_text": "「The calculations are already done. We\nsortie with two warships and six squads,\ncombat time within four minutes...」"
+    },
+    {
+      "id": "c54_03ef0",
+      "speaker": "Julie",
+      "en": "In that state, if we earn 800,000 in funds, we'll come out in the black.",
+      "display_variant": "en",
+      "display_text": "「In that state, if we earn 800,000 in\nfunds, we'll come out in the black.」"
+    },
+    {
+      "id": "c54_03f40",
+      "speaker": "Shaya",
+      "en": "As expected of you, Julie. Perfect.",
+      "display_variant": "en",
+      "display_text": "「As expected of you, Julie. Perfect.」"
+    },
+    {
+      "id": "c54_03f70",
+      "speaker": "Julie",
+      "en": "Leave the money calculations to me.",
+      "display_variant": "en",
+      "display_text": "「Leave the money calculations to me.」"
+    },
+    {
+      "id": "c54_03fa0",
+      "speaker": "Jamil",
+      "en": "Then, based on Julie's simulation, we begin the operation.",
+      "display_variant": "en",
+      "display_text": "「Then, based on Julie's simulation, we\nbegin the operation.」"
+    },
+    {
+      "id": "c54_03ff0",
+      "speaker": "Jamil",
+      "en": "We sortie with two warships and six squads. Combat time is 4 minutes. Target funds earned: 800,000 or more.",
+      "display_variant": "en",
+      "display_text": "「We sortie with two warships and six\nsquads. Combat time is 4 minutes. Target\nfunds earned: 800,000 or more.」"
+    }
+  ]
+}

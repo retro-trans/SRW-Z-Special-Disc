@@ -1,0 +1,2770 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "id": "label/sp/0",
+      "offset": 29968,
+      "capacity": 16,
+      "source_sha256": "30a2a4b26742647ce2d62d97a988a937e33dfafc60b663203a6a4a3af9c0a2f2",
+      "text": "Ep. 1"
+    },
+    {
+      "id": "title/sp/0",
+      "offset": 29984,
+      "capacity": 64,
+      "source_sha256": "2d9b35e412083234f79bfc322fbe7dd0df47ecb911b55062b20ede50ee60f6ba",
+      "text": "Orders"
+    },
+    {
+      "id": "label/sp/1",
+      "offset": 30080,
+      "capacity": 16,
+      "source_sha256": "30a2a4b26742647ce2d62d97a988a937e33dfafc60b663203a6a4a3af9c0a2f2",
+      "text": "Ep. 1"
+    },
+    {
+      "id": "title/sp/1",
+      "offset": 30096,
+      "capacity": 64,
+      "source_sha256": "741f63e8b34b39514d17986d02d5d83d2a39f2d65a14dfb882eb97f55174b124",
+      "text": "Boys, Be Ambitious"
+    },
+    {
+      "id": "label/sp/2",
+      "offset": 30192,
+      "capacity": 16,
+      "source_sha256": "30a2a4b26742647ce2d62d97a988a937e33dfafc60b663203a6a4a3af9c0a2f2",
+      "text": "Ep. 1"
+    },
+    {
+      "id": "title/sp/2",
+      "offset": 30208,
+      "capacity": 64,
+      "source_sha256": "7a987caceaaec0223f017156bd9d775eb97195f1486026043b75f112dab8f563",
+      "text": "Fierce Battle! A Warrior's Rest"
+    },
+    {
+      "id": "label/sp/3",
+      "offset": 30304,
+      "capacity": 16,
+      "source_sha256": "30a2a4b26742647ce2d62d97a988a937e33dfafc60b663203a6a4a3af9c0a2f2",
+      "text": "Ep. 1"
+    },
+    {
+      "id": "title/sp/3",
+      "offset": 30320,
+      "capacity": 64,
+      "source_sha256": "41ac18b360eafb876a0c33613e3c9ee5f4e985255306448e2fd8e9a19d14036e",
+      "text": "Combine to Dine"
+    },
+    {
+      "id": "label/sp/4",
+      "offset": 30416,
+      "capacity": 16,
+      "source_sha256": "334a14332954e8ce9ef1de7b1b7be5e03cbcbb36d74ae82b7d10ff072531b877",
+      "text": "Ep. 0"
+    },
+    {
+      "id": "title/sp/4",
+      "offset": 30432,
+      "capacity": 64,
+      "source_sha256": "e159c200587de0b19803ae1468dee401d5a2e631f8211d8de82f96d64b7464ac",
+      "text": "Prologue"
+    },
+    {
+      "id": "label/sp/5",
+      "offset": 30528,
+      "capacity": 16,
+      "source_sha256": "bc77ffe728b4829b930122097df502d6709e3e95e3cafbf2433d8bcd9f317a24",
+      "text": "Ep. 2"
+    },
+    {
+      "id": "title/sp/5",
+      "offset": 30544,
+      "capacity": 64,
+      "source_sha256": "f5c37551e9cab79cf94b65db02f4c429d8ef25c4b9b63df4f36e8bb60f371567",
+      "text": "Contact"
+    },
+    {
+      "id": "label/sp/6",
+      "offset": 30640,
+      "capacity": 16,
+      "source_sha256": "bc77ffe728b4829b930122097df502d6709e3e95e3cafbf2433d8bcd9f317a24",
+      "text": "Ep. 2"
+    },
+    {
+      "id": "title/sp/6",
+      "offset": 30656,
+      "capacity": 64,
+      "source_sha256": "9a5e25813ce8b4f2918c033aa635bbc629393af087d128f9179c258bd11c2910",
+      "text": "Keep on Movin'"
+    },
+    {
+      "id": "label/sp/7",
+      "offset": 30752,
+      "capacity": 16,
+      "source_sha256": "bc77ffe728b4829b930122097df502d6709e3e95e3cafbf2433d8bcd9f317a24",
+      "text": "Ep. 2"
+    },
+    {
+      "id": "title/sp/7",
+      "offset": 30768,
+      "capacity": 64,
+      "source_sha256": "d92570d3d7663c4402f86b061f2414a279d27bcdbf983a3d7bc92b0a3d9dfc52",
+      "text": "Teral's Resolve"
+    },
+    {
+      "id": "label/sp/8",
+      "offset": 30864,
+      "capacity": 16,
+      "source_sha256": "bc77ffe728b4829b930122097df502d6709e3e95e3cafbf2433d8bcd9f317a24",
+      "text": "Ep. 2"
+    },
+    {
+      "id": "title/sp/8",
+      "offset": 30880,
+      "capacity": 64,
+      "source_sha256": "56424dc17add5c14129776746090eeb26e16d7f4b90617ce2d673d2541cb7172",
+      "text": "Hang in There, Miss Adette!"
+    },
+    {
+      "id": "label/sp/9",
+      "offset": 30976,
+      "capacity": 16,
+      "source_sha256": "30a2a4b26742647ce2d62d97a988a937e33dfafc60b663203a6a4a3af9c0a2f2",
+      "text": "Ep. 1"
+    },
+    {
+      "id": "title/sp/9",
+      "offset": 30992,
+      "capacity": 64,
+      "source_sha256": "edca9092db939e7719917f32f1a458eb1b8865c4c90b95e2d006435ff5dfd216",
+      "text": "The Sleeping Threat"
+    },
+    {
+      "id": "label/sp/10",
+      "offset": 31088,
+      "capacity": 16,
+      "source_sha256": "30a2a4b26742647ce2d62d97a988a937e33dfafc60b663203a6a4a3af9c0a2f2",
+      "text": "Ep. 1"
+    },
+    {
+      "id": "title/sp/10",
+      "offset": 31104,
+      "capacity": 64,
+      "source_sha256": "38c2a9a8a0246c409b92f6b9c114a3c10e4db2053e4b0e92e25b299495d31bbe",
+      "text": "Creeping Darkness"
+    },
+    {
+      "id": "label/sp/11",
+      "offset": 31200,
+      "capacity": 16,
+      "source_sha256": "b807affe5c7a2f3878a45a60bafcb22d2d192c9eaa50b3f532e82da7fe6a68d5",
+      "text": "Ep. 3"
+    },
+    {
+      "id": "title/sp/11",
+      "offset": 31216,
+      "capacity": 64,
+      "source_sha256": "2096616f77fd816d6a983294e97911137611dedfe9d180ab23b7a23a1a179cdf",
+      "text": "Wandering"
+    },
+    {
+      "id": "label/sp/12",
+      "offset": 31312,
+      "capacity": 16,
+      "source_sha256": "b807affe5c7a2f3878a45a60bafcb22d2d192c9eaa50b3f532e82da7fe6a68d5",
+      "text": "Ep. 3"
+    },
+    {
+      "id": "title/sp/12",
+      "offset": 31328,
+      "capacity": 64,
+      "source_sha256": "a11aa7baecc1f191f49d395ac99517df4a81296807ae3ab6a2302937b6504878",
+      "text": "At the Center of This World"
+    },
+    {
+      "id": "label/sp/13",
+      "offset": 31424,
+      "capacity": 16,
+      "source_sha256": "b807affe5c7a2f3878a45a60bafcb22d2d192c9eaa50b3f532e82da7fe6a68d5",
+      "text": "Ep. 3"
+    },
+    {
+      "id": "title/sp/13",
+      "offset": 31440,
+      "capacity": 64,
+      "source_sha256": "134f258ccaefc7375327bae3cf63190ee07e69d3935f31c3661a4c064e9729a4",
+      "text": "The Exposed Tomb"
+    },
+    {
+      "id": "label/sp/14",
+      "offset": 31536,
+      "capacity": 16,
+      "source_sha256": "b807affe5c7a2f3878a45a60bafcb22d2d192c9eaa50b3f532e82da7fe6a68d5",
+      "text": "Ep. 3"
+    },
+    {
+      "id": "title/sp/14",
+      "offset": 31552,
+      "capacity": 64,
+      "source_sha256": "30f8f58bb6fad626706166dc961a347b65e78e2afcf03d80517e7d6b58eff2da",
+      "text": "at the risk of pride"
+    },
+    {
+      "id": "label/sp/15",
+      "offset": 31648,
+      "capacity": 16,
+      "source_sha256": "bc77ffe728b4829b930122097df502d6709e3e95e3cafbf2433d8bcd9f317a24",
+      "text": "Ep. 2"
+    },
+    {
+      "id": "title/sp/15",
+      "offset": 31664,
+      "capacity": 64,
+      "source_sha256": "351d72ca43a4c9d27fb99c910f7c8fd88be46bfa408d34118f97c9d0981a3634",
+      "text": "The Executor"
+    },
+    {
+      "id": "label/sp/16",
+      "offset": 31760,
+      "capacity": 16,
+      "source_sha256": "3799a546fd789480a6fd168c27ac981ecde70ca5807b0f0aa413d25caeb38c5b",
+      "text": "Ep. 4"
+    },
+    {
+      "id": "title/sp/16",
+      "offset": 31776,
+      "capacity": 64,
+      "source_sha256": "7259fd0d0790cbeffad4ff2b9dc003ee9c264af2ee807a575a63881675debd90",
+      "text": "Meaning"
+    },
+    {
+      "id": "label/sp/17",
+      "offset": 31872,
+      "capacity": 16,
+      "source_sha256": "3799a546fd789480a6fd168c27ac981ecde70ca5807b0f0aa413d25caeb38c5b",
+      "text": "Ep. 4"
+    },
+    {
+      "id": "title/sp/17",
+      "offset": 31888,
+      "capacity": 64,
+      "source_sha256": "277269c02ab7d8096ac5715dab735f78043f2949d01e7837fe886c61f8202c89",
+      "text": "Wings to Dry Tears"
+    },
+    {
+      "id": "label/sp/18",
+      "offset": 31984,
+      "capacity": 16,
+      "source_sha256": "3799a546fd789480a6fd168c27ac981ecde70ca5807b0f0aa413d25caeb38c5b",
+      "text": "Ep. 4"
+    },
+    {
+      "id": "title/sp/18",
+      "offset": 32000,
+      "capacity": 64,
+      "source_sha256": "0fbdb8f8a9a21ad73bd1d291fc0b845b029a71f8ba54c54b8c1a66fc5b5466f1",
+      "text": "These Feelings, for You"
+    },
+    {
+      "id": "label/sp/19",
+      "offset": 32096,
+      "capacity": 16,
+      "source_sha256": "a080241ee3b682f413dff0e93268f14b9090bf0126846b4b32a470d4df26daf0",
+      "text": "Final"
+    },
+    {
+      "id": "title/sp/19",
+      "offset": 32112,
+      "capacity": 64,
+      "source_sha256": "922f46da3cb0327ac27c0189dcdb1401f6b64f9dbf96df17119f590cfed8073e",
+      "text": "Beyond the Black History"
+    },
+    {
+      "id": "label/sp/20",
+      "offset": 32208,
+      "capacity": 16,
+      "source_sha256": "a080241ee3b682f413dff0e93268f14b9090bf0126846b4b32a470d4df26daf0",
+      "text": "Final"
+    },
+    {
+      "id": "title/sp/20",
+      "offset": 32224,
+      "capacity": 64,
+      "source_sha256": "cb023e648860a6d846a6c2786d14862be4a2383a85168b859ff30e714700c63d",
+      "text": "The Will of Black"
+    },
+    {
+      "id": "label/z/0",
+      "offset": 84768,
+      "capacity": 16,
+      "source_sha256": "30a2a4b26742647ce2d62d97a988a937e33dfafc60b663203a6a4a3af9c0a2f2",
+      "text": "Ep. 1"
+    },
+    {
+      "id": "title/z/0",
+      "offset": 84784,
+      "capacity": 64,
+      "source_sha256": "653e790de0b36ee722014ac7eb87536aec7b13b14408f1840c24a7c4ee88a48b",
+      "text": "The Right Stuff"
+    },
+    {
+      "id": "label/z/1",
+      "offset": 84880,
+      "capacity": 16,
+      "source_sha256": "30a2a4b26742647ce2d62d97a988a937e33dfafc60b663203a6a4a3af9c0a2f2",
+      "text": "Ep. 1"
+    },
+    {
+      "id": "title/z/1",
+      "offset": 84896,
+      "capacity": 64,
+      "source_sha256": "3a215bfe4f981ada6b12fd6ecc29311d6c45d9bda629b36c1d893743097539ae",
+      "text": "The Wandering Repairman"
+    },
+    {
+      "id": "label/z/2",
+      "offset": 84992,
+      "capacity": 16,
+      "source_sha256": "bc77ffe728b4829b930122097df502d6709e3e95e3cafbf2433d8bcd9f317a24",
+      "text": "Ep. 2"
+    },
+    {
+      "id": "title/z/2",
+      "offset": 85008,
+      "capacity": 64,
+      "source_sha256": "8afebc66c0544a8291653d83cc0c29dd83351eeec45c8eda4412d08bd0c30bab",
+      "text": "Angry Eyes"
+    },
+    {
+      "id": "label/z/3",
+      "offset": 85104,
+      "capacity": 16,
+      "source_sha256": "bc77ffe728b4829b930122097df502d6709e3e95e3cafbf2433d8bcd9f317a24",
+      "text": "Ep. 2"
+    },
+    {
+      "id": "title/z/3",
+      "offset": 85120,
+      "capacity": 64,
+      "source_sha256": "61eca31e6d4258ec0efa3f80825b93b91581125978cfb820e90074c89db2b4e2",
+      "text": "Day of Departure"
+    },
+    {
+      "id": "label/z/4",
+      "offset": 85216,
+      "capacity": 16,
+      "source_sha256": "b807affe5c7a2f3878a45a60bafcb22d2d192c9eaa50b3f532e82da7fe6a68d5",
+      "text": "Ep. 3"
+    },
+    {
+      "id": "title/z/4",
+      "offset": 85232,
+      "capacity": 64,
+      "source_sha256": "8efe2775d7398384f180ae7bcc92e3ef9d9434a554f82fc40c1d3774197caaf1",
+      "text": "Two Worlds"
+    },
+    {
+      "id": "label/z/5",
+      "offset": 85328,
+      "capacity": 16,
+      "source_sha256": "b807affe5c7a2f3878a45a60bafcb22d2d192c9eaa50b3f532e82da7fe6a68d5",
+      "text": "Ep. 3"
+    },
+    {
+      "id": "title/z/5",
+      "offset": 85344,
+      "capacity": 64,
+      "source_sha256": "a8389747697b5e8d5e52133f378c45622a9a4c912ffffaf18d19b064a4e6ffa0",
+      "text": "Rule-Breaking Helpers"
+    },
+    {
+      "id": "label/z/6",
+      "offset": 85440,
+      "capacity": 16,
+      "source_sha256": "3799a546fd789480a6fd168c27ac981ecde70ca5807b0f0aa413d25caeb38c5b",
+      "text": "Ep. 4"
+    },
+    {
+      "id": "title/z/6",
+      "offset": 85456,
+      "capacity": 64,
+      "source_sha256": "66f0c7ed01493dc52e8b8f0fd961594730ca041003a32993882dd577ace340f9",
+      "text": "Alien Invasion"
+    },
+    {
+      "id": "label/z/7",
+      "offset": 85552,
+      "capacity": 16,
+      "source_sha256": "3799a546fd789480a6fd168c27ac981ecde70ca5807b0f0aa413d25caeb38c5b",
+      "text": "Ep. 4"
+    },
+    {
+      "id": "title/z/7",
+      "offset": 85568,
+      "capacity": 64,
+      "source_sha256": "d523ab897f440d709d07464d3e695fea3f6c5e654b9f5dc6d8b65a64acba640a",
+      "text": "Each Journey, Each Reason"
+    },
+    {
+      "id": "label/z/8",
+      "offset": 85664,
+      "capacity": 16,
+      "source_sha256": "b7874b9ad7a2a4c05cac3bb2d4861f2bcf28a96c5977f44275089a211e1a2d01",
+      "text": "Ep. 5"
+    },
+    {
+      "id": "title/z/8",
+      "offset": 85680,
+      "capacity": 64,
+      "source_sha256": "0dca3b635eea39c68bfdb728a3267afc9c3b125e0e483cb945431cae99234cbc",
+      "text": "The Awakening"
+    },
+    {
+      "id": "label/z/9",
+      "offset": 85776,
+      "capacity": 16,
+      "source_sha256": "b7874b9ad7a2a4c05cac3bb2d4861f2bcf28a96c5977f44275089a211e1a2d01",
+      "text": "Ep. 5"
+    },
+    {
+      "id": "title/z/9",
+      "offset": 85792,
+      "capacity": 64,
+      "source_sha256": "dccae4451f4a1357293e47fe93c0f6c0ae7f4fd9495bdcbd63fa3ac5099a8f6d",
+      "text": "Moon Riders"
+    },
+    {
+      "id": "label/z/10",
+      "offset": 85888,
+      "capacity": 16,
+      "source_sha256": "8c7926fd6118a85cff22f35e87c423b7f27ac96aa2b4b2530fb3e2659c0dc9b1",
+      "text": "Ep. 6"
+    },
+    {
+      "id": "title/z/10",
+      "offset": 85904,
+      "capacity": 64,
+      "source_sha256": "0b0fb9e7771ac814c11b5707f939c7776db8b348515bd4c21ff15d9fee99e9d8",
+      "text": "The Super God Descends"
+    },
+    {
+      "id": "label/z/11",
+      "offset": 86000,
+      "capacity": 16,
+      "source_sha256": "8c7926fd6118a85cff22f35e87c423b7f27ac96aa2b4b2530fb3e2659c0dc9b1",
+      "text": "Ep. 6"
+    },
+    {
+      "id": "title/z/11",
+      "offset": 86016,
+      "capacity": 64,
+      "source_sha256": "6c84e35f9098e7b6858c64da11632b7aaca4d7237b037a533c136a4e2a19962e",
+      "text": "On the Night of the Festival"
+    },
+    {
+      "id": "label/z/12",
+      "offset": 86112,
+      "capacity": 16,
+      "source_sha256": "b952e619a149d3839d11b0466ad5bc025d243a2ededa04812ced07aad6850377",
+      "text": "Ep. 7"
+    },
+    {
+      "id": "title/z/12",
+      "offset": 86128,
+      "capacity": 64,
+      "source_sha256": "e458f037dda43caa211fa04aa1e8b31d8de795f7e77f9eea6a54f7ca778f269a",
+      "text": "Moonlight Dyed in Rage"
+    },
+    {
+      "id": "label/z/13",
+      "offset": 86224,
+      "capacity": 16,
+      "source_sha256": "b952e619a149d3839d11b0466ad5bc025d243a2ededa04812ced07aad6850377",
+      "text": "Ep. 7"
+    },
+    {
+      "id": "title/z/13",
+      "offset": 86240,
+      "capacity": 64,
+      "source_sha256": "95986482157eb6ba8b271a383db82f5ce8b5aaacdd128c4526b47eef82bc798d",
+      "text": "Goddess of the Moon"
+    },
+    {
+      "id": "label/z/14",
+      "offset": 86336,
+      "capacity": 16,
+      "source_sha256": "c81866d8eca511bf1835dff155e99877dd6e2906118e030cfafee59dd31233c9",
+      "text": "Ep. 8"
+    },
+    {
+      "id": "title/z/14",
+      "offset": 86352,
+      "capacity": 64,
+      "source_sha256": "43ad012d279dfcae4d7245e8dba3d13cd4189ab14920cc8221a7cbae75b17aeb",
+      "text": "When the World Ends"
+    },
+    {
+      "id": "label/z/15",
+      "offset": 86448,
+      "capacity": 16,
+      "source_sha256": "c81866d8eca511bf1835dff155e99877dd6e2906118e030cfafee59dd31233c9",
+      "text": "Ep. 8"
+    },
+    {
+      "id": "title/z/15",
+      "offset": 86464,
+      "capacity": 64,
+      "source_sha256": "2068b081efd1e0f979168c56220ad4025579e5542d1dd0d1f1177853d9e57697",
+      "text": "Memory of Tenshi"
+    },
+    {
+      "id": "label/z/16",
+      "offset": 86560,
+      "capacity": 16,
+      "source_sha256": "9084c104cfb6097e39c4f27fcdf3fc6b272ff254946a174158653d457700c46f",
+      "text": "Ep. 9"
+    },
+    {
+      "id": "title/z/16",
+      "offset": 86576,
+      "capacity": 64,
+      "source_sha256": "e3fdffe4c7bc5b1da7fba29454857f1ea6d3e693266d2b2d130188a8330894da",
+      "text": "Spacetime Collapse"
+    },
+    {
+      "id": "label/z/17",
+      "offset": 86672,
+      "capacity": 16,
+      "source_sha256": "9084c104cfb6097e39c4f27fcdf3fc6b272ff254946a174158653d457700c46f",
+      "text": "Ep. 9"
+    },
+    {
+      "id": "title/z/17",
+      "offset": 86688,
+      "capacity": 64,
+      "source_sha256": "c0395a70ce2a793e6f20af30ad4dc8cad4985501b0b0b2cbdc25a232a46196e1",
+      "text": "The Day the World Ended"
+    },
+    {
+      "id": "label/z/18",
+      "offset": 86784,
+      "capacity": 16,
+      "source_sha256": "ffb8956c010ca2006b358669a012bb7ef3eb0086fab7cd3471be86108eb33b33",
+      "text": "Ep. 10"
+    },
+    {
+      "id": "title/z/18",
+      "offset": 86800,
+      "capacity": 64,
+      "source_sha256": "3056e2b7c9d59ff8cb8b884b040d0729731e30678d67410b7403bd5e1e53e3dd",
+      "text": "Break the World"
+    },
+    {
+      "id": "label/z/19",
+      "offset": 86896,
+      "capacity": 16,
+      "source_sha256": "09b63bd8d34f52834b095cf3db54fae175723e1a471a7e1793617c1b50e2ce76",
+      "text": "Ep. 11"
+    },
+    {
+      "id": "title/z/19",
+      "offset": 86912,
+      "capacity": 64,
+      "source_sha256": "3adf4d3e908c4a00f308f146c45b0027ae6a4510efc99c30cb39afcee9fe183f",
+      "text": "Paradigm Shift"
+    },
+    {
+      "id": "label/z/20",
+      "offset": 87008,
+      "capacity": 16,
+      "source_sha256": "883ee0e53c984e74088c7749ef471666d4828262757b58a69cb43688753b71b6",
+      "text": "Ep. 12"
+    },
+    {
+      "id": "title/z/20",
+      "offset": 87024,
+      "capacity": 64,
+      "source_sha256": "595e0108aadf1a52903b21105e0205c396ad4ee4e8c916b3549709d276ea1551",
+      "text": "Blue Sky Fish"
+    },
+    {
+      "id": "label/z/21",
+      "offset": 87120,
+      "capacity": 16,
+      "source_sha256": "a052e090493d5e26ebc7916f05d90a0a1b37016a4b68b334de22ba50a1492eff",
+      "text": "Ep. 13"
+    },
+    {
+      "id": "title/z/21",
+      "offset": 87136,
+      "capacity": 64,
+      "source_sha256": "864d939d4e5e928d5d3990a7b0e987c3d91b2a35140b12ce6ea91478a8183d58",
+      "text": "Rise, Space Warrior!"
+    },
+    {
+      "id": "label/z/22",
+      "offset": 87232,
+      "capacity": 16,
+      "source_sha256": "4428b7830a76863b32491d394a334aa498f279ad5efd70aa571129439b00290c",
+      "text": "Ep. 14"
+    },
+    {
+      "id": "title/z/22",
+      "offset": 87248,
+      "capacity": 64,
+      "source_sha256": "88869c34aad3fd0851e1d8c2af3e920a0a7456e41b2919c7014833068da40c9d",
+      "text": "The Strangers Gather"
+    },
+    {
+      "id": "label/z/23",
+      "offset": 87344,
+      "capacity": 16,
+      "source_sha256": "fc4eb417a2f165bc8d94e259a07736bf4be14719e061af30672f0d32d40fece3",
+      "text": "Ep. 15"
+    },
+    {
+      "id": "title/z/23",
+      "offset": 87360,
+      "capacity": 64,
+      "source_sha256": "e2f6b479f32daa46c65165958e87f62cad7bdf5e946e33089860ce1d807b9885",
+      "text": "Toward an Unseen Tomorrow"
+    },
+    {
+      "id": "title/z/24",
+      "offset": 87472,
+      "capacity": 64,
+      "source_sha256": "6e829b0598f8f537b42cf813832bfe2d967a56c9a900a23b01764ac47faabc61",
+      "text": "Pacific - Gallia"
+    },
+    {
+      "id": "label/z/25",
+      "offset": 87568,
+      "capacity": 16,
+      "source_sha256": "c0df510990a5cabf82ffa624f87bb9f0835303347bd6e3056f0fffdab062b8e9",
+      "text": "Ep. 16"
+    },
+    {
+      "id": "title/z/25",
+      "offset": 87584,
+      "capacity": 64,
+      "source_sha256": "218258528a79d5fa0386def02c0661f8ca183aa34eb1cb44d8ef29ba5d036d69",
+      "text": "Resolves Intersect"
+    },
+    {
+      "id": "label/z/26",
+      "offset": 87680,
+      "capacity": 16,
+      "source_sha256": "c0df510990a5cabf82ffa624f87bb9f0835303347bd6e3056f0fffdab062b8e9",
+      "text": "Ep. 16"
+    },
+    {
+      "id": "title/z/26",
+      "offset": 87696,
+      "capacity": 64,
+      "source_sha256": "7c034b211eb4721c9ab96e970e355df2dae2f238f78ffce9df34c84868eeee44",
+      "text": "Singularity"
+    },
+    {
+      "id": "label/z/27",
+      "offset": 87792,
+      "capacity": 16,
+      "source_sha256": "17595fe5e713cb3650230904470cf70c148f97432d384ea2478112f4d9ad86a3",
+      "text": "Ep. 17"
+    },
+    {
+      "id": "title/z/27",
+      "offset": 87808,
+      "capacity": 64,
+      "source_sha256": "1373f13f7f9f25d5170a6e4e7def486a88841e47813758d5790dc73afcfd98e7",
+      "text": "Blue Wanderer"
+    },
+    {
+      "id": "label/z/28",
+      "offset": 87904,
+      "capacity": 16,
+      "source_sha256": "17595fe5e713cb3650230904470cf70c148f97432d384ea2478112f4d9ad86a3",
+      "text": "Ep. 17"
+    },
+    {
+      "id": "title/z/28",
+      "offset": 87920,
+      "capacity": 64,
+      "source_sha256": "b6972b037650d990315ebe5bb94be996f751b484835acf788fd09f5d2bcf03a7",
+      "text": "Hell's Relay Race"
+    },
+    {
+      "id": "label/z/29",
+      "offset": 88016,
+      "capacity": 16,
+      "source_sha256": "0c40b2b5ee93ca364bf57312ef70235301cdfedbe08d71c84f2cd156a63598ee",
+      "text": "Ep. 18"
+    },
+    {
+      "id": "title/z/29",
+      "offset": 88032,
+      "capacity": 64,
+      "source_sha256": "a646da23c9bdd5284dc736a309d00bfaa02534bd17d9f6c8b68a1ba2dc74c27e",
+      "text": "Eyes Dyed in Blood"
+    },
+    {
+      "id": "label/z/30",
+      "offset": 88128,
+      "capacity": 16,
+      "source_sha256": "0c40b2b5ee93ca364bf57312ef70235301cdfedbe08d71c84f2cd156a63598ee",
+      "text": "Ep. 18"
+    },
+    {
+      "id": "title/z/30",
+      "offset": 88144,
+      "capacity": 64,
+      "source_sha256": "d07a4d5fe42e0c7433d4437adc4514240bd4800314eab9c43124cc2e19d50b83",
+      "text": "Farewell, My Friend"
+    },
+    {
+      "id": "label/z/31",
+      "offset": 88240,
+      "capacity": 16,
+      "source_sha256": "b4650198c7d3bc7817b6e8e8126fdd92319c33575cd2f4f82a94e147b08861a9",
+      "text": "Ep. 19"
+    },
+    {
+      "id": "title/z/31",
+      "offset": 88256,
+      "capacity": 64,
+      "source_sha256": "2853d72e36d39af4c99128172a8afd61681aa6fa92f6cb004973e8d098159391",
+      "text": "Wings Reborn"
+    },
+    {
+      "id": "label/z/32",
+      "offset": 88352,
+      "capacity": 16,
+      "source_sha256": "b4650198c7d3bc7817b6e8e8126fdd92319c33575cd2f4f82a94e147b08861a9",
+      "text": "Ep. 19"
+    },
+    {
+      "id": "title/z/32",
+      "offset": 88368,
+      "capacity": 64,
+      "source_sha256": "265b3e7324ad04297866d7fd7c37e4220d14993e6b078b8846a3ab6a1d71f4c6",
+      "text": "Blizzard of Founding"
+    },
+    {
+      "id": "label/z/33",
+      "offset": 88464,
+      "capacity": 16,
+      "source_sha256": "07faa5ebb3d79a4787153c7f7fe32356d71fe6122f914ac20f6095734142983b",
+      "text": "Ep. 20"
+    },
+    {
+      "id": "title/z/33",
+      "offset": 88480,
+      "capacity": 64,
+      "source_sha256": "ea76460f8e23be656f686f0f90cafb043d9373e449fe9279996102b6eb28bc43",
+      "text": "A World Without Lies"
+    },
+    {
+      "id": "label/z/34",
+      "offset": 88576,
+      "capacity": 16,
+      "source_sha256": "56833a671b4f759cee7110f6f2962c31bd4e13edad303279ee5cb6215e83e85f",
+      "text": "Ep. 21"
+    },
+    {
+      "id": "title/z/34",
+      "offset": 88592,
+      "capacity": 64,
+      "source_sha256": "d1197ddeda78d3dcb3ad4c35a4730d562a9a241a8f0428ee78892adb780ff0e0",
+      "text": "Those Left Behind"
+    },
+    {
+      "id": "label/z/35",
+      "offset": 88688,
+      "capacity": 16,
+      "source_sha256": "56833a671b4f759cee7110f6f2962c31bd4e13edad303279ee5cb6215e83e85f",
+      "text": "Ep. 21"
+    },
+    {
+      "id": "title/z/35",
+      "offset": 88704,
+      "capacity": 64,
+      "source_sha256": "94d5b6878657902c06547535d6a77a4b8002a0c119f7118f266c775a38da53db",
+      "text": "Memories of Father"
+    },
+    {
+      "id": "label/z/36",
+      "offset": 88800,
+      "capacity": 16,
+      "source_sha256": "19683e887771b1b6e7a1d42cf24757ddcdce6a5cf6def2a6db1a3d6936171f72",
+      "text": "Ep. 22"
+    },
+    {
+      "id": "title/z/36",
+      "offset": 88816,
+      "capacity": 64,
+      "source_sha256": "ba63ee12bc38112c40f3d369c53e1108fc3fe54637523519fb2658cbaad9c649",
+      "text": "An Exodus of My Own"
+    },
+    {
+      "id": "label/z/37",
+      "offset": 88912,
+      "capacity": 16,
+      "source_sha256": "d2f53561fcf66e43aaa333feed45c218e2c138dc962c60de4cd41d8914a3b635",
+      "text": "Ep. 23"
+    },
+    {
+      "id": "title/z/37",
+      "offset": 88928,
+      "capacity": 64,
+      "source_sha256": "f9d2d6b32ccfab1aaaaa18d3ae7f112b4a3c400ef5aa4124c40c36887f95b511",
+      "text": "Hyakki's Challenge"
+    },
+    {
+      "id": "label/z/38",
+      "offset": 89024,
+      "capacity": 16,
+      "source_sha256": "08b47e22bd889154af6e12d1fa425b35089801cd4bba0b836c5553d37ae8034c",
+      "text": "Ep. 24"
+    },
+    {
+      "id": "title/z/38",
+      "offset": 89040,
+      "capacity": 64,
+      "source_sha256": "3223439c08c936e554198c10bd5a9fd72a7261c57b0c68ec841551c65f9b9670",
+      "text": "Retake the Photon Lab"
+    },
+    {
+      "id": "label/z/39",
+      "offset": 89136,
+      "capacity": 16,
+      "source_sha256": "cbdaeba50e694bfa67d9cda1ca15e39ce8eea86b4abc1b5ae9c7855f3b613a70",
+      "text": "Ep. 25"
+    },
+    {
+      "id": "title/z/39",
+      "offset": 89152,
+      "capacity": 64,
+      "source_sha256": "092051f920edf60235462e284c82170819a21374f57a7fb42517c44c3dd6bdf0",
+      "text": "Abode of Darkness"
+    },
+    {
+      "id": "label/z/40",
+      "offset": 89248,
+      "capacity": 16,
+      "source_sha256": "0c3ca1bd74057176a4c6e8e9fcd12c0dc51440dd54d2181723242603fa68b085",
+      "text": "Ep. 26"
+    },
+    {
+      "id": "title/z/40",
+      "offset": 89264,
+      "capacity": 64,
+      "source_sha256": "1f6ba167ee11fd0dd992d284b82804179f506b375181313a3573d7526badfdf0",
+      "text": "Hong Kong City"
+    },
+    {
+      "id": "label/z/41",
+      "offset": 89360,
+      "capacity": 16,
+      "source_sha256": "0c3ca1bd74057176a4c6e8e9fcd12c0dc51440dd54d2181723242603fa68b085",
+      "text": "Ep. 26"
+    },
+    {
+      "id": "title/z/41",
+      "offset": 89376,
+      "capacity": 64,
+      "source_sha256": "6c3c4520e676ca69babcce235e78d59e7b4848d5facb91ece2b2e7769ed280e6",
+      "text": "Into the Nature"
+    },
+    {
+      "id": "label/z/42",
+      "offset": 89472,
+      "capacity": 16,
+      "source_sha256": "279a1a6a3e3e452f95729b844cb268b9df7f272e235967668923e791d91df17f",
+      "text": "Ep. 27"
+    },
+    {
+      "id": "title/z/42",
+      "offset": 89488,
+      "capacity": 64,
+      "source_sha256": "a52a6d67e2d2fb3bcda5b447b537e7b1039f960cbca13e5e0d0f2da01a66a1ab",
+      "text": "A Rift Appears"
+    },
+    {
+      "id": "label/z/43",
+      "offset": 89584,
+      "capacity": 16,
+      "source_sha256": "279a1a6a3e3e452f95729b844cb268b9df7f272e235967668923e791d91df17f",
+      "text": "Ep. 27"
+    },
+    {
+      "id": "title/z/43",
+      "offset": 89600,
+      "capacity": 64,
+      "source_sha256": "8d3229ad95bef7782db40654e0c6b072d8669fc4af653b7e8acd6b8acdd0d892",
+      "text": "15-Year Ghost"
+    },
+    {
+      "id": "label/z/44",
+      "offset": 89696,
+      "capacity": 16,
+      "source_sha256": "089ea8bc02c0ebcb88878ee991521ccd954a16c30650f81cffeba4bcb18621d2",
+      "text": "Ep. 28"
+    },
+    {
+      "id": "title/z/44",
+      "offset": 89712,
+      "capacity": 64,
+      "source_sha256": "ddccf6eac5c7f2778b10d0926c240af776025d9a12eb8e7a530d978b1186fb24",
+      "text": "Silver Fang"
+    },
+    {
+      "id": "label/z/45",
+      "offset": 89808,
+      "capacity": 16,
+      "source_sha256": "089ea8bc02c0ebcb88878ee991521ccd954a16c30650f81cffeba4bcb18621d2",
+      "text": "Ep. 28"
+    },
+    {
+      "id": "title/z/45",
+      "offset": 89824,
+      "capacity": 64,
+      "source_sha256": "9413167fa6d12d62e3452d88d5d6bb6861a67891ae7191bf3f1f4c3ff40f377f",
+      "text": "Soul Cosplayer"
+    },
+    {
+      "id": "label/z/46",
+      "offset": 89920,
+      "capacity": 16,
+      "source_sha256": "d8971956edafbe5026c4636a9524a3ea118306b1ed4bb9395ce1ad0a7bb73c41",
+      "text": "Ep. 29"
+    },
+    {
+      "id": "title/z/46",
+      "offset": 89936,
+      "capacity": 64,
+      "source_sha256": "cc10bd66030fedebfa2f8b1c029955e79ad9e357f7d745af57e3f327acf80c26",
+      "text": "The Blazing Sea"
+    },
+    {
+      "id": "label/z/47",
+      "offset": 90032,
+      "capacity": 16,
+      "source_sha256": "d8971956edafbe5026c4636a9524a3ea118306b1ed4bb9395ce1ad0a7bb73c41",
+      "text": "Ep. 29"
+    },
+    {
+      "id": "title/z/47",
+      "offset": 90048,
+      "capacity": 64,
+      "source_sha256": "2d16136115e6d7e369941e71533e9b2bf3f2ea406b699d174a99dedf86b569ce",
+      "text": "Outsider"
+    },
+    {
+      "id": "label/z/48",
+      "offset": 90144,
+      "capacity": 16,
+      "source_sha256": "3736d7818806328f53afd3e0019dc3e41ce0b237a4e029097c01bef7c38d1b60",
+      "text": "Ep. 30"
+    },
+    {
+      "id": "title/z/48",
+      "offset": 90160,
+      "capacity": 64,
+      "source_sha256": "ef0d6ea0d822b1deb683e4740997b85abb7ca8db42480307c6a076cd4253bce2",
+      "text": "Where the Sin Lies"
+    },
+    {
+      "id": "label/z/49",
+      "offset": 90256,
+      "capacity": 16,
+      "source_sha256": "3736d7818806328f53afd3e0019dc3e41ce0b237a4e029097c01bef7c38d1b60",
+      "text": "Ep. 30"
+    },
+    {
+      "id": "title/z/49",
+      "offset": 90272,
+      "capacity": 64,
+      "source_sha256": "21b252a5a3c1728abba4f4b0d2340d0b52acfc7b0c5f12e5f9c519dce46ee5ea",
+      "text": "Acperience"
+    },
+    {
+      "id": "label/z/50",
+      "offset": 90368,
+      "capacity": 16,
+      "source_sha256": "fa70f7cd5e08bc5b247cd7955ec25812ae8c1c8d73d013a6896c858d7d57172e",
+      "text": "Ep. 31"
+    },
+    {
+      "id": "title/z/50",
+      "offset": 90384,
+      "capacity": 64,
+      "source_sha256": "fa9292782c49cae9ebba472b6a2c8cf0b6ca19b8ee1681b38d21b335388f2bef",
+      "text": "What Bonds Create"
+    },
+    {
+      "id": "label/z/51",
+      "offset": 90480,
+      "capacity": 16,
+      "source_sha256": "fa70f7cd5e08bc5b247cd7955ec25812ae8c1c8d73d013a6896c858d7d57172e",
+      "text": "Ep. 31"
+    },
+    {
+      "id": "title/z/51",
+      "offset": 90496,
+      "capacity": 64,
+      "source_sha256": "408565eea8ea0f227df85f6822ef054c9f1d61dab6e5e9a5f7b01f63be94e835",
+      "text": "The Past, Torn Apart"
+    },
+    {
+      "id": "label/z/52",
+      "offset": 90592,
+      "capacity": 16,
+      "source_sha256": "4e02407f5d41ac99d5852adf62470cbbf374294c4f8138adda9dcaff504aceb9",
+      "text": "Ep. 32"
+    },
+    {
+      "id": "title/z/52",
+      "offset": 90608,
+      "capacity": 64,
+      "source_sha256": "432b295795b36c7997e1a2ce17b9618ebc4a87de21d828dd583961e85428f4f7",
+      "text": "Grief as Power"
+    },
+    {
+      "id": "label/z/53",
+      "offset": 90704,
+      "capacity": 16,
+      "source_sha256": "4e02407f5d41ac99d5852adf62470cbbf374294c4f8138adda9dcaff504aceb9",
+      "text": "Ep. 32"
+    },
+    {
+      "id": "title/z/53",
+      "offset": 90720,
+      "capacity": 64,
+      "source_sha256": "c7197f2bd0bcb799898a16c8af9e94de6ead06e32c1c8e5a9ee62caa27806c44",
+      "text": "So That I Can Be Me"
+    },
+    {
+      "id": "title/z/54",
+      "offset": 90832,
+      "capacity": 64,
+      "source_sha256": "511afd6aedbe66667e81316bb8122d87b6b7f1fd554d01eb842ed7cd2b2c15d9",
+      "text": "Gibraltar - Patrol"
+    },
+    {
+      "id": "title/z/55",
+      "offset": 90944,
+      "capacity": 64,
+      "source_sha256": "c9011229e77af0fc6f378a717c2a623da7c3bd21f5e4ec4d6509805f80e26d35",
+      "text": "Find Renton - Stay"
+    },
+    {
+      "id": "label/z/56",
+      "offset": 91040,
+      "capacity": 16,
+      "source_sha256": "9f040fc7e2cec44fdac681d39e8e6f8f63231bcc1bd7f7c1dd92bc68d8db43be",
+      "text": "Ep. 33"
+    },
+    {
+      "id": "title/z/56",
+      "offset": 91056,
+      "capacity": 64,
+      "source_sha256": "9b31934378314c7a5fb00dd23d11829d9bdd230b19b0b2e38f05a98e23cce615",
+      "text": "Beat of Z"
+    },
+    {
+      "id": "label/z/57",
+      "offset": 91152,
+      "capacity": 16,
+      "source_sha256": "9f040fc7e2cec44fdac681d39e8e6f8f63231bcc1bd7f7c1dd92bc68d8db43be",
+      "text": "Ep. 33"
+    },
+    {
+      "id": "title/z/57",
+      "offset": 91168,
+      "capacity": 64,
+      "source_sha256": "3ac4e742a98aee2d8710a4eef3627ca903be54ae1e60eb98ae9d2115415afeb3",
+      "text": "When the Stars Shine"
+    },
+    {
+      "id": "label/z/58",
+      "offset": 91264,
+      "capacity": 16,
+      "source_sha256": "9f040fc7e2cec44fdac681d39e8e6f8f63231bcc1bd7f7c1dd92bc68d8db43be",
+      "text": "Ep. 33"
+    },
+    {
+      "id": "title/z/58",
+      "offset": 91280,
+      "capacity": 64,
+      "source_sha256": "7461563060279fa013241c96e13fd13dbf42217958928726ba27a495050713b1",
+      "text": "Lonely Runaway"
+    },
+    {
+      "id": "label/z/59",
+      "offset": 91376,
+      "capacity": 16,
+      "source_sha256": "9f040fc7e2cec44fdac681d39e8e6f8f63231bcc1bd7f7c1dd92bc68d8db43be",
+      "text": "Ep. 33"
+    },
+    {
+      "id": "title/z/59",
+      "offset": 91392,
+      "capacity": 64,
+      "source_sha256": "6da058b7972c8ec0e90a761b6d8fb0392266b5676fe253c0a852a1bc99b35249",
+      "text": "To a Distant Friend"
+    },
+    {
+      "id": "label/z/60",
+      "offset": 91488,
+      "capacity": 16,
+      "source_sha256": "992cb02dd41674227f8a1168e919083570ac32962e895f9a67bfdd9df56414ff",
+      "text": "Ep. 34"
+    },
+    {
+      "id": "title/z/60",
+      "offset": 91504,
+      "capacity": 64,
+      "source_sha256": "0e362f179e72524d67e7ada7b26da32c04335af6a11a1bf8bb5dd86b538fabc1",
+      "text": "False Queen, Masked Princess"
+    },
+    {
+      "id": "label/z/61",
+      "offset": 91600,
+      "capacity": 16,
+      "source_sha256": "992cb02dd41674227f8a1168e919083570ac32962e895f9a67bfdd9df56414ff",
+      "text": "Ep. 34"
+    },
+    {
+      "id": "title/z/61",
+      "offset": 91616,
+      "capacity": 64,
+      "source_sha256": "06d8e29236a9c8f9e946964827a32165b8e3fdc2057dd9c901fa43996904c891",
+      "text": "Whose Planet Is This"
+    },
+    {
+      "id": "label/z/62",
+      "offset": 91712,
+      "capacity": 16,
+      "source_sha256": "992cb02dd41674227f8a1168e919083570ac32962e895f9a67bfdd9df56414ff",
+      "text": "Ep. 34"
+    },
+    {
+      "id": "title/z/62",
+      "offset": 91728,
+      "capacity": 64,
+      "source_sha256": "4fb14a51325124e8188446ac2e847842b403028693558401b7c01b111d34e3fb",
+      "text": "Strange Contact"
+    },
+    {
+      "id": "label/z/63",
+      "offset": 91824,
+      "capacity": 16,
+      "source_sha256": "992cb02dd41674227f8a1168e919083570ac32962e895f9a67bfdd9df56414ff",
+      "text": "Ep. 34"
+    },
+    {
+      "id": "title/z/63",
+      "offset": 91840,
+      "capacity": 64,
+      "source_sha256": "df1fab53dde391111a985c33013e15dac775e8a2ff13c9f3995802699c41f150",
+      "text": "Angry Railway King"
+    },
+    {
+      "id": "label/z/64",
+      "offset": 91936,
+      "capacity": 16,
+      "source_sha256": "59d797fa707121f64eb7075dbf11018bae54f34b7438855989491bf4cb458914",
+      "text": "Ep. 35"
+    },
+    {
+      "id": "title/z/64",
+      "offset": 91952,
+      "capacity": 64,
+      "source_sha256": "ca3267ac299ce3a2c979092c860d50097d81da41af5af87bf1225399ee4aa9c3",
+      "text": "Shadow of the War God"
+    },
+    {
+      "id": "label/z/65",
+      "offset": 92048,
+      "capacity": 16,
+      "source_sha256": "59d797fa707121f64eb7075dbf11018bae54f34b7438855989491bf4cb458914",
+      "text": "Ep. 35"
+    },
+    {
+      "id": "title/z/65",
+      "offset": 92064,
+      "capacity": 64,
+      "source_sha256": "7650e3e99af6574df29e4818c3f74254624ab598ec64c4ba68619476270240cc",
+      "text": "Rosary of Grief"
+    },
+    {
+      "id": "label/z/66",
+      "offset": 92160,
+      "capacity": 16,
+      "source_sha256": "59d797fa707121f64eb7075dbf11018bae54f34b7438855989491bf4cb458914",
+      "text": "Ep. 35"
+    },
+    {
+      "id": "title/z/66",
+      "offset": 92176,
+      "capacity": 64,
+      "source_sha256": "652f74720d98212f790d3615f926d50d34ccf29c2689a94020e26de2c30ea020",
+      "text": "Morning Glory"
+    },
+    {
+      "id": "label/z/67",
+      "offset": 92272,
+      "capacity": 16,
+      "source_sha256": "59d797fa707121f64eb7075dbf11018bae54f34b7438855989491bf4cb458914",
+      "text": "Ep. 35"
+    },
+    {
+      "id": "title/z/67",
+      "offset": 92288,
+      "capacity": 64,
+      "source_sha256": "c35c30f8d60e99c9929e21e5eeffc5812a66d8b64ba8d3ea4788ea45854c8228",
+      "text": "Over Battle"
+    },
+    {
+      "id": "label/z/68",
+      "offset": 92384,
+      "capacity": 16,
+      "source_sha256": "c297f0002728d7d6375e77c746eabfebdf42ae8fac7739c24c288fcefb0a0850",
+      "text": "Ep. 36"
+    },
+    {
+      "id": "title/z/68",
+      "offset": 92400,
+      "capacity": 64,
+      "source_sha256": "0bcc88619d9d506fe3ffbcc0d36de43b5c5daeb48c13678582477ba74b9a53a9",
+      "text": "The Wailing Starry Sky"
+    },
+    {
+      "id": "label/z/69",
+      "offset": 92496,
+      "capacity": 16,
+      "source_sha256": "c297f0002728d7d6375e77c746eabfebdf42ae8fac7739c24c288fcefb0a0850",
+      "text": "Ep. 36"
+    },
+    {
+      "id": "title/z/69",
+      "offset": 92512,
+      "capacity": 64,
+      "source_sha256": "b866977edf6094a63976d5996cc3495f1859ed1254618edc82e54614a653d48d",
+      "text": "The Tomorrow Revealed"
+    },
+    {
+      "id": "label/z/70",
+      "offset": 92608,
+      "capacity": 16,
+      "source_sha256": "7f6d9ee9831042d90e2714734cad53dfd98031eef030a0656b621f5b4d170a03",
+      "text": "Ep. 37"
+    },
+    {
+      "id": "title/z/70",
+      "offset": 92624,
+      "capacity": 64,
+      "source_sha256": "f785a8a1a6ec96c9497793c48a51401274ca51511508783fe7abca66451f7421",
+      "text": "New Earth Federation Reformed"
+    },
+    {
+      "id": "label/z/71",
+      "offset": 92720,
+      "capacity": 16,
+      "source_sha256": "7f6d9ee9831042d90e2714734cad53dfd98031eef030a0656b621f5b4d170a03",
+      "text": "Ep. 37"
+    },
+    {
+      "id": "title/z/71",
+      "offset": 92736,
+      "capacity": 64,
+      "source_sha256": "3dd4cdfb18e8198b9450326ee618a5e0f2bea31c0871be3c750f7c64a25a4a40",
+      "text": "Storm of the Purge"
+    },
+    {
+      "id": "label/z/72",
+      "offset": 92832,
+      "capacity": 16,
+      "source_sha256": "dc8c1ab52c69a6c140e56e3759f3aef9a89aaff35ee36f37cc8a6f4b74f8991a",
+      "text": "Ep. 38"
+    },
+    {
+      "id": "title/z/72",
+      "offset": 92848,
+      "capacity": 64,
+      "source_sha256": "7eeca6176d3e16f0e30c17249a69e06958f020d049c0f21558f64110ba9939e3",
+      "text": "Dancing Nightmare"
+    },
+    {
+      "id": "label/z/73",
+      "offset": 92944,
+      "capacity": 16,
+      "source_sha256": "dc8c1ab52c69a6c140e56e3759f3aef9a89aaff35ee36f37cc8a6f4b74f8991a",
+      "text": "Ep. 38"
+    },
+    {
+      "id": "title/z/73",
+      "offset": 92960,
+      "capacity": 64,
+      "source_sha256": "2f9527b9d24d08fba4c58fbf2a9ae9474f5acc80d9dab34343245941eaea3aed",
+      "text": "Rigged Showdown"
+    },
+    {
+      "id": "label/z/74",
+      "offset": 93056,
+      "capacity": 16,
+      "source_sha256": "bd9759fcf7f11d0f58ab387349434bd3e508ba666aea11920275cb6e4a0c6216",
+      "text": "Ep. 39"
+    },
+    {
+      "id": "title/z/74",
+      "offset": 93072,
+      "capacity": 64,
+      "source_sha256": "19176f4ab711b20321052f658c090f1b2d4a32fbebcb27af506ead4ff8d3b8f0",
+      "text": "Raise the Flag"
+    },
+    {
+      "id": "label/z/75",
+      "offset": 93168,
+      "capacity": 16,
+      "source_sha256": "bd9759fcf7f11d0f58ab387349434bd3e508ba666aea11920275cb6e4a0c6216",
+      "text": "Ep. 39"
+    },
+    {
+      "id": "title/z/75",
+      "offset": 93184,
+      "capacity": 64,
+      "source_sha256": "0a05b80b7a0a5392cef21af21030175a54c8cfec2f05b530a0eacb05d737fedb",
+      "text": "Start It Up"
+    },
+    {
+      "id": "label/z/76",
+      "offset": 93280,
+      "capacity": 16,
+      "source_sha256": "8a4506fe476b9a8ba6a0c683641f1098ca8475e2eedf66d36cc9212469f628f1",
+      "text": "Ep. 40"
+    },
+    {
+      "id": "title/z/76",
+      "offset": 93296,
+      "capacity": 64,
+      "source_sha256": "b00e7df507aed06ded53ca93eae645952d89464fefb042b961b4d63630c94652",
+      "text": "Impact Again"
+    },
+    {
+      "id": "label/z/77",
+      "offset": 93392,
+      "capacity": 16,
+      "source_sha256": "8a4506fe476b9a8ba6a0c683641f1098ca8475e2eedf66d36cc9212469f628f1",
+      "text": "Ep. 40"
+    },
+    {
+      "id": "title/z/77",
+      "offset": 93408,
+      "capacity": 64,
+      "source_sha256": "a9015534d2a3c20868bfa1868d3b0df3f09abcebef834421c223010be39f57df",
+      "text": "Prelude to Collapse"
+    },
+    {
+      "id": "label/z/78",
+      "offset": 93504,
+      "capacity": 16,
+      "source_sha256": "b7aadb8524d30ed00e312c23a289a1172cd8a4163dc58dba603ad48fc493ca71",
+      "text": "Ep. 41"
+    },
+    {
+      "id": "title/z/78",
+      "offset": 93520,
+      "capacity": 64,
+      "source_sha256": "efdae02a6dd1c9a8fe425f5a64d68068deca048325b13a2aa59dbe1ac0702096",
+      "text": "Cross Point"
+    },
+    {
+      "id": "label/z/79",
+      "offset": 93616,
+      "capacity": 16,
+      "source_sha256": "3aa3a1276fed66ed93517b72e435fb0a11396db8c7e5bb8b32fc7790a5382e36",
+      "text": "Ep. 42"
+    },
+    {
+      "id": "title/z/79",
+      "offset": 93632,
+      "capacity": 64,
+      "source_sha256": "529ca2d4ce7f35f67b08842e29abd2dd36c389f81444994ed268d9b49e11f17c",
+      "text": "The Final Chapter Opens"
+    },
+    {
+      "id": "label/z/80",
+      "offset": 93728,
+      "capacity": 16,
+      "source_sha256": "c6c222ac7412fcd7db57b014becfb85ffd760a46b250530a814ed01586b4b6b2",
+      "text": "Ep. 43"
+    },
+    {
+      "id": "title/z/80",
+      "offset": 93744,
+      "capacity": 64,
+      "source_sha256": "132e074b6082def16702fe4b9b007be1501e828fc7ec643ee6325bb989cd2974",
+      "text": "Destiny & Freedom"
+    },
+    {
+      "id": "label/z/81",
+      "offset": 93840,
+      "capacity": 16,
+      "source_sha256": "5da73b6faa6bec00ddd08a970faad3fa20fbfdf0966f6929a7ace70acec98fe7",
+      "text": "Ep. 44"
+    },
+    {
+      "id": "title/z/81",
+      "offset": 93856,
+      "capacity": 64,
+      "source_sha256": "6d3f2f6fe22a99705dee764376f388d91aa98359bd44a0f9b47dd574403eb32d",
+      "text": "The Sun Comes Down"
+    },
+    {
+      "id": "label/z/82",
+      "offset": 93952,
+      "capacity": 16,
+      "source_sha256": "6a48f079c30f07bbb8b800b24f758e954733271ea17e7fbc78575b66bf57a278",
+      "text": "Ep. 45"
+    },
+    {
+      "id": "title/z/82",
+      "offset": 93968,
+      "capacity": 64,
+      "source_sha256": "5d1a6f9d8c0712841b1a297c03d464cb70cab13c376064365b619e1ed23353ff",
+      "text": "Heir to the Legacy"
+    },
+    {
+      "id": "label/z/83",
+      "offset": 94064,
+      "capacity": 16,
+      "source_sha256": "9df6b3173c390d42528e63c458ada443dcb6ace453963cc10c3500d9a52c6aec",
+      "text": "Ep. 46"
+    },
+    {
+      "id": "title/z/83",
+      "offset": 94080,
+      "capacity": 64,
+      "source_sha256": "de7bd2e7d57e3a0dfb3c14ed05086f3b7f6d31a130cc65805c8914ff25198453",
+      "text": "Justice in Chaos"
+    },
+    {
+      "id": "label/z/84",
+      "offset": 94176,
+      "capacity": 16,
+      "source_sha256": "9cbf39c1f3d6bcf8e9100db4d61c6a27623b671cacb2927ee17cfab289ead6b1",
+      "text": "Ep. 47"
+    },
+    {
+      "id": "title/z/84",
+      "offset": 94192,
+      "capacity": 64,
+      "source_sha256": "b67e98c571c46da976e517d9b52a0579a3beff589c191677c88205bcab78b6a4",
+      "text": "Countdown"
+    },
+    {
+      "id": "label/z/85",
+      "offset": 94288,
+      "capacity": 16,
+      "source_sha256": "9cbf39c1f3d6bcf8e9100db4d61c6a27623b671cacb2927ee17cfab289ead6b1",
+      "text": "Ep. 47"
+    },
+    {
+      "id": "title/z/85",
+      "offset": 94304,
+      "capacity": 64,
+      "source_sha256": "a9fc268c420e1dd8280b829056a9738ae064891c142953f57c8b4e23d15cf462",
+      "text": "Our Destination"
+    },
+    {
+      "id": "label/z/86",
+      "offset": 94400,
+      "capacity": 16,
+      "source_sha256": "fa9299c2b12cea26fe2b5122f978046fdb247b8d81c0e04bddfafebcd3e6c28e",
+      "text": "Ep. 48"
+    },
+    {
+      "id": "title/z/86",
+      "offset": 94416,
+      "capacity": 64,
+      "source_sha256": "5782e89372c3c3d923179520353fbd043eab3886999682aba8402d88591358a8",
+      "text": "Exiles from Paradise"
+    },
+    {
+      "id": "label/z/87",
+      "offset": 94512,
+      "capacity": 16,
+      "source_sha256": "fa9299c2b12cea26fe2b5122f978046fdb247b8d81c0e04bddfafebcd3e6c28e",
+      "text": "Ep. 48"
+    },
+    {
+      "id": "title/z/87",
+      "offset": 94528,
+      "capacity": 64,
+      "source_sha256": "5a503f0ba6e3dca880dd36e5a6b0722bb60fb735ea971e75b88ff7316d2ad4bb",
+      "text": "Moonlight of Betrayal"
+    },
+    {
+      "id": "label/z/88",
+      "offset": 94624,
+      "capacity": 16,
+      "source_sha256": "e6a37bd3927a73b4ccb0de161b9b5399fdddb18733ce2605c4567bc2ec73f3dd",
+      "text": "Ep. 49"
+    },
+    {
+      "id": "title/z/88",
+      "offset": 94640,
+      "capacity": 64,
+      "source_sha256": "da39c68cd27baf4ad37d671ed9532e23a58d500a10cea169c0fa9ef79abe69d9",
+      "text": "Phantom Metropolis"
+    },
+    {
+      "id": "label/z/89",
+      "offset": 94736,
+      "capacity": 16,
+      "source_sha256": "e6a37bd3927a73b4ccb0de161b9b5399fdddb18733ce2605c4567bc2ec73f3dd",
+      "text": "Ep. 49"
+    },
+    {
+      "id": "title/z/89",
+      "offset": 94752,
+      "capacity": 64,
+      "source_sha256": "dd823a28ac43aad9a3302c1218d54465a9be61722041b3249aa842503549ab72",
+      "text": "Despair's Light, Hope's Flame"
+    },
+    {
+      "id": "label/z/90",
+      "offset": 94848,
+      "capacity": 16,
+      "source_sha256": "3c6b4a1426af215feb52036e598dbc0a815d21213b255445d069ba0a5fb8bf44",
+      "text": "Ep. 50"
+    },
+    {
+      "id": "title/z/90",
+      "offset": 94864,
+      "capacity": 64,
+      "source_sha256": "bccea28912d031c11fdaaa64d872c62f6ce9bab8c1ac083603dc4d85fcdcd978",
+      "text": "Hearts and Angel Dreams"
+    },
+    {
+      "id": "label/z/91",
+      "offset": 94960,
+      "capacity": 16,
+      "source_sha256": "3c6b4a1426af215feb52036e598dbc0a815d21213b255445d069ba0a5fb8bf44",
+      "text": "Ep. 50"
+    },
+    {
+      "id": "title/z/91",
+      "offset": 94976,
+      "capacity": 64,
+      "source_sha256": "8df94aea1abca5164a497cf4fce2c9bb791725703fe5a1747340534df231e18f",
+      "text": "I Am D.O.M.E. ..."
+    },
+    {
+      "id": "label/z/92",
+      "offset": 95072,
+      "capacity": 16,
+      "source_sha256": "81bb2bf75937e5db123024e42b163d0ac0c4bd61f6e0620313fc0c4db1f4977c",
+      "text": "Ep. 51"
+    },
+    {
+      "id": "title/z/92",
+      "offset": 95088,
+      "capacity": 64,
+      "source_sha256": "4b78dda6f9b25b241cfac7e57ce8b2a597ffff87302884856960b0ce7127484a",
+      "text": "Parting Ways"
+    },
+    {
+      "id": "label/z/93",
+      "offset": 95184,
+      "capacity": 16,
+      "source_sha256": "81bb2bf75937e5db123024e42b163d0ac0c4bd61f6e0620313fc0c4db1f4977c",
+      "text": "Ep. 51"
+    },
+    {
+      "id": "title/z/93",
+      "offset": 95200,
+      "capacity": 64,
+      "source_sha256": "7937496352664b97b8beb3ba2ba3252bffb56b4555d18edaffa9acda016caf20",
+      "text": "The Crimson Path"
+    },
+    {
+      "id": "label/z/94",
+      "offset": 95296,
+      "capacity": 16,
+      "source_sha256": "4a475aa9bedf20d0d7e9ff773f8b5c94576f2593867bfd960932003544105dd7",
+      "text": "Ep. 52"
+    },
+    {
+      "id": "title/z/94",
+      "offset": 95312,
+      "capacity": 64,
+      "source_sha256": "a19027d60c041d2605cbb6e18ce743fcca2d0446e6d7e24bb6583eab4964da6a",
+      "text": "Truth of the Black History"
+    },
+    {
+      "id": "label/z/95",
+      "offset": 95408,
+      "capacity": 16,
+      "source_sha256": "4a475aa9bedf20d0d7e9ff773f8b5c94576f2593867bfd960932003544105dd7",
+      "text": "Ep. 52"
+    },
+    {
+      "id": "title/z/95",
+      "offset": 95424,
+      "capacity": 64,
+      "source_sha256": "78395e9b94f36d56ff22a24a3150d4bdab08aa11643dc7526b3545919d797c10",
+      "text": "Gain Over"
+    },
+    {
+      "id": "label/z/96",
+      "offset": 95520,
+      "capacity": 16,
+      "source_sha256": "1a2d7f36341ecb9977f0fa0b77685c09e1f2c9d308fc166b71e7de6f11f1b97e",
+      "text": "Ep. 53"
+    },
+    {
+      "id": "title/z/96",
+      "offset": 95536,
+      "capacity": 64,
+      "source_sha256": "463aba911f4ecd1044ade89d2d50f75f449025c0beb24552e8abcf951dfc1f98",
+      "text": "Lunar Battle"
+    },
+    {
+      "id": "label/z/97",
+      "offset": 95632,
+      "capacity": 16,
+      "source_sha256": "1a2d7f36341ecb9977f0fa0b77685c09e1f2c9d308fc166b71e7de6f11f1b97e",
+      "text": "Ep. 53"
+    },
+    {
+      "id": "title/z/97",
+      "offset": 95648,
+      "capacity": 64,
+      "source_sha256": "bcd1734f7622dfc6ef786c41de57a98dea47711e3ea3f3f445869fcf774f3ea0",
+      "text": "Justice Made Crooked"
+    },
+    {
+      "id": "label/z/98",
+      "offset": 95744,
+      "capacity": 16,
+      "source_sha256": "6c936f7697573c90fef40c305f681da8af376a4e8ab4a74c6cf05f5a62979199",
+      "text": "Ep. 54"
+    },
+    {
+      "id": "title/z/98",
+      "offset": 95760,
+      "capacity": 64,
+      "source_sha256": "9f73c9e2eb7b00d36767c941fcfbc1952b0abc0591147712642e12080170f632",
+      "text": "Anthem of Souls"
+    },
+    {
+      "id": "label/z/99",
+      "offset": 95856,
+      "capacity": 16,
+      "source_sha256": "522d082494f709d6b818c29eb0937cd4cea10c881b4df3b3427ed06f1e099273",
+      "text": "Ep. 55"
+    },
+    {
+      "id": "title/z/99",
+      "offset": 95872,
+      "capacity": 64,
+      "source_sha256": "6bf65b534df8beaffd3a1e84e859550f390fce215b072fb5bd5735cb2eb37fc7",
+      "text": "Shine Forever, Our Star"
+    },
+    {
+      "id": "label/z/100",
+      "offset": 95968,
+      "capacity": 16,
+      "source_sha256": "5943277c40be1b95ad1475173e56e08990b3a8b9092bfdb1ebd24422a85f4392",
+      "text": "Ep. 56"
+    },
+    {
+      "id": "title/z/100",
+      "offset": 95984,
+      "capacity": 64,
+      "source_sha256": "838b802c83a742bccc470cbf1ce609aa8fe760866c19b5688c299e2642c0adb7",
+      "text": "Your Shape, My Shape"
+    },
+    {
+      "id": "label/z/101",
+      "offset": 96080,
+      "capacity": 16,
+      "source_sha256": "5943277c40be1b95ad1475173e56e08990b3a8b9092bfdb1ebd24422a85f4392",
+      "text": "Ep. 56"
+    },
+    {
+      "id": "title/z/101",
+      "offset": 96096,
+      "capacity": 64,
+      "source_sha256": "90f29b836c9c777f0d95a181ce495a3d6206790673534dfe5bf4da3bd1284343",
+      "text": "The Last Power"
+    },
+    {
+      "id": "label/z/102",
+      "offset": 96192,
+      "capacity": 16,
+      "source_sha256": "6b4093eabc06b78a4554594ccab020e2559c8f04b23fab1b1403ef9b7fca2be5",
+      "text": "Ep. 57"
+    },
+    {
+      "id": "title/z/102",
+      "offset": 96208,
+      "capacity": 64,
+      "source_sha256": "9d34836542b91e5dee1756252339b391f70dcffbe894aa937da52a47682103ad",
+      "text": "Light of the End"
+    },
+    {
+      "id": "label/z/103",
+      "offset": 96304,
+      "capacity": 16,
+      "source_sha256": "6b4093eabc06b78a4554594ccab020e2559c8f04b23fab1b1403ef9b7fca2be5",
+      "text": "Ep. 57"
+    },
+    {
+      "id": "title/z/103",
+      "offset": 96320,
+      "capacity": 64,
+      "source_sha256": "71c46b760889a18e7570aefde837a488a325755c18a354703a61f7642cc19ebe",
+      "text": "Wish on a Star"
+    },
+    {
+      "id": "label/z/104",
+      "offset": 96416,
+      "capacity": 16,
+      "source_sha256": "6ee016d097fa194d7504cd6114c81234fd6a4c413a3f6a58f3974d5a9cc69d3a",
+      "text": "Ep. 58"
+    },
+    {
+      "id": "title/z/104",
+      "offset": 96432,
+      "capacity": 64,
+      "source_sha256": "db1234553a0590f01ad38ccdb230ce95dab2b9e0e56163f5e89fbaf80eaebfdc",
+      "text": "Memories"
+    },
+    {
+      "id": "label/z/105",
+      "offset": 96528,
+      "capacity": 16,
+      "source_sha256": "693aede801eaf0ab8fd529679c7940c722e0a4084e37702a6f794fb23bdf49e1",
+      "text": "Ep. 59"
+    },
+    {
+      "id": "title/z/105",
+      "offset": 96544,
+      "capacity": 64,
+      "source_sha256": "5a38fcc6e68e25ff3896d43cd6998a04a6fb5c258108087625b34fe2201bac20",
+      "text": "World of Black"
+    },
+    {
+      "id": "label/z/106",
+      "offset": 96640,
+      "capacity": 16,
+      "source_sha256": "693aede801eaf0ab8fd529679c7940c722e0a4084e37702a6f794fb23bdf49e1",
+      "text": "Ep. 59"
+    },
+    {
+      "id": "title/z/106",
+      "offset": 96656,
+      "capacity": 64,
+      "source_sha256": "d658aa779abda56a051994fa27c466d72fb5c4bd5c4668802b9c90c970de07ca",
+      "text": "Tomorrow Painted Over"
+    },
+    {
+      "id": "label/z/107",
+      "offset": 96752,
+      "capacity": 16,
+      "source_sha256": "a080241ee3b682f413dff0e93268f14b9090bf0126846b4b32a470d4df26daf0",
+      "text": "Final"
+    },
+    {
+      "id": "title/z/107",
+      "offset": 96768,
+      "capacity": 64,
+      "source_sha256": "8c7faae242154b9b436b09a76827b04e8409edba76b0de72b57e23531de2026f",
+      "text": "My Future, Everyone's Future"
+    },
+    {
+      "id": "label/z/108",
+      "offset": 96864,
+      "capacity": 16,
+      "source_sha256": "a080241ee3b682f413dff0e93268f14b9090bf0126846b4b32a470d4df26daf0",
+      "text": "Final"
+    },
+    {
+      "id": "title/z/108",
+      "offset": 96880,
+      "capacity": 64,
+      "source_sha256": "223049ae056b831436048ab95be6512100d8ec870d892382807fb3eeff3ca87b",
+      "text": "Into the Endless Cycle of Battle"
+    },
+    {
+      "id": "label/z/109",
+      "offset": 96976,
+      "capacity": 16,
+      "source_sha256": "a080241ee3b682f413dff0e93268f14b9090bf0126846b4b32a470d4df26daf0",
+      "text": "Final"
+    },
+    {
+      "id": "title/z/109",
+      "offset": 96992,
+      "capacity": 64,
+      "source_sha256": "e2b3228e2dc0de1a2dcf5be64811da91bd26678fa10ab10f80b0451b713b8753",
+      "text": "My Future, Your Future"
+    },
+    {
+      "id": "key/0",
+      "offset": 97968,
+      "capacity": 7,
+      "source_sha256": "7f99feaea49ee6909f4d5cb9922cc8a87ff54ecfe83a06e041bc450aecdfef5f",
+      "text": ":OK"
+    },
+    {
+      "id": "key/1",
+      "offset": 97976,
+      "capacity": 7,
+      "source_sha256": "f174c418e80885725f03b34943866e6954a89d15a81978bdbc1b8130b0226c80",
+      "text": ":Back"
+    },
+    {
+      "id": "key/2",
+      "offset": 97984,
+      "capacity": 15,
+      "source_sha256": "541fba7873770e949dfce96a554c4235cc0f1816664c24064167b966fba3fe4a",
+      "text": ":Speed Up"
+    },
+    {
+      "id": "key/3",
+      "offset": 98000,
+      "capacity": 39,
+      "source_sha256": "8a00700e10ed8a555bbbd377cdc4fe8442bc45175e24b0e0635636828c0cd5e0",
+      "text": ":Special Disc Chart"
+    },
+    {
+      "id": "key/4",
+      "offset": 98048,
+      "capacity": 25,
+      "source_sha256": "4e64af1726db01c1cc20bbd40038cc3b4dab488819f2dfc2c5babdbd758ab7d3",
+      "text": ":SRW Z Chart"
+    },
+    {
+      "id": "synopsis/0",
+      "offset": 19040,
+      "capacity": 440,
+      "source_sha256": "fc4d4762d22a4fe21428f99eff8bd0e5a0f4e13e4c7ffd6238a120ba4ddc7be0",
+      "text": "A special order brings together a new unit of New\nEarth Federation elites. Pride sets its recruits at\nodds, but under Colonel Neo Roanoke they repel a\njoint AEUG-ZAFT force. Having recognized each\nother's skill, they receive Special Order 013:\ncapture or destroy the unknown BG, Black Gale.\nSpecial Task Force 013 is born, and a new battle\nbegins."
+    },
+    {
+      "id": "synopsis/1",
+      "offset": 19488,
+      "capacity": 464,
+      "source_sha256": "e9f0398963847f77adca856d5db05dde238b6d767cc50a0b6db005f374b13d8e",
+      "text": "Task Force 013 knows almost nothing about BG,\nexcept that it is dangerous enough to require their\ncombined elite skills. They find it, but a Shadow\nAngel attack ruins the capture. After barely\nrepelling the Shadow Angels, they face the Hundred\nDemon Empire. Civilian allies, the Siberian Railway\nGuard, save them. With new comrades and doubts\nabout their motley ranks, they head to McConnell\nBase for more reinforcements."
+    },
+    {
+      "id": "synopsis/2",
+      "offset": 19952,
+      "capacity": 492,
+      "source_sha256": "2fb2dc8e777a26ce3440ac3bba3c96c4f96cc09dd71997512d2fd42a2722db5d",
+      "text": "Phantom Pain meets new comrades; Anemone and\nCynthia see themselves in its members. Near\nMcConnell Base, Beck and Corin nearly come to\nblows, then unite against alien attackers. Task\nForce 013 joins them and repels the aliens, but a\nblock word leaves Auel mentally unstable after the\nbattle. Back at base, Beck and Corin join the unit.\nChimera's Dr. Jie arrives with fresh supplies."
+    },
+    {
+      "id": "synopsis/3",
+      "offset": 20448,
+      "capacity": 424,
+      "source_sha256": "4013e42c54bfe779c4ea74ccfac3c7bd2393ba7e77fe4da754d9b77282b268d9",
+      "text": "Ordered to guard a weapons test, Task Force 013\nexpects trouble after its recent experiences. The\nnew weapon, Orange, triggers a space-time tremor,\nreleasing bizarre, vividly colored creatures. The\nunit repels them without understanding what is\nhappening, then receives orders to keep the\noperation secret. Angry at being dragged through\naimless missions, they vow to finish the BG hunt\nand disband. News arrives that BG has been located."
+    },
+    {
+      "id": "synopsis/4",
+      "offset": 20880,
+      "capacity": 489,
+      "source_sha256": "acdc8c1d8478477c8e428dae556b7707dccf284942ce66aa72bf1a973d88c434",
+      "text": "Dr. Jie has plans for Task Force 013. They find BG\nand fight for their own reasons. Defeated, BG still\nescapes. As they pursue it, a vast, unidentified\nmobile weapon appears. They fight without knowing\nits pilot, barely win, and learn nothing. News then\narrives that BG has been captured. Their mission\ncomplete, Task Force 013 disbands. Its members\nreturn to their own battles, carrying memories of\ntheir time together."
+    },
+    {
+      "id": "synopsis/5",
+      "offset": 21376,
+      "capacity": 540,
+      "source_sha256": "d65045dd0bdb63347f72f9ed9276c7efcd4e285aff7a616ac43dfc1c9dd7524e",
+      "text": "As space-time restoration nears, the group recalls\npast battles at UN Station. Kira smiles at Renton\nand Eureka's bond. Hap and Matthieu recall\nGekkostate's rookie initiation: Renton gave his all\nto a dangerous mission, unaware it was a prank.\nGainer exposed it, and Ken-Goh lectured the\nculprits. Yet Renton's sincerity forged a bond with\nMoondoggie, and his earnest feelings became the\nstrength to save Eureka."
+    },
+    {
+      "id": "synopsis/6",
+      "offset": 21920,
+      "capacity": 504,
+      "source_sha256": "e3e65f8ed331aae7c687b57db975fc17d6def7e060dd4bd1a02a8195f4983701",
+      "text": "As space-time restoration nears, the group recalls\npast battles at UN Station. Roger and Banjo tell of\nmeeting Renton's grandfather Axel in Bellforest.\nDominic was also there, investigating the Thurston\nfamily. As Banjo questioned him about Dewey\nNovak's plans, Schwarzwald appeared. Roger and\nBanjo fought him, but Big O malfunctioned. Axel's\nmechanical skill saved them. Thinking of his waiting\ngrandfather, Renton vows to return with Eureka one\nday."
+    },
+    {
+      "id": "synopsis/7",
+      "offset": 22432,
+      "capacity": 536,
+      "source_sha256": "a483d519029e2891018dedba32f7eb1a993e8768511a3b383296bb28ec805af3",
+      "text": "As space-time restoration nears, the group recalls\npast battles at UN Station. Asked about his\ntravels, Roger tells of a town plagued by bandits.\nInstead of his peaceful negotiation, its people\nchose to fight, inspired by Noir 7, mercenaries who\nleft armies and organizations for their beliefs.\nMoved by them, Roger fought as a meddlesome\nindividual, not a Negotiator. Reminded of all who\nlive in the Multi-Dimensional World, the group\nresolves to restore space-time for everyone."
+    },
+    {
+      "id": "synopsis/8",
+      "offset": 22976,
+      "capacity": 512,
+      "source_sha256": "7c8c0cee96076d85b124047976e70e665a485eb6ce76c0714019b7cc946fd93e",
+      "text": "On the way from Tampagunda Base to Gibraltar,\nSandman invites the group to his villa. They relax\nin hot springs shaped by his distinctive tastes. A\ntable-tennis tournament brings unexpected\nheart-to-heart encounters. Refreshed, they easily\nrepel attacking Zeravire. Eiji and Lunamaria win the\ntournament, only to face Sandman's terrifying\ntable-tennis skills. Back at Saint-Germain Castle,\nSandman tells Raven he is ready to face his past."
+    },
+    {
+      "id": "synopsis/9",
+      "offset": 23488,
+      "capacity": 584,
+      "source_sha256": "6774f7425b42c53a357827ebb6de80be9cc044c3169f4f5c06def6ca5ce0af7d",
+      "text": "Teral recalls life as Lila with the real Teral, Lila's\nlate lover. Disgusted by Butcher's frivolous battles,\nTeral orders an Eldar-only attack. Toshiya's group\nis astonished and exasperated that Martino sells\nGod Sigma's blueprints. The Eldar use them to\nexploit its weakness. Rie's desperate rescue of\nToshiya reminds Teral of that former life, causing\nTeral to hesitate to attack. Gattler scorns the\nretreat as a woman's way of fighting. Furious,\nTeral renews the resolve to fulfill the mission."
+    },
+    {
+      "id": "synopsis/10",
+      "offset": 24080,
+      "capacity": 576,
+      "source_sha256": "4c35c57967da60999bb4540f3d7a2bdd5b89446115fd17081cb9eebe01b27df7",
+      "text": "Seeking Black History's power, Guin sends\nprospector Sid to Gallia and asks Joseph to\ninvestigate nearby Mountain Cycles. The site is the\nforbidden Lost Mountain, hiding nuclear weapons.\nLoran's group fights Breakers who unearthed them.\nCornered, the Breakers try to use the weapons, but\na mysterious Overman emerges and neutralizes them.\nThe group repels its attack without understanding\nevents. Enthralled by Black History, Guin sends Sid\nto Wulgusk to investigate further."
+    },
+    {
+      "id": "synopsis/11",
+      "offset": 24656,
+      "capacity": 436,
+      "source_sha256": "6a5f6a96f5c615dbafb44f22d0905a495bda093a292d190f443b0dfa477876ec",
+      "text": "Star 3 trains to master the Virgola Glory. Athrun\nwonders at her strange strength but joins the\nothers in helping her train. Near Gibraltar Base,\nthe New Earth Federation attacks. One enemy is a\nman Denzel once refused entry to Glory Star. When\nhe insults the team's honor, Star 3 fights him in\nanger, armed with what Denzel and Toby passed\ndown to her."
+    },
+    {
+      "id": "synopsis/12",
+      "offset": 25104,
+      "capacity": 518,
+      "source_sha256": "4b74678133bb0940d2b6132fc7f484b8dc5664748ed3aaf781ebb8c24652e706",
+      "text": "As news of the New Earth Federation coup shakes\nthe world, the group stays at Tresor Institute in\nSouth Ameria to refit Nirvash. While the women\ndiet, the Hundred Demon Empire rots the food\nsupplies, leaving everyone starving. Dr. Gura\nattacks the weakened group. Fasting sharpens\nAquarion's senses: its Food-Seeking Explosive\nArrow strikes the invisible Mecha Fortress Demon.\nVictorious, they enjoy Fudou's feast, but Silvia and\nthe others gain even more weight than before their\ndiet."
+    },
+    {
+      "id": "synopsis/13",
+      "offset": 25632,
+      "capacity": 526,
+      "source_sha256": "119d263ef791eaea047632c7418f637ff3b9569dc0de2dfdc71047649dd79532",
+      "text": "Ana and Adette go alone to a nearby town. Ana\nwants to contact her father Medaiyu about Wulgusk\nwithout worrying the others. Moved, Adette promises\nto help. Asuham's former aide Zakki attacks, and\nAdette risks her life to keep that promise. With\nGainer's help they repel him and contact Wulgusk,\nbut Medaiyu rejects Ana out of parental concern.\nUnderstanding his love, Ana thanks her father and\ncries her heart out in Adette's arms."
+    },
+    {
+      "id": "synopsis/14",
+      "offset": 26160,
+      "capacity": 588,
+      "source_sha256": "ce3a74871324f05f6395d3ad7cd9d4832f84b161be18b309b092582743200c7e",
+      "text": "Someone asks for Roger by name to negotiate for\nflowers from a garden. He and Mel visit, but its\nowner refuses to sell them. Roger then negotiates\nwith a crooked property firm that wants the\ngarden. Talks fail, as he expected; finding him a\nnuisance, the president sends assassins. With\nDorothy and the group's help, Roger defeats them\nand obtains the flowers. They bring Roger and\nDorothy closer, while his client Dominic gives them\nto Anemone to soothe her heart."
+    },
+    {
+      "id": "synopsis/15",
+      "offset": 26752,
+      "capacity": 538,
+      "source_sha256": "5cd23040c553c337b532f2e3ebeff2be46dbe8ba1d774f2d2a5e1186eac00be4",
+      "text": "The group worries over Pierre's strange behavior.\nTex and Mischa diagnose combination addiction.\nMeanwhile, Renton and Garrod take Eureka shopping\non the girls' advice, as she worries about her\nfacial scars. Shadow Angels attack. Pierre risks his\nlife to protect his first love Esperanza and his\nfamily, moving Apollo, Renton and the others.\nFudou's advice helps him grow and win. Eureka and\nthe girls also take a step toward adulthood, and\nthe group renews its resolve to fight for this\nworld."
+    },
+    {
+      "id": "synopsis/16",
+      "offset": 27296,
+      "capacity": 461,
+      "source_sha256": "28ebe11d130f6666482b5f1c65aa6f8c403399168441d23b7653d1d642140ff6",
+      "text": "Space-time restoration has stabilized the\nMulti-Dimensional World, but a hidden threat\nawakens. Turn A and King Gainer go berserk for\nunknown reasons as unmanned forces attack\nworldwide. Facing an enemy of unknown origin and\npurpose, nations led by the New Earth Federation\nand PLANT form an independent force across\nnational and organizational lines. Carrying people's\nhopes for the future, the group begins a new\nbattle in North Ameria and Gallia."
+    },
+    {
+      "id": "synopsis/17",
+      "offset": 27760,
+      "capacity": 528,
+      "source_sha256": "6f0d9e1f28b3be8d636e048c3267ba60cf034ceced1515fb4b24b003861efd4a",
+      "text": "Gathering in North Ameria, the group reviews the\nattacks. All they know is that the unmanned forces\nare Black History relics awakened from Mountain\nCycles. Their autonomous control mechanism earns\nthe machines the name Executor System. More\nmachines attack. The group repels them, sensing a\ndeliberate purpose unlike the attacks elsewhere.\nBanjo and Roger arrive with news that the enemy's\nbase is in Japan. The group heads to the trade\npoint to meet its comrades from Gallia."
+    },
+    {
+      "id": "synopsis/18",
+      "offset": 28288,
+      "capacity": 528,
+      "source_sha256": "dd0321de928f0ea4e441ce83fea8c919a09c32b04bdc7651e406ccba294690ed",
+      "text": "Gathering in Gallia, the group reviews the attacks.\nAll they know is that the unmanned forces are\nBlack History relics awakened from Mountain Cycles.\nTheir autonomous control mechanism earns the\nmachines the name Executor System. More machines\nattack. The group repels them, sensing a deliberate\npurpose unlike the attacks elsewhere. Banjo and\nRoger arrive with news that the enemy's base is in\nJapan. The group heads to the trade point to meet\nits comrades from North Ameria."
+    },
+    {
+      "id": "synopsis/19",
+      "offset": 28816,
+      "capacity": 540,
+      "source_sha256": "9c200372feece8fa65451fc5cb11192131aa4a571d63d3e52e67fc30d9112242",
+      "text": "Banjo and Roger describe Black History's end as\ndepicted in the book Metropolis: destruction,\nrebirth, and an Executor. Suspecting a system built\nto remove humanity and restore Earth's environment,\nthe group goes to Japan to uncover the truth and\nstop the machines. A mysterious black Overman\nawaits. Gainer realizes it controls the Executor\nSystem. Ghingnham appears in Turn X. Defeating him,\nthe group pursues the black Overman into the\nJapanese Alps."
+    },
+    {
+      "id": "synopsis/20",
+      "offset": 29360,
+      "capacity": 510,
+      "source_sha256": "c90ba1ac3693ceb5beebee0db1b3e325290dfcbc7ade8788dcfb77423968bee3",
+      "text": "The black Overman controlling the Executor System\nis King Gainer's counterpart from a parallel world.\nThe group answers its question about humanity's\nmeaning. Believing in human potential and valuing\nlife, they fight to stop the system. Defeated, the\nOverman thanks them and vanishes. Its purpose\nremains unknown, yet they sense its care for\nhumanity and Earth. They vow to its spirit to keep\nfighting for a better future."
+    },
+    {
+      "id": "main-synopsis/0",
+      "offset": 32432,
+      "capacity": 439,
+      "source_sha256": "bbdcf4613abbb788324ac04d13bcb3b4c90e842ea1cc0bf432a26c00778e41e0",
+      "text": "At the Lunar Lutetium base, the combat research\nteam Glory Star was conducting evaluation tests on\nthe Earth Federation's next mass-produced unit, the\nVirgola. Star 3, newly assigned, felt doubts about\nher mission due to Titans' slander, but was\nencouraged by chief Denzel and others. An AEUG MS\nunit attacked the base to seize the Virgola. Forced\nto sortie, Glory Star was caught in a space\ndistortion during battle."
+    },
+    {
+      "id": "main-synopsis/1",
+      "offset": 32880,
+      "capacity": 482,
+      "source_sha256": "e011cf90796ae66dbeb506051edb5796f977ebab5347c04cd2d9cda481fa7aa6",
+      "text": "When Glory Star came to, they were in an unknown\ncolony, Armory One. For self-defense, they fought\nthe defense force. Meanwhile, intruders stole a new\nmobile suit. With Shinn in Impulse and Alex, Orb's\nrepresentative's bodyguard, they chased the\nintruders, who escaped the colony. Minerva's captain\nTalia ordered the ship to launch and told Shinn to\ntake in the surrendered Glory Star."
+    },
+    {
+      "id": "main-synopsis/2",
+      "offset": 33376,
+      "capacity": 498,
+      "source_sha256": "849bb5d68deb9c2dc179cb2fe9a27214b4acb11c7b08c05fe3eaf59fe74a7cb1",
+      "text": "The Minerva pursued intruder Bogey One, but\nstruggled against Commander Neo's trap. Alex's quick\nthinking saved them, but then, from a spatial\ndistortion, AEUG and Titans forces appeared. Amid\nthe confused battle, Glory Star sided with AEUG,\nnormally its enemy, and the unknown ZAFT. The\nbattle ended in AEUG/ZAFT's victory, but a new\ndistortion swallowed Glory Star. Durandal sought\ncontact with AEUG to grasp the situation."
+    },
+    {
+      "id": "main-synopsis/3",
+      "offset": 33888,
+      "capacity": 436,
+      "source_sha256": "f6bfe7ad94071272bf814925d64d3525888877a94901d46107fd78b7f5343995",
+      "text": "Transported to another world, Grendizer and the\nVega Fleet faced off. Glory Star joined the\ndecisive battle. They cornered King Vega, but an\nunknown alien weapon appeared, letting him escape.\nAfter repelling the aliens, the Earth Alliance\nsurrounded them as Unknowns. To avoid trouble,\nthey obeyed the military."
+    },
+    {
+      "id": "main-synopsis/4",
+      "offset": 34336,
+      "capacity": 528,
+      "source_sha256": "5014f1cb121cf4441a33e52d5267b744c4f17aeff7391cd969e39a08f5953a5c",
+      "text": "The group is harshly questioned at an Alliance base\nas suspected citizens of the hostile PLANTs. They\ntell all to Blue Fixer's seemingly sympathetic\nTsukikage and Quinstein. The aliens return to\nSuruga Bay. At Heizaemon's orders, Kappei fights in\nZambo Ace, said to be his ancestors' legacy. Duke\nFleed's group helps repel the aliens to defend the\ntown. The Alliance again tries to detain them, so,\nat Heizaemon's orders, they flee to Beal I, the\nbattleship they excavated."
+    },
+    {
+      "id": "main-synopsis/5",
+      "offset": 34864,
+      "capacity": 476,
+      "source_sha256": "bb9c5486fc62aa527c2242c8798ed210cdd0e80994fcca425783ce2ad8ef04aa",
+      "text": "Amid reports of Unknowns, a party hosted by the\nmysterious magnate Sandman was held in Tokyo. He\nannounced Earth was targeted by new invaders,\nZeravire. As he said, Tokyo came under attack.\nKappei and the others intercepted. In battle,\nSandman's Earthgertz trump card, Gravion, appeared.\nSandman displayed Gravion's power and declared to\nthe Earth Alliance that Duke Fleed and the group\nwere under his protection."
+    },
+    {
+      "id": "main-synopsis/6",
+      "offset": 35344,
+      "capacity": 556,
+      "source_sha256": "95fbdcf18c5456a9207aa9c65dc24b63f437b413c61785c78e279924b451ee6a",
+      "text": "Kappei left Saint-Germain to meet his father\nGengoro on his return from deep-sea fishing. Back\nhome, misunderstanding and prejudice led Kazuki and\nothers to demand the Jin family be cast out. Aliens\nattacked again, but Kappei refused to fight for the\nselfish townsfolk. Toshiya in the newly completed\nKuuraiou and Kappei's cousins Uchuta and Keiko\nfought instead. Encouraged by Gengoro and the\nothers, Kappei resolved to fight, completing Zambot\n3's combination. Victorious, they headed to space\nto stop Junius Seven's fall."
+    },
+    {
+      "id": "main-synopsis/7",
+      "offset": 35904,
+      "capacity": 548,
+      "source_sha256": "f3b6838da2072f000ffd6b96b13ec78d81fc588c133ac34ee024f0885584f98c",
+      "text": "The Minerva and Argama rushed to stop Junius\nSeven. Amid poor coordination, the culprits were\nrevealed as Coordinator dissidents. To sway public\nopinion, Phantom Pain let it fall, aided by the\nTitans, and aliens further plunged the battlefield\ninto chaos. King Beal joined, and the fragmentation\nbegan. But a distortion swallowed Glory Star. A\nhuge shard of Junius Seven was about to crash to\nEarth."
+    },
+    {
+      "id": "main-synopsis/8",
+      "offset": 36464,
+      "capacity": 417,
+      "source_sha256": "eb04a1b93b3af795a302cea93be5494f16bdae51fcb374b96977370e5fb9772a",
+      "text": "Glory Star was transported to an orbital elevator\nin South America. Amid the confusion, Kei and Orson\nfought a force attempting to seize the elevator,\nand Glory Star joined them. Although they defeated\nthe first wave, more reinforcements appeared. Kei\nactivated a spacetime quake bomb to destroy the\norbital elevator. In the ensuing chaos, a mysterious\nfigure shot down Denzel. The bomb then brought the\nworld to an end."
+    },
+    {
+      "id": "main-synopsis/9",
+      "offset": 36896,
+      "capacity": 295,
+      "source_sha256": "59d99f15223711fca3b8bc8780c6d1ab07b9c005f4b0c240d24de6815d6c395a",
+      "text": "The wandering repair shop Beater Service meets\nGarrod, flung from Ameria, at a bazaar. Breakers\nraid for his Gundam; The Heat and Garrod repel\nthem. Exodus contractor Gain saves them mid-fight,\nthen hires them as partners."
+    },
+    {
+      "id": "main-synopsis/10",
+      "offset": 37200,
+      "capacity": 426,
+      "source_sha256": "1f99e95f0e1211fea8ab0a3a136b246a1794ed1f9340217549cec7a4a7ef0578",
+      "text": "With Gain, the group takes on the Exodus of the\nDomepolis Wulgusk. Gainer, an ordinary boy who\nloves video games, is arrested by Sibe Rail on\nsuspicion of Exodus ties. Gain infiltrates the city\nand ends up rescuing him. They seize the lord's\nOverman and take his daughter Ana hostage.\nRepelling Sibe Rail, they begin an unprecedented\nExodus with entire city units moving together."
+    },
+    {
+      "id": "main-synopsis/11",
+      "offset": 37632,
+      "capacity": 524,
+      "source_sha256": "6b097749edf6688f4e1b434b4ac297676595b9ffd5a0b0debea4b7ca8bd7b643",
+      "text": "Gainer resented being pulled into Exodus and took\nit out on Sara, the girl he admired. Gain and the\nothers fought Siberian Railway as it pursued\nYapan's ceiling. Siberian Railway hired Zora's\nBreakers, the Hola family, as mercenaries, and used\nthem as decoys while Yassaba closed in. Gainer\nstaked his pride, challenging Yassaba and unleashing\nKing Gainer's Overskill. The Heat's connections\nbrought Iron Gear as backup, and they repelled\nSiberian Railway. Afterward, Gainer joined Exodus to\nrepay Gain."
+    },
+    {
+      "id": "main-synopsis/12",
+      "offset": 38160,
+      "capacity": 528,
+      "source_sha256": "d2f48273925a3480500818245f4e6b2b411fd2f5af7f9d3df13f0f75b11f13d8",
+      "text": "Seeking revenge on those who humiliated him,\nYassaba infiltrated Yapan's ceiling. Adette was also\nthere to rescue Ana, but Gain caught her. Yassaba\nburst in, throwing the ceiling into chaos. Seizing\nthe moment, Kejinan tried to take over Siberian\nRailway, recruiting Hola and attacking. In the\nconfusion, Yassaba escaped with the fortune-teller\ngirl Eifa, vowing to stop Exodus. The battle ended\nin his defeat, and bereft of all, he set out on an\nExodus with Eifa."
+    },
+    {
+      "id": "main-synopsis/13",
+      "offset": 38688,
+      "capacity": 369,
+      "source_sha256": "87a303560b111f8587f0c528de987e738b67d3ff0411a133fbc2ba199d521589",
+      "text": "Beater Service searches for Cielo Beater, lost to a\nwarp. A new warp brings Gekkostate and the United\nFederation chasing them. The Heat offers a\nceasefire, but meddling forces a fight anyway.\nAnother warp then swallows Gekkostate and Iron\nGear alike."
+    },
+    {
+      "id": "main-synopsis/14",
+      "offset": 39072,
+      "capacity": 560,
+      "source_sha256": "0a30c5165899a2c1d56d778bb557167ad96777245a7d5f88b45033a280fe63b8",
+      "text": "Thrown from Gallia to North Ameria by a distortion,\nthe group took refuge with local boy Loran. Loran,\nof the Moonrace, had lived undercover on Earth for\ntwo years to test their planned return. As the\nMoonrace return began, a misunderstanding led the\nDianna Counter to attack. Loran fought back in the\nWhite Doll, a mobile suit revealed inside a statue\nat the coming-of-age ceremony. Iron Gear's crew\nassisted, repelling the Dianna Counter. Lord Guin,\nnegotiating with the Moonrace, prepared his next\nmove."
+    },
+    {
+      "id": "main-synopsis/15",
+      "offset": 39632,
+      "capacity": 508,
+      "source_sha256": "a91cc2d94f8463c7393cdd72fb759062bec2c880002b55c2f9991ed7cae3152e",
+      "text": "As a bargaining chip in negotiations, Guin hired\nIron Gear's crew as bodyguards. From Enil's\ncontact, Garrod learned Tifa was captured by the\nFrost brothers and held in this city. During the\nMoonrace welcome party, Garrod rescued Tifa. Loran\nsaved him from the Frosts. Amid the chaos, Dianna\nCounter joined, aiming to weaken Earth forces. The\nbattle ended when Loran confessed his Moonrace\nidentity and Dianna appeared in his support."
+    },
+    {
+      "id": "main-synopsis/16",
+      "offset": 40144,
+      "capacity": 447,
+      "source_sha256": "e9bb6e1fa3f8c51297a0bb820ff8f525c3c2d85a3600e0af768839dac6a04c87",
+      "text": "In a lark, Dianna and Kihel swapped places. The\ngroup heading to a joint exercise with the Moonrace\nwas shocked by the sight. Investigating, Jiron and\nthe others met Apollo and his friends. Mysterious\ngirls were seeking Apollo. Then the enemy Shadow\nAngels appeared. As Aquarion, the trump card,\nstruggled, Apollo, enraged at his friend Baron's\nabduction, was guided into it. They won thanks to\nApollo, but Toma was already planning his next\nmove."
+    },
+    {
+      "id": "main-synopsis/17",
+      "offset": 40592,
+      "capacity": 376,
+      "source_sha256": "3f9e6fc6e36185a089c324b5966a3e02ed7e0e071803ae5f060ca890fbc8ec3d",
+      "text": "Sirius and the others learn their town was warped\nto another world. The Shadow Angels attack again;\nIron Gear meets them with Aquarion. Apollo beats\nCherubim troops sent by Toma, who presses him to\nrecall a past life. Their contact stirs a rift, and\nfar off, a quake bomb ends the world."
+    },
+    {
+      "id": "main-synopsis/18",
+      "offset": 40976,
+      "capacity": 416,
+      "source_sha256": "c73339104436e67ea64ca1a1d473294d4d6657dc974dea27ed734477f44dcb98",
+      "text": "The bomb that ended one world also marked the\nbeginning of a new one. Learning that the stranded\nKei was a Singularity, Emaan's Factory offered him\nprotection. Chiram also sought the Singularity and\ntried to capture him. Resisting their forceful\napproach, Kei fought alongside Glomar to repel\nthem. A mysterious mobile weapon then appeared,\nand Kei drove it off with the New Federation's\nPhantom Pain. He was astonished when Shaya and\nthe others told him that a new world had been\nborn."
+    },
+    {
+      "id": "main-synopsis/19",
+      "offset": 41392,
+      "capacity": 454,
+      "source_sha256": "6fef12657ee76d7b3fa21dfbf5ef60369e968996f7a227fd8e3acaef68d75f81",
+      "text": "A series of strange murders in the memory-wiped\nParadigm City. Dorothy and the others searched for\nthe missing Roger, encountering incidents wherever\nthey went. Finally, the culprit R.D. appeared, and\nescaped Beck's gang caused chaos, until Roger\nsummoned Big O. After Roger repelled Beck,\nSchwarzwald attacked him in a mysterious Megadeus,\nthen left cryptic words and departed. Roger decided\nto leave Paradigm City in search of truth."
+    },
+    {
+      "id": "main-synopsis/20",
+      "offset": 41856,
+      "capacity": 438,
+      "source_sha256": "7c84a0d1ef45d3114132c3d661f99c7e98b2560bc7a80727b245ce3bfee05d2e",
+      "text": "Bored with his ordinary life in Bellforest, Renton\nmet the mysterious girl Eureka. As the New\nFederation and Gekkostate clashed over her, Renton\nsummoned his courage for her. With Titans, ZAFT,\nand AEUG, the battle became a melee, and Renton\nunleashed Nirvash's Seven Swell via the Amita Drive\nfrom his grandfather Axel. As Axel pressed\nGekkostate to leave, Renton chose to journey with\nEureka."
+    },
+    {
+      "id": "main-synopsis/21",
+      "offset": 42304,
+      "capacity": 485,
+      "source_sha256": "ec39415a69155d00c895abc85973930a030aeafda48504e3ac039bfa73f20191",
+      "text": "At Trinity City in the Pacific, anti-alien forces\ngathered around King Beal. Blue Fixer recovered a\nmysterious spacecraft. Then the Eldars, who wiped\nout Jupiter's Io colony, appeared. Burning with\nrage, Toshiya, with Julie and Kiraken, completed God\nSigma's combination. With new power, King Beal\ndeparted to fight aliens worldwide. Meanwhile, the\nEldars allied with Gaizock and Vega to destroy\nhumanity."
+    },
+    {
+      "id": "main-synopsis/22",
+      "offset": 42800,
+      "capacity": 528,
+      "source_sha256": "cfdb8f68673d6e8446d756c1f41faeeb89f7d7b4f93f1f554200c7b64f1ae485",
+      "text": "The Dianna Counter targeted Fort Severn, an\nautonomous city in North Ameria, as their return\npoint from the Moon. But this was the military's\nreckless act, not Dianna's will. Carris hired Freeden\nto counter them. Iron Gear's crew and the Frosts'\nNew Federation forces appeared, and in the melee,\nDianna, disguised as Kihel, tried to swap with Kihel\ndisguised as Dianna. The swap failed, but Fort\nSevern was defended. The defeat only accelerated\nthe military's recklessness."
+    },
+    {
+      "id": "main-synopsis/23",
+      "offset": 43328,
+      "capacity": 362,
+      "source_sha256": "434d902238df186223b1f2c00cc2f306164343cd98df3966a3679f24c3381193",
+      "text": "At a trading point halfway between Gallia and\nAmeria, Chiram attacks Kei. The New Federation,\nZAFT, AEUG, aliens, King Beal, Shadow Angels,\nFreeden and Iron Gear also arrive, plunging the\nbattlefield into chaos. After narrowly repelling the\nenemy, the group is contacted by Capt. Lowen of\nChimera, the New Earth Federation's special unit.\nThose who have fought separately around the world\nare now gathered together."
+    },
+    {
+      "id": "main-synopsis/24",
+      "offset": 43696,
+      "capacity": 424,
+      "source_sha256": "902b5f81f149e8ae4a85302a9b6dbd53e91f8e8d5b34b43f8dab1c29fdbe29e8",
+      "text": "Argama and Minerva, chasing Gekkostate, are forced\nto fight them. Renton's cry halts it. Their will to\nfight gone, all join to meet the New Federation\ntroops that appear. A mystery suit repels an alien\n- Kira's Freedom, which once ended the last war.\nAfter, Talia meets Gekkostate's leader Holland,\nabandons the attempt to secure their cooperation,\nand instead commissions them for a job."
+    },
+    {
+      "id": "main-synopsis/25",
+      "offset": 44128,
+      "capacity": 475,
+      "source_sha256": "d64b3ea1fe9be091c22e80b0c0793453b60c63c5428e400d67993feb04098a69",
+      "text": "Duke Fleed visited Trinity City. Seeking his role in\nthe alien war, he met the S-1 alien Marin, an enemy\nalien shunned by the crew. When alien attack forces\nappeared, Toshiya and Duke Fleed fought but\nstruggled against the subspace tactics of S-1's\nAldebaron army. Quinstein asked Marin to sortie.\nMarin and the others, awakened by Duke Fleed's\nwords, defeated Aldebaron with Baldios."
+    },
+    {
+      "id": "main-synopsis/26",
+      "offset": 44608,
+      "capacity": 530,
+      "source_sha256": "d7d5f869d1b6a41b14ca5bf3438f9da8c1eeb7d121309f2183c945081003789e",
+      "text": "Independent Orb denied Talia's request for aid. Its\nrepresentative Cagalli was a figurehead; the Seiran\nfamily held power, secretly allied with the New\nFederation in the name of protecting Orb. Leaving,\nthey were caught between the New Federation and\nOrb forces. Struggling against the enemy's new\nweapon, they were saved by Karaba's Amuro and\nShinn's unprecedented performance. After the\nbattle, Shinn was consumed by anger at Orb, but\nkind words soothed him. The Freeden crew split off\nto watch Orb's moves."
+    },
+    {
+      "id": "main-synopsis/27",
+      "offset": 45152,
+      "capacity": 463,
+      "source_sha256": "b66b607d717ab109d77965c38e8de9dc03e33d89e46c0a278778d738d7aca91b",
+      "text": "In Orb, which had announced its alliance with the\nNew Earth Federation, Yuna and Cagalli's wedding\nwas about to take place. Coordinator assassins\nclosed in on Lacus and Kira, who lived peacefully\nthere. Kira drove them off in Freedom, realizing\nthey had no place in the New Federation, PLANT, or\nOrb, and fled with the Archangel crew, taking\nCagalli on an aimless journey. The Minerva, now\njoined by Athrun, crossed to Gallia to join Yapan's\nceiling."
+    },
+    {
+      "id": "main-synopsis/28",
+      "offset": 45616,
+      "capacity": 404,
+      "source_sha256": "1b73d09a203ef4a4b1a9cf2ece2d905fa8c31de3baf698be6c38179cadbd633b",
+      "text": "The group opens a market to earn a living. The\nDianna Counter shows up to plunder supplies.\nDefending themselves, they repel Chiram too. Kei\nnotices a familiar- moving Chiram machine. Dianna,\nas Kihel, aches at the Counter's wayward path.\nChiram's plan to capture Kei, the Singularity,\nadvances, led by his friend, Orson."
+    },
+    {
+      "id": "main-synopsis/29",
+      "offset": 46032,
+      "capacity": 500,
+      "source_sha256": "3a0aecc6580142eb7a6c8b3b421ef34bfdda781da3d107bda91bb777f9d379a7",
+      "text": "Awaiting them at Yapan's ceiling was their former\nfoe Adette. During a relay-race event held to ease\nfriction within the unit and the residents'\nfrustration, Asuham appeared, seeking Gain as his\nsworn enemy. Gain beat him in a duel, but Asuham\nsummoned Saint Regan and Siberian Railway to\nattack in numbers. Roger, appearing as Exodus'\nnegotiator, saved the day. The group pressed on\ntoward the legendary Yapan, continuing their\nExodus."
+    },
+    {
+      "id": "main-synopsis/30",
+      "offset": 46544,
+      "capacity": 459,
+      "source_sha256": "82434cc8e2067cd2316356e88232bda995fe79872784b525a39a94cee7248fca",
+      "text": "A refugee caravan was allowed aboard Yapan's\nceiling. Kappei spotted Kazuki and his group, who\nblamed the Jin family for their exile and vented\ntheir rage on him. Ignoring a mysterious man's\nadvice, Kappei flew into a rage and attacked the\naliens in Zambo Ace alone. As the Shadow Angels\njoined the chaos, he learned the value of comrades\nand defeated the enemy together. His example\nreminded Dianna of her own duty, and she revealed\nher true identity to Loran."
+    },
+    {
+      "id": "main-synopsis/31",
+      "offset": 47008,
+      "capacity": 477,
+      "source_sha256": "7cf4e1206426a224f34b6db0ae11fcb6e44854d80dea22b804c63bee5c8bed61",
+      "text": "Dome Polis Katez, the refugees' destination, is\nabout to be seized by the Dianna Counter. At the\nlord's request, Roger goes with Guin to negotiate,\nbut talks break down. Asuham's scheming drags the\ngroup into a fight with the Dianna Counter, until\nKihel, posing as Dianna, ends it with a word, and\nDianna entrusts the Dianna Counter to her. Having\nbeaten Asuham, the man behind it, the group bids\nthe refugees farewell and rejoins the Minerva and\nArgama."
+    },
+    {
+      "id": "main-synopsis/32",
+      "offset": 47488,
+      "capacity": 438,
+      "source_sha256": "042d2fd558f6895c8fb3f36e2fb13d70c94990fe3dfce2369a1bb1a9a0a25b56",
+      "text": "Gainer and the others tried to capture a Skyfish\nat Holland's request. They struggled against\nPlanetta, piloted by Siberian Railway operations\ndirector Kashmir, and Gain's Gachiko was badly\ndamaged. However, Gainer's love confession to Sara\nshook Kashmir, and the party won. Though Sara was\nangered by it, Gainer earned Renton's respect. In\nthe chaos, the party formed an independent\nguerrilla unit to work together across factions."
+    },
+    {
+      "id": "main-synopsis/33",
+      "offset": 47936,
+      "capacity": 443,
+      "source_sha256": "e5fcefd88586623aaffd9b71159c21b89722142b662b442e653899ef13e4fb9a",
+      "text": "Glory Star knowingly accepted Asakim's provocation.\nAfter repelling Chiram, Asakim's Shrowga attacked\nthem. They cornered Asakim with the party, but it\nwas his trap all along. Toby was shot down, and\nAsakim left, carving an undying fear into them.\nStar 3, grieving another lost comrade, decided to\nlive as a warrior, encouraged by those around her\nand by Lowen."
+    },
+    {
+      "id": "main-synopsis/34",
+      "offset": 48384,
+      "capacity": 288,
+      "source_sha256": "278cc814351940d3eb4d1fb658f461c4ad635a98dfd8031bcba01f298ff08d15",
+      "text": "Answering a call for help from their benefactor\nAsakim, Beater Service rushes over. They join\nAsakim in repelling Chiram, but The Heat is wounded.\nThrough the pain he also beats a mysterious woman\nchasing Asakim. After, Asakim leaves without saying\nmuch."
+    },
+    {
+      "id": "main-synopsis/35",
+      "offset": 48672,
+      "capacity": 465,
+      "source_sha256": "7baddec0cbc248e25008f2e9c0c21dede7eeedd2833a69ebc5d36d3cea8b6272",
+      "text": "Kashmir and Timp made a final gamble to stop\nYapan's ceiling. A mysterious Overman said to serve\nthe Siberian Railway president Kizz Munt appeared,\nand the battle raged. There, Kashmir's scheme\nrevealed that Gauli killed Gainer's parents. Gain\nforced Gainer to fight. The party repelled the\nShadow Angels with Getter Robo, and the Exodus\nsucceeded. But Gainer, unable to settle his heart,\ndecided to begin his own Exodus with his friends."
+    },
+    {
+      "id": "main-synopsis/36",
+      "offset": 49152,
+      "capacity": 538,
+      "source_sha256": "055780bb8a947824de6e021d675016cc9110e6be1eadf71fa90298d263662f31",
+      "text": "Roger negotiates the sale of the Saotome Institute,\nbut Director Saotome refuses. Roger's mysterious\nclient curses and dismisses him. An unknown enemy\nattacks; with the Getter Team away, the Elements\nfight to defend the institute, but chaos erupts as\nthe Hyakki Empire, Shadow Angels and Schwarzwald\narrive. Roger's help and the Getter Team's return\nwin the day, yet the Hyakki Empire in society's\nshadow shakes the group. Then Boss brings word\nthat the Photon Power Lab has fallen."
+    },
+    {
+      "id": "main-synopsis/37",
+      "offset": 49696,
+      "capacity": 431,
+      "source_sha256": "4c587b1dabaf081ecf32c4bf5c51210113fccd20dd48b9a434b79988b0ee1d95",
+      "text": "Using the seized lab, the Hyakki Empire drives\nKoji's group back. Hidler gloats; Tekkouki seeks a\nshowdown with his sworn enemy Getter Robo. Koji's\ngroup storms the lab, prepared to risk their lives,\nand with Tetsuya retakes it. Mazinger Z and Great\nMazinger crush the Empire. They vow to wipe out\nthe Hyakki Empire hiding in Japan."
+    },
+    {
+      "id": "main-synopsis/38",
+      "offset": 50128,
+      "capacity": 469,
+      "source_sha256": "31b5a19fb8689126231ede270586a75a5adeb787434422eddbe8db69a282d6ca",
+      "text": "To catch the Hyakki Empire in one net, the group\nknowingly accepts the enemy's invitation. Moroha of\nthe Shadow Angels strikes, and Aquarion, lacking\nteamwork, is cornered. Moved by Tekkouki's resolve\nto abandon even his homeland for pride, the group\nbreaks both the Empire and the Shadow Angels.\nBeaten by Sandman and Fudou's plan, the Hyakki oni\nall take their own lives. Japan will rejoin the New\nEarth Federation under Chimera, while Holland and\nJamil tell Talia they will act apart."
+    },
+    {
+      "id": "main-synopsis/39",
+      "offset": 50608,
+      "capacity": 517,
+      "source_sha256": "dd2ea236042104de9d19908c010d94b413930a002e7596b1bbd7aa945b74d86d",
+      "text": "The ZAFT-led group stopped in Hong Kong for\nsupplies from Karaba. Enjoying their free time,\nShinn and Kamille met girls named Stella and Four.\nIn battle with Phantom Pain, the psycho Gundam's\npilot was Four. As Kamille held back, Touga\nunhesitatingly tried to finish off the disabled Four.\nEiji stopped him, but was angered by Touga's cold\nreasoning."
+    },
+    {
+      "id": "main-synopsis/40",
+      "offset": 51136,
+      "capacity": 441,
+      "source_sha256": "6fd010cb9018de953e8e99f81ff9d1f1023465fe519f6db1a296c7a684982cb0",
+      "text": "With Harry of the Dianna Counter, the party\nattacked the New Federation's Lohengrin Gate. Local\ncooperation and Shinn's efforts won, but Shinn, lost\nin rage, tried to fight beyond necessity. Against\nthe new Zeravire, the uncoordinated Gran Knights\ncouldn't combine. They barely won, but Eiji,\ndistrusting Touga, left the ship. Teteth, plotting\nto assassinate Dianna, was beginning to realize\nthat she was disguised as Kihel."
+    },
+    {
+      "id": "main-synopsis/41",
+      "offset": 51584,
+      "capacity": 499,
+      "source_sha256": "22ea759965bd5e71d4134f684e6f3481eab916368c7f88e41158463ad0136705",
+      "text": "The party found Eiji, but his resolve was firm and\nhe would not listen to their attempts to persuade\nhim. As the alien alliance attacked, Toshiya and\nothers sortied, but Gaizock's objective was to\nabduct the townsfolk. Teral, moved by Toshiya's\ncourage, responded in kind. Against a new Zeravire,\nthe reunited Gran Knights fought but were\noutmatched. Sandman granted them a new power, the\nSuper Heavy Sword. He rejoiced in the victory of\nthe now more mature Gran Knights, yet his past\nwounds ached."
+    },
+    {
+      "id": "main-synopsis/42",
+      "offset": 52096,
+      "capacity": 461,
+      "source_sha256": "334bfd586d848cb303b4fc566d7a9c9249222870bf22a047cfd3b9e8a1a1f9ad",
+      "text": "The party fought Phantom Pain. With Orb, allied to\nthe New Federation, joining, the Archangel and\nFreedom appeared and called for a truce. When their\ncall was rejected, Freedom attacked the party to\nstop the fighting. In the chaos with the Ghingnham\nfleet, Heine fell. A mysterious woman serving\nAsakim also attacked. After the battle, the party\nwas baffled and angered by the Archangel and\nFreedom's inscrutable actions."
+    },
+    {
+      "id": "main-synopsis/43",
+      "offset": 52560,
+      "capacity": 503,
+      "source_sha256": "fe193ede4d8833cbe7fb9b137f3ca42290be0339b039a10c90a61f6e8e5de735",
+      "text": "The party investigated a ruined lab. Human\naugmentation had been studied there, and its horror\nshook Rey. Phantom Pain moved to recapture or\ndestroy the lab, the New Federation's dark secret.\nIn the fight, Shinn protected Stella and Kamille\npersuaded Four. But Four sacrificed herself to\npreserve her comrade Auel's memory. The Freedom\nthen shot down the pursuing Athrun. With a bitter\nvictory, the party realized the threat of leaving\nthe Archangel and Freedom unchecked."
+    },
+    {
+      "id": "main-synopsis/44",
+      "offset": 53072,
+      "capacity": 492,
+      "source_sha256": "221ec3dd0ef4ebc9d9ff7804dc0f487779bde90816fc4963c2a8cdd08e5e0c8a",
+      "text": "Bright and the others met with Brigadier General\nEdel at the Tampagunda base. Meanwhile, the party\nlearned of their detachment's selfish actions and\ngrew angry. To overcome her fear of Asakim, Star\n3 answered his call. Fighting Ziene, Asakim's ally,\nshe was saved by Capt. Lowen and her friends'\nvoices. Regaining her fighting spirit, she defeated\nZiene. After returning, she met Edel and asked Dr.\nJie of Chimera to refit the Virgola for the battles\nahead."
+    },
+    {
+      "id": "main-synopsis/45",
+      "offset": 53568,
+      "capacity": 532,
+      "source_sha256": "1666f42696041d165ed1709933521ece363826fc9faff9c6680f58eed6df1e50",
+      "text": "Star 3 sortied in the refitted Virgola at Toby's\ncall. But waiting was Land, Asakim's ally, and they\nfought. In battle, Toby appeared and shot Star 3.\nThis Toby was Asakim, who had used supernatural\npowers to take his form. Her grief peaked,\ntransforming Ganary Carver into something utterly\nalien. Asakim, defeated by that power, rejoiced in\nher awakening. Afterward, though troubled by the\nwords of Land, who had been deceived by Asakim,\nshe resolved to fight on with the new Virgola."
+    },
+    {
+      "id": "main-synopsis/46",
+      "offset": 54112,
+      "capacity": 501,
+      "source_sha256": "94b0c8777d5406f82426ba110941def11475f5dc80d17435e2fbcba8a15838dd",
+      "text": "Heading to Gibraltar, the party tried to rendezvous\nwith the Radish, carrying supplies from space. Alert\nto Phantom Pain, Kamille and others went ahead, but\nthe enemy had already attacked. Kamille treated the\ninexperienced Fa coldly despite her determined\nfighting. But it was Fa who saved him from Jerid's\nnew machine. With the Zeta Gundam, Kamille drove\noff Jerid and the others. Afterward, Kamille found\npeace in Fa's presence. Neo was removed from\ncommand of Phantom Pain, and Commander Scirocco\nwent to the front to take direct command."
+    },
+    {
+      "id": "main-synopsis/47",
+      "offset": 54624,
+      "capacity": 513,
+      "source_sha256": "8909b05674152e4a7b4478752ce67106039bc3ad08947658d15ea882e05b0c87",
+      "text": "At Gibraltar, Dianna and Durandal met, but talks\nfailed. Quattro then met Durandal and learned of\nthe multi-world crisis. That night, at Lacus Clyne's\nconcert, Dianna was abducted. Kamille, pursuing,\nfaced Paptimus Scirocco. In Phantom Pain's base\nattack, Reccoa was shot down, and a coup broke\nout in the Dianna Counter. Revealing herself, Dianna\nboarded Soleil to save Kihel, switching places again."
+    },
+    {
+      "id": "main-synopsis/48",
+      "offset": 55152,
+      "capacity": 469,
+      "source_sha256": "78ba05b9ea8daaa544b673305c3aef6a7ffc8c8abb0b3e3c4ddf6ec646da6c52",
+      "text": "Shinn and Rey's punishment for letting Stella go\nwas surprisingly light. Kamille chided the arrogant\nShinn. On their own judgment, the party pursued\nthe Soleil to save Dianna. Amid attacks by\nGhingnham's fleet and the New Federation, the\nFreedom appeared and offered help. But despite\ntheir efforts, Dianna was taken to space. Harry\nand Kihel accepted the Archangel's offer and went\nto space with them. As the party reeled, news\ncame of the New Federation's invasion of Chiram."
+    },
+    {
+      "id": "main-synopsis/49",
+      "offset": 55632,
+      "capacity": 491,
+      "source_sha256": "85c9483a3fd8f9370f95c0b8f04b2435058e74fc6b49483a1ee9317236c4c41d",
+      "text": "King Beal took in the amnesiac refugees. Kappei\nfound Hamamoto, Kazuki's comrade, among them. The\nparty intercepted the Gaizock attack. Mid-battle,\nthe refugees' section exploded. The Gaizock had\nturned them into human bombs. Kappei burned with\nrage, but the enemy was too strong. Earth's\nscience couldn't defuse the bombs. Hamamoto and\nthe others left, living in fear of detonation.\nKappei and his friends had no words to give them."
+    },
+    {
+      "id": "main-synopsis/50",
+      "offset": 56128,
+      "capacity": 467,
+      "source_sha256": "19311ebc39e608cdcf58300509cee15dbd419554345eb5a0d2574983b656d5b4",
+      "text": "Duke Fleed heard troubling rumors on UN as he\nmoved to join the party. The party, burning with\nhatred for the aliens, judged they couldn't win and\ndecided to contact the Dianna Counter to gather\nintel on the Moon. The Eldar army attacked. God\nSigma's new weapons won, and they captured Teral.\nBut Toshiya let him go to stop the human bombs.\nAgainst the party's emotional call for total\nresistance, Duke Fleed left in silence."
+    },
+    {
+      "id": "main-synopsis/51",
+      "offset": 56608,
+      "capacity": 548,
+      "source_sha256": "3be05ce60d55d59e1c95c56a4c352324c966f56fa4eb84a64a18b45a52bc2504",
+      "text": "Invited to Sandman's villa, the group hears the\ntruth of the Zeravire, his own secret, and his ties\nto Leele. Kappei is shaken, but a mysterious man,\nBanjo, encourages him back to himself. Phantom Pain\nattacks under Faye, and an enemy strike stirs\nLeele's memories. New Federation spy Mizuki then\ncompletes her mission and leaves the Gran Knights.\nTouga, meaning well, tells Leele the whole truth,\nand the shock leads to her suffering serious\nphysical injuries. As the Gran Knights come apart,\nword arrives of the New Federation invading Chiram."
+    },
+    {
+      "id": "main-synopsis/52",
+      "offset": 57168,
+      "capacity": 457,
+      "source_sha256": "d395f64bede2c716203f97d6bd5d8b58e71d4481aede7e6538bc7dc1b9b27f0a",
+      "text": "The New Federation suddenly invades Chiram, and its\npowerful new weapon destroys the capital. The\ngroup fights back, but the Archangel and their\nformer comrades arrive; they berate the group and\nfight the New Federation alone, causing chaos.\nKamille and Shinn struggle in vain: Four and Stella\nlose their lives, and Shinn burns with hatred for\nthe Freedom that caused Stella's death. Condemning\nthe attack, Durandal exposes the Council of Sages\nand vows to bring it down."
+    },
+    {
+      "id": "main-synopsis/53",
+      "offset": 57632,
+      "capacity": 452,
+      "source_sha256": "0107a2db7af68204b175e92af49b7bf1e73625207feb357008a6045c49172ec7",
+      "text": "Durandal's speech threw the world into chaos, and\nangry citizens demanded the complete removal of\nthe Council of Sages and its faction. Seizing this\nchance, a coup broke out in the New Earth\nFederation under Scirocco and Dewey. The reformed\ngovernment pinned all blame on the Council to\nproject a clean image, but the group grew uneasy\nabout the enemy lurking behind it. They defeated a\nNew Federation unit they encountered, but there\nstood the Archangel and their former comrades."
+    },
+    {
+      "id": "main-synopsis/54",
+      "offset": 58096,
+      "capacity": 440,
+      "source_sha256": "c35415abcc78b102541c562fa8090a0deeba2cc61a37a41ce14be57e0dfa0ff0",
+      "text": "The group faced the Archangel and their former\ncomrades. Talia, tasked with shooting down the\nArchangel, advised surrender, but with no common\nground, battle began. Shinn targeted the Freedom\nand fought with all his might, finally shooting it\ndown. This prompted the Archangel and Iron Gear\nforces to retreat. Then Banjo appeared and\nrevealed the truth: the group and their friends\nhad been used by someone."
+    },
+    {
+      "id": "main-synopsis/55",
+      "offset": 58544,
+      "capacity": 383,
+      "source_sha256": "f7ce17aa43d5088d7bc163d282753a1ae2cd3905e2b60159b710f7afca0f7d62",
+      "text": "Dewey publicly declares the Coralians to be\nhumanity's enemy and promises to exterminate them,\nwinning overwhelming public support. The group\nencounters Coralians by chance and, without knowing\nwhat they are, joins the New Federation forces in\ntrying to repel them. Although the Coralians seem\nto keep appearing endlessly, they reach their\nactivity limit and die out. Meanwhile, Durandal\nmeets a mysterious figure calling himself the Black\nCharisma."
+    },
+    {
+      "id": "main-synopsis/56",
+      "offset": 58928,
+      "capacity": 445,
+      "source_sha256": "80d38f3d9ca910c416451224f6fbcae14dc377c64ed3c91a250eb664e4a036d5",
+      "text": "Warned by Mizuki of the New Earth Federation's\nspacetime control experiment, the group sets out to\nseize it. Many factions arrive, drawn by the Black\nCharisma, and their former comrades appear too. In\nthe confusion Bloodman fires the spacetime quake\nbomb to break the deadlock. What should have\ncaused only a minute shift triggers destruction on\nthe scale of Break the World. Amid it, the Black\nCharisma throws ominous words at the group."
+    },
+    {
+      "id": "main-synopsis/57",
+      "offset": 59376,
+      "capacity": 485,
+      "source_sha256": "21b7ed9fff92fa188a526f96c0d2dfccc7a89293cc3068bb495330654387cb66",
+      "text": "Having refused ZAFT's help, the group considers\nwhat to do next. Meanwhile the Gekkostate is in\nuproar over a Coralian. Overwhelmed by the vast\ncloud-like being, the group takes Holland's request\nand tries to bring Eureka and Renton into contact.\nA black KLF like the Nirvash appears with the New\nFederation. Slipping through their attack, the\nNirvash makes contact, and the group meets\nsomething like an illusion. A transfer throws them,\nand when they come to, Tiffa has been taken."
+    },
+    {
+      "id": "main-synopsis/58",
+      "offset": 59872,
+      "capacity": 534,
+      "source_sha256": "7bcb00e38769145a4df53c94cbec12b71674772a76367ec043c627d3ec533231",
+      "text": "Renton got word of Tiffa's whereabouts from\nDominic, a New Federation officer he met in town.\nThe Zonder Epta held an eerie legend. Garrod and\nRenton went ahead alone for recon, but were caught\nwith the Freeden by Katock's scheme. With Holland's\ndesperate charge, Jamil's resolve to save Lucille,\nand Katock's help, Garrod launched the DX. They\nrescued Tiffa and Eureka, but Holland made Renton\nrealize his own helplessness. Jamil and Holland saw\nthemselves in Katock and mourned him."
+    },
+    {
+      "id": "main-synopsis/59",
+      "offset": 60416,
+      "capacity": 433,
+      "source_sha256": "2ba4131b743b562eff34d480756e9a263fa2f4d4d9c820ee58b82f74b3ab8521",
+      "text": "Getter and Aquarion lost due to poor teamwork. The\nElements worked on Fudou's harsh training, but were\nbaffled by it. Meanwhile, Gyukenki challenged\nGetter. Despite his doubts, Ryou faced him. In the\nensuing battle against the Shadow Angels, Getter\nand Aquarion won with new power. Fudou left\ncryptic words behind. Shaya and Mimsy then set\ncourse for Emaan."
+    },
+    {
+      "id": "main-synopsis/60",
+      "offset": 60864,
+      "capacity": 448,
+      "source_sha256": "35e2e76551b1e570028bec8ee28930c9e70b5f74278e0a2c8d664e628196cf5c",
+      "text": "Entering Emaan, the group is captured, all but Kei.\nShaya's sister Manisha will not rule out mind\ncontrol if Kei, the key to repairing spacetime,\nrefuses. Emaan pursues them after a mysterious\nwoman, Ziene, helps them escape, and Glomar\nresolves to leave Emaan. As ZAFT and Chiram\narrive, Slay sacrifices himself to protect Mimsy.\nKnowing now they are outsiders with nowhere to\nbelong, the group draws closer."
+    },
+    {
+      "id": "main-synopsis/61",
+      "offset": 61312,
+      "capacity": 466,
+      "source_sha256": "52099741e75a2d2f0efa28e9c352c1704123faaeb0e11c2c0ce29705b16ac739",
+      "text": "To hide from various pursuers, the group fled to\nan LFO excavation site in South Ameria. As Holland\ngrew frustrated, Eureka complained of illness to\nRenton, but he had no room to care. When enemies\nappeared, Eureka went alone into the cave. Renton\nfollowed and saw her merging with the Scub. In\nresponse to his shock and regret, the Nirvash\nactivated the Seven Swell, letting the group escape."
+    },
+    {
+      "id": "main-synopsis/62",
+      "offset": 61792,
+      "capacity": 480,
+      "source_sha256": "54e5e5811e1804c5c980b3dcdb1a22239a1a2de8f87ab20d8c69fd03fcf275fe",
+      "text": "At Sarta base, the group met with Chimera and\ngrew angry at their former comrades' atrocities.\nThey retrieved a senior Vodarac monk from Chiram\nat Chimera's request, where Renton again saw\nHolland's resolve and his own naivety. Mel's father\nCielo appeared, but it was a trap set by Asakim to\nharm Beater Service physically and mentally. With\nLowen and Setsuko's help they repelled the enemy,\nbut Mel, learning of her father's disappearance and\nher body's secret, rejected The Heat."
+    },
+    {
+      "id": "main-synopsis/63",
+      "offset": 62272,
+      "capacity": 445,
+      "source_sha256": "b98b90324813eec6a0eab59681f3b73b943468e0b1adc46c39a06b1e88d42095",
+      "text": "Holland and the others met Brigadier General Edel\nand were impressed by her noble character.\nMeanwhile, The Heat, with Dr. Jie's help, unsealed\nGanleon. The Heat pursued Asakim on Setsuko's\nintel, but could do nothing without Ganleon. While\ntheir allies provided support, Beater Service\nregained their bond, unleashed Ganleon's sleeping\npower, and defeated Asakim. As the group\ncelebrated victory and spent time with Brigadier\nGeneral Edel, Renton left the ship out of\nself-loathing."
+    },
+    {
+      "id": "main-synopsis/64",
+      "offset": 62720,
+      "capacity": 422,
+      "source_sha256": "8ac5a91e531489b4d182522b613d1b90889506619ae9c092c225e12271a83c8d",
+      "text": "Fed up with Holland's selfish behavior, Garrod and\nthe others search for Renton. After meeting\nvarious people in town, Renton gets to know the\nmercenary couple, the Beams. Circumstances bring\nthe group together with Pala, a girl from space, to\nfight the thugs rampaging through town. Ennil also\naccepts her own feelings and helps them. After the\nbattle, Renton leaves Garrod and the others with\nthe Beams. Respecting Renton's decision, they\nchoose to wait for his return."
+    },
+    {
+      "id": "main-synopsis/65",
+      "offset": 63152,
+      "capacity": 570,
+      "source_sha256": "5860ba087dadd4f0b604566b5167f41148bea139e21dae9a406e001b6707feb0",
+      "text": "While waiting for Renton to return, the group\nenjoyed their freedom. Roger gave Kei a message\nfrom a mysterious person. His old friend Orson, now\na Chiram soldier, was asking for his cooperation.\nBut Robert, eager for glory, tried to capture Kei\nby force. Orson helped them escape, but vengeful\nAsuham and his men appeared. They repelled them,\nbut Glomar reported the main force's dire straits,\nforcing their return. Orson, having disobeyed\norders, was summoned home, and pondered who was\nright, himself or Kei."
+    },
+    {
+      "id": "main-synopsis/66",
+      "offset": 63728,
+      "capacity": 467,
+      "source_sha256": "1c8119764619cd1b0883e9150ddcaa457881d825eb8369fa3f9a158b3321bba4",
+      "text": "Gekkostate separated from the main force to settle\nthings with their old acquaintance Charles.\nMeanwhile, Renton was offered adoption by the\nBeams, but chose Eureka and left them. Charles and\nHolland clashed. Eureka and Renton reunited, and\nthe others who defeated the Overdevil joined up.\nDespite Renton's cries, the Beams vanished into the\nflames. As word of the New Federation's invasion of\nChiram reached them, Asuham revived the true\nOverdevil."
+    },
+    {
+      "id": "main-synopsis/67",
+      "offset": 64208,
+      "capacity": 558,
+      "source_sha256": "75d24431b156c8061c5b350ee325d684ba4b55e41c5f2e7247486a219010eb81",
+      "text": "At the Lunar Skull Moon base, spy suspicions arose.\nAphrodia ordered Flick, the suspect, to hunt Marin.\nMeanwhile, Marin was finally opening up. Flick swore\nto fight with his old friend and left Aldebaron, but\nAphrodia had anticipated this in her plan. With the\ngroup trapped in a sealed space, Flick turned\nagainst them out of self-preservation. Knowing his\ntrue heart, Marin struck him down for his friends.\nFollowing Flick's last words, Marin deliberately let\nAphrodia, who had failed to escape, go. Moved, Duke\nFleed vowed to help the group."
+    },
+    {
+      "id": "main-synopsis/68",
+      "offset": 64768,
+      "capacity": 502,
+      "source_sha256": "8662167af7dc0a68e5f3ba3a873435f8924ffdef2acd88045447663eff8d6e1c",
+      "text": "Gainer finally met Cynthia, his game rival, and they\nbecame friends. Siberian Railway' president Kizz\nMunt decided to make an example of Gain, who had\nundertaken Wulgusk's Exodus, and personally crush\nhim and his allies. Kizz cornered the group with\nAgat's crystal and a massive army. Gainer and Sara\ndodged the approaching Cynthia and charged the\ncrystal, but the Overdevil revived. Its overwhelming\npower forced the group to retreat. Defeated by\nCynthia, Gainer vowed to retrain himself to bring\nher to her senses."
+    },
+    {
+      "id": "main-synopsis/69",
+      "offset": 65280,
+      "capacity": 475,
+      "source_sha256": "c175535e56d215dee5ab7c05529bf45bd415d52f442839186f6361513b68fd73",
+      "text": "The group helped Gainer train to surpass himself.\nThe decisive battle against Siberian Railway with\nthe Overdevil began. The Shadow Angels also\nappeared to defeat it. As Rena's vision showed, the\ntwo had been ancient foes. Gainer succeeded in\ndestroying the Overdevil, but Cynthia left. The\ngroup reunited with Gekkostate, but news of the\nNew Federation's invasion of Chiram arrived.\nMeanwhile, Asuham revived the true Overdevil."
+    },
+    {
+      "id": "main-synopsis/70",
+      "offset": 65760,
+      "capacity": 465,
+      "source_sha256": "9970dd0347960ee7deb12d4a92a4bfcf68cea79623c45c58d300e3d2629021b3",
+      "text": "The New Federation invades Chiram, its new weapon\ndestroying the capital. The group fights alongside\nthe Archangel to stop it, but their former\ncomrades appear, berate them, and fight the New\nFederation alone. They down the giant mobile suit\nat the enemy's core, only for its pilot to be\nsomeone Shinn knew. Their former comrades leave,\nangry at the group's selfishness. Durandal reveals\nthe Council of Sages and declares he will bring it\ndown."
+    },
+    {
+      "id": "main-synopsis/71",
+      "offset": 66240,
+      "capacity": 436,
+      "source_sha256": "6b4d0ed43a88b1945fdca22f7b17a2bfc27c32a79bae3c6c0e5b5d2e7eb7a13b",
+      "text": "Durandal's speech throws the world into chaos, and\nangry citizens demand the expulsion of the Council\nof Sages. Seizing this, a coup breaks out in the\nNew Earth Federation under Scirocco and Dewey. The\nreformed government pins all blame on the Council\nto project a clean image, but the group grows\nuneasy about the enemy behind it. They defeat a\nNew Federation unit, but those who appear there\nare their former comrades."
+    },
+    {
+      "id": "main-synopsis/72",
+      "offset": 66688,
+      "capacity": 477,
+      "source_sha256": "bc4b7d5aee7e2c1ff6b6a8f5adb6cd9cea85cade375ab1c1a5f2190f4eb0ee4d",
+      "text": "The group faced their former comrades. Talia,\ntasked with shooting down the Archangel, advised\nsurrender, but with no common ground, they fought.\nShinn's fierce focus on the Freedom overwhelmed\nKira, and the Freedom was finally shot down; the\nArchangel also took damage from the Minerva.\nGuided by Banjo's appearance, the group withdrew\nand learned from Orson that they and their friends\nhad been used. Talho then revealed that Eureka was\na Coralian."
+    },
+    {
+      "id": "main-synopsis/73",
+      "offset": 67168,
+      "capacity": 451,
+      "source_sha256": "45a3779d0371ab17d70d36874e55f3c333ea716c0f00caa7b7763c7c97031adf",
+      "text": "The group headed to Tresor Institute to upgrade\nthe Nirvash. Dewey announced the Coralians as\nhumanity's enemy and declared their annihilation.\nLearning Dewey was awakening antibody Coralians,\nthey moved to stop him. In that battle, the reborn\nNirvash flew with Renton and Eureka. But they were\nforced to fight the antibody Coralians that\nappeared and reluctantly destroyed them. Meanwhile,\nDurandal met with the mysterious figure calling\nhimself the Black Charisma."
+    },
+    {
+      "id": "main-synopsis/74",
+      "offset": 67632,
+      "capacity": 445,
+      "source_sha256": "6cfcf34e8527ab1d56d8d32fd50fe3518eb23bf239a79386a28d8e76b9fa1cbb",
+      "text": "Learning from Athena of the New Earth Federation's\nexperiment with a spacetime control device, the\ngroup planned to destroy the device. But guided by\nthe Black Charisma, various forces, including former\ncomrades, appeared. Amid the chaos, Bloodman\ndecided to activate the time-space vibration bomb\nto break the deadlock. What should have been a\ntiny warp instead caused Break the World-class\nspacetime destruction. Then the Black Charisma cast\nominous words at the group."
+    },
+    {
+      "id": "main-synopsis/75",
+      "offset": 68080,
+      "capacity": 534,
+      "source_sha256": "df26d3833b85df170b275cdebfa380a4e83ff52c2bca2321d956364cde71ac5d",
+      "text": "Reunited, the group realized that someone had\nmanipulated them into misunderstanding each other.\nThe Emaan fleet attacked to seize the singularity.\nShaya declared her will to her sister Manisha and\nprotected them from Chiram's forces. After\nrepelling the enemy, Chiram's leader invited them to\ntalks including Emaan. Shaya attended as\nrepresentative and vowed to act beyond national\nand racial borders, and Manisha trusted her.\nChiram's leader told Shaya the group itself had\nbecome the singularity."
+    },
+    {
+      "id": "main-synopsis/76",
+      "offset": 68624,
+      "capacity": 388,
+      "source_sha256": "8844c961e89b0b2d795b71281b4bad399ce55fb1f0e28c853312403142f27580",
+      "text": "Taking advantage of the Second Break, Gagarn\narrives from the Eldar homeworld and dismisses\nTeral. In response, Teral stakes his pride on a\ndecisive battle with Earth. Facing him, Kappei learns\nthat Aki has been turned into a human bomb and\nburns with rage. The sight devastates Teral and\nmakes all the fighting seem futile to him. During\nthe battle, the Zeravire's fierce assault also\nclaims Eina and Luna as casualties. Shocked, Touga\nleaves the ship."
+    },
+    {
+      "id": "main-synopsis/77",
+      "offset": 69024,
+      "capacity": 544,
+      "source_sha256": "20f278692a84a0b041c5af6f0ac29757483316fa67595dabb48a8010dde90c4d",
+      "text": "ZAFT questioned Minerva's crew for defending the\nNew Federation HQ. At Gibraltar, Shinn and Rey\nreceived new power from Durandal. Ordered to hunt\ndeserter Athrun, they reluctantly shot him down. In\nspace, Harry and Eternal fought to rescue Dianna\nbefore her handover to the New Federation.\nGhingnham's Turn X intervened. Kira joined in Strike\nFreedom to fight ZAFT. Dianna entrusted the future\nto Kihel and joined Ghingnham on the Moon to\nreveal the Black History."
+    },
+    {
+      "id": "main-synopsis/78",
+      "offset": 69568,
+      "capacity": 483,
+      "source_sha256": "19ed34872139da2c11bc84451eb81bab60184cff28e20e4da9c9b46d17322cf0",
+      "text": "Aldebaron executed the Earth flood plan to seize\ncontrol of Skull Moon. Through encounters with\nRubina and Teral, Aphrodia began to waver. The\ngroup attacked the artificial sun with all forces\nbut struggled against the enemy horde and Shadow\nAngels. Revived Gran Knights and Sol Gravion saved\nthem. With David's support, they stopped the plan\nand captured both Futaba, a Shadow Angel child, and\nAphrodia. As the group rejoiced, Quinstein wore a\ncomplex expression."
+    },
+    {
+      "id": "main-synopsis/79",
+      "offset": 70064,
+      "capacity": 546,
+      "source_sha256": "6a2ce54ce6a534b6c0a65b0b6f566fc57ee265009f770764dfc317e3843a9b55",
+      "text": "Learning S-1 is Earth's future shocks the group.\nQuinstein theorizes that spacetime destruction at\nthe Black History's end spawned countless parallel\nworlds, including Zora and S-1. To learn the truth,\nthey move to rescue Innocent leader Arthur and\nVodarac leader Norb from the LOGOS stronghold\nHeaven's Base. There Holland confronts his foe and\nolder brother Dewey, declaring war. Arthur tells\nthem of a lunar facility that records the Black\nHistory, where a Newtype's will sleeps."
+    },
+    {
+      "id": "main-synopsis/80",
+      "offset": 70624,
+      "capacity": 526,
+      "source_sha256": "afb2867863edbfcc88453a390714582bc3d88b2a1f339ba85d20ba79170cb553",
+      "text": "ZAFT demanded the surrender of Orb, where the\nLOGOS remnants had taken refuge. But Orb prepared\nto fight to the end without evacuating its\ncitizens. The group focused on capturing Djibril to\nminimize damage. He escaped to space, and\nGhingnham and the Space Revolutionary Army threw\nthe battlefield into chaos. With Kira and Athrun\njoining, they broke through, but ZAFT accused them\nof obstructing its operations. Cagalli, who had\nreturned to Orb, and the real Lacus exposed\nDurandal's plot to the world, deepening the chaos."
+    },
+    {
+      "id": "main-synopsis/81",
+      "offset": 71152,
+      "capacity": 409,
+      "source_sha256": "ea52a088876eddcdaa368e30c36aad1ba124f46b0cd8e22ef531f66a93a36315",
+      "text": "The group notices changes in Star 3's body as she\npursues Asakim. Led by Asakim, she is forced to\nfight Denzel and Toby from a parallel world. As she\nis overcome with grief, Lowen shoots her from\nbehind. Schlan and Ziene appear too. Before the\ngroup, who rush to her aid, Chimera declares its\ntrue aim: to rule the world and wipe them out.\nThe group repels Chimera but is shaken by Lowen's\ntrue identity. With her life slipping away, Star 3\nvows to devote what remains of it to the fight."
+    },
+    {
+      "id": "main-synopsis/82",
+      "offset": 71568,
+      "capacity": 463,
+      "source_sha256": "d5eeb2bb9f80ba8a4b6e84492fad2252a466c608d3e8a6c14cc0b0ef82a58d51",
+      "text": "Out in town, The Heat meets Asakim and they talk\nat a bar, enjoying a strange friendship that\ntranscends their roles as hunter and hunted. During\na fight between rogue soldiers and the Gunleon,\nLowen shoots The Heat from behind, and Schlan and\nZiene appear. Before the group, who rush to his\naid, Chimera declares its true aim: to rule the\nworld and wipe them out. Driving Chimera off, the\ngroup is shaken by Lowen's identity. Despite feeling\na strange bond with Asakim, The Heat resolves to\nface him with everything he has."
+    },
+    {
+      "id": "main-synopsis/83",
+      "offset": 72032,
+      "capacity": 500,
+      "source_sha256": "d32b0890e3487d6140349cf29ea17a07d1f61c3f8ba9733347dc2f49cca4fe3a",
+      "text": "To find clues to talking with Coralians, the group\nheads to Vodara Shrine, the Vodarac headquarters.\nThe Hyakki Empire waits with soldiers enhanced\nusing human body-modification techniques. After the\ngroup defeats Hidler, Glen, implanted with Shadow\nAngel wings, attacks in his assault Aquarion.\nDespairing at humanity's dark side, Sirius awakens\nas a Shadow Angel through Toma's guidance. Inside\nthe palace, Sakuya and Norb entrust their hopes to\nEureka and Renton. In the chaos, Alan abducts\nDorothy in Big Duo."
+    },
+    {
+      "id": "main-synopsis/84",
+      "offset": 72544,
+      "capacity": 407,
+      "source_sha256": "44ea954c16eb92c087e8efb5c04e34656de1f76704e1461fbcc900e99e2009f9",
+      "text": "Chasing the Hyakki Empire's fortress, which has\nobtained dimensional power, the group is caught in\na spacetime warp. Roger wakes in Paradigm City,\nwhere Alex's emissary Alan closes in. With\nDorothy's power, Roger and the group defeat Alan,\nand Alex tells them of the existence of a great\npower. The Hyakki Empire appears, seeking\ndimensional power, which is one aspect of that\ngreater force, but the group defeats it. Then the\nOverdevil appears and absorbs Gainer."
+    },
+    {
+      "id": "main-synopsis/85",
+      "offset": 72960,
+      "capacity": 530,
+      "source_sha256": "8c4cf27565c91f40b7b7451f59308d97db665fa0683439ec4776e0e3e9360269",
+      "text": "LOGOS's Requiem devastates PLANT. Gainer, absorbed\nby the Overdevil, has captured Gauli and Sara too.\nAs the group risks death to fight it, Shadow\nAngels Sirius and Moroha, Chimera, and Glen appear.\nReika's cry restores Glen's humanity; he\nsacrifices himself to kill Moroha. Inspired, Tsugumi\nbreaks Sara and Gauli's enthrallment. Sara and his\nfriends' voices restore Gainer, who saves Cynthia\nand destroys the Overdevil. Silvia breaks with\nSirius and vows to fight."
+    },
+    {
+      "id": "main-synopsis/86",
+      "offset": 73504,
+      "capacity": 485,
+      "source_sha256": "68d94049d8f416b56fa409135f7e3d5250ae812a72b9ee7cf1cf8f5a9fa3bc23",
+      "text": "In space, the group attacked Requiem's relay\nstation with Archangel's help. After battle, Talia\nrevealed Durandal's order to defeat them and\nannounced her return to ZAFT. Shinn and Lunamaria\nrefused, choosing to act on their own will. Rey,\nrejecting this, declared he would defeat Shinn and\nleft with Minerva. Accepting Archangel after Talia's\nparting words, the group was joined by Haman, who\nalso rejected Durandal's ways."
+    },
+    {
+      "id": "main-synopsis/87",
+      "offset": 74000,
+      "capacity": 558,
+      "source_sha256": "b338af2ba0d5ed466d8222fd884d72fa3996de7d24c4a9c3e5c09ca2fc19b64a",
+      "text": "As the group attempts to enter D.O.M.E., Requiem\nstops: D.O.M.E. has accepted Tifa's will. Dianna\nreveals the sealed Black History: spacetime\ndestruction created a time loop, and their present\nwar will become that history. The Frost brothers\nattack the shocked group, seeking revenge on the\nworld and Durandal, whose Destiny Plan twisted\ntheir fate. In battle, the Turn A and Turn X\nawaken their Moonlight Butterflies. Dr. Kazami\nabandons Earth to join the aliens."
+    },
+    {
+      "id": "main-synopsis/88",
+      "offset": 74560,
+      "capacity": 423,
+      "source_sha256": "2cad96e81ef3fe6d2fd06496474ebd8edd2ac217a36d004b4d1a839b6c7d5264",
+      "text": "The group fights the forces of Kazami, who has\ndefected to the Eldar, and King Vega, who is\nprepared to fight to the death. Kazami stoops to\ntaking Toshiya's father and the others hostage, but\nTeral's help gets the group clear. Joined at last\nby Sandman's God Sigma Gravion, they destroy the\nSkull Moon base. There, Hugi declares the start of\nthe alien alliance's final operation, and Dianna calls\non all mankind to stand together against the\naliens."
+    },
+    {
+      "id": "main-synopsis/89",
+      "offset": 74992,
+      "capacity": 381,
+      "source_sha256": "dad06cfdcf474634c059fb84f5226e495fffc704a4e366a843fa6f6237813bef",
+      "text": "After parting from Minerva, the group heads into\nspace to launch a surprise attack on the aliens'\nlunar base. But Dr. Kazami's betrayal has warned\nthe enemy in advance, and the operation fails. A\nZAFT unit that regards the group as an enemy\narrives as well. The Archangel saves them from the\ncrisis and joins forces with them. They clear up\ntheir misunderstandings and reconcile. Meanwhile,\nLOGOS fires its trump card, Requiem, at PLANT."
+    },
+    {
+      "id": "main-synopsis/90",
+      "offset": 75376,
+      "capacity": 461,
+      "source_sha256": "52745a4dd18d8cfb2929a7350ccdc455bafd86a138f4542d3ac08e8c5e6d0100",
+      "text": "To stop Requiem from striking PLANT, the group\nattacked relay stations. Before them, the Space\nRevolutionary Army's colony laser destroyed a\nstation. Haman, ruler of Axis, tried to recruit the\ngroup, but Quattro refused. They fought Axis and\nthe Space Revolutionary Army on the colony laser,\nwith the New Federation joining. Garrod's quick\nthinking destroyed the laser, but Quattro saw\ndanger in Haman's hidden intentions."
+    },
+    {
+      "id": "main-synopsis/91",
+      "offset": 75840,
+      "capacity": 558,
+      "source_sha256": "ec571aa6c72c490daaadbb58dbe67479d66347bcbd39df1510dcd08b11d3955a",
+      "text": "As the group attempts to enter D.O.M.E., Requiem\nstops: D.O.M.E. has accepted Tifa's will. Dianna\nreveals the sealed Black History: spacetime\ndestruction created a time loop, and their present\nwar will become that history. The Frost brothers\nattack the shocked group, seeking revenge on the\nworld and Durandal, whose Destiny Plan twisted\ntheir fate. In battle, the Turn A and Turn X\nawaken their Moonlight Butterflies. Despairing at\nhumanity's dark side, Sirius awakens as a Shadow\nAngel."
+    },
+    {
+      "id": "main-synopsis/92",
+      "offset": 76400,
+      "capacity": 495,
+      "source_sha256": "e4885f95867afef6a55c38a6f8cdcb0584461e1f0a07b4f498b82db417b37e71",
+      "text": "Seeking clues to talking with Coralians, the group\nheads to Vodara Shrine, the Vodarac headquarters.\nThe New Federation and Glen's assault Aquarion\nattack. The Hyakki Empire arrives with soldiers\nenhanced using human body-modification techniques,\nas do the Shadow Angels. As mysterious Megadeuses\nappear, Sakuya and Norb entrust their hopes to\nEureka and Renton inside the palace. Amid the\nchaos, Megadeus commander Alan abducts Dorothy,\nand the arriving Overdevil absorbs Gainer."
+    },
+    {
+      "id": "main-synopsis/93",
+      "offset": 76896,
+      "capacity": 418,
+      "source_sha256": "974a377a115deeb3ab6ad2c1565f5ff328702ea4375aa791ff9274e250fccb94",
+      "text": "The group pursues Gainer, who has been absorbed\nby the Overdevil, but Gauli and Sara are captured\ntoo. Risking their lives against the Overdevil, which\nseeks to freeze the world from its center in Liman\nMegalopolis, they free Sara and Gauli from its\ncontrol. Hearing the voices of Sara, Gain, and his\nfriends, Gainer regains himself, rescues Cynthia, and\ndestroys the Overdevil. As the group celebrates\nvictory, Angel appears with the abducted Dorothy."
+    },
+    {
+      "id": "main-synopsis/94",
+      "offset": 77328,
+      "capacity": 419,
+      "source_sha256": "e31c934a41fd1de9bb426863e0775d1590648436730f8a7db3c6ad5caefba7d2",
+      "text": "The group fights Kazami and King Vega as they\nattack Chateau Saint-Germain, and struggles against\nKazami's science. Kazami takes Toshiya's father and\nthe others hostage and joins hands with the\narriving Hyakki Empire. With Teral's help and\nSandman's God Sigma Gravion rising at last, the\ngroup escapes the crisis and defeats Kazami's\nforces. There, Hugi declares the start of the alien\nalliance's final operation, and Dianna calls on all\nmankind to stand together against the aliens."
+    },
+    {
+      "id": "main-synopsis/95",
+      "offset": 77760,
+      "capacity": 497,
+      "source_sha256": "cde424a30cd48e9147871b9894bb98412374eaa605280d7a2b583690b5c3a383",
+      "text": "In Orb, the Dianna Counter regretted their actions\nand prepared to rush to Dianna's side. Humanity\nfaced the alien coalition centered on Zeravire's\nmobile fortress Goma, but the New Federation and\nAprilius Alliance held each other in check, neither\nwilling to act. The group alone engaged the\ncoalition, defeating Butcher, Gagarn, Gattler, and\nHugi and destroying the alien alliance. But after\nsettling his score with Hugi inside Goma, Sandman\nwished to perish with Zeravire. Then Goma began to\nreveal its true form."
+    },
+    {
+      "id": "main-synopsis/96",
+      "offset": 78272,
+      "capacity": 493,
+      "source_sha256": "afaae5217a783f6cab46bc051016ff953b3bb68b763a663427a58c05ba62cb74",
+      "text": "The group fought desperately to stop Goma but\nstruggled against Shadow Angels and the Frost\nbrothers. Meer saved them by risking her life to\nsing her own song. Moved, New Federation and ZAFT\nreinforcements arrived one after another, reversing\nthe tide. With Sandman regaining his will to live,\nthe group defeated Goma. At the same time, Kappei,\nfacing Gaizock's god, Computer Doll 8, had his past\nbattles denied. But he remembered his reason to\nfight and defeated Gaizock with his friends."
+    },
+    {
+      "id": "main-synopsis/97",
+      "offset": 78768,
+      "capacity": 393,
+      "source_sha256": "6228f3afeeb9e28c38931f6fe6e034416daed2afa7200dc0b13de5524d2f8841",
+      "text": "The Copernicus Conference called by Dianna ends in\nfailure. The decisive battle begins, with each side\nstaking its beliefs and ideal world on the outcome.\nDurandal and Scirocco personally take the field to\nsettle the conflict. As both are defeated, the\nbattle begins to subside, but the Frost brothers'\nSatellite Launcher pierces Messiah, where Durandal\nhas taken refuge. Amid the confusion, Dewey's\ntrump card, Oratorio No. 8, is fired."
+    },
+    {
+      "id": "main-synopsis/98",
+      "offset": 79168,
+      "capacity": 479,
+      "source_sha256": "68707f3208e24c71ca8f738d2779857f46850a0f32148a9d71ba1a3c59a228a1",
+      "text": "Dewey aims to drop Messiah and destroy the\nCommand Cluster, the Coralians' core. The Frost\nbrothers, Ghingnham, and the Shadow Angels under\nSirius attack the group as they try to stop him.\nIn the fighting, Sirius learns Toma has used him\nand boards the Aquarion once more. The group\ndefeats Dewey, but that triggers the system\nplanted in Eureka and Anemone. The collapse of the\nShadow Angels' Tree of Life causes spacetime to\ncollapse as well; Eureka brings it under control\nby becoming the acting Command Cluster herself."
+    },
+    {
+      "id": "main-synopsis/99",
+      "offset": 79648,
+      "capacity": 431,
+      "source_sha256": "84c8540436175129286fc658a5b071640ad5a7c37c07298c2a1ccedcf5c4bd12",
+      "text": "The Copernicus Conference called by Dianna ends in\nfailure. The decisive battle begins, with each side\nstaking its beliefs and ideal world on the outcome.\nDurandal and Scirocco personally take the field to\nsettle the conflict, while the group fights former\ncomrades including Shinn. As both leaders are\ndefeated, the battle begins to subside, but the\nFrost brothers' Satellite Launcher pierces Messiah,\nwhere Durandal has taken refuge. Amid the\nconfusion, Dewey's trump card, Oratorio No. 8, is\nfired."
+    },
+    {
+      "id": "main-synopsis/100",
+      "offset": 80080,
+      "capacity": 479,
+      "source_sha256": "68707f3208e24c71ca8f738d2779857f46850a0f32148a9d71ba1a3c59a228a1",
+      "text": "Dewey aims to drop Messiah and destroy the\nCommand Cluster, the Coralians' core. The Frost\nbrothers, Ghingnham, and the Shadow Angels under\nSirius attack the group as they try to stop him.\nIn the fighting, Sirius learns Toma has used him\nand boards the Aquarion once more. The group\ndefeats Dewey, but that triggers the system\nplanted in Eureka and Anemone. The collapse of the\nShadow Angels' Tree of Life causes spacetime to\ncollapse as well; Eureka brings it under control\nby becoming the acting Command Cluster herself."
+    },
+    {
+      "id": "main-synopsis/101",
+      "offset": 80560,
+      "capacity": 477,
+      "source_sha256": "2885ac605a8efaf563042a8da7c5516d2bc4a560bf5e34e5b0ec92a6264d7c1d",
+      "text": "Renton meets his sister Diane and the others,\nmerged with the Scub Coral between dimensions.\nTransported to Paradigm City, the group is met by\nAlex and Guin, who have obtained dimensional power\nand the legacy of the Black History. After\ndefeating their army, the group faces Asakim and\nthe Black Charisma. Forced to choose the future,\nRoger rejects the Taikyoku's will and seeks to\nnegotiate with the Angel to save the world. Roger\nreaches the Angel, and the group returns to the\noutside world."
+    },
+    {
+      "id": "main-synopsis/102",
+      "offset": 81040,
+      "capacity": 505,
+      "source_sha256": "d05ae95bcfd2f66658a5970e836c9d5a6d006f3aebcbbbd8f696dc31087592a2",
+      "text": "Judging all hostile forces eliminated, Edel Bernal\nfinally proclaimed herself ruler of the world. In\nresponse, the group set out to occupy UN Station\nto repair spacetime and reveal the truth to the\nworld. They fought the large Chimera force\ndefending the station head-on, defeating Lowen,\nSchlan, and Ziene. Quattro, representing the group,\nbroadcast the truth of the multi-worlds born from\nBreak the World. He announced that, in twenty-four\nhours, spacetime would be repaired according to all\nhumanity's will, determining the world's future."
+    },
+    {
+      "id": "main-synopsis/103",
+      "offset": 81552,
+      "capacity": 504,
+      "source_sha256": "08d1a66d7b1b390cc89597c14474cef0fe0dc051443f3792ccd7a5b8b9458089",
+      "text": "Edel seeks to retake UN Station and control\neveryone. The group defeats her in Chimera's trump\ncard, Lemures, and climbs the orbital elevator to\nfree Eureka. The mastermind, The Edel Bernal, the\nBlack Charisma himself, attacks to plunge the world\ninto chaos for his selfish desires. As they fight\nhim, Apollo, Sirius, and Toma form the true Genesis\nunion to hold the collapsing dimensions together.\nWith the will of people worldwide, the group repairs\nspacetime."
+    },
+    {
+      "id": "main-synopsis/104",
+      "offset": 82064,
+      "capacity": 505,
+      "source_sha256": "d05ae95bcfd2f66658a5970e836c9d5a6d006f3aebcbbbd8f696dc31087592a2",
+      "text": "Judging all hostile forces eliminated, Edel Bernal\nfinally proclaimed herself ruler of the world. In\nresponse, the group set out to occupy UN Station\nto repair spacetime and reveal the truth to the\nworld. They fought the large Chimera force\ndefending the station head-on, defeating Lowen,\nSchlan, and Ziene. Quattro, representing the group,\nbroadcast the truth of the multi-worlds born from\nBreak the World. He announced that, in twenty-four\nhours, spacetime would be repaired according to all\nhumanity's will, determining the world's future."
+    },
+    {
+      "id": "main-synopsis/105",
+      "offset": 82576,
+      "capacity": 504,
+      "source_sha256": "08d1a66d7b1b390cc89597c14474cef0fe0dc051443f3792ccd7a5b8b9458089",
+      "text": "Edel seeks to retake UN Station and control\neveryone. The group defeats her in Chimera's trump\ncard, Lemures, and climbs the orbital elevator to\nfree Eureka. The mastermind, The Edel Bernal, the\nBlack Charisma himself, attacks to plunge the world\ninto chaos for his selfish desires. As they fight\nhim, Apollo, Sirius, and Toma form the true Genesis\nunion to hold the collapsing dimensions together.\nWith the will of people worldwide, the group repairs\nspacetime."
+    },
+    {
+      "id": "main-synopsis/106",
+      "offset": 83088,
+      "capacity": 301,
+      "source_sha256": "3190d0933a837cbfc692dbefe2353e0a2812419ded74d47a4c3393a0b099017e",
+      "text": "Edel seeks to retake UN Station and control\neveryone. The group defeats Edel's Lemures,\nChimera's trump card, and climbs the orbital\nelevator, but the time limit has been reached. The\nincomplete spacetime repair gives birth to a dark\nfuture trapped in an endless cycle of war."
+    },
+    {
+      "id": "main-synopsis/107",
+      "offset": 83392,
+      "capacity": 206,
+      "source_sha256": "edf3e21b51f1b7315db5c88bd2e7c7273e7be5e2090a1dfbe71aff807637f941",
+      "text": "Chimera aims to reform the New Earth Federation\nmilitary from within. The group responds, each in\ntheir own way, to the request for cooperation from\nChimera's envoy, Captain Lowen. They split into two\ngroups, taking new courses toward the Pacific and\nthe continent of Gallia."
+    },
+    {
+      "id": "main-synopsis/108",
+      "offset": 83600,
+      "capacity": 223,
+      "source_sha256": "9d01604d397dccd0e6b2cc55b947007dfa10f2eb53d4613af1ed275135b8971e",
+      "text": "After meeting Brigadier General Edel, the group\nleaves Chimera's base. The Minerva and Argama head\nto Gibraltar Base to meet Durandal, while the King\nBeal watches for movements by the alien alliance\nand carries out a reconnaissance mission in the\nsurrounding area."
+    },
+    {
+      "id": "main-synopsis/109",
+      "offset": 83824,
+      "capacity": 232,
+      "source_sha256": "a78b0817079e1f261ef63ade3c9f8233a342d1834381bb9a8f544c1237607c1d",
+      "text": "Fed up with Holland's selfish behavior, Garrod and\nthe others leave the ship to search for Renton,\nwho has run away. Meanwhile, Holland grows\nincreasingly irritable. At the same time, Dewey\ncontacts the Beams, the couple who share a long\nhistory with Holland."
+    }
+  ]
+}

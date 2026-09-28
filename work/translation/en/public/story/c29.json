@@ -1,0 +1,2588 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c29_08110",
+      "speaker": "Toshiya",
+      "en": "So the Black Overman is here...",
+      "display_variant": "en",
+      "display_text": "「So the Black Overman is here...」"
+    },
+    {
+      "id": "c29_08150",
+      "speaker": "Eiji",
+      "en": "Creepy place. Fitting home for a ghost of the Black History.",
+      "display_variant": "en",
+      "display_text": "「Creepy place. Fitting home for a ghost\nof the Black History.」"
+    },
+    {
+      "id": "c29_081a0",
+      "speaker": "Fa",
+      "en": "Huh... isn't that a colony from our world...?",
+      "display_variant": "en",
+      "display_text": "「Huh... isn't that a colony from our\nworld...?」"
+    },
+    {
+      "id": "c29_081d0",
+      "speaker": "Kamille",
+      "en": "That's not all. Things flung here from all sorts of worlds have gathered in this place.",
+      "display_variant": "en",
+      "display_text": "「That's not all. Things flung here from\nall sorts of worlds have gathered in this\nplace.」"
+    },
+    {
+      "id": "c29_08230",
+      "speaker": "Quattro",
+      "en": "Scars left by the destruction of space-time...",
+      "display_variant": "en",
+      "display_text": "「Scars left by the destruction of\nspace-time...」"
+    },
+    {
+      "id": "c29_08250",
+      "speaker": "Jamil",
+      "en": "A wound from the past that can't be erased... Standing on this ground, those words come to mind.",
+      "display_variant": "fit",
+      "display_text": "「A wound from the past that can't be\nerased... standing here, those words come\nto mind.」"
+    },
+    {
+      "id": "c29_082a0",
+      "speaker": "Gainer",
+      "en": "Watch out! They're coming!",
+      "display_variant": "en",
+      "display_text": "「Watch out! They're coming!」"
+    },
+    {
+      "id": "c29_082d0",
+      "speaker": "Tetsuya",
+      "en": "What a number...!",
+      "display_variant": "en",
+      "display_text": "「What a number...!」"
+    },
+    {
+      "id": "c29_082f0",
+      "speaker": "Marin",
+      "en": "So this is the Black Overman's personal escort force...!",
+      "display_variant": "en",
+      "display_text": "「So this is the Black Overman's personal\nescort force...!」"
+    },
+    {
+      "id": "c29_08340",
+      "speaker": "Kappei",
+      "en": "Figures the Overdevil would show up too!",
+      "display_variant": "en",
+      "display_text": "「Figures the Overdevil would show up\ntoo!」"
+    },
+    {
+      "id": "c29_08380",
+      "speaker": "Jiron",
+      "en": "It's fine...! It's nowhere near as big as the one Kizz Munt had!",
+      "display_variant": "en",
+      "display_text": "「It's fine...! It's nowhere near as big as\nthe one Kizz Munt had!」"
+    },
+    {
+      "id": "c29_083d0",
+      "speaker": "Kira",
+      "en": "But the black Overman isn't here.",
+      "display_variant": "en",
+      "display_text": "「But the black Overman isn't here.」"
+    },
+    {
+      "id": "c29_08400",
+      "speaker": "Amuro",
+      "en": "It can't escape from this place. Once the escort force is taken down, it'll come out.",
+      "display_variant": "en",
+      "display_text": "「It can't escape from this place. Once\nthe escort force is taken down, it'll come\nout.」"
+    },
+    {
+      "id": "c29_08460",
+      "speaker": "Apollo",
+      "en": "Then we know what to do! Let's drag it out here and now!",
+      "display_variant": "en",
+      "display_text": "「Then we know what to do! Let's drag it\nout here and now!」"
+    },
+    {
+      "id": "c29_084b0",
+      "speaker": "Gainer",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c29_084d0",
+      "speaker": "Renton",
+      "en": "(Gainer's sensing something...)",
+      "display_variant": "en",
+      "display_text": "（(Gainer's sensing something...)）"
+    },
+    {
+      "id": "c29_08510",
+      "speaker": "Loran",
+      "en": "(Does Gainer know the black Overman's true identity...?)",
+      "display_variant": "en",
+      "display_text": "（(Does Gainer know the black Overman's\ntrue identity...?)）"
+    },
+    {
+      "id": "c29_08560",
+      "speaker": "Roger",
+      "en": "Then, to receive the guest of honor, I'll have to ask the attendants to step aside.",
+      "display_variant": "en",
+      "display_text": "「Then, to receive the guest of honor,\nI'll have to ask the attendants to step\naside.」"
+    },
+    {
+      "id": "c29_085b0",
+      "speaker": "Banjo",
+      "en": "Understood. Let's show the legacy of the Black History and the one who rules it what we're capable of.",
+      "display_variant": "fit",
+      "display_text": "「Understood. Let's show the Black\nHistory's legacy and its ruler what we're\ncapable of.」"
+    },
+    {
+      "id": "c29_08600",
+      "speaker": "Quattro",
+      "en": "$c, all units, begin the attack! We'll wipe out the Executors!",
+      "display_variant": "en",
+      "display_text": "「$c, all units, begin the attack! We'll\nwipe out the Executors!」"
+    },
+    {
+      "id": "c29_08640",
+      "speaker": "$n",
+      "en": "Let's go, everyone...! To bring this fight to an end!",
+      "display_variant": "en",
+      "display_text": "「Let's go, everyone...! To bring this\nfight to an end!」"
+    },
+    {
+      "id": "c29_08680",
+      "speaker": "Rand",
+      "en": "Yeah! I'm giving it everything I've got!",
+      "display_variant": "en",
+      "display_text": "「Yeah! I'm giving it everything I've got!」"
+    },
+    {
+      "id": "c29_086b0",
+      "speaker": "$n",
+      "en": "I'm going all the way! Any machine that's no good for people, I'll smash it to pieces!",
+      "display_variant": "en",
+      "display_text": "「I'm going all the way! Any machine\nthat's no good for people, I'll smash it\nto pieces!」"
+    },
+    {
+      "id": "c29_08710",
+      "speaker": "Setsuko",
+      "en": "Let's go, everyone...! To bring this fight to an end!",
+      "display_variant": "en",
+      "display_text": "「Let's go, everyone...! To bring this\nfight to an end!」"
+    },
+    {
+      "id": "c29_08760",
+      "speaker": "Gainer",
+      "en": "It's coming...!",
+      "display_variant": "en",
+      "display_text": "「It's coming...!」"
+    },
+    {
+      "id": "c29_08780",
+      "speaker": "Shinn",
+      "en": "The Black Overman!",
+      "display_variant": "en",
+      "display_text": "「The Black Overman!」"
+    },
+    {
+      "id": "c29_087a0",
+      "speaker": "Ryouma",
+      "en": "So it's finally shown itself!",
+      "display_variant": "en",
+      "display_text": "「So it's finally shown itself!」"
+    },
+    {
+      "id": "c29_087c0",
+      "speaker": "Holland",
+      "en": "We're not letting you get away this time! First, you're gonna tell us what you're planning!",
+      "display_variant": "fit",
+      "display_text": "「Not letting you get away this time!\nFirst, tell us what you're planning!」"
+    },
+    {
+      "id": "c29_08810",
+      "speaker": "Sandman",
+      "en": "Pilot of the black Overman, I'll have you respond.",
+      "display_variant": "en",
+      "display_text": "「Pilot of the black Overman, I'll have\nyou respond.」"
+    },
+    {
+      "id": "c29_08850",
+      "speaker": "Apollo",
+      "en": "It's ignoring us! Don't screw around!",
+      "display_variant": "en",
+      "display_text": "「It's ignoring us! Don't screw around!」"
+    },
+    {
+      "id": "c29_08880",
+      "speaker": "Tiffa",
+      "en": "No, that's not it...",
+      "display_variant": "en",
+      "display_text": "「No, that's not it...」"
+    },
+    {
+      "id": "c29_088a0",
+      "speaker": "Garrod",
+      "en": "What do you mean, 'not it'? What's going on!?",
+      "display_variant": "en",
+      "display_text": "「What do you mean, 'not it'? What's\ngoing on!?」"
+    },
+    {
+      "id": "c29_088d0",
+      "speaker": "Amuro",
+      "en": "I can't sense any human presence from that Overman...!",
+      "display_variant": "en",
+      "display_text": "「I can't sense any human presence from\nthat Overman...!」"
+    },
+    {
+      "id": "c29_08910",
+      "speaker": "Jamil",
+      "en": "Is that also an unmanned unit equipped with the Executor System?",
+      "display_variant": "en",
+      "display_text": "「Is that also an unmanned unit equipped\nwith the Executor System?」"
+    },
+    {
+      "id": "c29_08960",
+      "speaker": "Kamille",
+      "en": "But... I can feel it. Some kind of will...",
+      "display_variant": "en",
+      "display_text": "「But... I can feel it. Some kind of will...」"
+    },
+    {
+      "id": "c29_08990",
+      "speaker": "Eureka",
+      "en": "This is...",
+      "display_variant": "en",
+      "display_text": "「This is...」"
+    },
+    {
+      "id": "c29_089b0",
+      "speaker": "Rena",
+      "en": "People aren't the only ones with souls.",
+      "display_variant": "en",
+      "display_text": "「People aren't the only ones with souls.」"
+    },
+    {
+      "id": "c29_089e0",
+      "speaker": "Amuro",
+      "en": "That Overman's will... is that it?",
+      "display_variant": "en",
+      "display_text": "「That Overman's will... is that it?」"
+    },
+    {
+      "id": "c29_08a10",
+      "speaker": "Gainer",
+      "en": "That's right.",
+      "display_variant": "en",
+      "display_text": "「That's right.」"
+    },
+    {
+      "id": "c29_08a30",
+      "speaker": "Sara",
+      "en": "Gainer...",
+      "display_variant": "en",
+      "display_text": "「Gainer...」"
+    },
+    {
+      "id": "c29_08a50",
+      "speaker": "Gainer",
+      "en": "That Overman has a will... a soul dwelling inside it.",
+      "display_variant": "en",
+      "display_text": "「That Overman has a will... a soul\ndwelling inside it.」"
+    },
+    {
+      "id": "c29_08aa0",
+      "speaker": "Gain",
+      "en": "Gainer... you...",
+      "display_variant": "en",
+      "display_text": "「Gainer... you...」"
+    },
+    {
+      "id": "c29_08ac0",
+      "speaker": "Gainer",
+      "en": "King Gainer told me. That Overman was calling out to it...",
+      "display_variant": "en",
+      "display_text": "「King Gainer told me. That Overman was\ncalling out to it...」"
+    },
+    {
+      "id": "c29_08b20",
+      "speaker": "Gainer",
+      "en": "No... that they'd been calling out to each other.",
+      "display_variant": "en",
+      "display_text": "「No... that they'd been calling out to\neach other.」"
+    },
+    {
+      "id": "c29_08b50",
+      "speaker": "Jiron",
+      "en": "What's that supposed to mean?",
+      "display_variant": "en",
+      "display_text": "「What's that supposed to mean?」"
+    },
+    {
+      "id": "c29_08b80",
+      "speaker": "Gainer",
+      "en": "King Gainer and that black Overman--originally, only one of them was ever meant to exist.",
+      "display_variant": "en",
+      "display_text": "「King Gainer and that black\nOverman--originally, only one of them was\never meant to exist.」"
+    },
+    {
+      "id": "c29_08be0",
+      "speaker": "Gainer",
+      "en": "Because that thing is King Gainer from another world.",
+      "display_variant": "en",
+      "display_text": "「Because that thing is King Gainer from\nanother world.」"
+    },
+    {
+      "id": "c29_08c30",
+      "speaker": "Koji",
+      "en": "Another world's...?",
+      "display_variant": "en",
+      "display_text": "「Another world's...?」"
+    },
+    {
+      "id": "c29_08c50",
+      "speaker": "Kei",
+      "en": "King Gainer...",
+      "display_variant": "en",
+      "display_text": "「King Gainer...」"
+    },
+    {
+      "id": "c29_08c70",
+      "speaker": "Gainer",
+      "en": "Though to it, I suppose King Gainer is the one who's from another world...",
+      "display_variant": "en",
+      "display_text": "「Though to it, I suppose King Gainer is\nthe one who's from another world...」"
+    },
+    {
+      "id": "c29_08cd0",
+      "speaker": "???",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c29_08cf0",
+      "speaker": "Roger",
+      "en": "What is this...? I can hear a voice in my head.",
+      "display_variant": "en",
+      "display_text": "「What is this...? I can hear a voice in\nmy head.」"
+    },
+    {
+      "id": "c29_08d30",
+      "speaker": "Apollo",
+      "en": "Is that black Overman talking to us...!?",
+      "display_variant": "en",
+      "display_text": "「Is that black Overman talking to us...!?」"
+    },
+    {
+      "id": "c29_08d80",
+      "speaker": "Loran",
+      "en": "Did Gym Ghingnham hear this voice too...",
+      "display_variant": "en",
+      "display_text": "「Did Gym Ghingnham hear this voice\ntoo...」"
+    },
+    {
+      "id": "c29_08dc0",
+      "speaker": "Gainer",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c29_08de0",
+      "speaker": "Quattro",
+      "en": "Whether humanity has meaning... is that what it's asking?",
+      "display_variant": "en",
+      "display_text": "「Whether humanity has meaning... is that\nwhat it's asking?」"
+    },
+    {
+      "id": "c29_08e10",
+      "speaker": "Lancerow",
+      "en": "Is that Overman posing the question to us...!?",
+      "display_variant": "en",
+      "display_text": "「Is that Overman posing the question to\nus...!?」"
+    },
+    {
+      "id": "c29_08e50",
+      "speaker": "Amuro",
+      "en": "The meaning of humanity... is it asking whether our existence is justified?",
+      "display_variant": "en",
+      "display_text": "「The meaning of humanity... is it asking\nwhether our existence is justified?」"
+    },
+    {
+      "id": "c29_08e90",
+      "speaker": "Garrod",
+      "en": "Don't screw around! So you think humanity should just be wiped out!?",
+      "display_variant": "en",
+      "display_text": "「Don't screw around! So you think\nhumanity should just be wiped out!?」"
+    },
+    {
+      "id": "c29_08ef0",
+      "speaker": "Cynthia",
+      "en": "The Black Overman wants to know...",
+      "display_variant": "en",
+      "display_text": "「The Black Overman wants to know...」"
+    },
+    {
+      "id": "c29_08f30",
+      "speaker": "Eureka",
+      "en": "Whether human existence has any meaning to this planet...",
+      "display_variant": "en",
+      "display_text": "「Whether human existence has any\nmeaning to this planet...」"
+    },
+    {
+      "id": "c29_08f70",
+      "speaker": "Quattro",
+      "en": "...A reasonable question.",
+      "display_variant": "en",
+      "display_text": "「...A reasonable question.」"
+    },
+    {
+      "id": "c29_08fa0",
+      "speaker": "Kamille",
+      "en": "Lt. Quattro...",
+      "display_variant": "en",
+      "display_text": "「Lt. Quattro...」"
+    },
+    {
+      "id": "c29_08fc0",
+      "speaker": "Quattro",
+      "en": "Creatures that not only hate each other, but wipe out other animals and pollute the Earth's environment...",
+      "display_variant": "fit",
+      "display_text": "「Creatures that hate each other, wipe\nout other animals, and pollute the Earth's\nenvironment...」"
+    },
+    {
+      "id": "c29_09020",
+      "speaker": "Quattro",
+      "en": "Such existence can only be harmful to the planet.",
+      "display_variant": "en",
+      "display_text": "「Such existence can only be harmful to\nthe planet.」"
+    },
+    {
+      "id": "c29_09070",
+      "speaker": "Banjo",
+      "en": "Is that your answer, Lieutenant?",
+      "display_variant": "en",
+      "display_text": "「Is that your answer, Lieutenant?」"
+    },
+    {
+      "id": "c29_090a0",
+      "speaker": "Quattro",
+      "en": "...I'm merely stating a fact.",
+      "display_variant": "en",
+      "display_text": "「...I'm merely stating a fact.」"
+    },
+    {
+      "id": "c29_090d0",
+      "speaker": "Tiffa",
+      "en": "Is that why you're trying to destroy everything and remake the world anew...?",
+      "display_variant": "en",
+      "display_text": "「Is that why you're trying to destroy\neverything and remake the world anew...?」"
+    },
+    {
+      "id": "c29_09130",
+      "speaker": "Orson",
+      "en": "Now that the world has stabilized, will you fulfill your mission as the Executor System's ruler?",
+      "display_variant": "fit",
+      "display_text": "「Now that the world's stabilized, will\nyou fulfill your role as the Executor\nSystem's ruler?」"
+    },
+    {
+      "id": "c29_09190",
+      "speaker": "Kei",
+      "en": "So you're saying the people of this planet failed, is that it!?",
+      "display_variant": "en",
+      "display_text": "「So you're saying the people of this\nplanet failed, is that it!?」"
+    },
+    {
+      "id": "c29_091d0",
+      "speaker": "Shinn",
+      "en": "Answer me! Aren't we allowed to live!?",
+      "display_variant": "en",
+      "display_text": "「Answer me! Aren't we allowed to live!?」"
+    },
+    {
+      "id": "c29_09210",
+      "speaker": "Shinn",
+      "en": "Tell me! Are we creatures that deserve to be wiped out!?",
+      "display_variant": "en",
+      "display_text": "「Tell me! Are we creatures that deserve\nto be wiped out!?」"
+    },
+    {
+      "id": "c29_09260",
+      "speaker": "Shinn",
+      "en": "If you won't answer me, then I'll... I'll...!",
+      "display_variant": "en",
+      "display_text": "「If you won't answer me, then I'll...\nI'll...!」"
+    },
+    {
+      "id": "c29_09290",
+      "speaker": "Shinn",
+      "en": "I'll find the answer myself!",
+      "display_variant": "en",
+      "display_text": "「I'll find the answer myself!」"
+    },
+    {
+      "id": "c29_092b0",
+      "speaker": "Ryouma",
+      "en": "So you're saying you'll fight us no matter what...!?",
+      "display_variant": "en",
+      "display_text": "「So you're saying you'll fight us no\nmatter what...!?」"
+    },
+    {
+      "id": "c29_092e0",
+      "speaker": "Fudo",
+      "en": "(Samurai... So you'll walk the path of carnage...)",
+      "display_variant": "en",
+      "display_text": "（(Samurai... So you'll walk the path of\ncarnage...)）"
+    },
+    {
+      "id": "c29_09310",
+      "speaker": "Loran",
+      "en": "But we won't back down! For the sake of everyone!",
+      "display_variant": "en",
+      "display_text": "「But we won't back down! For the sake\nof everyone!」"
+    },
+    {
+      "id": "c29_09350",
+      "speaker": "Tetsuya",
+      "en": "If you're going to deny humanity, then we'll bring you down with human strength! To protect the future!",
+      "display_variant": "fit",
+      "display_text": "「Deny humanity, and we'll bring you down\nwith human strength -- to protect the\nfuture!」"
+    },
+    {
+      "id": "c29_093b0",
+      "speaker": "Touga",
+      "en": "That's our mission... $c's mission!",
+      "display_variant": "en",
+      "display_text": "「That's our mission... $c's mission!」"
+    },
+    {
+      "id": "c29_093e0",
+      "speaker": "Rand",
+      "en": "A method that smashes everything to bits ain't what I call a repair!",
+      "display_variant": "en",
+      "display_text": "「A method that smashes everything to\nbits ain't what I call a repair!」"
+    },
+    {
+      "id": "c29_09420",
+      "speaker": "$n",
+      "en": "We believe in humanity! For this beloved world and everyone in it, we'll fight you!",
+      "display_variant": "en",
+      "display_text": "「We believe in humanity! For this beloved\nworld and everyone in it, we'll fight you!」"
+    },
+    {
+      "id": "c29_09480",
+      "speaker": "XAN",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c29_094a0",
+      "speaker": "Gainer",
+      "en": "XAN... Zan... So that's your name.",
+      "display_variant": "en",
+      "display_text": "「XAN... Zan... So that's your name.」"
+    },
+    {
+      "id": "c29_094e0",
+      "speaker": "Gainer",
+      "en": "I'll fight alongside King Gainer! For the humans you loved too!",
+      "display_variant": "en",
+      "display_text": "「I'll fight alongside King Gainer! For the\nhumans you loved too!」"
+    },
+    {
+      "id": "c29_09530",
+      "speaker": "Gainer",
+      "en": "Beyond the Black History, for the world of tomorrow!!",
+      "display_variant": "en",
+      "display_text": "「Beyond the Black History, for the world\nof tomorrow!!」"
+    },
+    {
+      "id": "c29_09570",
+      "speaker": "Setsuko",
+      "en": "We believe in humanity! For this beloved world and everyone in it, we'll fight you!",
+      "display_variant": "en",
+      "display_text": "「We believe in humanity! For this beloved\nworld and everyone in it, we'll fight you!」"
+    },
+    {
+      "id": "c29_095d0",
+      "speaker": "$n",
+      "en": "A method that smashes everything to bits ain't what I call a repair!",
+      "display_variant": "en",
+      "display_text": "「A method that smashes everything to\nbits ain't what I call a repair!」"
+    },
+    {
+      "id": "c29_09610",
+      "speaker": "$n",
+      "en": "Instead of taking the easy way out like that, try believing in what people are capable of!",
+      "display_variant": "en",
+      "display_text": "「Instead of taking the easy way out\nlike that, try believing in what people are\ncapable of!」"
+    },
+    {
+      "id": "c29_09660",
+      "speaker": "Gain",
+      "en": "Did we get it...!?",
+      "display_variant": "en",
+      "display_text": "「Did we get it...!?」"
+    },
+    {
+      "id": "c29_09680",
+      "speaker": "Renton",
+      "en": "The Black Overman...!",
+      "display_variant": "en",
+      "display_text": "「The Black Overman...!」"
+    },
+    {
+      "id": "c29_096b0",
+      "speaker": "Garrod",
+      "en": "It vanished...",
+      "display_variant": "en",
+      "display_text": "「It vanished...」"
+    },
+    {
+      "id": "c29_096d0",
+      "speaker": "Amuro",
+      "en": "Confirmed: all Executors have been wiped out.",
+      "display_variant": "en",
+      "display_text": "「Confirmed: all Executors have been\nwiped out.」"
+    },
+    {
+      "id": "c29_09700",
+      "speaker": "Quattro",
+      "en": "So with the master, the Black Overman, gone, the system's shut down.",
+      "display_variant": "en",
+      "display_text": "「So with the master, the Black Overman,\ngone, the system's shut down.」"
+    },
+    {
+      "id": "c29_09760",
+      "speaker": "Jamil",
+      "en": "The unmanned units hiding all over the world have probably self-destructed as well.",
+      "display_variant": "en",
+      "display_text": "「The unmanned units hiding all over the\nworld have probably self-destructed as\nwell.」"
+    },
+    {
+      "id": "c29_097b0",
+      "speaker": "Sandman",
+      "en": "Well done, everyone. The threat of the Executor System has passed.",
+      "display_variant": "en",
+      "display_text": "「Well done, everyone. The threat of the\nExecutor System has passed.」"
+    },
+    {
+      "id": "c29_09810",
+      "speaker": "Rand",
+      "en": "So it's over...",
+      "display_variant": "en",
+      "display_text": "「So it's over...」"
+    },
+    {
+      "id": "c29_09830",
+      "speaker": "$n",
+      "en": "Yes...! The world's been saved!",
+      "display_variant": "en",
+      "display_text": "「Yes...! The world's been saved!」"
+    },
+    {
+      "id": "c29_09860",
+      "speaker": "Renton",
+      "en": "What's wrong, Gainer? Aren't you happy?",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Gainer? Aren't you happy?」"
+    },
+    {
+      "id": "c29_098b0",
+      "speaker": "Gainer",
+      "en": "At the very end, XAN said something to us...",
+      "display_variant": "en",
+      "display_text": "「At the very end, XAN said something to\nus...」"
+    },
+    {
+      "id": "c29_098e0",
+      "speaker": "Gainer",
+      "en": "'Thank you'... that's what it said.",
+      "display_variant": "en",
+      "display_text": "「'Thank you'... that's what it said.」"
+    },
+    {
+      "id": "c29_09900",
+      "speaker": "Shinn",
+      "en": "You mean it thanked us?",
+      "display_variant": "en",
+      "display_text": "「You mean it thanked us?」"
+    },
+    {
+      "id": "c29_09930",
+      "speaker": "Toshiya",
+      "en": "What's that supposed to mean?",
+      "display_variant": "en",
+      "display_text": "「What's that supposed to mean?」"
+    },
+    {
+      "id": "c29_09960",
+      "speaker": "Garrod",
+      "en": "That Overman... it wanted us to defeat it...?",
+      "display_variant": "en",
+      "display_text": "「That Overman... it wanted us to defeat\nit...?」"
+    },
+    {
+      "id": "c29_099b0",
+      "speaker": "Gainer",
+      "en": "...I don't know. But I felt it while we were fighting.",
+      "display_variant": "en",
+      "display_text": "「...I don't know. But I felt it while we\nwere fighting.」"
+    },
+    {
+      "id": "c29_099f0",
+      "speaker": "Gainer",
+      "en": "XAN loved humanity from the bottom of its heart, and it was fighting for this world.",
+      "display_variant": "en",
+      "display_text": "「XAN loved humanity from the bottom of\nits heart, and it was fighting for this\nworld.」"
+    },
+    {
+      "id": "c29_09a40",
+      "speaker": "Kamille",
+      "en": "Maybe it was precisely because it loved humanity that it carried out its role as the Executor System's master...",
+      "display_variant": "fit",
+      "display_text": "「Maybe precisely because it loved\nhumanity, it carried out its role as the\nExecutor System's master...」"
+    },
+    {
+      "id": "c29_09ab0",
+      "speaker": "Shinn",
+      "en": "That thing... was it really not our enemy after all?",
+      "display_variant": "en",
+      "display_text": "「That thing... was it really not our\nenemy after all?」"
+    },
+    {
+      "id": "c29_09af0",
+      "speaker": "Koji",
+      "en": "But that system was built to destroy the world.",
+      "display_variant": "en",
+      "display_text": "「But that system was built to destroy\nthe world.」"
+    },
+    {
+      "id": "c29_09b40",
+      "speaker": "Kira",
+      "en": "That's why I think it wanted someone... some human, to deny it.",
+      "display_variant": "en",
+      "display_text": "「That's why I think it wanted someone...\nsome human, to deny it.」"
+    },
+    {
+      "id": "c29_09b90",
+      "speaker": "Duke",
+      "en": "To find someone with the strength to deny the system and defeat it...",
+      "display_variant": "en",
+      "display_text": "「To find someone with the strength to\ndeny the system and defeat it...」"
+    },
+    {
+      "id": "c29_09be0",
+      "speaker": "Ryouma",
+      "en": "So that's why the Executors only targeted facilities...",
+      "display_variant": "en",
+      "display_text": "「So that's why the Executors only\ntargeted facilities...」"
+    },
+    {
+      "id": "c29_09c20",
+      "speaker": "Loran",
+      "en": "And to do that, it waited... for a stretch of time so long it's dizzying...",
+      "display_variant": "en",
+      "display_text": "「And to do that, it waited... for a\nstretch of time so long it's dizzying...」"
+    },
+    {
+      "id": "c29_09c80",
+      "speaker": "Holland",
+      "en": "...It's all just guesswork. No use thinking about it.",
+      "display_variant": "en",
+      "display_text": "「...It's all just guesswork. No use\nthinking about it.」"
+    },
+    {
+      "id": "c29_09cc0",
+      "speaker": "Renton",
+      "en": "But...",
+      "display_variant": "en",
+      "display_text": "「But...」"
+    },
+    {
+      "id": "c29_09ce0",
+      "speaker": "Holland",
+      "en": "More importantly, now that we've denied it and taken it down, we've got work to do.",
+      "display_variant": "en",
+      "display_text": "「More importantly, now that we've denied\nit and taken it down, we've got work to\ndo.」"
+    },
+    {
+      "id": "c29_09d40",
+      "speaker": "Amuro",
+      "en": "That's right. We declared that humanity would change through its own strength.",
+      "display_variant": "en",
+      "display_text": "「That's right. We declared that humanity\nwould change through its own strength.」"
+    },
+    {
+      "id": "c29_09d90",
+      "speaker": "Apollo",
+      "en": "We talked such a big game. If we don't follow through, we'll just be liars.",
+      "display_variant": "en",
+      "display_text": "「We talked such a big game. If we don't\nfollow through, we'll just be liars.」"
+    },
+    {
+      "id": "c29_09df0",
+      "speaker": "Roger",
+      "en": "Breach of contract goes against my policy too. I intend to keep my promise in good faith.",
+      "display_variant": "en",
+      "display_text": "「Breach of contract goes against my\npolicy too. I intend to keep my promise\nin good faith.」"
+    },
+    {
+      "id": "c29_09e50",
+      "speaker": "Kei",
+      "en": "I know. It's the world we live in... we've got to make it better with our own hands.",
+      "display_variant": "en",
+      "display_text": "「I know. It's the world we live in...\nwe've got to make it better with our own\nhands.」"
+    },
+    {
+      "id": "c29_09eb0",
+      "speaker": "Kappei",
+      "en": "Yeah! That's our... no, the whole world's new fight now!",
+      "display_variant": "en",
+      "display_text": "「Yeah! That's our... no, the whole\nworld's new fight now!」"
+    },
+    {
+      "id": "c29_09f00",
+      "speaker": "Tetsuya",
+      "en": "This is a huge challenge. Makes my hands itch for it.",
+      "display_variant": "en",
+      "display_text": "「This is a huge challenge. Makes my\nhands itch for it.」"
+    },
+    {
+      "id": "c29_09f40",
+      "speaker": "Eiji",
+      "en": "Let's go, everyone...! Even once $c disbands here, we'll keep on fighting!",
+      "display_variant": "en",
+      "display_text": "「Let's go, everyone...! Even once $c\ndisbands here, we'll keep on fighting!」"
+    },
+    {
+      "id": "c29_09f90",
+      "speaker": "Touga",
+      "en": "Understood. I'll give it everything I've got.",
+      "display_variant": "en",
+      "display_text": "「Understood. I'll give it everything I've\ngot.」"
+    },
+    {
+      "id": "c29_09fb0",
+      "speaker": "Marin",
+      "en": "On Earth, in space... each of us fighting for what we believe in.",
+      "display_variant": "en",
+      "display_text": "「On Earth, in space... each of us\nfighting for what we believe in.」"
+    },
+    {
+      "id": "c29_09ff0",
+      "speaker": "Jiron",
+      "en": "Everyone, hang in there! And let's meet again!",
+      "display_variant": "en",
+      "display_text": "「Everyone, hang in there! And let's meet\nagain!」"
+    },
+    {
+      "id": "c29_0a030",
+      "speaker": "Banjo",
+      "en": "Dawn's about to break... Beyond the Black History, a new era begins.",
+      "display_variant": "en",
+      "display_text": "「Dawn's about to break... Beyond the\nBlack History, a new era begins.」"
+    },
+    {
+      "id": "c29_0a080",
+      "speaker": "Gainer",
+      "en": "(XAN... we'll keep fighting. To build a new era.)",
+      "display_variant": "en",
+      "display_text": "（(XAN... we'll keep fighting. To build a\nnew era.)）"
+    },
+    {
+      "id": "c29_0a0d0",
+      "speaker": "Gainer",
+      "en": "(I believe we'll get to meet again, too.)",
+      "display_variant": "en",
+      "display_text": "（(I believe we'll get to meet again,\ntoo.)）"
+    },
+    {
+      "id": "c29_0a110",
+      "speaker": "Rand",
+      "en": "See ya! If anything comes up, give the wandering repair shop Beater Service a call!",
+      "display_variant": "en",
+      "display_text": "「See ya! If anything comes up, give the\nwandering repair shop Beater Service a\ncall!」"
+    },
+    {
+      "id": "c29_0a170",
+      "speaker": "$n",
+      "en": "Thank you, everyone. I hope with all my heart that we'll get to meet again someday.",
+      "display_variant": "en",
+      "display_text": "「Thank you, everyone. I hope with all my\nheart that we'll get to meet again\nsomeday.」"
+    },
+    {
+      "id": "c29_0a1c0",
+      "speaker": "Setsuko",
+      "en": "Well then...",
+      "display_variant": "en",
+      "display_text": "「Well then...」"
+    },
+    {
+      "id": "c29_0a1e0",
+      "speaker": "$n",
+      "en": "It's over. The world's been saved.",
+      "display_variant": "en",
+      "display_text": "「It's over. The world's been saved.」"
+    },
+    {
+      "id": "c29_0a210",
+      "speaker": "Setsuko",
+      "en": "Thank you, everyone. I hope with all my heart that we'll get to meet again someday.",
+      "display_variant": "en",
+      "display_text": "「Thank you, everyone. I hope with all my\nheart that we'll get to meet again\nsomeday.」"
+    },
+    {
+      "id": "c29_0a260",
+      "speaker": "$n",
+      "en": "See ya! If anything comes up, give the wandering repair shop Beater Service a call!",
+      "display_variant": "en",
+      "display_text": "「See ya! If anything comes up, give the\nwandering repair shop Beater Service a\ncall!」"
+    },
+    {
+      "id": "c29_0a2c0",
+      "speaker": "Adette",
+      "en": "What the--!? Our attacks aren't working at all!",
+      "display_variant": "en",
+      "display_text": "「What the--!? Our attacks aren't\nworking at all!」"
+    },
+    {
+      "id": "c29_0a310",
+      "speaker": "Gauli",
+      "en": "That's a Photon Mat on a whole different level! Almost no damage is getting through!",
+      "display_variant": "en",
+      "display_text": "「That's a Photon Mat on a whole\ndifferent level! Almost no damage is\ngetting through!」"
+    },
+    {
+      "id": "c29_0a360",
+      "speaker": "Gain",
+      "en": "So its Overskill is off the charts too...! This one's tough!",
+      "display_variant": "en",
+      "display_text": "「So its Overskill is off the charts\ntoo...! This one's tough!」"
+    },
+    {
+      "id": "c29_0a3b0",
+      "speaker": "Gainer",
+      "en": "But if we don't defeat XAN, the world will have to keep fearing the Black History forever...!",
+      "display_variant": "fit",
+      "display_text": "「If we don't defeat XAN, the world will\nhave to keep fearing the Black History\nforever...!」"
+    },
+    {
+      "id": "c29_0a420",
+      "speaker": "Gainer",
+      "en": "That's why we can't afford to lose! I've had enough of being bound by the past!!",
+      "display_variant": "en",
+      "display_text": "「That's why we can't afford to lose!\nI've had enough of being bound by the\npast!!」"
+    },
+    {
+      "id": "c29_0a480",
+      "speaker": "Koji",
+      "en": "I've met plenty of good people and bad people alike, up till now...",
+      "display_variant": "en",
+      "display_text": "「I've met plenty of good people and bad\npeople alike, up till now...」"
+    },
+    {
+      "id": "c29_0a4c0",
+      "speaker": "Koji",
+      "en": "Every single person is different! It's crazy to lump them all together and wipe them out!",
+      "display_variant": "en",
+      "display_text": "「Every single person is different! It's\ncrazy to lump them all together and wipe\nthem out!」"
+    },
+    {
+      "id": "c29_0a520",
+      "speaker": "Koji",
+      "en": "That's why we protect humanity! And on top of that, we keep fighting the bad ones!",
+      "display_variant": "en",
+      "display_text": "「That's why we protect humanity! And on\ntop of that, we keep fighting the bad\nones!」"
+    },
+    {
+      "id": "c29_0a570",
+      "speaker": "Tetsuya",
+      "en": "We know that the long, drawn-out war became the era known as the Black History.",
+      "display_variant": "en",
+      "display_text": "「We know that the long, drawn-out war\nbecame the era known as the Black\nHistory.」"
+    },
+    {
+      "id": "c29_0a5c0",
+      "speaker": "Tetsuya",
+      "en": "After being shown all that, I guess it's no wonder someone would give up on humanity...",
+      "display_variant": "en",
+      "display_text": "「After being shown all that, I guess it's\nno wonder someone would give up on\nhumanity...」"
+    },
+    {
+      "id": "c29_0a610",
+      "speaker": "Tetsuya",
+      "en": "But we've fought to keep that from becoming our history! We won't let it end here!",
+      "display_variant": "en",
+      "display_text": "「But we've fought to keep that from\nbecoming our history! We won't let it end\nhere!」"
+    },
+    {
+      "id": "c29_0a680",
+      "speaker": "Duke",
+      "en": "Humans have hearts that love and cherish this beautiful planet.",
+      "display_variant": "en",
+      "display_text": "「Humans have hearts that love and\ncherish this beautiful planet.」"
+    },
+    {
+      "id": "c29_0a6c0",
+      "speaker": "Duke",
+      "en": "Is it because you have that same heart that you're trying to destroy humanity?",
+      "display_variant": "en",
+      "display_text": "「Is it because you have that same heart\nthat you're trying to destroy humanity?」"
+    },
+    {
+      "id": "c29_0a700",
+      "speaker": "Duke",
+      "en": "If that's true, I don't want to fight you...! We should be able to understand each other!",
+      "display_variant": "en",
+      "display_text": "「If that's true, I don't want to fight\nyou...! We should be able to understand\neach other!」"
+    },
+    {
+      "id": "c29_0a760",
+      "speaker": "Duke",
+      "en": "But if you won't stop the system, I won't hesitate to fight! For the sake of this planet we love!",
+      "display_variant": "fit",
+      "display_text": "「But if you won't stop the system, I\nwon't hesitate to fight -- for this\nplanet we love!」"
+    },
+    {
+      "id": "c29_0a7d0",
+      "speaker": "Benkei",
+      "en": "Sleeping all this time just waiting for the day you'd wipe out humanity from the Earth-- that's real dedication!",
+      "display_variant": "fit",
+      "display_text": "「Sleeping all this time, just waiting to\nwipe out humanity from the Earth --\nthat's real dedication!」"
+    },
+    {
+      "id": "c29_0a830",
+      "speaker": "Hayato",
+      "en": "Whoever built a system like this must not have trusted people one bit.",
+      "display_variant": "en",
+      "display_text": "「Whoever built a system like this must\nnot have trusted people one bit.」"
+    },
+    {
+      "id": "c29_0a890",
+      "speaker": "Ryouma",
+      "en": "But we're different! We believe in humanity's potential! That's why we can fight like this!",
+      "display_variant": "fit",
+      "display_text": "「But we're different -- we believe in\nhumanity's potential! That's why we fight\nlike this!」"
+    },
+    {
+      "id": "c29_0a8f0",
+      "speaker": "Ryouma",
+      "en": "If you can hear our voices, then stop fighting! Humans can change the world!!",
+      "display_variant": "en",
+      "display_text": "「If you can hear our voices, then stop\nfighting! Humans can change the world!!」"
+    },
+    {
+      "id": "c29_0a950",
+      "speaker": "Kappei",
+      "en": "You stubborn Overman! Why won't you listen to a word we say!?",
+      "display_variant": "en",
+      "display_text": "「You stubborn Overman! Why won't you\nlisten to a word we say!?」"
+    },
+    {
+      "id": "c29_0a9b0",
+      "speaker": "Keiko",
+      "en": "Humans won't do something like destroy this planet!",
+      "display_variant": "en",
+      "display_text": "「Humans won't do something like destroy\nthis planet!」"
+    },
+    {
+      "id": "c29_0a9f0",
+      "speaker": "Uchuta",
+      "en": "Sure, there are bad people out there too...!",
+      "display_variant": "en",
+      "display_text": "「Sure, there are bad people out there\ntoo...!」"
+    },
+    {
+      "id": "c29_0aa30",
+      "speaker": "Kappei",
+      "en": "If someone like that shows up, we'll fight them! So stop the system already!",
+      "display_variant": "en",
+      "display_text": "「If someone like that shows up, we'll\nfight them! So stop the system already!」"
+    },
+    {
+      "id": "c29_0aa80",
+      "speaker": "Kappei",
+      "en": "A peaceful, prosperous Earth is something people will work hard to build!!",
+      "display_variant": "en",
+      "display_text": "「A peaceful, prosperous Earth is\nsomething people will work hard to build!!」"
+    },
+    {
+      "id": "c29_0aac0",
+      "speaker": "Banjo",
+      "en": "Black Overman... You have a heart. So why do something this heartless?",
+      "display_variant": "en",
+      "display_text": "「Black Overman... You have a heart. So\nwhy do something this heartless?」"
+    },
+    {
+      "id": "c29_0ab20",
+      "speaker": "Banjo",
+      "en": "You've no intention of answering... or are you deliberately choosing not to?",
+      "display_variant": "en",
+      "display_text": "「You've no intention of answering... or\nare you deliberately choosing not to?」"
+    },
+    {
+      "id": "c29_0ab70",
+      "speaker": "Banjo",
+      "en": "Very well...! If that's how you want it, we'll fight! As our answer to the Executor!",
+      "display_variant": "en",
+      "display_text": "「Very well...! If that's how you want it,\nwe'll fight! As our answer to the\nExecutor!」"
+    },
+    {
+      "id": "c29_0abd0",
+      "speaker": "Banjo",
+      "en": "For the world, for its people-- Daitarn 3, smashing the Black History!",
+      "display_variant": "en",
+      "display_text": "「For the world, for its people-- Daitarn\n3, smashing the Black History!」"
+    },
+    {
+      "id": "c29_0ac20",
+      "speaker": "Banjo",
+      "en": "If you don't fear the brilliance of this sun disc, then come at me!!",
+      "display_variant": "en",
+      "display_text": "「If you don't fear the brilliance of this\nsun disc, then come at me!!」"
+    },
+    {
+      "id": "c29_0ac60",
+      "speaker": "Kiraken",
+      "en": "That's enough! No matter what the people of the Black History say, we love this planet too!",
+      "display_variant": "fit",
+      "display_text": "「That's enough! Whatever the people of\nthe Black History say, we love this planet\ntoo!」"
+    },
+    {
+      "id": "c29_0acc0",
+      "speaker": "Julie",
+      "en": "You don't need destruction. If humanity pools its wisdom, we can heal this wounded planet!",
+      "display_variant": "en",
+      "display_text": "「You don't need destruction. If humanity\npools its wisdom, we can heal this\nwounded planet!」"
+    },
+    {
+      "id": "c29_0ad20",
+      "speaker": "Toshiya",
+      "en": "We will never accept a method that takes human lives!",
+      "display_variant": "en",
+      "display_text": "「We will never accept a method that\ntakes human lives!」"
+    },
+    {
+      "id": "c29_0ad60",
+      "speaker": "Toshiya",
+      "en": "Try believing in people a little more! Human potential is far bigger than you think!",
+      "display_variant": "en",
+      "display_text": "「Try believing in people a little more!\nHuman potential is far bigger than you\nthink!」"
+    },
+    {
+      "id": "c29_0add0",
+      "speaker": "Marin",
+      "en": "Please, stop...! I want to talk with you!",
+      "display_variant": "en",
+      "display_text": "「Please, stop...! I want to talk with you!」"
+    },
+    {
+      "id": "c29_0ae10",
+      "speaker": "Raita",
+      "en": "What are you saying, Marin!?",
+      "display_variant": "en",
+      "display_text": "「What are you saying, Marin!?」"
+    },
+    {
+      "id": "c29_0ae40",
+      "speaker": "Oliver",
+      "en": "Wait, Raita. Listen to what Marin has to say.",
+      "display_variant": "en",
+      "display_text": "「Wait, Raita. Listen to what Marin has\nto say.」"
+    },
+    {
+      "id": "c29_0ae80",
+      "speaker": "Marin",
+      "en": "The humans who made the Executors, and you-- you both love the Earth... We feel the same way.",
+      "display_variant": "fit",
+      "display_text": "「Those who made the Executors, and you\n-- you both love the Earth. We feel the\nsame.」"
+    },
+    {
+      "id": "c29_0aee0",
+      "speaker": "Marin",
+      "en": "And human life is just as irreplaceable as the Earth itself.",
+      "display_variant": "en",
+      "display_text": "「And human life is just as irreplaceable\nas the Earth itself.」"
+    },
+    {
+      "id": "c29_0af30",
+      "speaker": "Marin",
+      "en": "If you love the Earth, then love its people the same way!",
+      "display_variant": "en",
+      "display_text": "「If you love the Earth, then love its\npeople the same way!」"
+    },
+    {
+      "id": "c29_0af70",
+      "speaker": "Marin",
+      "en": "...You won't answer me... Then I'll make up my mind too...",
+      "display_variant": "en",
+      "display_text": "「...You won't answer me... Then I'll make\nup my mind too...」"
+    },
+    {
+      "id": "c29_0afc0",
+      "speaker": "Marin",
+      "en": "Here I come, Black Overman! For the sake of Earth and humanity's tomorrow, I'll strike you down!!",
+      "display_variant": "fit",
+      "display_text": "「Here I come, Black Overman! For Earth\nand humanity's tomorrow, I'll strike you\ndown!!」"
+    },
+    {
+      "id": "c29_0b020",
+      "speaker": "Eiji",
+      "en": "Listen up, Black Overman! People are amazing, you know!",
+      "display_variant": "en",
+      "display_text": "「Listen up, Black Overman! People are\namazing, you know!」"
+    },
+    {
+      "id": "c29_0b070",
+      "speaker": "Mizuki",
+      "en": "Not everyone's a good person, but of course, not everyone's a bad one either.",
+      "display_variant": "en",
+      "display_text": "「Not everyone's a good person, but of\ncourse, not everyone's a bad one either.」"
+    },
+    {
+      "id": "c29_0b0c0",
+      "speaker": "Leele",
+      "en": "There are plenty of kind-hearted people in this world.",
+      "display_variant": "en",
+      "display_text": "「There are plenty of kind-hearted people\nin this world.」"
+    },
+    {
+      "id": "c29_0b100",
+      "speaker": "Eina",
+      "en": "As long as people like that exist, the world is sure to keep getting better!",
+      "display_variant": "en",
+      "display_text": "「As long as people like that exist, the\nworld is sure to keep getting better!」"
+    },
+    {
+      "id": "c29_0b150",
+      "speaker": "Luna",
+      "en": "Is it okay to destroy even people like that!? That's just wrong!",
+      "display_variant": "en",
+      "display_text": "「Is it okay to destroy even people like\nthat!? That's just wrong!」"
+    },
+    {
+      "id": "c29_0b1a0",
+      "speaker": "Eiji",
+      "en": "If you've got a heart too, you should understand, right!? You're still gonna do it anyway!?",
+      "display_variant": "fit",
+      "display_text": "「If you've got a heart too, you'd\nunderstand, right!? You're still doing it\nanyway!?」"
+    },
+    {
+      "id": "c29_0b1f0",
+      "speaker": "Touga",
+      "en": "If fighting as the Executor is your mission, then our mission is to bring you down...!",
+      "display_variant": "en",
+      "display_text": "「If fighting as the Executor is your\nmission, then our mission is to bring you\ndown...!」"
+    },
+    {
+      "id": "c29_0b250",
+      "speaker": "Touga",
+      "en": "We will fight! As the Gran Knights... as humans living on this planet!!",
+      "display_variant": "en",
+      "display_text": "「We will fight! As the Gran Knights... as\nhumans living on this planet!!」"
+    },
+    {
+      "id": "c29_0b2a0",
+      "speaker": "Apollo",
+      "en": "You listening to us, pitch-black bastard!?",
+      "display_variant": "en",
+      "display_text": "「You listening to us, pitch-black\nbastard!?」"
+    },
+    {
+      "id": "c29_0b2e0",
+      "speaker": "Silvia",
+      "en": "Stop fighting, and stop the system! You have a heart too, don't you!?",
+      "display_variant": "en",
+      "display_text": "「Stop fighting, and stop the system! You\nhave a heart too, don't you!?」"
+    },
+    {
+      "id": "c29_0b330",
+      "speaker": "Jun",
+      "en": "That's right! A method like this is just wrong!",
+      "display_variant": "en",
+      "display_text": "「That's right! A method like this is just\nwrong!」"
+    },
+    {
+      "id": "c29_0b370",
+      "speaker": "Tsugumi",
+      "en": "Humans are creatures of this planet too! There's no way it's right to destroy them!",
+      "display_variant": "en",
+      "display_text": "「Humans are creatures of this planet\ntoo! There's no way it's right to destroy\nthem!」"
+    },
+    {
+      "id": "c29_0b3c0",
+      "speaker": "Reika",
+      "en": "Aren't our words reaching you at all...!?",
+      "display_variant": "en",
+      "display_text": "「Aren't our words reaching you at all...!?」"
+    },
+    {
+      "id": "c29_0b3f0",
+      "speaker": "Pierre",
+      "en": "Is this guy just another self-centered jerk who won't listen either!?",
+      "display_variant": "en",
+      "display_text": "「Is this guy just another self-centered\njerk who won't listen either!?」"
+    },
+    {
+      "id": "c29_0b440",
+      "speaker": "Rena",
+      "en": "(That's not it...)",
+      "display_variant": "en",
+      "display_text": "（(That's not it...)）"
+    },
+    {
+      "id": "c29_0b460",
+      "speaker": "Sirius",
+      "en": "Black Overman... If you won't back down, then we will strike you down...",
+      "display_variant": "en",
+      "display_text": "「Black Overman... If you won't back\ndown, then we will strike you down...」"
+    },
+    {
+      "id": "c29_0b4c0",
+      "speaker": "Sirius",
+      "en": "For the sake of the world and the people we believe in!",
+      "display_variant": "en",
+      "display_text": "「For the sake of the world and the\npeople we believe in!」"
+    },
+    {
+      "id": "c29_0b4f0",
+      "speaker": "Apollo",
+      "en": "We're alive on this planet! Like hell we'll do whatever some ghost of the past tells us!!",
+      "display_variant": "fit",
+      "display_text": "「We're alive on this planet! No way we'll\nobey some ghost of the past!!」"
+    },
+    {
+      "id": "c29_0b550",
+      "speaker": "Roger",
+      "en": "The color black holds meaning.",
+      "display_variant": "en",
+      "display_text": "「The color black holds meaning.」"
+    },
+    {
+      "id": "c29_0b580",
+      "speaker": "Dorothy",
+      "en": "Roger...?",
+      "display_variant": "en",
+      "display_text": "「Roger...?」"
+    },
+    {
+      "id": "c29_0b5a0",
+      "speaker": "Roger",
+      "en": "A deep black that swallows everything up... It hides even one's own heart.",
+      "display_variant": "en",
+      "display_text": "「A deep black that swallows everything\nup... It hides even one's own heart.」"
+    },
+    {
+      "id": "c29_0b5f0",
+      "speaker": "Roger",
+      "en": "Put another way, hidden within it is a strong will that no one can violate.",
+      "display_variant": "en",
+      "display_text": "「Put another way, hidden within it is a\nstrong will that no one can violate.」"
+    },
+    {
+      "id": "c29_0b650",
+      "speaker": "Dorothy",
+      "en": "Is that true of you too?",
+      "display_variant": "en",
+      "display_text": "「Is that true of you too?」"
+    },
+    {
+      "id": "c29_0b670",
+      "speaker": "Roger",
+      "en": "Questioning him would be pointless. His will doesn't waver. ...There's only one way to answer that.",
+      "display_variant": "fit",
+      "display_text": "「Questioning him is pointless -- his will\nwon't waver. There's only one way to\nanswer that.」"
+    },
+    {
+      "id": "c29_0b6d0",
+      "speaker": "Roger",
+      "en": "Black Overman...! I'll oblige you, just as you wish!",
+      "display_variant": "en",
+      "display_text": "「Black Overman...! I'll oblige you, just as\nyou wish!」"
+    },
+    {
+      "id": "c29_0b720",
+      "speaker": "Roger",
+      "en": "I haven't given up on this thing called humanity either!",
+      "display_variant": "en",
+      "display_text": "「I haven't given up on this thing called\nhumanity either!」"
+    },
+    {
+      "id": "c29_0b760",
+      "speaker": "Kamille",
+      "en": "That thing...",
+      "display_variant": "en",
+      "display_text": "「That thing...」"
+    },
+    {
+      "id": "c29_0b780",
+      "speaker": "Kamille",
+      "en": "There's hostility, but not malice...? Does he actually believe in what he's doing...!?",
+      "display_variant": "en",
+      "display_text": "「There's hostility, but not malice...?\nDoes he actually believe in what he's\ndoing...!?」"
+    },
+    {
+      "id": "c29_0b7e0",
+      "speaker": "Kamille",
+      "en": "If we hesitate, we'll be taken down...! He hasn't got a shred of doubt!",
+      "display_variant": "en",
+      "display_text": "「If we hesitate, we'll be taken down...!\nHe hasn't got a shred of doubt!」"
+    },
+    {
+      "id": "c29_0b830",
+      "speaker": "Kamille",
+      "en": "We can't afford to lose! We've fought until today believing in the world... in people!!",
+      "display_variant": "en",
+      "display_text": "「We can't afford to lose! We've fought\nuntil today believing in the world... in\npeople!!」"
+    },
+    {
+      "id": "c29_0b890",
+      "speaker": "Quattro",
+      "en": "Posing that question to me again... But I've already given my answer.",
+      "display_variant": "en",
+      "display_text": "「Posing that question to me again... But\nI've already given my answer.」"
+    },
+    {
+      "id": "c29_0b8e0",
+      "speaker": "Quattro",
+      "en": "A conviction without a shred of doubt. So that's the source of your strength...",
+      "display_variant": "en",
+      "display_text": "「A conviction without a shred of doubt.\nSo that's the source of your strength...」"
+    },
+    {
+      "id": "c29_0b920",
+      "speaker": "Quattro",
+      "en": "But I won't back down either. Even while doubting, I intend to move forward with this world...",
+      "display_variant": "fit",
+      "display_text": "「But I won't back down either -- even\ndoubting, I'll move forward with this\nworld...」"
+    },
+    {
+      "id": "c29_0b980",
+      "speaker": "Quattro",
+      "en": "Betting on humanity's potential...!",
+      "display_variant": "en",
+      "display_text": "「Betting on humanity's potential...!」"
+    },
+    {
+      "id": "c29_0b9b0",
+      "speaker": "Amuro",
+      "en": "Looking at the big picture, your way of thinking might even be right...",
+      "display_variant": "en",
+      "display_text": "「Looking at the big picture, your way of\nthinking might even be right...」"
+    },
+    {
+      "id": "c29_0b9f0",
+      "speaker": "Amuro",
+      "en": "But I deny it...! The Executor System's methods are nothing but slaughter!",
+      "display_variant": "en",
+      "display_text": "「But I deny it...! The Executor System's\nmethods are nothing but slaughter!」"
+    },
+    {
+      "id": "c29_0ba50",
+      "speaker": "Amuro",
+      "en": "How can you do something like this while having a heart...!?",
+      "display_variant": "en",
+      "display_text": "「How can you do something like this\nwhile having a heart...!?」"
+    },
+    {
+      "id": "c29_0ba90",
+      "speaker": "Amuro",
+      "en": "This feeling... don't tell me...!",
+      "display_variant": "en",
+      "display_text": "「This feeling... don't tell me...!」"
+    },
+    {
+      "id": "c29_0bab0",
+      "speaker": "Amuro",
+      "en": "Even though I understand you now... no, precisely because I understand, we have to bring you down!",
+      "display_variant": "fit",
+      "display_text": "「Even understanding you now -- no,\nprecisely because I understand, we have\nto bring you down!」"
+    },
+    {
+      "id": "c29_0bb20",
+      "speaker": "Amuro",
+      "en": "To show you the meaning of humanity you're looking for... its potential!",
+      "display_variant": "en",
+      "display_text": "「To show you the meaning of humanity\nyou're looking for... its potential!」"
+    },
+    {
+      "id": "c29_0bb60",
+      "speaker": "Loran",
+      "en": "It was you who asked Gym Ghingnham about the meaning of humanity, wasn't it?",
+      "display_variant": "en",
+      "display_text": "「It was you who asked Gym Ghingnham\nabout the meaning of humanity, wasn't it?」"
+    },
+    {
+      "id": "c29_0bbb0",
+      "speaker": "Loran",
+      "en": "Our answer is different from that man's. ...The meaning of being human isn't fighting. I think just living is the meaning itself.",
+      "display_variant": "fit",
+      "display_text": "「Our answer differs from his. Being\nhuman isn't about fighting -- just living\nis the meaning itself.」"
+    },
+    {
+      "id": "c29_0bc20",
+      "speaker": "Loran",
+      "en": "It's only when someone comes to take that away that people finally fight.",
+      "display_variant": "en",
+      "display_text": "「It's only when someone comes to take\nthat away that people finally fight.」"
+    },
+    {
+      "id": "c29_0bc60",
+      "speaker": "Loran",
+      "en": "If you're going to destroy things to protect this planet, then I'll fight you. To protect lives... to protect people.",
+      "display_variant": "fit",
+      "display_text": "「If you'll destroy things to protect this\nplanet, I'll fight you -- to protect lives,\nto protect people.」"
+    },
+    {
+      "id": "c29_0bcc0",
+      "speaker": "Loran",
+      "en": "People will go on living on this planet! You can't take that away from them!",
+      "display_variant": "en",
+      "display_text": "「People will go on living on this planet!\nYou can't take that away from them!」"
+    },
+    {
+      "id": "c29_0bd10",
+      "speaker": "Shinn",
+      "en": "I've had enough of your logic...! I don't want to watch human lives get lost anymore!!",
+      "display_variant": "en",
+      "display_text": "「I've had enough of your logic...! I don't\nwant to watch human lives get lost\nanymore!!」"
+    },
+    {
+      "id": "c29_0bd70",
+      "speaker": "Shinn",
+      "en": "Even the people who built the Executor System must have watched the people around them die too...",
+      "display_variant": "fit",
+      "display_text": "「Even those who built the Executor\nSystem must've watched people around\nthem die too...」"
+    },
+    {
+      "id": "c29_0bde0",
+      "speaker": "Shinn",
+      "en": "So why did they leave something like this behind for future generations!?",
+      "display_variant": "en",
+      "display_text": "「So why did they leave something like\nthis behind for future generations!?」"
+    },
+    {
+      "id": "c29_0be30",
+      "speaker": "Shinn",
+      "en": "I will never accept it! This planet doesn't need destruction for the sake of rebirth!!",
+      "display_variant": "en",
+      "display_text": "「I will never accept it! This planet\ndoesn't need destruction for the sake of\nrebirth!!」"
+    },
+    {
+      "id": "c29_0be90",
+      "speaker": "Shinn",
+      "en": "For the sake of everyone who's fought believing in the future, I'll defeat you!!",
+      "display_variant": "en",
+      "display_text": "「For the sake of everyone who's fought\nbelieving in the future, I'll defeat you!!」"
+    },
+    {
+      "id": "c29_0bed0",
+      "speaker": "Kira",
+      "en": "I think I get it, somehow... That you have your own resolve too.",
+      "display_variant": "en",
+      "display_text": "「I think I get it, somehow... That you\nhave your own resolve too.」"
+    },
+    {
+      "id": "c29_0bf20",
+      "speaker": "Kira",
+      "en": "That's why you don't waver. Because you believe in what you're doing.",
+      "display_variant": "en",
+      "display_text": "「That's why you don't waver. Because\nyou believe in what you're doing.」"
+    },
+    {
+      "id": "c29_0bf70",
+      "speaker": "Kira",
+      "en": "But that's the same for me too. I've made up my mind, and that's why I'm fighting like this.",
+      "display_variant": "fit",
+      "display_text": "「That's the same for me too. I've made\nup my mind, and that's why I'm fighting\nlike this.」"
+    },
+    {
+      "id": "c29_0bfd0",
+      "speaker": "Kira",
+      "en": "So I won't back down...! I'll fight for this world and the people who live in it!",
+      "display_variant": "en",
+      "display_text": "「So I won't back down...! I'll fight for\nthis world and the people who live in it!」"
+    },
+    {
+      "id": "c29_0c020",
+      "speaker": "Kira",
+      "en": "Because that's what I've chosen to believe in!",
+      "display_variant": "en",
+      "display_text": "「Because that's what I've chosen to\nbelieve in!」"
+    },
+    {
+      "id": "c29_0c050",
+      "speaker": "Tiffa",
+      "en": "Wait, Garrod...! He's...",
+      "display_variant": "en",
+      "display_text": "「Wait, Garrod...! He's...」"
+    },
+    {
+      "id": "c29_0c080",
+      "speaker": "Garrod",
+      "en": "What's wrong, Tiffa!? Did something happen!?",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Tiffa!? Did something\nhappen!?」"
+    },
+    {
+      "id": "c29_0c0c0",
+      "speaker": "Tiffa",
+      "en": "I-it's nothing... Be careful...",
+      "display_variant": "en",
+      "display_text": "「I-it's nothing... Be careful...」"
+    },
+    {
+      "id": "c29_0c0f0",
+      "speaker": "Garrod",
+      "en": "Yeah! There's no way we're losing! We can't afford to lose!",
+      "display_variant": "en",
+      "display_text": "「Yeah! There's no way we're losing! We\ncan't afford to lose!」"
+    },
+    {
+      "id": "c29_0c140",
+      "speaker": "Garrod",
+      "en": "We're gonna show this ghost of the Black History that people and the world can still change!",
+      "display_variant": "fit",
+      "display_text": "「We'll show this ghost of the Black\nHistory that people and the world can\nstill change!」"
+    },
+    {
+      "id": "c29_0c1a0",
+      "speaker": "Tiffa",
+      "en": "(XAN... is that what you want...?)",
+      "display_variant": "en",
+      "display_text": "（(XAN... is that what you want...?)）"
+    },
+    {
+      "id": "c29_0c1d0",
+      "speaker": "Garrod",
+      "en": "Here we come, Black Overman! There's no way we're giving up! Not on the world, not on the future!",
+      "display_variant": "fit",
+      "display_text": "「Here we come, Black Overman! There's no\nway we're giving up -- not on the world,\nnot on the future!」"
+    },
+    {
+      "id": "c29_0c230",
+      "speaker": "Garrod",
+      "en": "This is the strength of humanity you people denied!!",
+      "display_variant": "en",
+      "display_text": "「This is the strength of humanity you\npeople denied!!」"
+    },
+    {
+      "id": "c29_0c270",
+      "speaker": "Jamil",
+      "en": "Black Overman... You have a heart, so why do you cling to a system from the past...!?",
+      "display_variant": "en",
+      "display_text": "「Black Overman... You have a heart, so\nwhy do you cling to a system from the\npast...!?」"
+    },
+    {
+      "id": "c29_0c2d0",
+      "speaker": "Jamil",
+      "en": "Even I, who's lost my Newtype powers, can tell. There's a strong will inside you.",
+      "display_variant": "en",
+      "display_text": "「Even I, who's lost my Newtype powers,\ncan tell. There's a strong will inside you.」"
+    },
+    {
+      "id": "c29_0c330",
+      "speaker": "Jamil",
+      "en": "Then I will fight you...! Because I too carry a will just as strong as yours!",
+      "display_variant": "en",
+      "display_text": "「Then I will fight you...! Because I too\ncarry a will just as strong as yours!」"
+    },
+    {
+      "id": "c29_0c3a0",
+      "speaker": "Jamil",
+      "en": "I believe in humanity's future! From those fifteen years ago, right up to this very moment!",
+      "display_variant": "fit",
+      "display_text": "「I believe in humanity's future! From\nthose fifteen years ago to this very\nmoment!」"
+    },
+    {
+      "id": "c29_0c3f0",
+      "speaker": "Holland",
+      "en": "Can you hear me, Black? If you've got a heart, then listen to what I've got to say.",
+      "display_variant": "en",
+      "display_text": "「Can you hear me, Black? If you've got\na heart, then listen to what I've got to\nsay.」"
+    },
+    {
+      "id": "c29_0c440",
+      "speaker": "Holland",
+      "en": "I'm about to become a father. I'm getting a family.",
+      "display_variant": "en",
+      "display_text": "「I'm about to become a father. I'm\ngetting a family.」"
+    },
+    {
+      "id": "c29_0c480",
+      "speaker": "Holland",
+      "en": "...Kinda makes you laugh, huh?",
+      "display_variant": "en",
+      "display_text": "「...Kinda makes you laugh, huh?」"
+    },
+    {
+      "id": "c29_0c4a0",
+      "speaker": "Holland",
+      "en": "Me, who killed my mother just by being born, and let my brother--who killed my father--die without lifting a finger... I'm getting a family.",
+      "display_variant": "fit",
+      "display_text": "「Killed my mother being born, let the\nbrother who killed my father die and did\nnothing... and now I'm getting a family.」"
+    },
+    {
+      "id": "c29_0c500",
+      "speaker": "Holland",
+      "en": "But... damn it, I'm happy about it. I feel like this is the first time I've realized just how dazzling life can be.",
+      "display_variant": "fit",
+      "display_text": "「But damn it, I'm happy. Feels like the\nfirst time I've realized how dazzling life\ncan be.」"
+    },
+    {
+      "id": "c29_0c580",
+      "speaker": "Holland",
+      "en": "I don't know what kind of person my kid's gonna grow up to be... Maybe they'll turn into some huge villain.",
+      "display_variant": "fit",
+      "display_text": "「I don't know what kind of person my\nkid'll grow up to be... Maybe some huge\nvillain.」"
+    },
+    {
+      "id": "c29_0c5f0",
+      "speaker": "Holland",
+      "en": "But damn it...! If a life gets condemned before it's even born, there's nothing anyone can do about it!",
+      "display_variant": "fit",
+      "display_text": "「Damn it...! If a life's condemned before\nit's even born, there's nothing anyone can\ndo!」"
+    },
+    {
+      "id": "c29_0c650",
+      "speaker": "Holland",
+      "en": "Every life that's ever born is the same! If you're gonna deny the future, then I'll be the one to face you!",
+      "display_variant": "fit",
+      "display_text": "「Every life ever born is the same! Deny\nthe future, and I'll be the one to face\nyou!」"
+    },
+    {
+      "id": "c29_0c6b0",
+      "speaker": "Holland",
+      "en": "On behalf of every father living in this world!!",
+      "display_variant": "en",
+      "display_text": "「On behalf of every father living in this\nworld!!」"
+    },
+    {
+      "id": "c29_0c6f0",
+      "speaker": "Renton",
+      "en": "Listen to me, Black Overman!",
+      "display_variant": "en",
+      "display_text": "「Listen to me, Black Overman!」"
+    },
+    {
+      "id": "c29_0c730",
+      "speaker": "Eureka",
+      "en": "I... I changed after meeting Renton...! I was able to change!",
+      "display_variant": "en",
+      "display_text": "「I... I changed after meeting Renton...! I\nwas able to change!」"
+    },
+    {
+      "id": "c29_0c780",
+      "speaker": "Renton",
+      "en": "But! If you destroy the world, that kind of possibility disappears completely!",
+      "display_variant": "en",
+      "display_text": "「But! If you destroy the world, that\nkind of possibility disappears completely!」"
+    },
+    {
+      "id": "c29_0c7e0",
+      "speaker": "Eureka",
+      "en": "That can't be allowed...! Everyone can change... they can make the world better!",
+      "display_variant": "en",
+      "display_text": "「That can't be allowed...! Everyone can\nchange... they can make the world better!」"
+    },
+    {
+      "id": "c29_0c840",
+      "speaker": "Renton",
+      "en": "That's why we're going to stop the Executor System! Because we believe in humanity!",
+      "display_variant": "en",
+      "display_text": "「That's why we're going to stop the\nExecutor System! Because we believe in\nhumanity!」"
+    },
+    {
+      "id": "c29_0c8a0",
+      "speaker": "Eureka",
+      "en": "Let's go, Renton...! For our world and the people we love!",
+      "display_variant": "en",
+      "display_text": "「Let's go, Renton...! For our world and\nthe people we love!」"
+    },
+    {
+      "id": "c29_0c8f0",
+      "speaker": "Renton",
+      "en": "Gramps...! And Maurice, Maetel, Linck too! Wait for us!",
+      "display_variant": "en",
+      "display_text": "「Gramps...! And Maurice, Maetel, Linck\ntoo! Wait for us!」"
+    },
+    {
+      "id": "c29_0c950",
+      "speaker": "Renton",
+      "en": "We're... definitely going to protect this planet's future and come back to everyone!!",
+      "display_variant": "en",
+      "display_text": "「We're... definitely going to protect this\nplanet's future and come back to\neveryone!!」"
+    },
+    {
+      "id": "c29_0c9a0",
+      "speaker": "Jiron",
+      "en": "Hey, Black Overman! What you're doing is no different from the Innocents' rule!",
+      "display_variant": "en",
+      "display_text": "「Hey, Black Overman! What you're doing\nis no different from the Innocents' rule!」"
+    },
+    {
+      "id": "c29_0ca00",
+      "speaker": "Jiron",
+      "en": "I've had enough of being bound by some selfish rule decided ages ago, without even understanding why!",
+      "display_variant": "fit",
+      "display_text": "「I've had enough of being bound by some\nselfish rule set ages ago, without even\nknowing why!」"
+    },
+    {
+      "id": "c29_0ca60",
+      "speaker": "Jiron",
+      "en": "This era belongs to the people living in it now! Now crawl back into your hole quietly!",
+      "display_variant": "en",
+      "display_text": "「This era belongs to the people living in\nit now! Now crawl back into your hole\nquietly!」"
+    },
+    {
+      "id": "c29_0cab0",
+      "speaker": "Jiron",
+      "en": "You're really gonna go through with this!? You stubborn rock-head!",
+      "display_variant": "en",
+      "display_text": "「You're really gonna go through with\nthis!? You stubborn rock-head!」"
+    },
+    {
+      "id": "c29_0caf0",
+      "speaker": "Jiron",
+      "en": "Then I'm not backing down either! I believe in humanity too!",
+      "display_variant": "en",
+      "display_text": "「Then I'm not backing down either! I\nbelieve in humanity too!」"
+    },
+    {
+      "id": "c29_0cb40",
+      "speaker": "Jiron",
+      "en": "Here I come! We don't need the Black History anymore!",
+      "display_variant": "en",
+      "display_text": "「Here I come! We don't need the Black\nHistory anymore!」"
+    },
+    {
+      "id": "c29_0cb80",
+      "speaker": "Gainer",
+      "en": "XAN... you're really saying you'll fight no matter what?",
+      "display_variant": "en",
+      "display_text": "「XAN... you're really saying you'll fight\nno matter what?」"
+    },
+    {
+      "id": "c29_0cbc0",
+      "speaker": "Gainer",
+      "en": "Tell me the reason! You love this planet and its people too, don't you!?",
+      "display_variant": "en",
+      "display_text": "「Tell me the reason! You love this\nplanet and its people too, don't you!?」"
+    },
+    {
+      "id": "c29_0cc20",
+      "speaker": "Gainer",
+      "en": "It comes through King Gainer! That you have a righteous heart!",
+      "display_variant": "en",
+      "display_text": "「It comes through King Gainer! That you\nhave a righteous heart!」"
+    },
+    {
+      "id": "c29_0cc70",
+      "speaker": "Gainer",
+      "en": "If you're still saying you'll fight, then I'll throw away my doubts...!",
+      "display_variant": "en",
+      "display_text": "「If you're still saying you'll fight, then\nI'll throw away my doubts...!」"
+    },
+    {
+      "id": "c29_0ccb0",
+      "speaker": "Gainer",
+      "en": "And I'll fight alongside King Gainer! For the future of this planet and humanity!",
+      "display_variant": "en",
+      "display_text": "「And I'll fight alongside King Gainer! For\nthe future of this planet and humanity!」"
+    },
+    {
+      "id": "c29_0cd00",
+      "speaker": "Gainer",
+      "en": "King Gainer! If Overskill means surpassing yourself, then you're coming with me!",
+      "display_variant": "en",
+      "display_text": "「King Gainer! If Overskill means\nsurpassing yourself, then you're coming\nwith me!」"
+    },
+    {
+      "id": "c29_0cd60",
+      "speaker": "Gainer",
+      "en": "You too--surpass yourself... surpass XAN! If you love this planet!!",
+      "display_variant": "en",
+      "display_text": "「You too--surpass yourself... surpass\nXAN! If you love this planet!!」"
+    },
+    {
+      "id": "c29_0cdb0",
+      "speaker": "Gain",
+      "en": "Brunnhilde's arm is trembling. Seems like it's on edge about facing you.",
+      "display_variant": "en",
+      "display_text": "「Brunnhilde's arm is trembling. Seems like\nit's on edge about facing you.」"
+    },
+    {
+      "id": "c29_0ce00",
+      "speaker": "Gain",
+      "en": "Think it over. You're not the same as the Overdevil, are you?",
+      "display_variant": "en",
+      "display_text": "「Think it over. You're not the same as\nthe Overdevil, are you?」"
+    },
+    {
+      "id": "c29_0ce50",
+      "speaker": "Gain",
+      "en": "Or are you doing all this fully convinced of it?",
+      "display_variant": "en",
+      "display_text": "「Or are you doing all this fully\nconvinced of it?」"
+    },
+    {
+      "id": "c29_0ce80",
+      "speaker": "Gain",
+      "en": "Then no more holding back. I'll take you on just the way you want.",
+      "display_variant": "en",
+      "display_text": "「Then no more holding back. I'll take you\non just the way you want.」"
+    },
+    {
+      "id": "c29_0ced0",
+      "speaker": "Gain",
+      "en": "For the world, for humanity... and above all, for my own life!",
+      "display_variant": "en",
+      "display_text": "「For the world, for humanity... and above\nall, for my own life!」"
+    },
+    {
+      "id": "c29_0cf00",
+      "speaker": "Kei",
+      "en": "A new era's finally coming, and here's some relic from ancient times causing trouble.",
+      "display_variant": "en",
+      "display_text": "「A new era's finally coming, and here's\nsome relic from ancient times causing\ntrouble.」"
+    },
+    {
+      "id": "c29_0cf50",
+      "speaker": "Kei",
+      "en": "Sorry, Black Samurai... For the sake of my adorable baby, I'm not letting myself or this world end here.",
+      "display_variant": "fit",
+      "display_text": "「Sorry, Black Samurai... For my adorable\nbaby's sake, I won't let myself or this\nworld end here.」"
+    },
+    {
+      "id": "c29_0cfb0",
+      "speaker": "Kei",
+      "en": "...Honestly, when I first learned what the Singularity's role was, I almost went off the deep end myself.",
+      "display_variant": "fit",
+      "display_text": "「...Honestly, learning the Singularity's\nrole, I almost went off the deep end\nmyself.」"
+    },
+    {
+      "id": "c29_0d010",
+      "speaker": "Kei",
+      "en": "Thinking, if I don't like someone, they should just disappear...",
+      "display_variant": "en",
+      "display_text": "「Thinking, if I don't like someone, they\nshould just disappear...」"
+    },
+    {
+      "id": "c29_0d050",
+      "speaker": "Kei",
+      "en": "But nobody has the right to do that.",
+      "display_variant": "en",
+      "display_text": "「But nobody has the right to do that.」"
+    },
+    {
+      "id": "c29_0d080",
+      "speaker": "Kei",
+      "en": "This isn't about winning or losing a war. It's just wrong for anyone to decide someone else's future...!",
+      "display_variant": "fit",
+      "display_text": "「This isn't about winning or losing a\nwar. It's just wrong for anyone to decide\nanother's future...!」"
+    },
+    {
+      "id": "c29_0d0e0",
+      "speaker": "Kei",
+      "en": "That's why I'll fight you! For a world where people can decide their own future!",
+      "display_variant": "en",
+      "display_text": "「That's why I'll fight you! For a world\nwhere people can decide their own future!」"
+    },
+    {
+      "id": "c29_0d140",
+      "speaker": "$n",
+      "en": "Did the person who built the Executor System give up on humanity...?",
+      "display_variant": "en",
+      "display_text": "「Did the person who built the Executor\nSystem give up on humanity...?」"
+    },
+    {
+      "id": "c29_0d180",
+      "speaker": "Toby",
+      "en": "So they thought they'd just thin out humanity and restore Earth's environment that way!?",
+      "display_variant": "en",
+      "display_text": "「So they thought they'd just thin out\nhumanity and restore Earth's environment\nthat way!?」"
+    },
+    {
+      "id": "c29_0d1e0",
+      "speaker": "Denzel",
+      "en": "Hmph... when pessimism flips over, people come up with the boldest things.",
+      "display_variant": "en",
+      "display_text": "「Hmph... when pessimism flips over, people\ncome up with the boldest things.」"
+    },
+    {
+      "id": "c29_0d230",
+      "speaker": "$n",
+      "en": "Please, listen...! There's no need for destruction just to bring about rebirth!",
+      "display_variant": "en",
+      "display_text": "「Please, listen...! There's no need for\ndestruction just to bring about rebirth!」"
+    },
+    {
+      "id": "c29_0d280",
+      "speaker": "$n",
+      "en": "What's lost doesn't come back! What's lost to destruction... human lives, don't come back!",
+      "display_variant": "en",
+      "display_text": "「What's lost doesn't come back! What's\nlost to destruction... human lives, don't\ncome back!」"
+    },
+    {
+      "id": "c29_0d2f0",
+      "speaker": "$n",
+      "en": "I refuse to accept a world reborn out of that kind of grief and pain!",
+      "display_variant": "en",
+      "display_text": "「I refuse to accept a world reborn out\nof that kind of grief and pain!」"
+    },
+    {
+      "id": "c29_0d330",
+      "speaker": "Denzel",
+      "en": "The ensign's right. The Executor System's methods are nothing but a cold cutting-away.",
+      "display_variant": "en",
+      "display_text": "「The ensign's right. The Executor\nSystem's methods are nothing but a cold\ncutting-away.」"
+    },
+    {
+      "id": "c29_0d390",
+      "speaker": "Toby",
+      "en": "People can manage just fine without relying on some easy way out like that...!",
+      "display_variant": "en",
+      "display_text": "「People can manage just fine without\nrelying on some easy way out like that...!」"
+    },
+    {
+      "id": "c29_0d3e0",
+      "speaker": "Toby",
+      "en": "Look at us. We started off all prickly with each other, but somehow we've turned into a real team, haven't we?",
+      "display_variant": "fit",
+      "display_text": "「Look at us. We started off prickly with\neach other, but somehow became a real\nteam, huh?」"
+    },
+    {
+      "id": "c29_0d440",
+      "speaker": "Denzel",
+      "en": "It's the result of us trying to understand each other, meeting halfway, and building trust. Humans are capable of that.",
+      "display_variant": "fit",
+      "display_text": "「It's from trying to understand each\nother, meeting halfway, building trust.\nHumans can do that.」"
+    },
+    {
+      "id": "c29_0d4b0",
+      "speaker": "$n",
+      "en": "I believe in humanity's potential. That is exactly what it means to live...!",
+      "display_variant": "en",
+      "display_text": "「I believe in humanity's potential. That\nis exactly what it means to live...!」"
+    },
+    {
+      "id": "c29_0d500",
+      "speaker": "$n",
+      "en": "That's why I'll fight you! Protecting the world and its people--that's the Glory Star's fight!",
+      "display_variant": "fit",
+      "display_text": "「That's why I fight you! Protecting the\nworld and its people is the Glory Star's\nfight!」"
+    },
+    {
+      "id": "c29_0d560",
+      "speaker": "Setsuko",
+      "en": "Did the person who built the Executor System give up on humanity...?",
+      "display_variant": "en",
+      "display_text": "「Did the person who built the Executor\nSystem give up on humanity...?」"
+    },
+    {
+      "id": "c29_0d5b0",
+      "speaker": "Setsuko",
+      "en": "Please, listen...! There's no need for destruction just to bring about rebirth!",
+      "display_variant": "en",
+      "display_text": "「Please, listen...! There's no need for\ndestruction just to bring about rebirth!」"
+    },
+    {
+      "id": "c29_0d600",
+      "speaker": "Setsuko",
+      "en": "What's lost doesn't come back! What's lost to destruction... human lives, don't come back!",
+      "display_variant": "fit",
+      "display_text": "「What's lost doesn't come back! What\ndestruction takes -- human lives -- don't\ncome back!」"
+    },
+    {
+      "id": "c29_0d670",
+      "speaker": "Setsuko",
+      "en": "I refuse to accept a world reborn out of that kind of grief and pain!",
+      "display_variant": "en",
+      "display_text": "「I refuse to accept a world reborn out\nof that kind of grief and pain!」"
+    },
+    {
+      "id": "c29_0d6c0",
+      "speaker": "Setsuko",
+      "en": "I believe in humanity's potential. That is exactly what it means to live...!",
+      "display_variant": "en",
+      "display_text": "「I believe in humanity's potential. That\nis exactly what it means to live...!」"
+    },
+    {
+      "id": "c29_0d710",
+      "speaker": "Setsuko",
+      "en": "That's why I'll fight you! Protecting the world and its people--that's the Glory Star's fight!",
+      "display_variant": "fit",
+      "display_text": "「That's why I fight you! Protecting the\nworld and its people is the Glory Star's\nfight!」"
+    },
+    {
+      "id": "c29_0d770",
+      "speaker": "$n",
+      "en": "Destruction and rebirth, huh...! You take things way too far!",
+      "display_variant": "en",
+      "display_text": "「Destruction and rebirth, huh...! You\ntake things way too far!」"
+    },
+    {
+      "id": "c29_0d7b0",
+      "speaker": "Mel",
+      "en": "But didn't Darling say something like that during the last fight too?",
+      "display_variant": "en",
+      "display_text": "「But didn't Darling say something like\nthat during the last fight too?」"
+    },
+    {
+      "id": "c29_0d800",
+      "speaker": "$n",
+      "en": "T-that's, uh...! In my case it's more like... measured destruction...",
+      "display_variant": "en",
+      "display_text": "「T-that's, uh...! In my case it's more\nlike... measured destruction...」"
+    },
+    {
+      "id": "c29_0d840",
+      "speaker": "$n",
+      "en": "Don't give me that look! Sure, I'm a repairman, but I've done my share of smashing too!",
+      "display_variant": "en",
+      "display_text": "「Don't give me that look! Sure, I'm a\nrepairman, but I've done my share of\nsmashing too!」"
+    },
+    {
+      "id": "c29_0d8a0",
+      "speaker": "$n",
+      "en": "But that's only when there's no hope of fixing it!",
+      "display_variant": "en",
+      "display_text": "「But that's only when there's no hope\nof fixing it!」"
+    },
+    {
+      "id": "c29_0d8e0",
+      "speaker": "$n",
+      "en": "That's right. People haven't rotted through that badly. So we don't need any destruction.",
+      "display_variant": "en",
+      "display_text": "「That's right. People haven't rotted\nthrough that badly. So we don't need any\ndestruction.」"
+    },
+    {
+      "id": "c29_0d940",
+      "speaker": "$n",
+      "en": "But still! There oughta be at least a chance to make up for a mistake!",
+      "display_variant": "en",
+      "display_text": "「But still! There oughta be at least a\nchance to make up for a mistake!」"
+    },
+    {
+      "id": "c29_0d990",
+      "speaker": "Mel",
+      "en": "Are they communicating just through eye contact...!?",
+      "display_variant": "en",
+      "display_text": "「Are they communicating just through\neye contact...!?」"
+    },
+    {
+      "id": "c29_0d9c0",
+      "speaker": "$n",
+      "en": "That's why I never give up! As long as it can be fixed, I'll fix it properly!",
+      "display_variant": "en",
+      "display_text": "「That's why I never give up! As long as\nit can be fixed, I'll fix it properly!」"
+    },
+    {
+      "id": "c29_0da10",
+      "speaker": "$n",
+      "en": "If you throw something out the second it breaks, you can't call yourself a repairman!",
+      "display_variant": "en",
+      "display_text": "「If you throw something out the second\nit breaks, you can't call yourself a\nrepairman!」"
+    },
+    {
+      "id": "c29_0da60",
+      "speaker": "$n",
+      "en": "Come on then! With the future on the line, your stubbornness against my pride, head-on!!",
+      "display_variant": "en",
+      "display_text": "「Come on then! With the future on the\nline, your stubbornness against my pride,\nhead-on!!」"
+    },
+    {
+      "id": "c29_0dab0",
+      "speaker": "Rand",
+      "en": "Destruction and rebirth, huh...! You take things way too far!",
+      "display_variant": "en",
+      "display_text": "「Destruction and rebirth, huh...! You\ntake things way too far!」"
+    },
+    {
+      "id": "c29_0db00",
+      "speaker": "Rand",
+      "en": "T-that's, uh...! In my case it's more like... measured destruction...",
+      "display_variant": "en",
+      "display_text": "「T-that's, uh...! In my case it's more\nlike... measured destruction...」"
+    },
+    {
+      "id": "c29_0db50",
+      "speaker": "Rand",
+      "en": "Don't give me that look! Sure, I'm a repairman, but I've done my share of smashing too!",
+      "display_variant": "en",
+      "display_text": "「Don't give me that look! Sure, I'm a\nrepairman, but I've done my share of\nsmashing too!」"
+    },
+    {
+      "id": "c29_0dbb0",
+      "speaker": "Rand",
+      "en": "But that's only when there's no hope of fixing it!",
+      "display_variant": "en",
+      "display_text": "「But that's only when there's no hope\nof fixing it!」"
+    },
+    {
+      "id": "c29_0dbf0",
+      "speaker": "Rand",
+      "en": "That's right. People haven't rotted through that badly. So we don't need any destruction.",
+      "display_variant": "en",
+      "display_text": "「That's right. People haven't rotted\nthrough that badly. So we don't need any\ndestruction.」"
+    },
+    {
+      "id": "c29_0dc50",
+      "speaker": "Rand",
+      "en": "But still! There oughta be at least a chance to make up for a mistake!",
+      "display_variant": "en",
+      "display_text": "「But still! There oughta be at least a\nchance to make up for a mistake!」"
+    },
+    {
+      "id": "c29_0dcb0",
+      "speaker": "Rand",
+      "en": "That's why I never give up! As long as it can be fixed, I'll fix it properly!",
+      "display_variant": "en",
+      "display_text": "「That's why I never give up! As long as\nit can be fixed, I'll fix it properly!」"
+    },
+    {
+      "id": "c29_0dd00",
+      "speaker": "Rand",
+      "en": "If you throw something out the second it breaks, you can't call yourself a repairman!",
+      "display_variant": "en",
+      "display_text": "「If you throw something out the second\nit breaks, you can't call yourself a\nrepairman!」"
+    },
+    {
+      "id": "c29_0dd50",
+      "speaker": "Rand",
+      "en": "Come on then! With the future on the line, your stubbornness against my pride, head-on!!",
+      "display_variant": "en",
+      "display_text": "「Come on then! With the future on the\nline, your stubbornness against my pride,\nhead-on!!」"
+    },
+    {
+      "id": "c29_0dda0",
+      "speaker": "Sandman",
+      "en": "You too, just like me, love this planet, and waited a long age for the sake of your own mission...",
+      "display_variant": "fit",
+      "display_text": "「You too, like me, love this planet, and\nwaited a long age for your own mission's\nsake...」"
+    },
+    {
+      "id": "c29_0de00",
+      "speaker": "Sandman",
+      "en": "I'll pay my respects to that conviction...!",
+      "display_variant": "en",
+      "display_text": "「I'll pay my respects to that\nconviction...!」"
+    },
+    {
+      "id": "c29_0de30",
+      "speaker": "Sandman",
+      "en": "And now, for what each of us believes in, let this fated duel begin!",
+      "display_variant": "en",
+      "display_text": "「And now, for what each of us believes\nin, let this fated duel begin!」"
+    },
+    {
+      "id": "c29_0de80",
+      "speaker": "Athrun",
+      "en": "Shinn...",
+      "display_variant": "en",
+      "display_text": "「Shinn...」"
+    },
+    {
+      "id": "c29_0dea0",
+      "speaker": "Kira",
+      "en": "That's right. That answer is something we ourselves... something humanity decides for itself.",
+      "display_variant": "fit",
+      "display_text": "「That's right. That's something we\nourselves -- something humanity decides\nfor itself.」"
+    },
+    {
+      "id": "c29_0def0",
+      "speaker": "Koji",
+      "en": "Listen up, Black Overman! Just being alive means something, all on its own!",
+      "display_variant": "en",
+      "display_text": "「Listen up, Black Overman! Just being\nalive means something, all on its own!」"
+    },
+    {
+      "id": "c29_0df50",
+      "speaker": "Toshiya",
+      "en": "Sure, humanity might be foolish, but that doesn't mean we'll let ourselves be wiped out without even understanding why...!",
+      "display_variant": "fit",
+      "display_text": "「Humanity may be foolish, but that's no\nreason to wipe us out without even\nknowing why...!」"
+    },
+    {
+      "id": "c29_0dfc0",
+      "speaker": "Kamille",
+      "en": "People are alive in this world! Living today with everything they've got!",
+      "display_variant": "en",
+      "display_text": "「People are alive in this world! Living\ntoday with everything they've got!」"
+    },
+    {
+      "id": "c29_0e000",
+      "speaker": "Jiron",
+      "en": "It's not just good people out there--there are bad ones too, but that's part of the world as well!",
+      "display_variant": "fit",
+      "display_text": "「Not everyone's good -- there are bad\nones too, but that's part of the world as\nwell!」"
+    },
+    {
+      "id": "c29_0e060",
+      "speaker": "Kei",
+      "en": "The world's still got its whole future ahead of it. It'd be a waste to end it here.",
+      "display_variant": "en",
+      "display_text": "「The world's still got its whole future\nahead of it. It'd be a waste to end it\nhere.」"
+    },
+    {
+      "id": "c29_0e0b0",
+      "speaker": "Duke",
+      "en": "It's people who make people better too. Cutting off that potential is the same as sealing the future in darkness!",
+      "display_variant": "fit",
+      "display_text": "「People make people better too. Cutting\noff that potential seals the future in\ndarkness!」"
+    },
+    {
+      "id": "c29_0e120",
+      "speaker": "Marin",
+      "en": "Polluting nature is a sin humans committed. But it's those same humans who act to make up for it.",
+      "display_variant": "fit",
+      "display_text": "「Polluting nature was humanity's sin --\nbut it's those same humans who act to\nmake up for it.」"
+    },
+    {
+      "id": "c29_0e180",
+      "speaker": "Kappei",
+      "en": "If we get wiped out, we can't apologize, we can't start over, we can't do anything at all!",
+      "display_variant": "fit",
+      "display_text": "「If we're wiped out, we can't apologize,\nstart over, or do anything at all!」"
+    },
+    {
+      "id": "c29_0e1e0",
+      "speaker": "Garrod",
+      "en": "So we won't repeat our mistakes, people work hard and keep on living! Are you saying you won't even acknowledge that!?",
+      "display_variant": "fit",
+      "display_text": "「We won't repeat our mistakes -- people\nwork hard and keep living! Won't you even\nadmit that!?」"
+    },
+    {
+      "id": "c29_0e250",
+      "speaker": "Quattro",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c29_0e270",
+      "speaker": "Amuro",
+      "en": "Lieutenant... you must have fought until today because you believe in humanity's future too.",
+      "display_variant": "fit",
+      "display_text": "「Lieutenant... you must've fought till\ntoday because you believe in humanity's\nfuture too.」"
+    },
+    {
+      "id": "c29_0e2d0",
+      "speaker": "Quattro",
+      "en": "Amuro...",
+      "display_variant": "en",
+      "display_text": "「Amuro...」"
+    },
+    {
+      "id": "c29_0e2f0",
+      "speaker": "Amuro",
+      "en": "If you think humanity's foolish, then change it with humanity's own strength. That's what it means to create the future.",
+      "display_variant": "fit",
+      "display_text": "「If humanity's foolish, change it with\nhumanity's own strength. That's what\ncreates the future.」"
+    },
+    {
+      "id": "c29_0e350",
+      "speaker": "Quattro",
+      "en": "You're right.",
+      "display_variant": "en",
+      "display_text": "「You're right.」"
+    },
+    {
+      "id": "c29_0e370",
+      "speaker": "Banjo",
+      "en": "The answer we've reached is just as you've heard, Executor.",
+      "display_variant": "en",
+      "display_text": "「The answer we've reached is just as\nyou've heard, Executor.」"
+    },
+    {
+      "id": "c29_0e3b0",
+      "speaker": "Roger",
+      "en": "So, I'll take the liberty of denying your mission.",
+      "display_variant": "en",
+      "display_text": "「So, I'll take the liberty of denying\nyour mission.」"
+    },
+    {
+      "id": "c29_0e3f0",
+      "speaker": "Apollo",
+      "en": "We believe in humanity! That's why we can fight like this!",
+      "display_variant": "en",
+      "display_text": "「We believe in humanity! That's why we\ncan fight like this!」"
+    },
+    {
+      "id": "c29_0e440",
+      "speaker": "Renton",
+      "en": "Please understand! People can still fly!",
+      "display_variant": "en",
+      "display_text": "「Please understand! People can still fly!」"
+    },
+    {
+      "id": "c29_0e4c0",
+      "speaker": "Ana",
+      "en": "...Then, Martina, while you were frozen inside the Agato Crystal, did you touch the Overdevil's will?",
+      "display_variant": "fit",
+      "display_text": "「...Martina, while frozen inside the Agato\nCrystal, did you touch the Overdevil's\nwill?」"
+    },
+    {
+      "id": "c29_0e530",
+      "speaker": "Martina",
+      "en": "Whether that voice was really the Overdevil's, I couldn't say. I was somewhere between dreaming and waking, after all.",
+      "display_variant": "fit",
+      "display_text": "「Whether that voice was really the\nOverdevil's, I can't say. I was somewhere\nbetween dream and waking.」"
+    },
+    {
+      "id": "c29_0e5b0",
+      "speaker": "Martina",
+      "en": "But I sure did hear it... no--I touched it. Memories from the age that ice devil was born into...",
+      "display_variant": "fit",
+      "display_text": "「But I did hear it... no -- I touched it.\nMemories from the age that ice devil was\nborn into...」"
+    },
+    {
+      "id": "c29_0e620",
+      "speaker": "Medaiyu",
+      "en": "Tell us, Martina Lane. About that devil of an Overman.",
+      "display_variant": "en",
+      "display_text": "「Tell us, Martina Lane. About that devil\nof an Overman.」"
+    },
+    {
+      "id": "c29_0e670",
+      "speaker": "Martina",
+      "en": "I doubt that thing was ever called a devil from the very start.",
+      "display_variant": "en",
+      "display_text": "「I doubt that thing was ever called a\ndevil from the very start.」"
+    },
+    {
+      "id": "c29_0e6c0",
+      "speaker": "Martina",
+      "en": "It must have been built as humanity's strength, to fight enemies like the Shadow Angels, after all.",
+      "display_variant": "fit",
+      "display_text": "「It must've been built as humanity's\nstrength, to fight enemies like the\nShadow Angels, after all.」"
+    },
+    {
+      "id": "c29_0e720",
+      "speaker": "Ana",
+      "en": "But didn't the Overdevil try to freeze the whole world in ice?",
+      "display_variant": "en",
+      "display_text": "「But didn't the Overdevil try to freeze\nthe whole world in ice?」"
+    },
+    {
+      "id": "c29_0e770",
+      "speaker": "Martina",
+      "en": "Something got twisted along the way. I'd wager it's the same story for that White Mustache mechanical doll too.",
+      "display_variant": "fit",
+      "display_text": "「Something got twisted along the way --\nprobably the same for that White\nMustache mechanical doll too.」"
+    },
+    {
+      "id": "c29_0e7d0",
+      "speaker": "Martina",
+      "en": "The end of the Black History changed everything.",
+      "display_variant": "en",
+      "display_text": "「The end of the Black History changed\neverything.」"
+    },
+    {
+      "id": "c29_0e810",
+      "speaker": "Medaiyu",
+      "en": "The great cataclysm... meaning a rupture of space-time... I've heard a spacetime quake on the scale of the Break the World occurred.",
+      "display_variant": "fit",
+      "display_text": "「The great cataclysm -- a rupture of\nspace-time. I've heard it was a Break the\nWorld-scale quake.」"
+    },
+    {
+      "id": "c29_0e880",
+      "speaker": "Martina",
+      "en": "The terror of that moment must have changed people, and as a result, both White Mustache and the Overdevil were turned into devils, I'd guess.",
+      "display_variant": "fit",
+      "display_text": "「That terror must've changed people --\nturning both White Mustache and the\nOverdevil into devils, I'd guess.」"
+    },
+    {
+      "id": "c29_0e8f0",
+      "speaker": "Martina",
+      "en": "With the enemy it was meant to fight gone, its power got used to remake the world instead.",
+      "display_variant": "fit",
+      "display_text": "「With its intended enemy gone, its power\ngot used to remake the world instead.」"
+    },
+    {
+      "id": "c29_0e950",
+      "speaker": "Ana",
+      "en": "Overfreeze and the Moonlight Butterfly, you mean.",
+      "display_variant": "en",
+      "display_text": "「Overfreeze and the Moonlight Butterfly,\nyou mean.」"
+    },
+    {
+      "id": "c29_0e980",
+      "speaker": "Martina",
+      "en": "People wanted to forget their fear... So they tried to reduce everything to nothing, just once.",
+      "display_variant": "fit",
+      "display_text": "「People wanted to forget their fear... so\nthey tried to wipe out everything, just\nonce.」"
+    },
+    {
+      "id": "c29_0e9e0",
+      "speaker": "Medaiyu",
+      "en": "After that, the people who remained moved their lives to the moon and to space, and decided to wait for the environment to recover...",
+      "display_variant": "fit",
+      "display_text": "「After that, survivors moved to the\nmoon and space, deciding to wait for the\nenvironment to recover...」"
+    },
+    {
+      "id": "c29_0ea40",
+      "speaker": "Medaiyu",
+      "en": "And so the White Mustache mechanical doll, its role finished, went to sleep?",
+      "display_variant": "en",
+      "display_text": "「And so the White Mustache mechanical\ndoll, its role finished, went to sleep?」"
+    },
+    {
+      "id": "c29_0ea90",
+      "speaker": "Ana",
+      "en": "Then what about the Overdevil that Kizz Munt had? Did it put itself to sleep as well?",
+      "display_variant": "en",
+      "display_text": "「Then what about the Overdevil that\nKizz Munt had? Did it put itself to sleep\nas well?」"
+    },
+    {
+      "id": "c29_0eb10",
+      "speaker": "Martina",
+      "en": "That one was special. It had slipped its control and gone completely berserk.",
+      "display_variant": "en",
+      "display_text": "「That one was special. It had slipped its\ncontrol and gone completely berserk.」"
+    },
+    {
+      "id": "c29_0eb60",
+      "speaker": "Martina",
+      "en": "It was the Overman with the head of hair that sealed it away in the Agato Crystal.",
+      "display_variant": "en",
+      "display_text": "「It was the Overman with the head of\nhair that sealed it away in the Agato\nCrystal.」"
+    },
+    {
+      "id": "c29_0ebb0",
+      "speaker": "Ana",
+      "en": "King Gainer, you mean...!?",
+      "display_variant": "en",
+      "display_text": "「King Gainer, you mean...!?」"
+    },
+    {
+      "id": "c29_0ebe0",
+      "speaker": "Martina",
+      "en": "It's true, that Overman closely resembles the one held in the Overdevil's memory.",
+      "display_variant": "en",
+      "display_text": "「It's true, that Overman closely\nresembles the one held in the Overdevil's\nmemory.」"
+    },
+    {
+      "id": "c29_0ec40",
+      "speaker": "Martina",
+      "en": "But the color's different. The one that sealed away the Overdevil was a black Overman.",
+      "display_variant": "en",
+      "display_text": "「But the color's different. The one that\nsealed away the Overdevil was a black\nOverman.」"
+    },
+    {
+      "id": "c29_0eca0",
+      "speaker": "Ana",
+      "en": "A black Overman...",
+      "display_variant": "en",
+      "display_text": "「A black Overman...」"
+    },
+    {
+      "id": "c29_0ecc0",
+      "speaker": "Martina",
+      "en": "That's right... An Overman with a pure soul, one that loved the righteousness in human hearts.",
+      "display_variant": "fit",
+      "display_text": "「That's right... An Overman with a pure\nsoul that loved the righteousness in\nhuman hearts.」"
+    }
+  ]
+}

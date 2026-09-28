@@ -1,0 +1,880 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c45_04810",
+      "speaker": "Shinn",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c45_04820",
+      "speaker": "Lunamaria",
+      "en": "Shinn...",
+      "display_variant": "en",
+      "display_text": "「Shinn...」"
+    },
+    {
+      "id": "c45_04840",
+      "speaker": "Rey",
+      "en": "Focus, Shinn. What's coming now is the Chairman's... the world's enemy.",
+      "display_variant": "en",
+      "display_text": "「Focus, Shinn. What's coming now is the\nChairman's... the world's enemy.」"
+    },
+    {
+      "id": "c45_04880",
+      "speaker": "Shinn",
+      "en": "Rey...",
+      "display_variant": "en",
+      "display_text": "「Rey...」"
+    },
+    {
+      "id": "c45_04890",
+      "speaker": "Rey",
+      "en": "No matter what happens from here on... no matter what anyone says, believe in the Chairman.",
+      "display_variant": "en",
+      "display_text": "「No matter what happens from here on...\nno matter what anyone says, believe in\nthe Chairman.」"
+    },
+    {
+      "id": "c45_048d8",
+      "speaker": "Shinn",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c45_048f0",
+      "speaker": "Rey",
+      "en": "The world is going to change. We're the ones who'll change it.",
+      "display_variant": "en",
+      "display_text": "「The world is going to change. We're the\nones who'll change it.」"
+    },
+    {
+      "id": "c45_04920",
+      "speaker": "Rey",
+      "en": "But at times like that, in the middle of the chaos, there may be moments you have to make choices unlike any before.",
+      "display_variant": "en",
+      "display_text": "「But at times like that, in the middle of\nthe chaos, there may be moments you\nhave to make choices unlike any before.」"
+    },
+    {
+      "id": "c45_04990",
+      "speaker": "Rey",
+      "en": "There may be times you don't understand anything and just want to run.",
+      "display_variant": "en",
+      "display_text": "「There may be times you don't\nunderstand anything and just want to run.」"
+    },
+    {
+      "id": "c45_049d0",
+      "speaker": "Rey",
+      "en": "But as long as you believe in the Chairman, it'll be all right.",
+      "display_variant": "en",
+      "display_text": "「But as long as you believe in the\nChairman, it'll be all right.」"
+    },
+    {
+      "id": "c45_04a00",
+      "speaker": "Rey",
+      "en": "Because he's the one who's right.",
+      "display_variant": "en",
+      "display_text": "「Because he's the one who's right.」"
+    },
+    {
+      "id": "c45_04a30",
+      "speaker": "Rey",
+      "en": "...Here they come.",
+      "display_variant": "en",
+      "display_text": "「...Here they come.」"
+    },
+    {
+      "id": "c45_04a50",
+      "speaker": "Shinn",
+      "en": "The Archangel...! And the Eternal!",
+      "display_variant": "en",
+      "display_text": "「The Archangel...! And the Eternal!」"
+    },
+    {
+      "id": "c45_04a90",
+      "speaker": "Lunamaria",
+      "en": "To think they'd come straight at us with that much force...!",
+      "display_variant": "en",
+      "display_text": "「To think they'd come straight at us\nwith that much force...!」"
+    },
+    {
+      "id": "c45_04ae0",
+      "speaker": "Rey",
+      "en": "(Kira Yamato...)",
+      "display_variant": "en",
+      "display_text": "（(Kira Yamato...)）"
+    },
+    {
+      "id": "c45_04b00",
+      "speaker": "Lacus",
+      "en": "This is the Eternal, Lacus Clyne speaking.",
+      "display_variant": "en",
+      "display_text": "「This is the Eternal, Lacus Clyne\nspeaking.」"
+    },
+    {
+      "id": "c45_04b40",
+      "speaker": "Lacus",
+      "en": "This is a notice to the ZAFT soldiers guarding Messiah.",
+      "display_variant": "en",
+      "display_text": "「This is a notice to the ZAFT soldiers\nguarding Messiah.」"
+    },
+    {
+      "id": "c45_04b80",
+      "speaker": "Lacus",
+      "en": "We are about to begin our operation to stop the Destiny Plan.",
+      "display_variant": "en",
+      "display_text": "「We are about to begin our operation to\nstop the Destiny Plan.」"
+    },
+    {
+      "id": "c45_04bd0",
+      "speaker": "Lacus",
+      "en": "If you still carry any pride in wearing that uniform for the sake of peace, then clear the way!",
+      "display_variant": "en",
+      "display_text": "「If you still carry any pride in wearing\nthat uniform for the sake of peace, then\nclear the way!」"
+    },
+    {
+      "id": "c45_04c40",
+      "speaker": "Rey",
+      "en": "Lacus Clyne...!",
+      "display_variant": "en",
+      "display_text": "「Lacus Clyne...!」"
+    },
+    {
+      "id": "c45_04c60",
+      "speaker": "Waltfeld",
+      "en": "All units, can you hear me! Our objective is to whittle down the enemy's forces.",
+      "display_variant": "en",
+      "display_text": "「All units, can you hear me! Our\nobjective is to whittle down the enemy's\nforces.」"
+    },
+    {
+      "id": "c45_04cb0",
+      "speaker": "Waltfeld",
+      "en": "Operation time is four minutes. If we shoot down 150 enemy units within that time, the operation's a success.",
+      "display_variant": "en",
+      "display_text": "「Operation time is four minutes. If we\nshoot down 150 enemy units within that\ntime, the operation's a success.」"
+    },
+    {
+      "id": "c45_04d10",
+      "speaker": "Mu",
+      "en": "Rough, this one. Even I, who's seen hell, feel a little sick just thinking about it.",
+      "display_variant": "en",
+      "display_text": "「Rough, this one. Even I, who's seen\nhell, feel a little sick just thinking about\nit.」"
+    },
+    {
+      "id": "c45_04d60",
+      "speaker": "Murrue",
+      "en": "Mu...",
+      "display_variant": "en",
+      "display_text": "「Mu...」"
+    },
+    {
+      "id": "c45_04d80",
+      "speaker": "Mu",
+      "en": "Don't worry, Murrue. I'm a man who makes the impossible possible. I'll come back alive, guaranteed.",
+      "display_variant": "en",
+      "display_text": "「Don't worry, Murrue. I'm a man who\nmakes the impossible possible. I'll come\nback alive, guaranteed.」"
+    },
+    {
+      "id": "c45_04de0",
+      "speaker": "Kira",
+      "en": "Let's go, Athrun. For the sake of our future.",
+      "display_variant": "en",
+      "display_text": "「Let's go, Athrun. For the sake of our\nfuture.」"
+    },
+    {
+      "id": "c45_04e20",
+      "speaker": "Athrun",
+      "en": "Right...!",
+      "display_variant": "en",
+      "display_text": "「Right...!」"
+    },
+    {
+      "id": "c45_04e40",
+      "speaker": "Shinn",
+      "en": "Athrun...!",
+      "display_variant": "en",
+      "display_text": "「Athrun...!」"
+    },
+    {
+      "id": "c45_04e60",
+      "speaker": "Athrun",
+      "en": "I won't hesitate anymore! Here I come, Shinn!!",
+      "display_variant": "en",
+      "display_text": "「I won't hesitate anymore! Here I come,\nShinn!!」"
+    },
+    {
+      "id": "c45_04ea0",
+      "speaker": "Chandra",
+      "en": "Four minutes of operation time have passed!",
+      "display_variant": "en",
+      "display_text": "「Four minutes of operation time have\npassed!」"
+    },
+    {
+      "id": "c45_04ed0",
+      "speaker": "Meyrin",
+      "en": "Enemy kills: {tm}! We've reached the target!",
+      "display_variant": "en",
+      "display_text": "「Enemy kills: {tm}! We've reached the\ntarget!」"
+    },
+    {
+      "id": "c45_04f20",
+      "speaker": "Waltfeld",
+      "en": "All right! The operation's a success! We're charging into the fortress together with the Murasame squad!",
+      "display_variant": "en",
+      "display_text": "「All right! The operation's a success!\nWe're charging into the fortress together\nwith the Murasame squad!」"
+    },
+    {
+      "id": "c45_04f80",
+      "speaker": "Kira",
+      "en": "(Chairman Durandal... we won't accept the world you want.)",
+      "display_variant": "en",
+      "display_text": "（(Chairman Durandal... we won't accept\nthe world you want.)）"
+    },
+    {
+      "id": "c45_04fd0",
+      "speaker": "Lacus",
+      "en": "(I will stop you and the Destiny Plan, without fail.)",
+      "display_variant": "en",
+      "display_text": "（(I will stop you and the Destiny Plan,\nwithout fail.)）"
+    },
+    {
+      "id": "c45_05010",
+      "speaker": "Meyrin",
+      "en": "It's no good! Enemy kills: {tm}! We haven't reached 150!",
+      "display_variant": "en",
+      "display_text": "「It's no good! Enemy kills: {tm}! We\nhaven't reached 150!」"
+    },
+    {
+      "id": "c45_05070",
+      "speaker": "Waltfeld",
+      "en": "The operation's failed! All units, withdraw!",
+      "display_variant": "en",
+      "display_text": "「The operation's failed! All units,\nwithdraw!」"
+    },
+    {
+      "id": "c45_050b0",
+      "speaker": "Kira",
+      "en": "At this rate, our world will...",
+      "display_variant": "en",
+      "display_text": "「At this rate, our world will...」"
+    },
+    {
+      "id": "c45_050d0",
+      "speaker": "Meyrin",
+      "en": "New mobile suit unit approaching! Twenty of them!",
+      "display_variant": "en",
+      "display_text": "「New mobile suit unit approaching!\nTwenty of them!」"
+    },
+    {
+      "id": "c45_05110",
+      "speaker": "Waltfeld",
+      "en": "That fortress still has forces held in reserve! Let's draw them out!",
+      "display_variant": "en",
+      "display_text": "「That fortress still has forces held in\nreserve! Let's draw them out!」"
+    },
+    {
+      "id": "c45_05170",
+      "speaker": "Shinn",
+      "en": "Damn it! Why does it have to be you, of all people!!",
+      "display_variant": "en",
+      "display_text": "「Damn it! Why does it have to be you,\nof all people!!」"
+    },
+    {
+      "id": "c45_051b0",
+      "speaker": "Athrun",
+      "en": "You too, enough already! Stop fighting while you're still trapped by the past!",
+      "display_variant": "en",
+      "display_text": "「You too, enough already! Stop fighting\nwhile you're still trapped by the past!」"
+    },
+    {
+      "id": "c45_051f0",
+      "speaker": "Shinn",
+      "en": "Athrun!",
+      "display_variant": "en",
+      "display_text": "「Athrun!」"
+    },
+    {
+      "id": "c45_05210",
+      "speaker": "Athrun",
+      "en": "Doing that won't bring anything back!",
+      "display_variant": "en",
+      "display_text": "「Doing that won't bring anything back!」"
+    },
+    {
+      "id": "c45_05250",
+      "speaker": "Shinn",
+      "en": "Wh-what did you say!",
+      "display_variant": "en",
+      "display_text": "「Wh-what did you say!」"
+    },
+    {
+      "id": "c45_05270",
+      "speaker": "Athrun",
+      "en": "And yet you're going to kill even the future!? Is that what you want!?",
+      "display_variant": "en",
+      "display_text": "「And yet you're going to kill even the\nfuture!? Is that what you want!?」"
+    },
+    {
+      "id": "c45_052b0",
+      "speaker": "Athrun",
+      "en": "Is that power really what you wanted!?",
+      "display_variant": "en",
+      "display_text": "「Is that power really what you wanted!?」"
+    },
+    {
+      "id": "c45_052f0",
+      "speaker": "Shinn",
+      "en": "Ngh!",
+      "display_variant": "en",
+      "display_text": "「Ngh!」"
+    },
+    {
+      "id": "c45_05300",
+      "speaker": "Athrun",
+      "en": "(Shinn... understand this. Fighting like this will never change anything...)",
+      "display_variant": "en",
+      "display_text": "（(Shinn... understand this. Fighting like\nthis will never change anything...)）"
+    },
+    {
+      "id": "c45_05360",
+      "speaker": "Lunamaria",
+      "en": "Ngh!",
+      "display_variant": "en",
+      "display_text": "「Ngh!」"
+    },
+    {
+      "id": "c45_05380",
+      "speaker": "Meyrin",
+      "en": "Sis, stop it!",
+      "display_variant": "en",
+      "display_text": "「Sis, stop it!」"
+    },
+    {
+      "id": "c45_053b0",
+      "speaker": "Lunamaria",
+      "en": "Meyrin!? On the Eternal!?",
+      "display_variant": "en",
+      "display_text": "「Meyrin!? On the Eternal!?」"
+    },
+    {
+      "id": "c45_053e0",
+      "speaker": "Meyrin",
+      "en": "Why are you fighting? Why are you fighting!? Why can't you tell which Lacus is the real one!?",
+      "display_variant": "en",
+      "display_text": "「Why are you fighting? Why are you\nfighting!? Why can't you tell which Lacus\nis the real one!?」"
+    },
+    {
+      "id": "c45_05440",
+      "speaker": "Lunamaria",
+      "en": "Meyrin...",
+      "display_variant": "en",
+      "display_text": "「Meyrin...」"
+    },
+    {
+      "id": "c45_05460",
+      "speaker": "Meyrin",
+      "en": "(Sis... once this fight is over, we can be together again, right...?)",
+      "display_variant": "en",
+      "display_text": "（(Sis... once this fight is over, we can\nbe together again, right...?)）"
+    },
+    {
+      "id": "c45_054b0",
+      "speaker": "Rey",
+      "en": "Not yet, Kira Yamato! I am... I am!",
+      "display_variant": "en",
+      "display_text": "「Not yet, Kira Yamato! I am... I am!」"
+    },
+    {
+      "id": "c45_054e0",
+      "speaker": "Kira",
+      "en": "Who are you! Just who are you!?",
+      "display_variant": "en",
+      "display_text": "「Who are you! Just who are you!?」"
+    },
+    {
+      "id": "c45_05510",
+      "speaker": "Rey",
+      "en": "You should understand, of all people...! I am... Rau Le Creuset!",
+      "display_variant": "en",
+      "display_text": "「You should understand, of all people...!\nI am... Rau Le Creuset!」"
+    },
+    {
+      "id": "c45_05558",
+      "speaker": "Kira",
+      "en": "...!",
+      "display_variant": "en",
+      "display_text": "「...!」"
+    },
+    {
+      "id": "c45_05570",
+      "speaker": "Rey",
+      "en": "People's dreams, people's futures -- their splendid result, Kira Yamato!",
+      "display_variant": "en",
+      "display_text": "「People's dreams, people's futures --\ntheir splendid result, Kira Yamato!」"
+    },
+    {
+      "id": "c45_055c0",
+      "speaker": "Kira",
+      "en": "Ngh...",
+      "display_variant": "en",
+      "display_text": "「Ngh...」"
+    },
+    {
+      "id": "c45_055d0",
+      "speaker": "Rey",
+      "en": "Then you, too, must disappear -- this time for good!",
+      "display_variant": "en",
+      "display_text": "「Then you, too, must disappear -- this\ntime for good!」"
+    },
+    {
+      "id": "c45_05610",
+      "speaker": "Kira",
+      "en": "Rau Le Creuset...",
+      "display_variant": "en",
+      "display_text": "「Rau Le Creuset...」"
+    },
+    {
+      "id": "c45_05630",
+      "speaker": "Rey",
+      "en": "Together with us! For the sake of a world reborn!",
+      "display_variant": "en",
+      "display_text": "「Together with us! For the sake of a\nworld reborn!」"
+    },
+    {
+      "id": "c45_05668",
+      "speaker": "Kira",
+      "en": "...!",
+      "display_variant": "en",
+      "display_text": "「...!」"
+    },
+    {
+      "id": "c45_05680",
+      "speaker": "Rey",
+      "en": "And that which can never be taken back... is the past!",
+      "display_variant": "en",
+      "display_text": "「And that which can never be taken\nback... is the past!」"
+    },
+    {
+      "id": "c45_056c0",
+      "speaker": "Rey",
+      "en": "So I'll bring it all to an end -- all of it! And humanity will return to the form it was always meant to have!",
+      "display_variant": "en",
+      "display_text": "「So I'll bring it all to an end -- all of\nit! And humanity will return to the form\nit was always meant to have!」"
+    },
+    {
+      "id": "c45_05720",
+      "speaker": "Rey",
+      "en": "The world, too!",
+      "display_variant": "en",
+      "display_text": "「The world, too!」"
+    },
+    {
+      "id": "c45_05740",
+      "speaker": "Kira",
+      "en": "But no, that's wrong!",
+      "display_variant": "en",
+      "display_text": "「But no, that's wrong!」"
+    },
+    {
+      "id": "c45_05760",
+      "speaker": "Rey",
+      "en": "Ugh...!",
+      "display_variant": "en",
+      "display_text": "「Ugh...!」"
+    },
+    {
+      "id": "c45_05770",
+      "speaker": "Kira",
+      "en": "Life... everyone only gets one, no matter who they are!",
+      "display_variant": "en",
+      "display_text": "「Life... everyone only gets one, no\nmatter who they are!」"
+    },
+    {
+      "id": "c45_05798",
+      "speaker": "Rey",
+      "en": "...!",
+      "display_variant": "en",
+      "display_text": "「...!」"
+    },
+    {
+      "id": "c45_057b0",
+      "speaker": "Kira",
+      "en": "So that life is yours! It's not his!!",
+      "display_variant": "en",
+      "display_text": "「So that life is yours! It's not his!!」"
+    },
+    {
+      "id": "c45_057f0",
+      "speaker": "Rey",
+      "en": "Ah... ahh...",
+      "display_variant": "en",
+      "display_text": "「Ah... ahh...」"
+    },
+    {
+      "id": "c45_05810",
+      "speaker": "Rey",
+      "en": "Aaaaahh!",
+      "display_variant": "en",
+      "display_text": "「Aaaaahh!」"
+    },
+    {
+      "id": "c45_05830",
+      "speaker": "Athrun",
+      "en": "Rey...",
+      "display_variant": "en",
+      "display_text": "「Rey...」"
+    },
+    {
+      "id": "c45_05850",
+      "speaker": "Kira",
+      "en": "Your life belongs to you... Please understand that...",
+      "display_variant": "en",
+      "display_text": "「Your life belongs to you... Please\nunderstand that...」"
+    },
+    {
+      "id": "c45_058e0",
+      "speaker": "Durandal",
+      "en": "...I'm sure all of you already understand. The reason war has never vanished from human history since records began...",
+      "display_variant": "fit",
+      "display_text": "「...I'm sure you all already understand\nwhy war has never vanished from human\nhistory since records began...」"
+    },
+    {
+      "id": "c45_05950",
+      "speaker": "Durandal",
+      "en": "The enemy that always exists... is our own ignorance and greed, which we have never once been able to overcome.",
+      "display_variant": "en",
+      "display_text": "「The enemy that always exists... is our\nown ignorance and greed, which we have\nnever once been able to overcome.」"
+    },
+    {
+      "id": "c45_059c0",
+      "speaker": "Kira",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c45_059d0",
+      "speaker": "Durandal",
+      "en": "Even now, having left the Earth to soar through space, having gained control over our bodies' abilities and so many of their secrets...",
+      "display_variant": "compact",
+      "display_text": "「Even now -- having left Earth to roam\nspace, having mastered our bodies and so\nmany of their secrets...」"
+    },
+    {
+      "id": "c45_05a30",
+      "speaker": "Durandal",
+      "en": "People still don't understand each other, don't know themselves, and live with the anxiety of not seeing tomorrow...",
+      "display_variant": "en",
+      "display_text": "「People still don't understand each\nother, don't know themselves, and live\nwith the anxiety of not seeing tomorrow...」"
+    },
+    {
+      "id": "c45_05a90",
+      "speaker": "Durandal",
+      "en": "Reaching out endlessly with insatiable greed for equality -- no, for more, for greater abundance. That is what we are, even now.",
+      "display_variant": "fit",
+      "display_text": "「Reaching out endlessly, insatiably\ngreedy for equality -- no, for more, for\nabundance. That's what we are, even now.」"
+    },
+    {
+      "id": "c45_05b10",
+      "speaker": "Durandal",
+      "en": "The seed of conflict, the whole problem -- it all lies right there!",
+      "display_variant": "en",
+      "display_text": "「The seed of conflict, the whole problem\n-- it all lies right there!」"
+    },
+    {
+      "id": "c45_05b50",
+      "speaker": "Athrun",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c45_05b70",
+      "speaker": "Durandal",
+      "en": "But the time has come to put an end to that. The time when we finally can.",
+      "display_variant": "en",
+      "display_text": "「But the time has come to put an end\nto that. The time when we finally can.」"
+    },
+    {
+      "id": "c45_05bd0",
+      "speaker": "Durandal",
+      "en": "We have finally obtained the means to overcome all of it.",
+      "display_variant": "en",
+      "display_text": "「We have finally obtained the means to\novercome all of it.」"
+    },
+    {
+      "id": "c45_05c20",
+      "speaker": "Durandal",
+      "en": "Everyone already carries every answer within themselves!",
+      "display_variant": "en",
+      "display_text": "「Everyone already carries every answer\nwithin themselves!」"
+    },
+    {
+      "id": "c45_05c60",
+      "speaker": "Lacus",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c45_05c80",
+      "speaker": "Durandal",
+      "en": "Through this, we come to know others, know ourselves, and know tomorrow...",
+      "display_variant": "en",
+      "display_text": "「Through this, we come to know others,\nknow ourselves, and know tomorrow...」"
+    },
+    {
+      "id": "c45_05cd0",
+      "speaker": "Durandal",
+      "en": "This is the only way to stop the tragedy from repeating itself.",
+      "display_variant": "en",
+      "display_text": "「This is the only way to stop the\ntragedy from repeating itself.」"
+    },
+    {
+      "id": "c45_05d20",
+      "speaker": "Durandal",
+      "en": "As humanity's last line of defense, wagering our very survival, I hereby declare the implementation of the Destiny Plan!",
+      "display_variant": "compact",
+      "display_text": "「As our last line of defense, wagering\nhumanity's survival, I hereby declare the\nDestiny Plan's implementation!」"
+    },
+    {
+      "id": "c45_05da0",
+      "speaker": "Athrun",
+      "en": "...Chairman Durandal...",
+      "display_variant": "en",
+      "display_text": "「...Chairman Durandal...」"
+    },
+    {
+      "id": "c45_05dd0",
+      "speaker": "Kira",
+      "en": "...There's nothing left but to fight... huh...",
+      "display_variant": "en",
+      "display_text": "「...There's nothing left but to fight...\nhuh...」"
+    },
+    {
+      "id": "c45_05df0",
+      "speaker": "Athrun",
+      "en": "Kira...",
+      "display_variant": "en",
+      "display_text": "「Kira...」"
+    },
+    {
+      "id": "c45_05e10",
+      "speaker": "Kira",
+      "en": "Ah... no... I was just thinking, they probably feel the same way over there...",
+      "display_variant": "en",
+      "display_text": "「Ah... no... I was just thinking, they\nprobably feel the same way over there...」"
+    },
+    {
+      "id": "c45_05e60",
+      "speaker": "Athrun",
+      "en": "Ah...",
+      "display_variant": "en",
+      "display_text": "「Ah...」"
+    },
+    {
+      "id": "c45_05e80",
+      "speaker": "Kira",
+      "en": "There's no choice but to fight... That this leaves us no choice but to fight.",
+      "display_variant": "en",
+      "display_text": "「There's no choice but to fight... That\nthis leaves us no choice but to fight.」"
+    },
+    {
+      "id": "c45_05ec0",
+      "speaker": "Kira",
+      "en": "In the end, we keep on fighting. I hate the Plan too... but really, I just want to put an end to all of this.",
+      "display_variant": "en",
+      "display_text": "「In the end, we keep on fighting. I hate\nthe Plan too... but really, I just want to\nput an end to all of this.」"
+    },
+    {
+      "id": "c45_05f20",
+      "speaker": "Athrun",
+      "en": "Yeah...",
+      "display_variant": "en",
+      "display_text": "「Yeah...」"
+    },
+    {
+      "id": "c45_05f40",
+      "speaker": "Lacus",
+      "en": "But we too... for now, have no choice but to fight.",
+      "display_variant": "en",
+      "display_text": "「But we too... for now, have no choice\nbut to fight.」"
+    },
+    {
+      "id": "c45_05f70",
+      "speaker": "Kira",
+      "en": "Lacus...",
+      "display_variant": "en",
+      "display_text": "「Lacus...」"
+    },
+    {
+      "id": "c45_05f90",
+      "speaker": "Lacus",
+      "en": "To dream... to hope for a future... That is a strength given to every life, to help it go on living.",
+      "display_variant": "en",
+      "display_text": "「To dream... to hope for a future...\nThat is a strength given to every life,\nto help it go on living.」"
+    },
+    {
+      "id": "c45_05ff0",
+      "speaker": "Lacus",
+      "en": "No matter what we gain, if our dreams and our future are sealed away, we can only exist as beings already destroyed.",
+      "display_variant": "en",
+      "display_text": "「No matter what we gain, if our dreams\nand our future are sealed away, we can\nonly exist as beings already destroyed.」"
+    },
+    {
+      "id": "c45_06070",
+      "speaker": "Lacus",
+      "en": "Every life fights in order to gain a future. It has every right to fight.",
+      "display_variant": "en",
+      "display_text": "「Every life fights in order to gain a\nfuture. It has every right to fight.」"
+    },
+    {
+      "id": "c45_060c0",
+      "speaker": "Kira",
+      "en": "Yeah.",
+      "display_variant": "en",
+      "display_text": "「Yeah.」"
+    },
+    {
+      "id": "c45_060d0",
+      "speaker": "Lacus",
+      "en": "So we, too, must fight -- as lives living in the present.",
+      "display_variant": "en",
+      "display_text": "「So we, too, must fight -- as lives\nliving in the present.」"
+    },
+    {
+      "id": "c45_06120",
+      "speaker": "Lacus",
+      "en": "Against whatever seeks to destroy us... and against the world of death the Chairman would show us.",
+      "display_variant": "en",
+      "display_text": "「Against whatever seeks to destroy us...\nand against the world of death the\nChairman would show us.」"
+    },
+    {
+      "id": "c45_06160",
+      "speaker": "Waltfeld",
+      "en": "The Eternal and the Archangel will strike ZAFT's fortress head-on.",
+      "display_variant": "en",
+      "display_text": "「The Eternal and the Archangel will\nstrike ZAFT's fortress head-on.」"
+    },
+    {
+      "id": "c45_061c0",
+      "speaker": "DaCosta",
+      "en": "You can't be...! Without even the Murasame squad as a diversion?",
+      "display_variant": "en",
+      "display_text": "「You can't be...! Without even the\nMurasame squad as a diversion?」"
+    },
+    {
+      "id": "c45_06200",
+      "speaker": "Waltfeld",
+      "en": "It's the other way around. We're the ones acting as bait for them.",
+      "display_variant": "en",
+      "display_text": "「It's the other way around. We're the\nones acting as bait for them.」"
+    },
+    {
+      "id": "c45_06240",
+      "speaker": "Athrun",
+      "en": "So we're the ones drawing off ZAFT's main force?",
+      "display_variant": "en",
+      "display_text": "「So we're the ones drawing off ZAFT's\nmain force?」"
+    },
+    {
+      "id": "c45_06280",
+      "speaker": "Waltfeld",
+      "en": "It's not just decoy duty. We whittle down the main force's strength as much as we possibly can.",
+      "display_variant": "en",
+      "display_text": "「It's not just decoy duty. We whittle\ndown the main force's strength as much\nas we possibly can.」"
+    },
+    {
+      "id": "c45_062d0",
+      "speaker": "Waltfeld",
+      "en": "Once ZAFT's forces are worn down, the Murasame squad hits them from the flank.",
+      "display_variant": "en",
+      "display_text": "「Once ZAFT's forces are worn down, the\nMurasame squad hits them from the flank.」"
+    },
+    {
+      "id": "c45_06330",
+      "speaker": "Kira",
+      "en": "Understood.",
+      "display_variant": "en",
+      "display_text": "「Understood.」"
+    },
+    {
+      "id": "c45_06350",
+      "speaker": "Kira",
+      "en": "We have to fight... That's why, on that day... we left Orb.",
+      "display_variant": "en",
+      "display_text": "「We have to fight... That's why, on that\nday... we left Orb.」"
+    },
+    {
+      "id": "c45_063b0",
+      "speaker": "Lacus",
+      "en": "Kira...",
+      "display_variant": "en",
+      "display_text": "「Kira...」"
+    },
+    {
+      "id": "c45_063d0",
+      "speaker": "Kira",
+      "en": "I too... have made my resolve.",
+      "display_variant": "en",
+      "display_text": "「I too... have made my resolve.」"
+    },
+    {
+      "id": "c45_063f0",
+      "speaker": "Waltfeld",
+      "en": "The objective is to shoot down 150 mobile suits within the four-minute operation time.",
+      "display_variant": "en",
+      "display_text": "「The objective is to shoot down 150\nmobile suits within the four-minute\noperation time.」"
+    },
+    {
+      "id": "c45_06450",
+      "speaker": "Waltfeld",
+      "en": "But be careful. To protect the Chairman, they'll be sending out ace-level pilots too.",
+      "display_variant": "en",
+      "display_text": "「But be careful. To protect the\nChairman, they'll be sending out ace-level\npilots too.」"
+    },
+    {
+      "id": "c45_064c0",
+      "speaker": "Athrun",
+      "en": "(Ace pilot... ZAFT Red... Shinn... are you coming too...?)",
+      "display_variant": "en",
+      "display_text": "（(Ace pilot... ZAFT Red... Shinn... are\nyou coming too...?)）"
+    },
+    {
+      "id": "c45_06510",
+      "speaker": "Kira",
+      "en": "Athrun...?",
+      "display_variant": "en",
+      "display_text": "「Athrun...?」"
+    },
+    {
+      "id": "c45_06530",
+      "speaker": "Athrun",
+      "en": "I'm fine, Kira. I've made my resolve too -- same as you.",
+      "display_variant": "en",
+      "display_text": "「I'm fine, Kira. I've made my resolve too\n-- same as you.」"
+    },
+    {
+      "id": "c45_06580",
+      "speaker": "Kira",
+      "en": "Yeah...",
+      "display_variant": "en",
+      "display_text": "「Yeah...」"
+    },
+    {
+      "id": "c45_06590",
+      "speaker": "Athrun",
+      "en": "(Shinn... if you're going to fight for the Chairman's sake, then I'll fight you.)",
+      "display_variant": "en",
+      "display_text": "（(Shinn... if you're going to fight for\nthe Chairman's sake, then I'll fight you.)）"
+    },
+    {
+      "id": "c45_065e0",
+      "speaker": "Athrun",
+      "en": "(That's the fight I've chosen.)",
+      "display_variant": "en",
+      "display_text": "（(That's the fight I've chosen.)）"
+    }
+  ]
+}

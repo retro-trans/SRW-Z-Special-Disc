@@ -1,0 +1,362 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c43_02490",
+      "speaker": "Yassaba",
+      "en": "For President Kizz to throw in this much firepower, he must be seriously furious.",
+      "display_variant": "en",
+      "display_text": "「For President Kizz to throw in this\nmuch firepower, he must be seriously\nfurious.」"
+    },
+    {
+      "id": "c43_024f0",
+      "speaker": "Kashmir",
+      "en": "Which is exactly why we absolutely cannot afford to fail... You understand that, don't you!",
+      "display_variant": "en",
+      "display_text": "「Which is exactly why we absolutely\ncannot afford to fail... You understand\nthat, don't you!」"
+    },
+    {
+      "id": "c43_02550",
+      "speaker": "Enge",
+      "en": "Of course. None of us want to lose our jobs, after all.",
+      "display_variant": "en",
+      "display_text": "「Of course. None of us want to lose our\njobs, after all.」"
+    },
+    {
+      "id": "c43_02590",
+      "speaker": "Kejinan",
+      "en": "Well... with a lineup like this, there's no way we'd lose, not even one time in ten thousand.",
+      "display_variant": "en",
+      "display_text": "「Well... with a lineup like this, there's\nno way we'd lose, not even one time in\nten thousand.」"
+    },
+    {
+      "id": "c43_025e0",
+      "speaker": "Asuham",
+      "en": "Come on, then, Gain Bijou. Today I'll settle this once and for all...!",
+      "display_variant": "en",
+      "display_text": "「Come on, then, Gain Bijou. Today I'll\nsettle this once and for all...!」"
+    },
+    {
+      "id": "c43_02630",
+      "speaker": "Jaboli",
+      "en": "They're here! It's Yapan!!",
+      "display_variant": "en",
+      "display_text": "「They're here! It's Yapan!!」"
+    },
+    {
+      "id": "c43_02660",
+      "speaker": "Kejinan",
+      "en": "Ha ha! Yapan's flying straight into the fire!",
+      "display_variant": "en",
+      "display_text": "「Ha ha! Yapan's flying straight into the\nfire!」"
+    },
+    {
+      "id": "c43_026a0",
+      "speaker": "Adette",
+      "en": "Shut it, Kejinan! You're not even worth my attention!",
+      "display_variant": "en",
+      "display_text": "「Shut it, Kejinan! You're not even worth\nmy attention!」"
+    },
+    {
+      "id": "c43_026e0",
+      "speaker": "Gain",
+      "en": "Target the commander units! Rushrod, Planeta, and Golem!",
+      "display_variant": "en",
+      "display_text": "「Target the commander units! Rushrod,\nPlaneta, and Golem!」"
+    },
+    {
+      "id": "c43_02730",
+      "speaker": "Gauli",
+      "en": "Don't bother with the small fry! Concentrate our attacks!",
+      "display_variant": "en",
+      "display_text": "「Don't bother with the small fry!\nConcentrate our attacks!」"
+    },
+    {
+      "id": "c43_02770",
+      "speaker": "Sara",
+      "en": "Let's go, Gainer!",
+      "display_variant": "en",
+      "display_text": "「Let's go, Gainer!」"
+    },
+    {
+      "id": "c43_02790",
+      "speaker": "Gainer",
+      "en": "I'll show you! The target's the boss character!!",
+      "display_variant": "en",
+      "display_text": "「I'll show you! The target's the boss\ncharacter!!」"
+    },
+    {
+      "id": "c43_027d0",
+      "speaker": "Bello",
+      "en": "We did it! It's our win!",
+      "display_variant": "en",
+      "display_text": "「We did it! It's our win!」"
+    },
+    {
+      "id": "c43_02800",
+      "speaker": "Gain",
+      "en": "Phew... I suppose we managed to pull through today.",
+      "display_variant": "en",
+      "display_text": "「Phew... I suppose we managed to pull\nthrough today.」"
+    },
+    {
+      "id": "c43_02840",
+      "speaker": "Sara",
+      "en": "All right, to celebrate our victory...",
+      "display_variant": "en",
+      "display_text": "「All right, to celebrate our victory...」"
+    },
+    {
+      "id": "c43_02860",
+      "speaker": "Sara",
+      "en": "Gauli Squad -- hip, hip, hooray!",
+      "display_variant": "en",
+      "display_text": "「Gauli Squad -- hip, hip, hooray!」"
+    },
+    {
+      "id": "c43_02890",
+      "speaker": "Bello",
+      "en": "Hooray!!",
+      "display_variant": "en",
+      "display_text": "「Hooray!!」"
+    },
+    {
+      "id": "c43_028b0",
+      "speaker": "Gainer",
+      "en": "No good... I just can't get used to this thing Sara does, no matter what...",
+      "display_variant": "en",
+      "display_text": "（No good... I just can't get used to this\nthing Sara does, no matter what...）"
+    },
+    {
+      "id": "c43_02900",
+      "speaker": "Yassaba",
+      "en": "D-damn it all!! Adette! Get back here!!",
+      "display_variant": "en",
+      "display_text": "「D-damn it all!! Adette! Get back here!!」"
+    },
+    {
+      "id": "c43_02950",
+      "speaker": "Adette",
+      "en": "Sorry, Boss. I've gone and found myself a better man than you over here.",
+      "display_variant": "en",
+      "display_text": "「Sorry, Boss. I've gone and found myself\na better man than you over here.」"
+    },
+    {
+      "id": "c43_029b0",
+      "speaker": "Gauli",
+      "en": "Adette...",
+      "display_variant": "en",
+      "display_text": "「Adette...」"
+    },
+    {
+      "id": "c43_029d0",
+      "speaker": "Adette",
+      "en": "This Exodus is what the man I fell for is staking his life on. I'll make sure it succeeds, no matter what!",
+      "display_variant": "en",
+      "display_text": "「This Exodus is what the man I fell for\nis staking his life on. I'll make sure it\nsucceeds, no matter what!」"
+    },
+    {
+      "id": "c43_02a20",
+      "speaker": "Kashmir",
+      "en": "H-how absurd!! My diamonds are getting scattered everywhere!!",
+      "display_variant": "en",
+      "display_text": "「H-how absurd!! My diamonds are getting\nscattered everywhere!!」"
+    },
+    {
+      "id": "c43_02a70",
+      "speaker": "Gainer",
+      "en": "Somehow, we won...",
+      "display_variant": "en",
+      "display_text": "「Somehow, we won...」"
+    },
+    {
+      "id": "c43_02a90",
+      "speaker": "Adette",
+      "en": "Too bad, Gainer. Looks like you didn't get your big chance to confess this time.",
+      "display_variant": "en",
+      "display_text": "「Too bad, Gainer. Looks like you didn't\nget your big chance to confess this time.」"
+    },
+    {
+      "id": "c43_02ae0",
+      "speaker": "Gainer",
+      "en": "T-that's...!",
+      "display_variant": "en",
+      "display_text": "「T-that's...!」"
+    },
+    {
+      "id": "c43_02b00",
+      "speaker": "Sara",
+      "en": "Don't go thinking about unnecessary things in the middle of a battle!!",
+      "display_variant": "en",
+      "display_text": "「Don't go thinking about unnecessary\nthings in the middle of a battle!!」"
+    },
+    {
+      "id": "c43_02b30",
+      "speaker": "Asuham",
+      "en": "Ngh! Remember this, Gain! Next time, I will definitely take you down!!",
+      "display_variant": "en",
+      "display_text": "「Ngh! Remember this, Gain! Next time, I\nwill definitely take you down!!」"
+    },
+    {
+      "id": "c43_02b80",
+      "speaker": "Gain",
+      "en": "Come at me anytime, Asuham. I'm just a contractor fulfilling my job.",
+      "display_variant": "en",
+      "display_text": "「Come at me anytime, Asuham. I'm just a\ncontractor fulfilling my job.」"
+    },
+    {
+      "id": "c43_02bd0",
+      "speaker": "Gain",
+      "en": "If you're going to keep getting in the way of the Exodus, I'll take you on as many times as it takes.",
+      "display_variant": "en",
+      "display_text": "「If you're going to keep getting in the\nway of the Exodus, I'll take you on as\nmany times as it takes.」"
+    },
+    {
+      "id": "c43_02c20",
+      "speaker": "Gain",
+      "en": "No good...! Keep this up and all we'll get is needless losses!",
+      "display_variant": "en",
+      "display_text": "「No good...! Keep this up and all we'll\nget is needless losses!」"
+    },
+    {
+      "id": "c43_02c70",
+      "speaker": "Gainer",
+      "en": "Is retreating our only choice...!",
+      "display_variant": "en",
+      "display_text": "「Is retreating our only choice...!」"
+    },
+    {
+      "id": "c43_02cf0",
+      "speaker": "Gainer",
+      "en": "The Sibe Rail and Saint Regan joined forces just to crush us!?",
+      "display_variant": "en",
+      "display_text": "「The Sibe Rail and Saint Regan joined\nforces just to crush us!?」"
+    },
+    {
+      "id": "c43_02d50",
+      "speaker": "Gain",
+      "en": "To them, Yapan's Ceiling is something they have to crush, even if it takes going that far.",
+      "display_variant": "en",
+      "display_text": "「To them, Yapan's Ceiling is something\nthey have to crush, even if it takes\ngoing that far.」"
+    },
+    {
+      "id": "c43_02dc0",
+      "speaker": "Gauli",
+      "en": "According to the recon unit's report, it seems a considerable number of Overmen have been deployed.",
+      "display_variant": "en",
+      "display_text": "「According to the recon unit's report, it\nseems a considerable number of Overmen\nhave been deployed.」"
+    },
+    {
+      "id": "c43_02e10",
+      "speaker": "Gain",
+      "en": "Yassaba Jin's Rushrod, Asuham Boone's Golem, Kashmir Valle's Planeta...",
+      "display_variant": "en",
+      "display_text": "「Yassaba Jin's Rushrod, Asuham Boone's\nGolem, Kashmir Valle's Planeta...」"
+    },
+    {
+      "id": "c43_02e80",
+      "speaker": "Gain",
+      "en": "Even Under Golems and Mexbrutes are out there.",
+      "display_variant": "en",
+      "display_text": "「Even Under Golems and Mexbrutes are\nout there.」"
+    },
+    {
+      "id": "c43_02ec0",
+      "speaker": "Bello",
+      "en": "You're kidding me! How are we supposed to fight that!?",
+      "display_variant": "en",
+      "display_text": "「You're kidding me! How are we supposed\nto fight that!?」"
+    },
+    {
+      "id": "c43_02f00",
+      "speaker": "Adette",
+      "en": "At times like this, you crush the head. Our target's the enemy's commander units.",
+      "display_variant": "en",
+      "display_text": "「At times like this, you crush the head.\nOur target's the enemy's commander units.」"
+    },
+    {
+      "id": "c43_02f40",
+      "speaker": "Gain",
+      "en": "In short, if we take down the Rushrod, Golem, and Planeta, this is settled.",
+      "display_variant": "en",
+      "display_text": "「In short, if we take down the Rushrod,\nGolem, and Planeta, this is settled.」"
+    },
+    {
+      "id": "c43_02f90",
+      "speaker": "Gauli",
+      "en": "Easier said than done, though.",
+      "display_variant": "en",
+      "display_text": "「Easier said than done, though.」"
+    },
+    {
+      "id": "c43_02fc0",
+      "speaker": "Sara",
+      "en": "But if we want the Exodus to succeed, we have no choice but to do it!",
+      "display_variant": "en",
+      "display_text": "「But if we want the Exodus to succeed,\nwe have no choice but to do it!」"
+    },
+    {
+      "id": "c43_03010",
+      "speaker": "Gainer",
+      "en": "Sara...",
+      "display_variant": "en",
+      "display_text": "「Sara...」"
+    },
+    {
+      "id": "c43_03030",
+      "speaker": "Sara",
+      "en": "...Can I count on you, Gainer?",
+      "display_variant": "en",
+      "display_text": "「...Can I count on you, Gainer?」"
+    },
+    {
+      "id": "c43_03060",
+      "speaker": "Gainer",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c43_03080",
+      "speaker": "Sara",
+      "en": "Good luck out there, Gainer -- you too.",
+      "display_variant": "en",
+      "display_text": "「Good luck out there, Gainer -- you\ntoo.」"
+    },
+    {
+      "id": "c43_030a0",
+      "speaker": "Gainer",
+      "en": "Y-yes, ma'am!",
+      "display_variant": "en",
+      "display_text": "「Y-yes, ma'am!」"
+    },
+    {
+      "id": "c43_030c0",
+      "speaker": "Gain",
+      "en": "Now that that's settled, let's get ready. Operation time is seven minutes... the absolute limit we can hold the line.",
+      "display_variant": "en",
+      "display_text": "「Now that that's settled, let's get\nready. Operation time is seven minutes...\nthe absolute limit we can hold the line.」"
+    },
+    {
+      "id": "c43_03130",
+      "speaker": "Gain",
+      "en": "Don't forget to set up according to each of your roles.",
+      "display_variant": "en",
+      "display_text": "「Don't forget to set up according to\neach of your roles.」"
+    },
+    {
+      "id": "c43_03170",
+      "speaker": "Adette",
+      "en": "Counting on you, Gainer. You and Gain are the attackers.",
+      "display_variant": "en",
+      "display_text": "「Counting on you, Gainer. You and Gain\nare the attackers.」"
+    },
+    {
+      "id": "c43_031c0",
+      "speaker": "Gainer",
+      "en": "Yes!",
+      "display_variant": "en",
+      "display_text": "「Yes!」"
+    }
+  ]
+}

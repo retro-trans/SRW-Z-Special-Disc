@@ -1,0 +1,446 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c48_03010",
+      "speaker": "Shingo",
+      "en": "Mobile suit unit spotted ahead!",
+      "display_variant": "en",
+      "display_text": "「Mobile suit unit spotted ahead!」"
+    },
+    {
+      "id": "c48_03040",
+      "speaker": "Toniya",
+      "en": "Whoa! That's a huge number!",
+      "display_variant": "en",
+      "display_text": "「Whoa! That's a huge number!」"
+    },
+    {
+      "id": "c48_03070",
+      "speaker": "Witz",
+      "en": "The more there are, the better! Looks like a mountain of treasure to me!",
+      "display_variant": "en",
+      "display_text": "「The more there are, the better! Looks\nlike a mountain of treasure to me!」"
+    },
+    {
+      "id": "c48_030b0",
+      "speaker": "Jamil",
+      "en": "All right, we're launching. All units, deploy.",
+      "display_variant": "en",
+      "display_text": "「All right, we're launching. All units,\ndeploy.」"
+    },
+    {
+      "id": "c48_030e0",
+      "speaker": "Sara",
+      "en": "You reinforcements too, please.",
+      "display_variant": "en",
+      "display_text": "「You reinforcements too, please.」"
+    },
+    {
+      "id": "c48_03110",
+      "speaker": "Toniya",
+      "en": "Wait, Captain! There's a unit closing in on us at high speed!",
+      "display_variant": "en",
+      "display_text": "「Wait, Captain! There's a unit closing in\non us at high speed!」"
+    },
+    {
+      "id": "c48_03170",
+      "speaker": "Jamil",
+      "en": "So they've come...!",
+      "display_variant": "en",
+      "display_text": "「So they've come...!」"
+    },
+    {
+      "id": "c48_03190",
+      "speaker": "Roybea",
+      "en": "The freak-Gundam brothers, huh!",
+      "display_variant": "en",
+      "display_text": "「The freak-Gundam brothers, huh!」"
+    },
+    {
+      "id": "c48_031c0",
+      "speaker": "Olba",
+      "en": "Found you, Freeden.",
+      "display_variant": "en",
+      "display_text": "「Found you, Freeden.」"
+    },
+    {
+      "id": "c48_031f0",
+      "speaker": "Shagia",
+      "en": "Tiffa Adill... today, you're coming with us for certain.",
+      "display_variant": "en",
+      "display_text": "「Tiffa Adill... today, you're coming with\nus for certain.」"
+    },
+    {
+      "id": "c48_03230",
+      "speaker": "Garrod",
+      "en": "Shut up! We don't have time to deal with you two today!",
+      "display_variant": "en",
+      "display_text": "「Shut up! We don't have time to deal\nwith you two today!」"
+    },
+    {
+      "id": "c48_03270",
+      "speaker": "Shagia",
+      "en": "What?",
+      "display_variant": "en",
+      "display_text": "「What?」"
+    },
+    {
+      "id": "c48_03290",
+      "speaker": "Sara",
+      "en": "The Freeden will protect Tiffa! All units, carry out the operation!",
+      "display_variant": "en",
+      "display_text": "「The Freeden will protect Tiffa! All\nunits, carry out the operation!」"
+    },
+    {
+      "id": "c48_032e0",
+      "speaker": "Tiffa",
+      "en": "Garrod... I'll be all right. So...",
+      "display_variant": "en",
+      "display_text": "「Garrod... I'll be all right. So...」"
+    },
+    {
+      "id": "c48_03310",
+      "speaker": "Garrod",
+      "en": "Right! I'll go clean up this junk in no time!",
+      "display_variant": "en",
+      "display_text": "「Right! I'll go clean up this junk in no\ntime!」"
+    },
+    {
+      "id": "c48_03350",
+      "speaker": "Sara",
+      "en": "Also, according to our calculations, any battle lasting over five minutes will put us in the red on expenses.",
+      "display_variant": "en",
+      "display_text": "「Also, according to our calculations, any\nbattle lasting over five minutes will put\nus in the red on expenses.」"
+    },
+    {
+      "id": "c48_033a0",
+      "speaker": "Roybea",
+      "en": "So basically, wipe out the unmanned mobile suits within five minutes and earn our target funds.",
+      "display_variant": "en",
+      "display_text": "「So basically, wipe out the unmanned\nmobile suits within five minutes and earn\nour target funds.」"
+    },
+    {
+      "id": "c48_03400",
+      "speaker": "Garrod",
+      "en": "Let's do this! Target funds: 450,000!!",
+      "display_variant": "en",
+      "display_text": "「Let's do this! Target funds: 450,000!!」"
+    },
+    {
+      "id": "c48_03440",
+      "speaker": "Olba",
+      "en": "To ignore our very presence...",
+      "display_variant": "en",
+      "display_text": "「To ignore our very presence...」"
+    },
+    {
+      "id": "c48_03470",
+      "speaker": "Shagia",
+      "en": "You'll regret this, Garrod Ran...!",
+      "display_variant": "en",
+      "display_text": "「You'll regret this, Garrod Ran...!」"
+    },
+    {
+      "id": "c48_034b0",
+      "speaker": "Garrod",
+      "en": "Not a chance! I'm pulling off the operation and protecting Tiffa, both!",
+      "display_variant": "en",
+      "display_text": "「Not a chance! I'm pulling off the\noperation and protecting Tiffa, both!」"
+    },
+    {
+      "id": "c48_03510",
+      "speaker": "Garrod",
+      "en": "All right! The rogue mobile suits are cleared out!",
+      "display_variant": "en",
+      "display_text": "「All right! The rogue mobile suits are\ncleared out!」"
+    },
+    {
+      "id": "c48_03550",
+      "speaker": "Shagia",
+      "en": "Further fighting is pointless. I suppose we've no choice but to withdraw today...",
+      "display_variant": "en",
+      "display_text": "「Further fighting is pointless. I suppose\nwe've no choice but to withdraw today...」"
+    },
+    {
+      "id": "c48_035a0",
+      "speaker": "Olba",
+      "en": "Infuriating bunch. Don't think this will go your way next time...!",
+      "display_variant": "en",
+      "display_text": "「Infuriating bunch. Don't think this will\ngo your way next time...!」"
+    },
+    {
+      "id": "c48_035e0",
+      "speaker": "Roybea",
+      "en": "Kid! What's our take!?",
+      "display_variant": "en",
+      "display_text": "「Kid! What's our take!?」"
+    },
+    {
+      "id": "c48_03610",
+      "speaker": "Kid",
+      "en": "Funds earned: {tm}! Target cleared!",
+      "display_variant": "en",
+      "display_text": "「Funds earned: {tm}! Target cleared!」"
+    },
+    {
+      "id": "c48_03660",
+      "speaker": "Witz",
+      "en": "Heh heh... nailed it! Thanks to you reinforcements too!",
+      "display_variant": "en",
+      "display_text": "「Heh heh... nailed it! Thanks to you\nreinforcements too!」"
+    },
+    {
+      "id": "c48_036a0",
+      "speaker": "Sara",
+      "en": "Also, by my calculations, the maximum possible earnings come to 500,000 or more.",
+      "display_variant": "en",
+      "display_text": "「Also, by my calculations, the maximum\npossible earnings come to 500,000 or more.」"
+    },
+    {
+      "id": "c48_036f0",
+      "speaker": "Jamil",
+      "en": "Good work, everyone. Operation complete.",
+      "display_variant": "en",
+      "display_text": "「Good work, everyone. Operation\ncomplete.」"
+    },
+    {
+      "id": "c48_03730",
+      "speaker": "Garrod",
+      "en": "Heh heh... maybe I'll use the money we earned to buy Tiffa a present or something!",
+      "display_variant": "en",
+      "display_text": "「Heh heh... maybe I'll use the money we\nearned to buy Tiffa a present or\nsomething!」"
+    },
+    {
+      "id": "c48_03780",
+      "speaker": "Kid",
+      "en": "No good! Funds earned: {tm}! We haven't hit the target!",
+      "display_variant": "en",
+      "display_text": "「No good! Funds earned: {tm}! We\nhaven't hit the target!」"
+    },
+    {
+      "id": "c48_037d0",
+      "speaker": "Jamil",
+      "en": "Unfortunately, we didn't reach the target on funds...",
+      "display_variant": "en",
+      "display_text": "「Unfortunately, we didn't reach the\ntarget on funds...」"
+    },
+    {
+      "id": "c48_03810",
+      "speaker": "Sara",
+      "en": "Let's just be glad the rogue mobile suits didn't cause any further damage.",
+      "display_variant": "en",
+      "display_text": "「Let's just be glad the rogue mobile\nsuits didn't cause any further damage.」"
+    },
+    {
+      "id": "c48_03860",
+      "speaker": "Roybea",
+      "en": "So in the end, this one put us in the red...",
+      "display_variant": "en",
+      "display_text": "「So in the end, this one put us in the\nred...」"
+    },
+    {
+      "id": "c48_03890",
+      "speaker": "Pala",
+      "en": "That guy got away!",
+      "display_variant": "en",
+      "display_text": "「That guy got away!」"
+    },
+    {
+      "id": "c48_038c0",
+      "speaker": "Witz",
+      "en": "Tch! If we'd finished him off completely, we could've sold the unit to a junk shop!",
+      "display_variant": "en",
+      "display_text": "「Tch! If we'd finished him off\ncompletely, we could've sold the unit to a\njunk shop!」"
+    },
+    {
+      "id": "c48_03920",
+      "speaker": "Ennil",
+      "en": "Looks like they gave up for today.",
+      "display_variant": "en",
+      "display_text": "「Looks like they gave up for today.」"
+    },
+    {
+      "id": "c48_03950",
+      "speaker": "Roybea",
+      "en": "If they're going to run, they might as well leave the unit behind. It's no good for us if they get away.",
+      "display_variant": "en",
+      "display_text": "「If they're going to run, they might as\nwell leave the unit behind. It's no good\nfor us if they get away.」"
+    },
+    {
+      "id": "c48_039b0",
+      "speaker": "Shingo",
+      "en": "N-no good, Captain! Keep fighting any longer and we'll only end up in the red!",
+      "display_variant": "en",
+      "display_text": "「N-no good, Captain! Keep fighting any\nlonger and we'll only end up in the red!」"
+    },
+    {
+      "id": "c48_03a10",
+      "speaker": "Jamil",
+      "en": "...The operation's failed, but we can't just fall back and leave the unmanned mobile suits running loose...",
+      "display_variant": "en",
+      "display_text": "「...The operation's failed, but we can't\njust fall back and leave the unmanned\nmobile suits running loose...」"
+    },
+    {
+      "id": "c48_03a70",
+      "speaker": "Toniya",
+      "en": "Aw, man... so it ends up being volunteer work after all...",
+      "display_variant": "en",
+      "display_text": "「Aw, man... so it ends up being volunteer\nwork after all...」"
+    },
+    {
+      "id": "c48_03b00",
+      "speaker": "Garrod",
+      "en": "Unmanned mobile suits running wild!?",
+      "display_variant": "en",
+      "display_text": "「Unmanned mobile suits running wild!?」"
+    },
+    {
+      "id": "c48_03b40",
+      "speaker": "Jamil",
+      "en": "It's likely the unmanned units the military introduced have gone berserk.",
+      "display_variant": "en",
+      "display_text": "「It's likely the unmanned units the\nmilitary introduced have gone berserk.」"
+    },
+    {
+      "id": "c48_03b80",
+      "speaker": "Garrod",
+      "en": "No way... the Flash System!?",
+      "display_variant": "en",
+      "display_text": "「No way... the Flash System!?」"
+    },
+    {
+      "id": "c48_03bb0",
+      "speaker": "Carris",
+      "en": "No... from what I've learned, it's some kind of autopilot system.",
+      "display_variant": "en",
+      "display_text": "「No... from what I've learned, it's some\nkind of autopilot system.」"
+    },
+    {
+      "id": "c48_03c00",
+      "speaker": "Roybea",
+      "en": "So, don't tell me... we're the ones going to deal with it?",
+      "display_variant": "en",
+      "display_text": "「So, don't tell me... we're the ones going\nto deal with it?」"
+    },
+    {
+      "id": "c48_03c40",
+      "speaker": "Witz",
+      "en": "That's ridiculous! Why should we be the ones cleaning up after the military!?",
+      "display_variant": "en",
+      "display_text": "「That's ridiculous! Why should we be the\nones cleaning up after the military!?」"
+    },
+    {
+      "id": "c48_03c90",
+      "speaker": "Jamil",
+      "en": "But if the unmanned units keep rampaging, it'll bring damage to residential areas too.",
+      "display_variant": "en",
+      "display_text": "「But if the unmanned units keep\nrampaging, it'll bring damage to residential\nareas too.」"
+    },
+    {
+      "id": "c48_03ce0",
+      "speaker": "Toniya",
+      "en": "So we're doing volunteer work, then?",
+      "display_variant": "en",
+      "display_text": "「So we're doing volunteer work, then?」"
+    },
+    {
+      "id": "c48_03d10",
+      "speaker": "Jamil",
+      "en": "This isn't charity. Whatever mobile suits we shoot down, we're the ones taking possession of them.",
+      "display_variant": "en",
+      "display_text": "「This isn't charity. Whatever mobile\nsuits we shoot down, we're the ones\ntaking possession of them.」"
+    },
+    {
+      "id": "c48_03d70",
+      "speaker": "Sara",
+      "en": "If they're military mobile suits, they should fetch a good price even at a junk shop.",
+      "display_variant": "en",
+      "display_text": "「If they're military mobile suits, they\nshould fetch a good price even at a junk\nshop.」"
+    },
+    {
+      "id": "c48_03dc0",
+      "speaker": "Roybea",
+      "en": "So there's real profit in it after all.",
+      "display_variant": "en",
+      "display_text": "「So there's real profit in it after all.」"
+    },
+    {
+      "id": "c48_03df0",
+      "speaker": "Witz",
+      "en": "If that's the case, then it's settled! Let's get going already!",
+      "display_variant": "en",
+      "display_text": "「If that's the case, then it's settled!\nLet's get going already!」"
+    },
+    {
+      "id": "c48_03e30",
+      "speaker": "Toniya",
+      "en": "What a mercenary sort!",
+      "display_variant": "en",
+      "display_text": "「What a mercenary sort!」"
+    },
+    {
+      "id": "c48_03e50",
+      "speaker": "Pala",
+      "en": "Kind of surprising, hearing the Captain talk about making money.",
+      "display_variant": "en",
+      "display_text": "「Kind of surprising, hearing the Captain\ntalk about making money.」"
+    },
+    {
+      "id": "c48_03ea0",
+      "speaker": "Ennil",
+      "en": "The Freeden's a Vulture crew too, so I suppose it's only natural.",
+      "display_variant": "en",
+      "display_text": "「The Freeden's a Vulture crew too, so I\nsuppose it's only natural.」"
+    },
+    {
+      "id": "c48_03ef0",
+      "speaker": "Garrod",
+      "en": "It costs money just to keep living. We've got to eat too, after all.",
+      "display_variant": "en",
+      "display_text": "「It costs money just to keep living.\nWe've got to eat too, after all.」"
+    },
+    {
+      "id": "c48_03f50",
+      "speaker": "Jamil",
+      "en": "Also, since this will be a large-scale operation, we've called in reinforcements. We'll carry out the operation with their cooperation.",
+      "display_variant": "compact",
+      "display_text": "「Also, since this is a large-scale\noperation, we've called in reinforcements.\nWe'll proceed with their cooperation.」"
+    },
+    {
+      "id": "c48_03fc0",
+      "speaker": "Roybea",
+      "en": "So basically, make good use of the reinforcements' strength.",
+      "display_variant": "en",
+      "display_text": "「So basically, make good use of the\nreinforcements' strength.」"
+    },
+    {
+      "id": "c48_04000",
+      "speaker": "Tiffa",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c48_04020",
+      "speaker": "Garrod",
+      "en": "What's wrong, Tiffa? Something on your mind?",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Tiffa? Something on your\nmind?」"
+    },
+    {
+      "id": "c48_04060",
+      "speaker": "Tiffa",
+      "en": "Be careful, Garrod. Those two are somewhere close by...",
+      "display_variant": "en",
+      "display_text": "「Be careful, Garrod. Those two are\nsomewhere close by...」"
+    },
+    {
+      "id": "c48_040a0",
+      "speaker": "Garrod",
+      "en": "Those two... the Frost brothers!",
+      "display_variant": "en",
+      "display_text": "「Those two... the Frost brothers!」"
+    }
+  ]
+}

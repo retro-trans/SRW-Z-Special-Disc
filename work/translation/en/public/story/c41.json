@@ -1,0 +1,411 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c41_02d10",
+      "speaker": "Gidget",
+      "en": "Compac interference wave detected! The KLF squad is coming!",
+      "display_variant": "en",
+      "display_text": "「Compac interference wave detected! The\nKLF squad is coming!」"
+    },
+    {
+      "id": "c41_02d50",
+      "speaker": "Moondoggie",
+      "en": "T-that's a huge number!",
+      "display_variant": "en",
+      "display_text": "「T-that's a huge number!」"
+    },
+    {
+      "id": "c41_02d80",
+      "speaker": "Hap",
+      "en": "Seems like we and the Vodarac have really gotten in their way.",
+      "display_variant": "en",
+      "display_text": "「Seems like we and the Vodarac have\nreally gotten in their way.」"
+    },
+    {
+      "id": "c41_02dc0",
+      "speaker": "Talho",
+      "en": "I'm counting on you, Holland!",
+      "display_variant": "en",
+      "display_text": "「I'm counting on you, Holland!」"
+    },
+    {
+      "id": "c41_02de0",
+      "speaker": "Holland",
+      "en": "You all know the stakes! If they break through us, the Vodarac are finished!",
+      "display_variant": "en",
+      "display_text": "「You all know the stakes! If they break\nthrough us, the Vodarac are finished!」"
+    },
+    {
+      "id": "c41_02e30",
+      "speaker": "Holland",
+      "en": "Shoot them down before the military bastards can crash into Vodara Shrine!",
+      "display_variant": "en",
+      "display_text": "「Shoot them down before the military\nbastards can crash into Vodara Shrine!」"
+    },
+    {
+      "id": "c41_02e70",
+      "speaker": "Matthieu",
+      "en": "This is rough, seriously! Guess we've gotta get serious!",
+      "display_variant": "en",
+      "display_text": "「This is rough, seriously! Guess we've\ngotta get serious!」"
+    },
+    {
+      "id": "c41_02ec0",
+      "speaker": "Hilda",
+      "en": "We're at an overwhelming numbers disadvantage, so even one little mistake could be irreversible.",
+      "display_variant": "en",
+      "display_text": "「We're at an overwhelming numbers\ndisadvantage, so even one little mistake\ncould be irreversible.」"
+    },
+    {
+      "id": "c41_02f20",
+      "speaker": "Eureka",
+      "en": "Renton...",
+      "display_variant": "en",
+      "display_text": "「Renton...」"
+    },
+    {
+      "id": "c41_02f40",
+      "speaker": "Renton",
+      "en": "...I don't want to fight...",
+      "display_variant": "en",
+      "display_text": "「...I don't want to fight...」"
+    },
+    {
+      "id": "c41_02f60",
+      "speaker": "Eureka",
+      "en": "Eh...",
+      "display_variant": "en",
+      "display_text": "「Eh...」"
+    },
+    {
+      "id": "c41_02f80",
+      "speaker": "Renton",
+      "en": "But right now, there's no choice but to do it...! Let's go, Eureka!",
+      "display_variant": "en",
+      "display_text": "「But right now, there's no choice but to\ndo it...! Let's go, Eureka!」"
+    },
+    {
+      "id": "c41_02fd0",
+      "speaker": "Eureka",
+      "en": "Okay...!",
+      "display_variant": "en",
+      "display_text": "「Okay...!」"
+    },
+    {
+      "id": "c41_02ff0",
+      "speaker": "Holland",
+      "en": "Hold out for five minutes! Do that, and they'll give up!",
+      "display_variant": "en",
+      "display_text": "「Hold out for five minutes! Do that, and\nthey'll give up!」"
+    },
+    {
+      "id": "c41_03030",
+      "speaker": "Holland",
+      "en": "Listen up, all of you! Don't you dare die!",
+      "display_variant": "en",
+      "display_text": "「Listen up, all of you! Don't you dare\ndie!」"
+    },
+    {
+      "id": "c41_03070",
+      "speaker": "Holland",
+      "en": "Renton! I'm counting on you to look after Eureka!!",
+      "display_variant": "en",
+      "display_text": "「Renton! I'm counting on you to look\nafter Eureka!!」"
+    },
+    {
+      "id": "c41_030a0",
+      "speaker": "Renton",
+      "en": "Yes!",
+      "display_variant": "en",
+      "display_text": "「Yes!」"
+    },
+    {
+      "id": "c41_030c0",
+      "speaker": "Gidget",
+      "en": "The KLF squad is falling back!",
+      "display_variant": "en",
+      "display_text": "「The KLF squad is falling back!」"
+    },
+    {
+      "id": "c41_030f0",
+      "speaker": "Talho",
+      "en": "Looks like they lost their nerve. Guess you could call it a win by sheer guts on our part?",
+      "display_variant": "en",
+      "display_text": "「Looks like they lost their nerve. Guess\nyou could call it a win by sheer guts on\nour part?」"
+    },
+    {
+      "id": "c41_03130",
+      "speaker": "Gidget",
+      "en": "Enemy squad confirmed wiped out!",
+      "display_variant": "en",
+      "display_text": "「Enemy squad confirmed wiped out!」"
+    },
+    {
+      "id": "c41_03160",
+      "speaker": "Talho",
+      "en": "A victory of our own guts and grit.",
+      "display_variant": "en",
+      "display_text": "「A victory of our own guts and grit.」"
+    },
+    {
+      "id": "c41_03180",
+      "speaker": "Renton",
+      "en": "We did it... we did it, Eureka!",
+      "display_variant": "en",
+      "display_text": "「We did it... we did it, Eureka!」"
+    },
+    {
+      "id": "c41_031b0",
+      "speaker": "Eureka",
+      "en": "Yeah...! Yeah!",
+      "display_variant": "en",
+      "display_text": "「Yeah...! Yeah!」"
+    },
+    {
+      "id": "c41_031d0",
+      "speaker": "Holland",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c41_031f0",
+      "speaker": "Holland",
+      "en": "(The one meant to be Eureka's other half... It wasn't me...)",
+      "display_variant": "en",
+      "display_text": "（(The one meant to be Eureka's other\nhalf... It wasn't me...)）"
+    },
+    {
+      "id": "c41_03230",
+      "speaker": "Holland",
+      "en": "(But that doesn't matter right now. What I need to do is protect those two... protect hope itself.)",
+      "display_variant": "en",
+      "display_text": "（(But that doesn't matter right now.\nWhat I need to do is protect those two...\nprotect hope itself.)）"
+    },
+    {
+      "id": "c41_032a0",
+      "speaker": "Renton",
+      "en": "...Holland?",
+      "display_variant": "en",
+      "display_text": "「...Holland?」"
+    },
+    {
+      "id": "c41_032c0",
+      "speaker": "Holland",
+      "en": "Take care of Eureka... I'm counting on you, Renton. From here on too.",
+      "display_variant": "en",
+      "display_text": "「Take care of Eureka... I'm counting on\nyou, Renton. From here on too.」"
+    },
+    {
+      "id": "c41_03300",
+      "speaker": "Renton",
+      "en": "Eh...?",
+      "display_variant": "en",
+      "display_text": "「Eh...?」"
+    },
+    {
+      "id": "c41_03320",
+      "speaker": "Holland",
+      "en": "Are you gonna do it or not? Make up your mind.",
+      "display_variant": "en",
+      "display_text": "「Are you gonna do it or not? Make up\nyour mind.」"
+    },
+    {
+      "id": "c41_03360",
+      "speaker": "Renton",
+      "en": "I'll do it...! Because... that's what I decided.",
+      "display_variant": "en",
+      "display_text": "「I'll do it...! Because... that's what I\ndecided.」"
+    },
+    {
+      "id": "c41_033a0",
+      "speaker": "Holland",
+      "en": "I see...",
+      "display_variant": "en",
+      "display_text": "「I see...」"
+    },
+    {
+      "id": "c41_033c0",
+      "speaker": "Holland",
+      "en": "(I'll do it too... Because that's the fight I found for myself...)",
+      "display_variant": "en",
+      "display_text": "（(I'll do it too... Because that's the\nfight I found for myself...)）"
+    },
+    {
+      "id": "c41_03400",
+      "speaker": "Matthieu",
+      "en": "Damn it! They got through!!",
+      "display_variant": "en",
+      "display_text": "「Damn it! They got through!!」"
+    },
+    {
+      "id": "c41_03430",
+      "speaker": "Hilda",
+      "en": "At this rate, Vodara Shrine is...!!",
+      "display_variant": "en",
+      "display_text": "「At this rate, Vodara Shrine is...!!」"
+    },
+    {
+      "id": "c41_03460",
+      "speaker": "Eureka",
+      "en": "Aah!",
+      "display_variant": "en",
+      "display_text": "「Aah!」"
+    },
+    {
+      "id": "c41_03480",
+      "speaker": "Holland",
+      "en": "Damn it! Is this really our limit!?",
+      "display_variant": "en",
+      "display_text": "「Damn it! Is this really our limit!?」"
+    },
+    {
+      "id": "c41_03510",
+      "speaker": "Holland",
+      "en": "The military's heading for Vodara Shrine, you say?",
+      "display_variant": "en",
+      "display_text": "「The military's heading for Vodara\nShrine, you say?」"
+    },
+    {
+      "id": "c41_03540",
+      "speaker": "Hap",
+      "en": "Dewey probably means to blow away the eyesore that is the Vodarac, building and all.",
+      "display_variant": "en",
+      "display_text": "「Dewey probably means to blow away the\neyesore that is the Vodarac, building and\nall.」"
+    },
+    {
+      "id": "c41_03590",
+      "speaker": "Holland",
+      "en": "Tch... brute force, huh... same old tactics as ever.",
+      "display_variant": "en",
+      "display_text": "「Tch... brute force, huh... same old\ntactics as ever.」"
+    },
+    {
+      "id": "c41_035d0",
+      "speaker": "Renton",
+      "en": "(The military is trying to wipe out the Vodarac, who want to coexist with the Coralians...)",
+      "display_variant": "en",
+      "display_text": "（(The military is trying to wipe out\nthe Vodarac, who want to coexist with\nthe Coralians...)）"
+    },
+    {
+      "id": "c41_03630",
+      "speaker": "Renton",
+      "en": "(To the military, the Coralians must be humanity's enemy...)",
+      "display_variant": "en",
+      "display_text": "（(To the military, the Coralians must\nbe humanity's enemy...)）"
+    },
+    {
+      "id": "c41_03670",
+      "speaker": "Eureka",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c41_03690",
+      "speaker": "Renton",
+      "en": "(But I want to believe... that there's a path where we can live alongside the Coralians... alongside Eureka.)",
+      "display_variant": "en",
+      "display_text": "（(But I want to believe... that there's\na path where we can live alongside the\nCoralians... alongside Eureka.)）"
+    },
+    {
+      "id": "c41_036f0",
+      "speaker": "Renton",
+      "en": "It's okay, Eureka. I will never give up.",
+      "display_variant": "en",
+      "display_text": "「It's okay, Eureka. I will never give up.」"
+    },
+    {
+      "id": "c41_03730",
+      "speaker": "Renton",
+      "en": "So, Eureka... you mustn't throw away hope either.",
+      "display_variant": "en",
+      "display_text": "「So, Eureka... you mustn't throw away\nhope either.」"
+    },
+    {
+      "id": "c41_03770",
+      "speaker": "Talho",
+      "en": "That look on your face... seems like you've made peace with it.",
+      "display_variant": "en",
+      "display_text": "「That look on your face... seems like\nyou've made peace with it.」"
+    },
+    {
+      "id": "c41_037a0",
+      "speaker": "Holland",
+      "en": "I've got no intention of giving up either. Not on this world... not on anything.",
+      "display_variant": "en",
+      "display_text": "「I've got no intention of giving up\neither. Not on this world... not on\nanything.」"
+    },
+    {
+      "id": "c41_037e0",
+      "speaker": "Talho",
+      "en": "If the leader's made up his mind, then I've got nothing more to say.",
+      "display_variant": "en",
+      "display_text": "「If the leader's made up his mind, then\nI've got nothing more to say.」"
+    },
+    {
+      "id": "c41_03830",
+      "speaker": "Matthieu",
+      "en": "Of course, that goes for us too.",
+      "display_variant": "en",
+      "display_text": "「Of course, that goes for us too.」"
+    },
+    {
+      "id": "c41_03850",
+      "speaker": "Stoner",
+      "en": "Coming this far, I've made my peace with it. I'll see this through to the end too.",
+      "display_variant": "en",
+      "display_text": "「Coming this far, I've made my peace\nwith it. I'll see this through to the end\ntoo.」"
+    },
+    {
+      "id": "c41_038a0",
+      "speaker": "Hilda",
+      "en": "That's the gist of it. Let's do everything we possibly can.",
+      "display_variant": "en",
+      "display_text": "「That's the gist of it. Let's do\neverything we possibly can.」"
+    },
+    {
+      "id": "c41_038e0",
+      "speaker": "Ken-Goh",
+      "en": "Give the orders, Holland. You're the leader of Gekkostate.",
+      "display_variant": "en",
+      "display_text": "「Give the orders, Holland. You're the\nleader of Gekkostate.」"
+    },
+    {
+      "id": "c41_03930",
+      "speaker": "Holland",
+      "en": "Yeah...!",
+      "display_variant": "en",
+      "display_text": "「Yeah...!」"
+    },
+    {
+      "id": "c41_03950",
+      "speaker": "Holland",
+      "en": "Everyone, get ready! We're protecting Vodara Shrine from the military with our own hands!",
+      "display_variant": "en",
+      "display_text": "「Everyone, get ready! We're protecting\nVodara Shrine from the military with our\nown hands!」"
+    },
+    {
+      "id": "c41_039a0",
+      "speaker": "Talho",
+      "en": "Roger!",
+      "display_variant": "en",
+      "display_text": "「Roger!」"
+    },
+    {
+      "id": "c41_039c0",
+      "speaker": "Holland",
+      "en": "Those guys mean to break through us and charge straight into Vodara Shrine.",
+      "display_variant": "en",
+      "display_text": "「Those guys mean to break through us\nand charge straight into Vodara Shrine.」"
+    },
+    {
+      "id": "c41_03a00",
+      "speaker": "Holland",
+      "en": "Shoot down every last one of them that comes at us!",
+      "display_variant": "en",
+      "display_text": "「Shoot down every last one of them that\ncomes at us!」"
+    }
+  ]
+}

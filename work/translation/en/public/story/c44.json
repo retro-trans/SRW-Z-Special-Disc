@@ -1,0 +1,348 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c44_02610",
+      "speaker": "Ghingnham",
+      "en": "Truly a magnificent sight! From here, a new Black History begins!",
+      "display_variant": "en",
+      "display_text": "「Truly a magnificent sight! From here, a\nnew Black History begins!」"
+    },
+    {
+      "id": "c44_02650",
+      "speaker": "Gagarn",
+      "en": "Gym Ghingnham. As long as I and Gargos exist, we cannot know defeat.",
+      "display_variant": "en",
+      "display_text": "「Gym Ghingnham. As long as I and Gargos\nexist, we cannot know defeat.」"
+    },
+    {
+      "id": "c44_026b0",
+      "speaker": "Alex",
+      "en": "Victory is already assured. It was worth leaving the City, after all.",
+      "display_variant": "en",
+      "display_text": "「Victory is already assured. It was\nworth leaving the City, after all.」"
+    },
+    {
+      "id": "c44_02710",
+      "speaker": "Kizz",
+      "en": "No one exists who can stop us. The tracks get laid after we've already passed.",
+      "display_variant": "en",
+      "display_text": "「No one exists who can stop us. The\ntracks get laid after we've already\npassed.」"
+    },
+    {
+      "id": "c44_02760",
+      "speaker": "Timp",
+      "en": "You gents seem awful pleased with yourselves, but ain't it a bit early to be celebrating a win?",
+      "display_variant": "en",
+      "display_text": "「You gents seem awful pleased with\nyourselves, but ain't it a bit early to be\ncelebrating a win?」"
+    },
+    {
+      "id": "c44_027c0",
+      "speaker": "Yazan",
+      "en": "Anyone who gets in the way just gets crushed. At least with this crowd, it doesn't look like I'll be bored.",
+      "display_variant": "en",
+      "display_text": "「Anyone who gets in the way just gets\ncrushed. At least with this crowd, it\ndoesn't look like I'll be bored.」"
+    },
+    {
+      "id": "c44_02820",
+      "speaker": "Sting",
+      "en": "No matter who shows up, I don't intend to lose. I've got the power in my hands to back that up.",
+      "display_variant": "en",
+      "display_text": "「No matter who shows up, I don't intend\nto lose. I've got the power in my hands\nto back that up.」"
+    },
+    {
+      "id": "c44_02870",
+      "speaker": "Timp",
+      "en": "Looks like your playmates have arrived, boys. ...Don't let your guard down.",
+      "display_variant": "en",
+      "display_text": "「Looks like your playmates have arrived,\nboys. ...Don't let your guard down.」"
+    },
+    {
+      "id": "c44_028b0",
+      "speaker": "Yazan",
+      "en": "Same goes for you...!",
+      "display_variant": "en",
+      "display_text": "「Same goes for you...!」"
+    },
+    {
+      "id": "c44_028d0",
+      "speaker": "Ghingnham",
+      "en": "Welcome, Dianna Soreil! You too should celebrate -- the day the Black History begins!",
+      "display_variant": "en",
+      "display_text": "「Welcome, Dianna Soreil! You too should\ncelebrate -- the day the Black History\nbegins!」"
+    },
+    {
+      "id": "c44_02930",
+      "speaker": "Dianna",
+      "en": "Silence, Gym Ghingnham. I won't let this world fall into the hands of a man like you.",
+      "display_variant": "en",
+      "display_text": "「Silence, Gym Ghingnham. I won't let this\nworld fall into the hands of a man like\nyou.」"
+    },
+    {
+      "id": "c44_02990",
+      "speaker": "Gagarn",
+      "en": "Bold words. But can that force of yours really stand against us?",
+      "display_variant": "en",
+      "display_text": "「Bold words. But can that force of\nyours really stand against us?」"
+    },
+    {
+      "id": "c44_029e0",
+      "speaker": "Toshiya",
+      "en": "Gagarn! I'll show you the answer by taking you down!",
+      "display_variant": "en",
+      "display_text": "「Gagarn! I'll show you the answer by\ntaking you down!」"
+    },
+    {
+      "id": "c44_02a20",
+      "speaker": "Timp",
+      "en": "Remember this, boys. There are opponents out there you couldn't beat even standing on your heads.",
+      "display_variant": "en",
+      "display_text": "「Remember this, boys. There are\nopponents out there you couldn't beat\neven standing on your heads.」"
+    },
+    {
+      "id": "c44_02a80",
+      "speaker": "Jiron",
+      "en": "Shut it! That's as far as your big talk goes! Get ready, Timp!",
+      "display_variant": "en",
+      "display_text": "「Shut it! That's as far as your big talk\ngoes! Get ready, Timp!」"
+    },
+    {
+      "id": "c44_02ad0",
+      "speaker": "Yazan",
+      "en": "Ha! Better make this fun! If you go down easy, there's no point in me coming out here!",
+      "display_variant": "en",
+      "display_text": "「Ha! Better make this fun! If you go\ndown easy, there's no point in me coming\nout here!」"
+    },
+    {
+      "id": "c44_02b30",
+      "speaker": "Kamille",
+      "en": "Yazan...! If you're going to spread this fighting further, we'll stop you!",
+      "display_variant": "en",
+      "display_text": "「Yazan...! If you're going to spread this\nfighting further, we'll stop you!」"
+    },
+    {
+      "id": "c44_02b80",
+      "speaker": "Alex",
+      "en": "Then let's have a look at your last stand, gentlemen.",
+      "display_variant": "en",
+      "display_text": "「Then let's have a look at your last\nstand, gentlemen.」"
+    },
+    {
+      "id": "c44_02bc0",
+      "speaker": "Roger",
+      "en": "Very well, Alex. I'll consider negotiations with you already broken down, and answer force with force.",
+      "display_variant": "en",
+      "display_text": "「Very well, Alex. I'll consider\nnegotiations with you already broken down,\nand answer force with force.」"
+    },
+    {
+      "id": "c44_02c30",
+      "speaker": "Dianna",
+      "en": "All units, deploy! We begin our attack now!",
+      "display_variant": "en",
+      "display_text": "「All units, deploy! We begin our attack\nnow!」"
+    },
+    {
+      "id": "c44_02c70",
+      "speaker": "Jamil",
+      "en": "A drawn-out fight favors them! Operation time is nine minutes! Settle this before it runs out!",
+      "display_variant": "en",
+      "display_text": "「A drawn-out fight favors them!\nOperation time is nine minutes! Settle\nthis before it runs out!」"
+    },
+    {
+      "id": "c44_02ce0",
+      "speaker": "Sara",
+      "en": "Confirmed: the enemy force has been wiped out.",
+      "display_variant": "en",
+      "display_text": "「Confirmed: the enemy force has been\nwiped out.」"
+    },
+    {
+      "id": "c44_02d10",
+      "speaker": "Jamil",
+      "en": "Good work, everyone. This is our victory.",
+      "display_variant": "en",
+      "display_text": "「Good work, everyone. This is our\nvictory.」"
+    },
+    {
+      "id": "c44_02d50",
+      "speaker": "Quattro",
+      "en": "But I doubt those men will just give up after this.",
+      "display_variant": "en",
+      "display_text": "「But I doubt those men will just give up\nafter this.」"
+    },
+    {
+      "id": "c44_02d90",
+      "speaker": "Koji",
+      "en": "If they start another fight, then we'll just have to take them on again.",
+      "display_variant": "en",
+      "display_text": "「If they start another fight, then we'll\njust have to take them on again.」"
+    },
+    {
+      "id": "c44_02df0",
+      "speaker": "Kira",
+      "en": "Yes... That's exactly what our strength and our resolve are for.",
+      "display_variant": "en",
+      "display_text": "「Yes... That's exactly what our strength\nand our resolve are for.」"
+    },
+    {
+      "id": "c44_02e30",
+      "speaker": "Dianna",
+      "en": "Thank you, everyone.",
+      "display_variant": "en",
+      "display_text": "「Thank you, everyone.」"
+    },
+    {
+      "id": "c44_02e60",
+      "speaker": "Dianna",
+      "en": "Now then, let's go home -- each of us, to the ones waiting for us.",
+      "display_variant": "en",
+      "display_text": "「Now then, let's go home -- each of us,\nto the ones waiting for us.」"
+    },
+    {
+      "id": "c44_02eb0",
+      "speaker": "Sara",
+      "en": "Captain! At this rate, our losses will exceed the limit!",
+      "display_variant": "en",
+      "display_text": "「Captain! At this rate, our losses will\nexceed the limit!」"
+    },
+    {
+      "id": "c44_02f00",
+      "speaker": "Jamil",
+      "en": "One minute...! If we can't settle this in that one minute, we fall back...!",
+      "display_variant": "en",
+      "display_text": "「One minute...! If we can't settle this\nin that one minute, we fall back...!」"
+    },
+    {
+      "id": "c44_02f50",
+      "speaker": "Dianna",
+      "en": "Everyone, steel yourselves! Pour everything you have into this one minute!",
+      "display_variant": "en",
+      "display_text": "「Everyone, steel yourselves! Pour\neverything you have into this one minute!」"
+    },
+    {
+      "id": "c44_02f90",
+      "speaker": "Toniya",
+      "en": "Nine minutes of operation time have passed!",
+      "display_variant": "en",
+      "display_text": "「Nine minutes of operation time have\npassed!」"
+    },
+    {
+      "id": "c44_02fb0",
+      "speaker": "Sara",
+      "en": "If we keep fighting like this, our losses will reach a fatal level!",
+      "display_variant": "en",
+      "display_text": "「If we keep fighting like this, our\nlosses will reach a fatal level!」"
+    },
+    {
+      "id": "c44_03000",
+      "speaker": "Jamil",
+      "en": "...It can't be helped! All units, fall back!",
+      "display_variant": "en",
+      "display_text": "「...It can't be helped! All units, fall\nback!」"
+    },
+    {
+      "id": "c44_03030",
+      "speaker": "Dianna",
+      "en": "Are we truly unable to stop the Black History...?",
+      "display_variant": "en",
+      "display_text": "「Are we truly unable to stop the Black\nHistory...?」"
+    },
+    {
+      "id": "c44_030c0",
+      "speaker": "Jamil",
+      "en": "Gym Ghingnham is deploying his forces, you say?",
+      "display_variant": "en",
+      "display_text": "「Gym Ghingnham is deploying his forces,\nyou say?」"
+    },
+    {
+      "id": "c44_03100",
+      "speaker": "Dianna",
+      "en": "That man must intend to gather his forces and set off the Black History war himself.",
+      "display_variant": "en",
+      "display_text": "「That man must intend to gather his\nforces and set off the Black History war\nhimself.」"
+    },
+    {
+      "id": "c44_03160",
+      "speaker": "Jamil",
+      "en": "Stopping that is our duty. Let's launch immediately.",
+      "display_variant": "en",
+      "display_text": "「Stopping that is our duty. Let's launch\nimmediately.」"
+    },
+    {
+      "id": "c44_031b0",
+      "speaker": "Milan",
+      "en": "But, Captain Jamil... our forces are limited.",
+      "display_variant": "en",
+      "display_text": "「But, Captain Jamil... our forces are\nlimited.」"
+    },
+    {
+      "id": "c44_03200",
+      "speaker": "Milan",
+      "en": "And on top of that, Ghingnham has made all manner of forces his own.",
+      "display_variant": "en",
+      "display_text": "「And on top of that, Ghingnham has made\nall manner of forces his own.」"
+    },
+    {
+      "id": "c44_03250",
+      "speaker": "Sara",
+      "en": "According to the recon unit's report, the following units have been confirmed.",
+      "display_variant": "en",
+      "display_text": "「According to the recon unit's report,\nthe following units have been confirmed.」"
+    },
+    {
+      "id": "c44_03290",
+      "speaker": "Sara",
+      "en": "Turn X, the Emperor Custom, a Hambrabi squadron, the Destroy Gundam, Gargos, the Dominator, Big Fau...",
+      "display_variant": "en",
+      "display_text": "「Turn X, the Emperor Custom, a Hambrabi\nsquadron, the Destroy Gundam, Gargos, the\nDominator, Big Fau...」"
+    },
+    {
+      "id": "c44_03300",
+      "speaker": "Sara",
+      "en": "The rest of their forces are nothing to underestimate either.",
+      "display_variant": "en",
+      "display_text": "「The rest of their forces are nothing\nto underestimate either.」"
+    },
+    {
+      "id": "c44_03330",
+      "speaker": "Jamil",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c44_03350",
+      "speaker": "Dianna",
+      "en": "Even so, we must go. We cannot allow the Black History to come again.",
+      "display_variant": "en",
+      "display_text": "「Even so, we must go. We cannot allow\nthe Black History to come again.」"
+    },
+    {
+      "id": "c44_033b0",
+      "speaker": "Jamil",
+      "en": "I feel the same... and so does everyone else.",
+      "display_variant": "en",
+      "display_text": "「I feel the same... and so does everyone\nelse.」"
+    },
+    {
+      "id": "c44_033e0",
+      "speaker": "Jamil",
+      "en": "Sara, notify everyone to prepare for launch.",
+      "display_variant": "en",
+      "display_text": "「Sara, notify everyone to prepare for\nlaunch.」"
+    },
+    {
+      "id": "c44_03410",
+      "speaker": "Sara",
+      "en": "Understood, Captain.",
+      "display_variant": "en",
+      "display_text": "「Understood, Captain.」"
+    },
+    {
+      "id": "c44_03430",
+      "speaker": "Jamil",
+      "en": "Also, the enemy is expected to field considerable forces, starting with the Turn X. Pay the utmost attention to your setups.",
+      "display_variant": "fit",
+      "display_text": "「Also, expect considerable enemy forces,\nstarting with the Turn X. Pay utmost\nattention to your setups.」"
+    }
+  ]
+}

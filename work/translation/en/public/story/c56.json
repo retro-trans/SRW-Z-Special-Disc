@@ -1,0 +1,236 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c56_03510",
+      "speaker": "The Edel",
+      "en": "Nice, oh nice! This many forces gathered together -- this is truly a battle paradise!",
+      "display_variant": "en",
+      "display_text": "「Nice, oh nice! This many forces\ngathered together -- this is truly a\nbattle paradise!」"
+    },
+    {
+      "id": "c56_03580",
+      "speaker": "The Edel",
+      "en": "Now then... all that's left is to wait for the guests of honor. Come on, boys and girls!",
+      "display_variant": "fit",
+      "display_text": "「Now then... all that's left is to wait\nfor the guests of honor. Come on,\neveryone!」"
+    },
+    {
+      "id": "c56_035d0",
+      "speaker": "Ryouma",
+      "en": "What a number!",
+      "display_variant": "en",
+      "display_text": "「What a number!」"
+    },
+    {
+      "id": "c56_035f0",
+      "speaker": "Koji",
+      "en": "It's not just the numbers! Every enemy boss and ace is here, all lined up!",
+      "display_variant": "en",
+      "display_text": "「It's not just the numbers! Every enemy\nboss and ace is here, all lined up!」"
+    },
+    {
+      "id": "c56_03630",
+      "speaker": "Amuro",
+      "en": "Can we win this...?",
+      "display_variant": "en",
+      "display_text": "「Can we win this...?」"
+    },
+    {
+      "id": "c56_03660",
+      "speaker": "Rand",
+      "en": "Nothing to do but go for it! Not after coming this far!",
+      "display_variant": "en",
+      "display_text": "「Nothing to do but go for it! Not after\ncoming this far!」"
+    },
+    {
+      "id": "c56_036a0",
+      "speaker": "Setsuko",
+      "en": "Let's gather all of our strength together and fight!",
+      "display_variant": "en",
+      "display_text": "「Let's gather all of our strength\ntogether and fight!」"
+    },
+    {
+      "id": "c56_036e0",
+      "speaker": "Quattro",
+      "en": "Operation time is 12 minutes... That's the limit for how long we can hold the front line.",
+      "display_variant": "fit",
+      "display_text": "「Operation time is 12 minutes... that's\nthe limit for holding the front line.」"
+    },
+    {
+      "id": "c56_03730",
+      "speaker": "Setsuko",
+      "en": "Twelve minutes... We'll put everything we have into it...!",
+      "display_variant": "en",
+      "display_text": "「Twelve minutes... We'll put everything\nwe have into it...!」"
+    },
+    {
+      "id": "c56_03770",
+      "speaker": "Rand",
+      "en": "Let's do this! The gamble of a lifetime!",
+      "display_variant": "en",
+      "display_text": "「Let's do this! The gamble of a lifetime!」"
+    },
+    {
+      "id": "c56_037a0",
+      "speaker": "The Edel",
+      "en": "OK! Both sides, are you ready!",
+      "display_variant": "en",
+      "display_text": "「OK! Both sides, are you ready!」"
+    },
+    {
+      "id": "c56_037d0",
+      "speaker": "The Edel",
+      "en": "Then let's get started! It's time for the Final Ultimate Gorgeous Final Battle!!",
+      "display_variant": "en",
+      "display_text": "「Then let's get started! It's time for\nthe Final Ultimate Gorgeous Final Battle!!」"
+    },
+    {
+      "id": "c56_03840",
+      "speaker": "The Edel",
+      "en": "Ah... I said 'final' twice.",
+      "display_variant": "en",
+      "display_text": "「Ah... I said 'final' twice.」"
+    },
+    {
+      "id": "c56_03880",
+      "speaker": "Kappei",
+      "en": "We did it! We did it! This is our victory!",
+      "display_variant": "en",
+      "display_text": "「We did it! We did it! This is our\nvictory!」"
+    },
+    {
+      "id": "c56_038b0",
+      "speaker": "Apollo",
+      "en": "This much is nothing at all.",
+      "display_variant": "en",
+      "display_text": "「This much is nothing at all.」"
+    },
+    {
+      "id": "c56_038e0",
+      "speaker": "Jiron",
+      "en": "Y-you sure? I think that was pretty rough.",
+      "display_variant": "en",
+      "display_text": "「Y-you sure? I think that was pretty\nrough.」"
+    },
+    {
+      "id": "c56_03920",
+      "speaker": "Kei",
+      "en": "Well... all's well that ends well. Good work, everyone!",
+      "display_variant": "en",
+      "display_text": "「Well... all's well that ends well. Good\nwork, everyone!」"
+    },
+    {
+      "id": "c56_03960",
+      "speaker": "Rand",
+      "en": "Looks like we'll get to enjoy the sweet taste of victory tonight.",
+      "display_variant": "en",
+      "display_text": "「Looks like we'll get to enjoy the sweet\ntaste of victory tonight.」"
+    },
+    {
+      "id": "c56_039a0",
+      "speaker": "Setsuko",
+      "en": "Thank you, everyone. Let's all celebrate today's victory together.",
+      "display_variant": "en",
+      "display_text": "「Thank you, everyone. Let's all celebrate\ntoday's victory together.」"
+    },
+    {
+      "id": "c56_039f0",
+      "speaker": "Kira",
+      "en": "The operation's 12-minute time limit has passed...!",
+      "display_variant": "en",
+      "display_text": "「The operation's 12-minute time limit has\npassed...!」"
+    },
+    {
+      "id": "c56_03a30",
+      "speaker": "Amuro",
+      "en": "This power really is on a whole different level from any enemy we've fought so far...!",
+      "display_variant": "en",
+      "display_text": "「This power really is on a whole\ndifferent level from any enemy we've\nfought so far...!」"
+    },
+    {
+      "id": "c56_03a70",
+      "speaker": "Koji",
+      "en": "Damn it! We're steadily being pushed back!",
+      "display_variant": "en",
+      "display_text": "「Damn it! We're steadily being pushed\nback!」"
+    },
+    {
+      "id": "c56_03aa0",
+      "speaker": "Rand",
+      "en": "This is bad! If we keep fighting like this, all that's waiting for us is annihilation!",
+      "display_variant": "en",
+      "display_text": "「This is bad! If we keep fighting like\nthis, all that's waiting for us is\nannihilation!」"
+    },
+    {
+      "id": "c56_03ae0",
+      "speaker": "Setsuko",
+      "en": "Even with all our strength combined, we still can't beat that army...!?",
+      "display_variant": "en",
+      "display_text": "「Even with all our strength combined, we\nstill can't beat that army...!?」"
+    },
+    {
+      "id": "c56_03b80",
+      "speaker": "Bright",
+      "en": "What's the enemy's formation like?",
+      "display_variant": "en",
+      "display_text": "「What's the enemy's formation like?」"
+    },
+    {
+      "id": "c56_03bb0",
+      "speaker": "Murrue",
+      "en": "According to the recon team's report, every enemy force we've fought so far has gathered together.",
+      "display_variant": "fit",
+      "display_text": "「According to the recon team's report,\nevery enemy force we've fought so far\nhas gathered here.」"
+    },
+    {
+      "id": "c56_03c10",
+      "speaker": "Holland",
+      "en": "So it's the enemy's all-star lineup, huh. Damn it... this is rough.",
+      "display_variant": "en",
+      "display_text": "「So it's the enemy's all-star lineup, huh.\nDamn it... this is rough.」"
+    },
+    {
+      "id": "c56_03c60",
+      "speaker": "Dianna",
+      "en": "But hope still remains. ...And that hope is our own existence.",
+      "display_variant": "en",
+      "display_text": "「But hope still remains. ...And that hope\nis our own existence.」"
+    },
+    {
+      "id": "c56_03cb0",
+      "speaker": "Elchi",
+      "en": "That's right! We've got an all-star lineup of our own too!",
+      "display_variant": "en",
+      "display_text": "「That's right! We've got an all-star\nlineup of our own too!」"
+    },
+    {
+      "id": "c56_03d00",
+      "speaker": "Jamil",
+      "en": "Our forces are evenly matched... Nothing to do but go for it.",
+      "display_variant": "en",
+      "display_text": "「Our forces are evenly matched... Nothing\nto do but go for it.」"
+    },
+    {
+      "id": "c56_03d40",
+      "speaker": "Shaya",
+      "en": "Now that we've come this far, let's steel our resolve.",
+      "display_variant": "en",
+      "display_text": "「Now that we've come this far, let's\nsteel our resolve.」"
+    },
+    {
+      "id": "c56_03d70",
+      "speaker": "Lacus",
+      "en": "If we're already defeated in our hearts, we won't be able to accomplish anything. It's our feelings that give birth to strength.",
+      "display_variant": "fit",
+      "display_text": "「If we're already defeated in our\nhearts, we can't accomplish anything. Our\nfeelings are what give birth to strength.」"
+    },
+    {
+      "id": "c56_03dd0",
+      "speaker": "Heizaemon",
+      "en": "Prepare to sortie. We'll clash head-on, strength against strength, and settle every one of these battles once and for all...!",
+      "display_variant": "fit",
+      "display_text": "「Prepare to sortie. We'll clash head-on,\nstrength against strength, and settle all\nthese battles once and for all...!」"
+    }
+  ]
+}

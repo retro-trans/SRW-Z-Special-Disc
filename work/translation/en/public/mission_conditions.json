@@ -1,0 +1,536 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "id": "m_689b6707d93c",
+      "source_sha256": "689b6707d93ce90ad30251187006c97ca8df51e58103e86cc2d090e21b18a304",
+      "text": "Defeat all enemies.",
+      "lines": [
+        "Defeat all enemies."
+      ]
+    },
+    {
+      "id": "m_c45cd84bf830",
+      "source_sha256": "c45cd84bf8307a1769b492a2a92d42d1d3b011fce74c96b2d263db4a59db84ca",
+      "text": "An allied battleship is shot down.",
+      "lines": [
+        "An allied battleship is shot down."
+      ]
+    },
+    {
+      "id": "m_864e5e1f0b9d",
+      "source_sha256": "864e5e1f0b9d10790bfe488eaaa526b3e243476b72430c2f1c91d6f1506104ff",
+      "text": "???",
+      "lines": [
+        "???"
+      ]
+    },
+    {
+      "id": "m_d8a077c760e1",
+      "source_sha256": "d8a077c760e1108c5339e649a67f2fd3e87d6edf23f156c9765ddc1dae32bcac",
+      "text": "Any allied unit is shot down.",
+      "lines": [
+        "Any allied unit is shot down."
+      ]
+    },
+    {
+      "id": "m_dd3942a10954",
+      "source_sha256": "dd3942a109543369de005c98079d037cb6f9ce26db9e1ca9d111d843005a8d02",
+      "text": "Defeat Shurouga.",
+      "lines": [
+        "Defeat Shurouga."
+      ]
+    },
+    {
+      "id": "m_97a14284d62a",
+      "source_sha256": "97a14284d62a416b3bf70cd67b46dad66a4d780a80e08f50fee0f9aa628d6eb1",
+      "text": "Defeat the Lemures Test Type.",
+      "lines": [
+        "Defeat the Lemures Test Type."
+      ]
+    },
+    {
+      "id": "m_ac7a606b3289",
+      "source_sha256": "ac7a606b3289cae772d46afea0fa3665aeaea41b60308296c485374a1ed2c6d0",
+      "text": "Gekko-Goh is shot down.",
+      "lines": [
+        "Gekko-Goh is shot down."
+      ]
+    },
+    {
+      "id": "m_617524dc60d1",
+      "source_sha256": "617524dc60d14fcc89dfb1d9032657c765e8c7fc2cf6d04b60c98cd41017b3c7",
+      "text": "Defeat the Eldar Battleship.",
+      "lines": [
+        "Defeat the Eldar Battleship."
+      ]
+    },
+    {
+      "id": "m_3fa09618377f",
+      "source_sha256": "3fa09618377f679281b036df627255b2b4a518fda09ffc0120f4bd004b963664",
+      "text": "Adette is shot down.",
+      "lines": [
+        "Adette is shot down."
+      ]
+    },
+    {
+      "id": "m_2ef007209d21",
+      "source_sha256": "2ef007209d21ccd70721196df0ec9b2ef030fd7cfd49f00b04094c772b9ccea7",
+      "text": "Defeat both Grave Cherubim in the same turn.",
+      "lines": [
+        "Defeat both Grave Cherubim in the same",
+        "turn."
+      ]
+    },
+    {
+      "id": "m_9fc4224eba18",
+      "source_sha256": "9fc4224eba188da17db37f6249d6603341518980e97041b74e6c396a462a479d",
+      "text": "Aquarion is shot down.",
+      "lines": [
+        "Aquarion is shot down."
+      ]
+    },
+    {
+      "id": "m_e6f4d3687445",
+      "source_sha256": "e6f4d36874453a7d92b1d02c5d43b3515d416d37276eec9cc1c0b5ab1032b972",
+      "text": "Assault Aquarion is shot down.",
+      "lines": [
+        "Assault Aquarion is shot down."
+      ]
+    },
+    {
+      "id": "m_5683d792c2e8",
+      "source_sha256": "5683d792c2e8dd2c6d4c612c82e09e5108fc5eb6505dc7ce9e742a4e9b1b48e9",
+      "text": "Defeat XAN -Zan-.",
+      "lines": [
+        "Defeat XAN -Zan-."
+      ]
+    },
+    {
+      "id": "m_85a41cf74a12",
+      "source_sha256": "85a41cf74a12d389aceb445713ddeaf8a32f54a3e0c3613a9f71bf93b3f6defd",
+      "text": "Defeat 100+ foes in 4 turns.\nBattle continues past 100 kills;\nends on turn 5. Each 20 Gaza C downed\nbrings 20 more Gaza C.",
+      "lines": [
+        "Defeat 100+ foes in 4 turns.",
+        "Battle continues past 100 kills;",
+        "ends on turn 5. Each 20 Gaza C downed",
+        "brings 20 more Gaza C."
+      ]
+    },
+    {
+      "id": "m_e946e70f1495",
+      "source_sha256": "e946e70f149565d412ee7cdafef07537f4cfaf187346abd32c5f571fe4046a99",
+      "text": "Argama is shot down.",
+      "lines": [
+        "Argama is shot down."
+      ]
+    },
+    {
+      "id": "m_9a9bd995b0f7",
+      "source_sha256": "9a9bd995b0f7f73abd351853f8d3aed8538008a2504dc54aff1bea14cd818e2c",
+      "text": "Fewer than 100 total kills at the start of turn 5.",
+      "lines": [
+        "Fewer than 100 total kills at the start of",
+        "turn 5."
+      ]
+    },
+    {
+      "id": "m_c3111548d968",
+      "source_sha256": "c3111548d9685107a751205c7d9df0d789ee895ecff51b4bb2231ca956445fed",
+      "text": "Deal at least 30,000 damage in one attack to the Science Fortress Island, which appears on turn 5.",
+      "lines": [
+        "Deal at least 30,000 damage in one attack",
+        "to the Science Fortress Island, which",
+        "appears on turn 5."
+      ]
+    },
+    {
+      "id": "m_d0d47090ede4",
+      "source_sha256": "d0d47090ede461d46668d179f9cdbe99dc478ee2f4d8ab9da20cb24f538d3066",
+      "text": "Fail to deal 30,000+ damage to Science Fortress Island in one attack.",
+      "lines": [
+        "Fail to deal 30,000+ damage to Science",
+        "Fortress Island in one attack."
+      ]
+    },
+    {
+      "id": "m_23032e0dbbe7",
+      "source_sha256": "23032e0dbbe7e01b70004c8ac1ae376425e36f61f7c2329c7c0877692e8c4e3e",
+      "text": "Turn 6 begins.",
+      "lines": [
+        "Turn 6 begins."
+      ]
+    },
+    {
+      "id": "m_2628e1e2b433",
+      "source_sha256": "2628e1e2b433b654a8f1a9cca075b1d11d8b6eadc0c0f177842662cfb5b147aa",
+      "text": "All allied units are defeated.",
+      "lines": [
+        "All allied units are defeated."
+      ]
+    },
+    {
+      "id": "m_27aa18d1afec",
+      "source_sha256": "27aa18d1afecad53950db79182cf819c49551d71d1ea1606fed5fa548c62d401",
+      "text": "Defend Vodara Shrine until turn 6.",
+      "lines": [
+        "Defend Vodara Shrine until turn 6."
+      ]
+    },
+    {
+      "id": "m_b5ee29f9b64f",
+      "source_sha256": "b5ee29f9b64fb9305911506a3071c31a68939774fee3cda88ed0463b1ae2e9d7",
+      "text": "Defeat all enemies. No reinforcements will appear.",
+      "lines": [
+        "Defeat all enemies. No reinforcements will",
+        "appear."
+      ]
+    },
+    {
+      "id": "m_acae2cccb3e7",
+      "source_sha256": "acae2cccb3e7e7357bdb7fcf9641a7921882afa426022a50bdedb81baf64dad5",
+      "text": "An enemy reaches Vodara Shrine.",
+      "lines": [
+        "An enemy reaches Vodara Shrine."
+      ]
+    },
+    {
+      "id": "m_ebdddeb6f72b",
+      "source_sha256": "ebdddeb6f72b8af2da5b057b7899ac73d4a389e4a8fe2d00e393af4beb0a29d1",
+      "text": "Earn 350,000+ funds in 5 turns.\nEach enemy defeated yields 10,000 funds.\nEven after earning 350,000, battle\ncontinues until turn 6.",
+      "lines": [
+        "Earn 350,000+ funds in 5 turns.",
+        "Each enemy defeated yields 10,000 funds.",
+        "Even after earning 350,000, battle",
+        "continues until turn 6."
+      ]
+    },
+    {
+      "id": "m_fabf0c518d9c",
+      "source_sha256": "fabf0c518d9c826fc7c9b409b38ff796d6fda06a2cc88d6f884713518753dea5",
+      "text": "Iron Gear is shot down.",
+      "lines": [
+        "Iron Gear is shot down."
+      ]
+    },
+    {
+      "id": "m_011be79c1b3d",
+      "source_sha256": "011be79c1b3db661335386c417699d275d999148ce92dba89e3fcd8a7ea264f8",
+      "text": "Funds earned <350,000 at turn 6 start.",
+      "lines": [
+        "Funds earned <350,000 at turn 6 start."
+      ]
+    },
+    {
+      "id": "m_56749a788ca2",
+      "source_sha256": "56749a788ca23dc528b5af289c292bd51d2c455d9d087427f9a21d27fc755706",
+      "text": "All foes defeated with under 350,000 funds earned.",
+      "lines": [
+        "All foes defeated with under 350,000",
+        "funds earned."
+      ]
+    },
+    {
+      "id": "m_586e9d9ec586",
+      "source_sha256": "586e9d9ec5861644cf93c0b80010d4bcd14d4e7f21a4213a30661a363a0f8a2d",
+      "text": "Defeat Rushrod, Golem and Planeta within 7 turns.",
+      "lines": [
+        "Defeat Rushrod, Golem and Planeta within",
+        "7 turns."
+      ]
+    },
+    {
+      "id": "m_38f8365f92d7",
+      "source_sha256": "38f8365f92d7a631638e82d1b0f8b43655c66d753b4123e4d695c027e6b6416c",
+      "text": "Turn 8 begins.",
+      "lines": [
+        "Turn 8 begins."
+      ]
+    },
+    {
+      "id": "m_b822a4c90b38",
+      "source_sha256": "b822a4c90b3891bb7795d14ba8b37bf0a8046aeb20f3b337b811582b40b15620",
+      "text": "Defeat all enemies within 9 turns. There are no reinforcements.",
+      "lines": [
+        "Defeat all enemies within 9 turns. There",
+        "are no reinforcements."
+      ]
+    },
+    {
+      "id": "m_668b7819f3b0",
+      "source_sha256": "668b7819f3b01dfab123a15dc12c537ff455ecd2f6197b98f014cefceab4c83b",
+      "text": "Soleil or Freeden is shot down.",
+      "lines": [
+        "Soleil or Freeden is shot down."
+      ]
+    },
+    {
+      "id": "m_9553ab529b8c",
+      "source_sha256": "9553ab529b8c05abcb182dbdd3892846409896d307f71d1ce738c3c3414e2095",
+      "text": "Turn 10 begins.",
+      "lines": [
+        "Turn 10 begins."
+      ]
+    },
+    {
+      "id": "m_9c7b29bd192d",
+      "source_sha256": "9c7b29bd192d2a5bbb1365a9084169a1890c93edaf3513542f6182262ab62f08",
+      "text": "Defeat 150+ foes in 4 turns.\nBattle continues past 150 kills;\nends on turn 5. Each 20 foes downed\nbrings 20 reinforcements.",
+      "lines": [
+        "Defeat 150+ foes in 4 turns.",
+        "Battle continues past 150 kills;",
+        "ends on turn 5. Each 20 foes downed",
+        "brings 20 reinforcements."
+      ]
+    },
+    {
+      "id": "m_60ed52c39483",
+      "source_sha256": "60ed52c39483f60e4683d2d0e9d47c43d78b01690bf0bcd30c8b5ed3a015cf10",
+      "text": "Fewer than 150 total kills at the start of turn 5.",
+      "lines": [
+        "Fewer than 150 total kills at the start of",
+        "turn 5."
+      ]
+    },
+    {
+      "id": "m_8f1a9aaf0b0e",
+      "source_sha256": "8f1a9aaf0b0e5c7008fea2a25f447d54b9a1934a6b392845ee4268c7f3102100",
+      "text": "Within 5 turns, defeat all enemies, then defeat the Bandock that appears afterward in one attack.",
+      "lines": [
+        "Within 5 turns, defeat all enemies, then",
+        "defeat the Bandock that appears afterward",
+        "in one attack."
+      ]
+    },
+    {
+      "id": "m_4bf834d580fa",
+      "source_sha256": "4bf834d580fa782f7a6f8f09a8690a2ec6d41402499e51c666a4caf783275217",
+      "text": "Fail to defeat Bandock in one attack.",
+      "lines": [
+        "Fail to defeat Bandock in one attack."
+      ]
+    },
+    {
+      "id": "m_1973da93e201",
+      "source_sha256": "1973da93e2012653e7e2daccaa5f134d6919d7fe350469f531b33510b53ef32d",
+      "text": "King Beal is shot down.",
+      "lines": [
+        "King Beal is shot down."
+      ]
+    },
+    {
+      "id": "m_01a6f01f230a",
+      "source_sha256": "01a6f01f230a5167c85dc0f4a9a18f64fc7fae939a8f9bf34b757f49ad2ff27b",
+      "text": "Turn 6 begins.",
+      "lines": [
+        "Turn 6 begins."
+      ]
+    },
+    {
+      "id": "m_e8989f925ae9",
+      "source_sha256": "e8989f925ae9ecbc2270755c49d32a9ba234de5b99807379d7a0075e34ae9c75",
+      "text": "The Emaan Battleship is shot down.",
+      "lines": [
+        "The Emaan Battleship is shot down."
+      ]
+    },
+    {
+      "id": "m_845f4dcf26be",
+      "source_sha256": "845f4dcf26bec017f9435a7601b0e6892f24d5cbdeb9d476a2c860c642a99ce4",
+      "text": "Glomar is shot down.",
+      "lines": [
+        "Glomar is shot down."
+      ]
+    },
+    {
+      "id": "m_9c63088a7f97",
+      "source_sha256": "9c63088a7f9739b4280b792238655cacff182ca306d6a0bdad75447c0b593ddd",
+      "text": "Defeat all foes in 5 turns; earn\n450,000+ funds. Funds per kill:\nDaughtress Neo: 10,000; Gadeel: 15,000.\nDefeating the Frost Brothers is optional.",
+      "lines": [
+        "Defeat all foes in 5 turns; earn",
+        "450,000+ funds. Funds per kill:",
+        "Daughtress Neo: 10,000; Gadeel: 15,000.",
+        "Defeating the Frost Brothers is optional."
+      ]
+    },
+    {
+      "id": "m_a331b5861ea7",
+      "source_sha256": "a331b5861ea79dd8713baa46c33f9cfbf8865ddc2ea7df8024a3a9af07b58f81",
+      "text": "Freeden is shot down.",
+      "lines": [
+        "Freeden is shot down."
+      ]
+    },
+    {
+      "id": "m_360dd8f206a1",
+      "source_sha256": "360dd8f206a1af6bd39ad85d941a87cd58b44edb94086704e9c5971400489386",
+      "text": "All unmanned MS defeated with under 450,000 funds earned.",
+      "lines": [
+        "All unmanned MS defeated with under",
+        "450,000 funds earned."
+      ]
+    },
+    {
+      "id": "m_bda675a1e6fd",
+      "source_sha256": "bda675a1e6fd864d6b769b50b05c9f648132c44743485d9bc23556bdd7ece83a",
+      "text": "Defeat Gear Gear, Mecha Yosaiki, Planeta, Dominator, The O, Nirvash the END and Big Duo Inferno within 8 turns.",
+      "lines": [
+        "Defeat Gear Gear, Mecha Yosaiki, Planeta,",
+        "Dominator, The O, Nirvash the END and Big",
+        "Duo Inferno within 8 turns."
+      ]
+    },
+    {
+      "id": "m_e05ba067d99e",
+      "source_sha256": "e05ba067d99ef9124199899fd1b1518047f94dd607a76bfc5cd1e963ae7197f5",
+      "text": "Turn 9 begins.",
+      "lines": [
+        "Turn 9 begins."
+      ]
+    },
+    {
+      "id": "m_373d235352df",
+      "source_sha256": "373d235352df19d08aea53dc5325494857bec2244d46cd3ae64a862bf1f5456a",
+      "text": "Eternal or Glomar is shot down.",
+      "lines": [
+        "Eternal or Glomar is shot down."
+      ]
+    },
+    {
+      "id": "m_84936773c88f",
+      "source_sha256": "84936773c88fcdca544774731e99803633b40f5a5fe0503ef6fe4e8b44b9d7ef",
+      "text": "Defeat 100 foes in 3 turns.\nNo Spirit Commands or MAP weapons.\nEvery 20 kills brings 20 reinforcements;\n100 foes appear in total.",
+      "lines": [
+        "Defeat 100 foes in 3 turns.",
+        "No Spirit Commands or MAP weapons.",
+        "Every 20 kills brings 20 reinforcements;",
+        "100 foes appear in total."
+      ]
+    },
+    {
+      "id": "m_c43d149bce9f",
+      "source_sha256": "c43d149bce9f12087911a373c49182ef9d44085e381b7dc7828b342ad49bb3d5",
+      "text": "An allied battleship is shot down. Only 1 battleship can be deployed.",
+      "lines": [
+        "An allied battleship is shot down. Only 1",
+        "battleship can be deployed."
+      ]
+    },
+    {
+      "id": "m_3705ca91a1d6",
+      "source_sha256": "3705ca91a1d6d9bb7d6e2ceb5ebaa4e0a14b923d06f61f8b26a487092d0dbd34",
+      "text": "Turn 4 begins.",
+      "lines": [
+        "Turn 4 begins."
+      ]
+    },
+    {
+      "id": "m_edba6724af2d",
+      "source_sha256": "edba6724af2dc978ac0e40a304576375cd2263d841d3e4d9ca06e7f84ff1780f",
+      "text": "Defeat the Artificial Sun within 5 turns. Spirit Commands cannot be used.",
+      "lines": [
+        "Defeat the Artificial Sun within 5 turns.",
+        "Spirit Commands cannot be used."
+      ]
+    },
+    {
+      "id": "m_6753bd0efdb4",
+      "source_sha256": "6753bd0efdb48a17af4caf911bf8dd15828b59d1bbcce1a4d88aaa29ec7419c5",
+      "text": "Reach turn 6. No Spirit Commands\nor MAP weapons. Coralians: 3 per squad.\nEach 5 squads wiped out brings\n5 reinforcement squads.",
+      "lines": [
+        "Reach turn 6. No Spirit Commands",
+        "or MAP weapons. Coralians: 3 per squad.",
+        "Each 5 squads wiped out brings",
+        "5 reinforcement squads."
+      ]
+    },
+    {
+      "id": "m_9e5a3d01683c",
+      "source_sha256": "9e5a3d01683c43b6b17d01fb139f0312675c2a3fe72cd28076fc1d2e9f482f59",
+      "text": "An enemy reaches the edge of the map.",
+      "lines": [
+        "An enemy reaches the edge of the map."
+      ]
+    },
+    {
+      "id": "m_24470a24cf72",
+      "source_sha256": "24470a24cf7213e9ed6ba835da6bb028dc4e3ec4d092adbf46d4d43b41368cee",
+      "text": "4 turns: defeat all foes and earn\n800,000+ funds; 3 units/enemy squad.\n10,000 funds/kill; no Spirit Commands.\nNo funds for third-force kills.",
+      "lines": [
+        "4 turns: defeat all foes and earn",
+        "800,000+ funds; 3 units/enemy squad.",
+        "10,000 funds/kill; no Spirit Commands.",
+        "No funds for third-force kills."
+      ]
+    },
+    {
+      "id": "m_a5bd01ec9da5",
+      "source_sha256": "a5bd01ec9da53ad2b12ccb713f79f94528025ebc25abf5b7e409ffd49e5c777c",
+      "text": "An allied battleship falls (deploy: 2).",
+      "lines": [
+        "An allied battleship falls (deploy: 2)."
+      ]
+    },
+    {
+      "id": "m_b429dd81014f",
+      "source_sha256": "b429dd81014fa2483a5cb2dbcdc3cd0a77955790bccc32bad489dcf2b90a97f7",
+      "text": "All foes defeated with under 800,000 funds earned.",
+      "lines": [
+        "All foes defeated with under 800,000",
+        "funds earned."
+      ]
+    },
+    {
+      "id": "m_df0cf43d49f9",
+      "source_sha256": "df0cf43d49f96b788b65a80483f3524043fe676c09dd41c45e99f2c95e01d417",
+      "text": "Turn 5 begins.",
+      "lines": [
+        "Turn 5 begins."
+      ]
+    },
+    {
+      "id": "m_29abdae11119",
+      "source_sha256": "29abdae11119b4864a776dcb29772852762ced02dbc97d6e95074fc07c096efb",
+      "text": "Defeat Haman, Scirocco, Shagia, Olba and Ghingnham within 5 turns. Spirit Commands cannot be used.",
+      "lines": [
+        "Defeat Haman, Scirocco, Shagia, Olba and",
+        "Ghingnham within 5 turns. Spirit Commands",
+        "cannot be used."
+      ]
+    },
+    {
+      "id": "m_5df791b40e28",
+      "source_sha256": "5df791b40e28516ff5ed429ef55c3aa503da4663b2dc768816a471a01b293ca2",
+      "text": "Defeat all enemies within 12 turns.",
+      "lines": [
+        "Defeat all enemies within 12 turns."
+      ]
+    },
+    {
+      "id": "m_a0c7b23e7a40",
+      "source_sha256": "a0c7b23e7a407186ceac9ed89b3f0b16c9859a5d962db1b6b0fee1e72dfbd233",
+      "text": "An allied battleship is shot down. Only 4 battleships can be deployed.",
+      "lines": [
+        "An allied battleship is shot down. Only 4",
+        "battleships can be deployed."
+      ]
+    },
+    {
+      "id": "m_81aff43294e9",
+      "source_sha256": "81aff43294e97fdd157908db881de924a20d367f1f96b94dc3c4b4a1203b1921",
+      "text": "Turn 13 begins.",
+      "lines": [
+        "Turn 13 begins."
+      ]
+    },
+    {
+      "id": "m_9e1c1bf3fcfd",
+      "source_sha256": "9e1c1bf3fcfdbaddc261592b597f2f9d185a9237dcbc05dfb246bf46029ab146",
+      "text": "\n- No special requirements.",
+      "lines": [
+        "",
+        "- No special requirements."
+      ]
+    }
+  ]
+}

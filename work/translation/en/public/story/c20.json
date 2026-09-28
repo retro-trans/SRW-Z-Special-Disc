@@ -1,0 +1,2084 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c20_05490",
+      "speaker": "Mel",
+      "en": "Those guys brought out Walker Machines!",
+      "display_variant": "en",
+      "display_text": "「Those guys brought out Walker Machines!」"
+    },
+    {
+      "id": "c20_054d0",
+      "speaker": "Roger",
+      "en": "What fools. This is like broadcasting their own crimes to the whole city.",
+      "display_variant": "en",
+      "display_text": "「What fools. This is like broadcasting\ntheir own crimes to the whole city.」"
+    },
+    {
+      "id": "c20_05530",
+      "speaker": "Breaker",
+      "en": "That's old news! This city's basically already under Este's control.",
+      "display_variant": "en",
+      "display_text": "「That's old news! This city's basically\nalready under Este's control.」"
+    },
+    {
+      "id": "c20_05590",
+      "speaker": "Breaker",
+      "en": "With this much firepower on our side, even the police just look the other way.",
+      "display_variant": "en",
+      "display_text": "「With this much firepower on our side,\neven the police just look the other way.」"
+    },
+    {
+      "id": "c20_055e0",
+      "speaker": "Breaker",
+      "en": "Let me tell you, Este Corp's power doesn't stop here.",
+      "display_variant": "en",
+      "display_text": "「Let me tell you, Este Corp's power\ndoesn't stop here.」"
+    },
+    {
+      "id": "c20_05630",
+      "speaker": "Mel",
+      "en": "Chiram devices and mobile suits are coming out too!",
+      "display_variant": "en",
+      "display_text": "「Chiram devices and mobile suits are\ncoming out too!」"
+    },
+    {
+      "id": "c20_05670",
+      "speaker": "Breaker",
+      "en": "That's Este's pride and joy -- the guard system.",
+      "display_variant": "en",
+      "display_text": "「That's Este's pride and joy -- the\nguard system.」"
+    },
+    {
+      "id": "c20_056b0",
+      "speaker": "Breaker",
+      "en": "A combat unit made of secondhand military machines rigged with autopilot systems.",
+      "display_variant": "en",
+      "display_text": "「A combat unit made of secondhand\nmilitary machines rigged with autopilot\nsystems.」"
+    },
+    {
+      "id": "c20_05700",
+      "speaker": "Mel",
+      "en": "B-but... isn't this a little much just to chase down two people!?",
+      "display_variant": "en",
+      "display_text": "「B-but... isn't this a little much just to\nchase down two people!?」"
+    },
+    {
+      "id": "c20_05750",
+      "speaker": "Breaker",
+      "en": "It's a good opportunity, that's why. We're gonna show the whole city what Este Corp can do!",
+      "display_variant": "en",
+      "display_text": "「It's a good opportunity, that's why.\nWe're gonna show the whole city what\nEste Corp can do!」"
+    },
+    {
+      "id": "c20_057b0",
+      "speaker": "Roger",
+      "en": "Mel... this is an emergency. Clearly, I have no choice but to fight in self-defense.",
+      "display_variant": "en",
+      "display_text": "「Mel... this is an emergency. Clearly, I\nhave no choice but to fight in\nself-defense.」"
+    },
+    {
+      "id": "c20_05810",
+      "speaker": "Mel",
+      "en": "Right! Get 'em, Roger!",
+      "display_variant": "en",
+      "display_text": "「Right! Get 'em, Roger!」"
+    },
+    {
+      "id": "c20_05850",
+      "speaker": "Roger",
+      "en": "Very well...",
+      "display_variant": "en",
+      "display_text": "「Very well...」"
+    },
+    {
+      "id": "c20_05870",
+      "speaker": "Roger",
+      "en": "Big O, showtime!",
+      "display_variant": "en",
+      "display_text": "「Big O, showtime!」"
+    },
+    {
+      "id": "c20_058a0",
+      "speaker": "Mel",
+      "en": "It's not coming!",
+      "display_variant": "en",
+      "display_text": "「It's not coming!」"
+    },
+    {
+      "id": "c20_058c0",
+      "speaker": "Roger",
+      "en": "I suppose it's not as simple as it was back in Paradigm City...",
+      "display_variant": "en",
+      "display_text": "「I suppose it's not as simple as it was\nback in Paradigm City...」"
+    },
+    {
+      "id": "c20_05900",
+      "speaker": "Breaker",
+      "en": "What was that! Just a bluff!?",
+      "display_variant": "en",
+      "display_text": "「What was that! Just a bluff!?」"
+    },
+    {
+      "id": "c20_05930",
+      "speaker": "Breaker",
+      "en": "Don't try to scare us, you bastard!",
+      "display_variant": "en",
+      "display_text": "「Don't try to scare us, you bastard!」"
+    },
+    {
+      "id": "c20_05970",
+      "speaker": "Mel",
+      "en": "It's over! Darling, live on strong even without me!!",
+      "display_variant": "en",
+      "display_text": "「It's over! Darling, live on strong even\nwithout me!!」"
+    },
+    {
+      "id": "c20_059c0",
+      "speaker": "Roger",
+      "en": "No need to worry. I have someone who understands me.",
+      "display_variant": "en",
+      "display_text": "「No need to worry. I have someone who\nunderstands me.」"
+    },
+    {
+      "id": "c20_05a00",
+      "speaker": "Mel",
+      "en": "The Big O! Who's piloting it!?",
+      "display_variant": "en",
+      "display_text": "「The Big O! Who's piloting it!?」"
+    },
+    {
+      "id": "c20_05a30",
+      "speaker": "Dorothy",
+      "en": "It's me.",
+      "display_variant": "en",
+      "display_text": "「It's me.」"
+    },
+    {
+      "id": "c20_05a50",
+      "speaker": "Roger",
+      "en": "Thank you, Dorothy. I knew you'd come.",
+      "display_variant": "en",
+      "display_text": "「Thank you, Dorothy. I knew you'd come.」"
+    },
+    {
+      "id": "c20_05a90",
+      "speaker": "Dorothy",
+      "en": "You went out on a job. So, just in case, I got things ready.",
+      "display_variant": "en",
+      "display_text": "「You went out on a job. So, just in\ncase, I got things ready.」"
+    },
+    {
+      "id": "c20_05ae0",
+      "speaker": "Roger",
+      "en": "Respecting my way of doing things, while giving precise support.",
+      "display_variant": "en",
+      "display_text": "「Respecting my way of doing things,\nwhile giving precise support.」"
+    },
+    {
+      "id": "c20_05b20",
+      "speaker": "Roger",
+      "en": "Not too close, not too far... You keep just the right distance.",
+      "display_variant": "en",
+      "display_text": "「Not too close, not too far... You keep\njust the right distance.」"
+    },
+    {
+      "id": "c20_05b60",
+      "speaker": "$n",
+      "en": "Sorry, boss. Making you look after Mel.",
+      "display_variant": "en",
+      "display_text": "「Sorry, boss. Making you look after Mel.」"
+    },
+    {
+      "id": "c20_05ba0",
+      "speaker": "Roger",
+      "en": "Don't worry about it. As for me, I consider it a fortunate opportunity.",
+      "display_variant": "en",
+      "display_text": "「Don't worry about it. As for me, I\nconsider it a fortunate opportunity.」"
+    },
+    {
+      "id": "c20_05bf0",
+      "speaker": "Roger",
+      "en": "My apologies to you too, Captain Lowen.",
+      "display_variant": "en",
+      "display_text": "「My apologies to you too, Captain Lowen.」"
+    },
+    {
+      "id": "c20_05c20",
+      "speaker": "Lowen",
+      "en": "...In my case, I got dragged along without even knowing why, though.",
+      "display_variant": "en",
+      "display_text": "「...In my case, I got dragged along\nwithout even knowing why, though.」"
+    },
+    {
+      "id": "c20_05c70",
+      "speaker": "Dorothy",
+      "en": "Hurry up and get in, Roger. Big O is waiting too.",
+      "display_variant": "en",
+      "display_text": "「Hurry up and get in, Roger. Big O is\nwaiting too.」"
+    },
+    {
+      "id": "c20_05cb0",
+      "speaker": "Roger",
+      "en": "Understood.",
+      "display_variant": "en",
+      "display_text": "「Understood.」"
+    },
+    {
+      "id": "c20_05cd0",
+      "speaker": "Breaker",
+      "en": "W-what!? Something really did show up after all!",
+      "display_variant": "en",
+      "display_text": "「W-what!? Something really did show up\nafter all!」"
+    },
+    {
+      "id": "c20_05d10",
+      "speaker": "Breaker",
+      "en": "Don't worry about it! There's only 3 of them! Take 'em down!",
+      "display_variant": "en",
+      "display_text": "「Don't worry about it! There's only 3 of\nthem! Take 'em down!」"
+    },
+    {
+      "id": "c20_05d60",
+      "speaker": "Dorothy",
+      "en": "That's not going to happen.",
+      "display_variant": "en",
+      "display_text": "「That's not going to happen.」"
+    },
+    {
+      "id": "c20_05d80",
+      "speaker": "Jamil",
+      "en": "Dorothy contacted me. I'll back you up, Roger.",
+      "display_variant": "en",
+      "display_text": "「Dorothy contacted me. I'll back you up,\nRoger.」"
+    },
+    {
+      "id": "c20_05dc0",
+      "speaker": "Roger",
+      "en": "Sorry, everyone. For dragging you into this.",
+      "display_variant": "en",
+      "display_text": "「Sorry, everyone. For dragging you into\nthis.」"
+    },
+    {
+      "id": "c20_05e00",
+      "speaker": "Apollo",
+      "en": "Well... I figured it'd end up like this if you went out there.",
+      "display_variant": "en",
+      "display_text": "「Well... I figured it'd end up like this if\nyou went out there.」"
+    },
+    {
+      "id": "c20_05e50",
+      "speaker": "Mel",
+      "en": "Wait a second, Apollo! This is...",
+      "display_variant": "en",
+      "display_text": "「Wait a second, Apollo! This is...」"
+    },
+    {
+      "id": "c20_05e80",
+      "speaker": "Roger",
+      "en": "Mel.",
+      "display_variant": "en",
+      "display_text": "「Mel.」"
+    },
+    {
+      "id": "c20_05ea0",
+      "speaker": "Mel",
+      "en": "Y-yeah...! Got it, Roger!",
+      "display_variant": "en",
+      "display_text": "「Y-yeah...! Got it, Roger!」"
+    },
+    {
+      "id": "c20_05ee0",
+      "speaker": "$n",
+      "en": "What was that signal about, Mel?",
+      "display_variant": "en",
+      "display_text": "「What was that signal about, Mel?」"
+    },
+    {
+      "id": "c20_05f00",
+      "speaker": "Mel",
+      "en": "It's fine, it's fine. Don't worry about it, don't worry about it!",
+      "display_variant": "en",
+      "display_text": "「It's fine, it's fine. Don't worry about\nit, don't worry about it!」"
+    },
+    {
+      "id": "c20_05f40",
+      "speaker": "Citizen",
+      "en": "Ah, I saw that on the UN! It's the New Earth Federation's special forces!!",
+      "display_variant": "en",
+      "display_text": "「Ah, I saw that on the UN! It's the New\nEarth Federation's special forces!!」"
+    },
+    {
+      "id": "c20_05f80",
+      "speaker": "Citizen",
+      "en": "This can't be...! The New Earth Federation has come to take over my city!",
+      "display_variant": "en",
+      "display_text": "「This can't be...! The New Earth\nFederation has come to take over my\ncity!」"
+    },
+    {
+      "id": "c20_05fd0",
+      "speaker": "Garrod",
+      "en": "That old man's been fooled by the UN too, spouting nonsense like that.",
+      "display_variant": "en",
+      "display_text": "「That old man's been fooled by the UN\ntoo, spouting nonsense like that.」"
+    },
+    {
+      "id": "c20_06020",
+      "speaker": "Renton",
+      "en": "Old man! We're not...",
+      "display_variant": "en",
+      "display_text": "「Old man! We're not...」"
+    },
+    {
+      "id": "c20_06050",
+      "speaker": "Mel",
+      "en": "It's fine. Let people say whatever they want to say.",
+      "display_variant": "en",
+      "display_text": "「It's fine. Let people say whatever they\nwant to say.」"
+    },
+    {
+      "id": "c20_06090",
+      "speaker": "Mel",
+      "en": "We're $c. No matter what anyone says about us, that's just fine, isn't it?",
+      "display_variant": "en",
+      "display_text": "「We're $c. No matter what anyone says\nabout us, that's just fine, isn't it?」"
+    },
+    {
+      "id": "c20_060e0",
+      "speaker": "$n",
+      "en": "Look at you, you get it, Mel.",
+      "display_variant": "en",
+      "display_text": "「Look at you, you get it, Mel.」"
+    },
+    {
+      "id": "c20_06110",
+      "speaker": "Gain",
+      "en": "That's about right.",
+      "display_variant": "en",
+      "display_text": "「That's about right.」"
+    },
+    {
+      "id": "c20_06130",
+      "speaker": "Holland",
+      "en": "We just do what we want to do, same as always.",
+      "display_variant": "en",
+      "display_text": "「We just do what we want to do, same\nas always.」"
+    },
+    {
+      "id": "c20_06180",
+      "speaker": "Citizen",
+      "en": "Damn it! If it's come to this, we have no choice but to defeat them! Begin the attack!",
+      "display_variant": "en",
+      "display_text": "「Damn it! If it's come to this, we have\nno choice but to defeat them! Begin the\nattack!」"
+    },
+    {
+      "id": "c20_061d0",
+      "speaker": "Jamil",
+      "en": "All units, begin attack! Let's meet these thugs head-on!",
+      "display_variant": "en",
+      "display_text": "「All units, begin attack! Let's meet\nthese thugs head-on!」"
+    },
+    {
+      "id": "c20_06210",
+      "speaker": "Dorothy",
+      "en": "Since I'm already in the cockpit, I'll back you up today.",
+      "display_variant": "en",
+      "display_text": "「Since I'm already in the cockpit, I'll\nback you up today.」"
+    },
+    {
+      "id": "c20_06260",
+      "speaker": "Roger",
+      "en": "That's awfully generous of you, Dorothy. Did something good happen?",
+      "display_variant": "en",
+      "display_text": "「That's awfully generous of you,\nDorothy. Did something good happen?」"
+    },
+    {
+      "id": "c20_062b0",
+      "speaker": "Dorothy",
+      "en": "Not particularly...",
+      "display_variant": "en",
+      "display_text": "「Not particularly...」"
+    },
+    {
+      "id": "c20_062d0",
+      "speaker": "Roger",
+      "en": "Well, fine... I'll be counting on you, Dorothy.",
+      "display_variant": "en",
+      "display_text": "「Well, fine... I'll be counting on you,\nDorothy.」"
+    },
+    {
+      "id": "c20_06310",
+      "speaker": "Roger",
+      "en": "Big O! Action!!",
+      "display_variant": "en",
+      "display_text": "「Big O! Action!!」"
+    },
+    {
+      "id": "c20_06340",
+      "speaker": "Citizen",
+      "en": "Ah... aah... my army... My dream is over...!",
+      "display_variant": "en",
+      "display_text": "「Ah... aah... my army... My dream is\nover...!」"
+    },
+    {
+      "id": "c20_06380",
+      "speaker": "Roger",
+      "en": "Now that they've lost their backing of brute force, this is the end for Este Corp.",
+      "display_variant": "en",
+      "display_text": "「Now that they've lost their backing of\nbrute force, this is the end for Este\nCorp.」"
+    },
+    {
+      "id": "c20_063d0",
+      "speaker": "Roger",
+      "en": "Regardless of the process and the methods, one of my two jobs is finished.",
+      "display_variant": "en",
+      "display_text": "「Regardless of the process and the\nmethods, one of my two jobs is finished.」"
+    },
+    {
+      "id": "c20_06410",
+      "speaker": "Dorothy",
+      "en": "One of two?",
+      "display_variant": "en",
+      "display_text": "「One of two?」"
+    },
+    {
+      "id": "c20_06430",
+      "speaker": "Roger",
+      "en": "That's right. I still have to take care of the other job.",
+      "display_variant": "en",
+      "display_text": "「That's right. I still have to take care\nof the other job.」"
+    },
+    {
+      "id": "c20_06480",
+      "speaker": "Roger",
+      "en": "Big O's in excellent shape today. I wonder if it's because Dorothy's riding along?",
+      "display_variant": "en",
+      "display_text": "「Big O's in excellent shape today. I\nwonder if it's because Dorothy's riding\nalong?」"
+    },
+    {
+      "id": "c20_064e0",
+      "speaker": "Dorothy",
+      "en": "It's thanks to Norman's maintenance.",
+      "display_variant": "en",
+      "display_text": "「It's thanks to Norman's maintenance.」"
+    },
+    {
+      "id": "c20_06510",
+      "speaker": "Roger",
+      "en": "That was a joke, meant to put you at ease -- you must be tense.",
+      "display_variant": "en",
+      "display_text": "「That was a joke, meant to put you at\nease -- you must be tense.」"
+    },
+    {
+      "id": "c20_06550",
+      "speaker": "Dorothy",
+      "en": "Sounds like you're the one something good happened to.",
+      "display_variant": "en",
+      "display_text": "「Sounds like you're the one something\ngood happened to.」"
+    },
+    {
+      "id": "c20_065e0",
+      "speaker": "Gain",
+      "en": "...Sorry about this, Norman. Having you play bartender.",
+      "display_variant": "en",
+      "display_text": "「...Sorry about this, Norman. Having you\nplay bartender.」"
+    },
+    {
+      "id": "c20_06630",
+      "speaker": "Norman",
+      "en": "Please don't concern yourself. If I can be of service, feel free to ask for anything.",
+      "display_variant": "en",
+      "display_text": "「Please don't concern yourself. If I can\nbe of service, feel free to ask for\nanything.」"
+    },
+    {
+      "id": "c20_066a0",
+      "speaker": "$n",
+      "en": "Well, much obliged... I'm honored.",
+      "display_variant": "en",
+      "display_text": "「Well, much obliged... I'm honored.」"
+    },
+    {
+      "id": "c20_066d0",
+      "speaker": "Norman",
+      "en": "Master Tex, would you care for another?",
+      "display_variant": "en",
+      "display_text": "「Master Tex, would you care for\nanother?」"
+    },
+    {
+      "id": "c20_06710",
+      "speaker": "Tex",
+      "en": "You're a splendid barman. The way you pour, the timing of your conversation -- all of it is exquisite.",
+      "display_variant": "en",
+      "display_text": "「You're a splendid barman. The way you\npour, the timing of your conversation --\nall of it is exquisite.」"
+    },
+    {
+      "id": "c20_06770",
+      "speaker": "Norman",
+      "en": "That's only because you all enjoy your drinks so much. It gives me all the more reason to put my skills to use.",
+      "display_variant": "en",
+      "display_text": "「That's only because you all enjoy your\ndrinks so much. It gives me all the more\nreason to put my skills to use.」"
+    },
+    {
+      "id": "c20_067d0",
+      "speaker": "Mel",
+      "en": "The Freeden's turned into a full-on bar, hasn't it?",
+      "display_variant": "en",
+      "display_text": "「The Freeden's turned into a full-on\nbar, hasn't it?」"
+    },
+    {
+      "id": "c20_06810",
+      "speaker": "$n",
+      "en": "For the record, we got Jamil's permission for this.",
+      "display_variant": "en",
+      "display_text": "「For the record, we got Jamil's\npermission for this.」"
+    },
+    {
+      "id": "c20_06850",
+      "speaker": "Kei",
+      "en": "Well... drinking in the middle of the day might be a bit of a problem, though.",
+      "display_variant": "en",
+      "display_text": "「Well... drinking in the middle of the day\nmight be a bit of a problem, though.」"
+    },
+    {
+      "id": "c20_06890",
+      "speaker": "Roger",
+      "en": "Well then, Norman... I'll be heading out for a bit.",
+      "display_variant": "en",
+      "display_text": "「Well then, Norman... I'll be heading out\nfor a bit.」"
+    },
+    {
+      "id": "c20_068d0",
+      "speaker": "Norman",
+      "en": "Please take care, Master Roger.",
+      "display_variant": "en",
+      "display_text": "「Please take care, Master Roger.」"
+    },
+    {
+      "id": "c20_06900",
+      "speaker": "$n",
+      "en": "Come on, Roger. Calling it quits after just one drink? That's kind of a bummer.",
+      "display_variant": "en",
+      "display_text": "「Come on, Roger. Calling it quits after\njust one drink? That's kind of a bummer.」"
+    },
+    {
+      "id": "c20_06950",
+      "speaker": "Roger",
+      "en": "Sorry. There's a small errand I need to take care of.",
+      "display_variant": "en",
+      "display_text": "「Sorry. There's a small errand I need to\ntake care of.」"
+    },
+    {
+      "id": "c20_069a0",
+      "speaker": "Roger",
+      "en": "Well then, if you'll excuse me.",
+      "display_variant": "en",
+      "display_text": "「Well then, if you'll excuse me.」"
+    },
+    {
+      "id": "c20_069c0",
+      "speaker": "Stoner",
+      "en": "Stylish guy, huh. Wearing a suit even in a place like this.",
+      "display_variant": "en",
+      "display_text": "「Stylish guy, huh. Wearing a suit even in\na place like this.」"
+    },
+    {
+      "id": "c20_06a10",
+      "speaker": "Dorothy",
+      "en": "That's the only clothes Roger owns.",
+      "display_variant": "en",
+      "display_text": "「That's the only clothes Roger owns.」"
+    },
+    {
+      "id": "c20_06a50",
+      "speaker": "Holland",
+      "en": "Aren't you gonna ask where he's headed?",
+      "display_variant": "en",
+      "display_text": "「Aren't you gonna ask where he's\nheaded?」"
+    },
+    {
+      "id": "c20_06a90",
+      "speaker": "Dorothy",
+      "en": "There's no need for me to know.",
+      "display_variant": "en",
+      "display_text": "「There's no need for me to know.」"
+    },
+    {
+      "id": "c20_06ab0",
+      "speaker": "Matthieu",
+      "en": "Wow, you really are cold, aren't you.",
+      "display_variant": "en",
+      "display_text": "「Wow, you really are cold, aren't you.」"
+    },
+    {
+      "id": "c20_06ae0",
+      "speaker": "Gain",
+      "en": "Knowing Roger, he probably picked up a job or something.",
+      "display_variant": "en",
+      "display_text": "「Knowing Roger, he probably picked up a\njob or something.」"
+    },
+    {
+      "id": "c20_06b20",
+      "speaker": "Kei",
+      "en": "You never know. Could be a date.",
+      "display_variant": "en",
+      "display_text": "「You never know. Could be a date.」"
+    },
+    {
+      "id": "c20_06b50",
+      "speaker": "$n",
+      "en": "It's not out of the question. Mr. Negotiator's got a soft spot for women, believe it or not.",
+      "display_variant": "en",
+      "display_text": "「It's not out of the question. Mr.\nNegotiator's got a soft spot for women,\nbelieve it or not.」"
+    },
+    {
+      "id": "c20_06bb0",
+      "speaker": "Mel",
+      "en": "Is that okay with you, Dorothy...!?",
+      "display_variant": "en",
+      "display_text": "「Is that okay with you, Dorothy...!?」"
+    },
+    {
+      "id": "c20_06be0",
+      "speaker": "Dorothy",
+      "en": "What is?",
+      "display_variant": "en",
+      "display_text": "「What is?」"
+    },
+    {
+      "id": "c20_06c00",
+      "speaker": "Mel",
+      "en": "What do you mean, what -- Roger might have gone on a date.",
+      "display_variant": "en",
+      "display_text": "「What do you mean, what -- Roger might\nhave gone on a date.」"
+    },
+    {
+      "id": "c20_06c50",
+      "speaker": "Dorothy",
+      "en": "It's none of my business.",
+      "display_variant": "en",
+      "display_text": "「It's none of my business.」"
+    },
+    {
+      "id": "c20_06c70",
+      "speaker": "Mel",
+      "en": "Dorothy...",
+      "display_variant": "en",
+      "display_text": "「Dorothy...」"
+    },
+    {
+      "id": "c20_06ca0",
+      "speaker": "Federation Soldier",
+      "en": "...So, you'll take the job?",
+      "display_variant": "en",
+      "display_text": "「...So, you'll take the job?」"
+    },
+    {
+      "id": "c20_06ce0",
+      "speaker": "Roger",
+      "en": "I have no intention of turning down a request from someone who shows courtesy and sincerity.",
+      "display_variant": "en",
+      "display_text": "「I have no intention of turning down a\nrequest from someone who shows courtesy\nand sincerity.」"
+    },
+    {
+      "id": "c20_06d30",
+      "speaker": "Roger",
+      "en": "Especially not when it's a request naming me specifically, trusting in my skill. I can hardly brush that aside.",
+      "display_variant": "en",
+      "display_text": "「Especially not when it's a request\nnaming me specifically, trusting in my\nskill. I can hardly brush that aside.」"
+    },
+    {
+      "id": "c20_06d90",
+      "speaker": "Federation Soldier",
+      "en": "Thank you very much, Roger Smith.",
+      "display_variant": "en",
+      "display_text": "「Thank you very much, Roger Smith.」"
+    },
+    {
+      "id": "c20_06dd0",
+      "speaker": "Federation Soldier",
+      "en": "Then I'll be waiting for good news.",
+      "display_variant": "en",
+      "display_text": "「Then I'll be waiting for good news.」"
+    },
+    {
+      "id": "c20_06e00",
+      "speaker": "Roger",
+      "en": "...A present for someone dear to him. Now that's a job worth putting my skills to use for. ...Now then.",
+      "display_variant": "en",
+      "display_text": "「...A present for someone dear to him.\nNow that's a job worth putting my skills\nto use for. ...Now then.」"
+    },
+    {
+      "id": "c20_06e60",
+      "speaker": "Roger",
+      "en": "Why don't you come on out now, Mel Beater?",
+      "display_variant": "en",
+      "display_text": "「Why don't you come on out now, Mel\nBeater?」"
+    },
+    {
+      "id": "c20_06ea0",
+      "speaker": "Mel",
+      "en": "Oh... you noticed?",
+      "display_variant": "en",
+      "display_text": "「Oh... you noticed?」"
+    },
+    {
+      "id": "c20_06ec0",
+      "speaker": "Roger",
+      "en": "I'm well accustomed to both tailing people and being tailed.",
+      "display_variant": "en",
+      "display_text": "「I'm well accustomed to both tailing\npeople and being tailed.」"
+    },
+    {
+      "id": "c20_06f00",
+      "speaker": "Roger",
+      "en": "So... what business did you have following me?",
+      "display_variant": "en",
+      "display_text": "「So... what business did you have\nfollowing me?」"
+    },
+    {
+      "id": "c20_06f40",
+      "speaker": "Mel",
+      "en": "Um... well... that is... I thought maybe... you might be going on a date with someone, Roger...",
+      "display_variant": "en",
+      "display_text": "「Um... well... that is... I thought maybe...\nyou might be going on a date with\nsomeone, Roger...」"
+    },
+    {
+      "id": "c20_06fa0",
+      "speaker": "Roger",
+      "en": "It's true I'm about to go meet a woman.",
+      "display_variant": "en",
+      "display_text": "「It's true I'm about to go meet a\nwoman.」"
+    },
+    {
+      "id": "c20_06fd0",
+      "speaker": "Mel",
+      "en": "Wha--!? Who is it!? How'd you two meet!? Are you planning to get married!?",
+      "display_variant": "en",
+      "display_text": "「Wha--!? Who is it!? How'd you two\nmeet!? Are you planning to get married!?」"
+    },
+    {
+      "id": "c20_07030",
+      "speaker": "Roger",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c20_07050",
+      "speaker": "Roger",
+      "en": "Very well, Mel. If you're that interested, I'll permit you to come along.",
+      "display_variant": "en",
+      "display_text": "「Very well, Mel. If you're that\ninterested, I'll permit you to come along.」"
+    },
+    {
+      "id": "c20_070a0",
+      "speaker": "Mel",
+      "en": "Huh... won't I be in the way?",
+      "display_variant": "en",
+      "display_text": "「Huh... won't I be in the way?」"
+    },
+    {
+      "id": "c20_070d0",
+      "speaker": "Roger",
+      "en": "$F did Dorothy a favor once before. This is partly to repay that.",
+      "display_variant": "en",
+      "display_text": "「$F did Dorothy a favor once before.\nThis is partly to repay that.」"
+    },
+    {
+      "id": "c20_07120",
+      "speaker": "Roger",
+      "en": "Besides, I make it a policy to treat women with care. Even if the woman in question is a child, I'll keep to that.",
+      "display_variant": "en",
+      "display_text": "「Besides, I make it a policy to treat\nwomen with care. Even if the woman in\nquestion is a child, I'll keep to that.」"
+    },
+    {
+      "id": "c20_07190",
+      "speaker": "Mel",
+      "en": "Something about that rubs me the wrong way...!",
+      "display_variant": "en",
+      "display_text": "「Something about that rubs me the wrong\nway...!」"
+    },
+    {
+      "id": "c20_071c0",
+      "speaker": "Roger",
+      "en": "Now then, let's be off. Visiting a woman's home is proper etiquette in the daytime.",
+      "display_variant": "en",
+      "display_text": "「Now then, let's be off. Visiting a\nwoman's home is proper etiquette in the\ndaytime.」"
+    },
+    {
+      "id": "c20_07220",
+      "speaker": "Mel",
+      "en": "...So, where is this?",
+      "display_variant": "en",
+      "display_text": "「...So, where is this?」"
+    },
+    {
+      "id": "c20_07240",
+      "speaker": "Roger",
+      "en": "As you can see, it's a garden. My job is to get some of the flowers blooming here.",
+      "display_variant": "en",
+      "display_text": "「As you can see, it's a garden. My job\nis to get some of the flowers blooming\nhere.」"
+    },
+    {
+      "id": "c20_072a0",
+      "speaker": "Mel",
+      "en": "A job...? Then, the woman is...",
+      "display_variant": "en",
+      "display_text": "「A job...? Then, the woman is...」"
+    },
+    {
+      "id": "c20_072d0",
+      "speaker": "Roger",
+      "en": "The owner of this garden. Calling her a date would be putting it a bit differently than the truth.",
+      "display_variant": "en",
+      "display_text": "「The owner of this garden. Calling her a\ndate would be putting it a bit differently\nthan the truth.」"
+    },
+    {
+      "id": "c20_07330",
+      "speaker": "Mel",
+      "en": "Oh, is that all... what a relief.",
+      "display_variant": "en",
+      "display_text": "「Oh, is that all... what a relief.」"
+    },
+    {
+      "id": "c20_07350",
+      "speaker": "Roger",
+      "en": "You seem quite interested in my relationships with women, but aren't you devoted only to $n?",
+      "display_variant": "en",
+      "display_text": "「You seem quite interested in my\nrelationships with women, but aren't you\ndevoted only to $n?」"
+    },
+    {
+      "id": "c20_073a0",
+      "speaker": "Mel",
+      "en": "That's right! ...Were you hoping for something else, even a little?",
+      "display_variant": "en",
+      "display_text": "「That's right! ...Were you hoping for\nsomething else, even a little?」"
+    },
+    {
+      "id": "c20_073d0",
+      "speaker": "Roger",
+      "en": "If you were my type, perhaps.",
+      "display_variant": "en",
+      "display_text": "「If you were my type, perhaps.」"
+    },
+    {
+      "id": "c20_07400",
+      "speaker": "Mel",
+      "en": "Argh... everything you say rubs me the wrong way! This time I was just butting in for Dorothy's sake.",
+      "display_variant": "en",
+      "display_text": "「Argh... everything you say rubs me the\nwrong way! This time I was just butting\nin for Dorothy's sake.」"
+    },
+    {
+      "id": "c20_07460",
+      "speaker": "Roger",
+      "en": "For Dorothy's sake? Now that's... what do you mean by that?",
+      "display_variant": "en",
+      "display_text": "「For Dorothy's sake? Now that's... what\ndo you mean by that?」"
+    },
+    {
+      "id": "c20_074b0",
+      "speaker": "Mel",
+      "en": "Huh...? I mean, Dorothy likes you, doesn't she?",
+      "display_variant": "en",
+      "display_text": "「Huh...? I mean, Dorothy likes you,\ndoesn't she?」"
+    },
+    {
+      "id": "c20_07500",
+      "speaker": "Roger",
+      "en": "Huh?",
+      "display_variant": "en",
+      "display_text": "「Huh?」"
+    },
+    {
+      "id": "c20_07520",
+      "speaker": "Mel",
+      "en": "As a girl myself, I can tell. That sharp way of talking is just the flip side of affection.",
+      "display_variant": "en",
+      "display_text": "「As a girl myself, I can tell. That sharp\nway of talking is just the flip side of\naffection.」"
+    },
+    {
+      "id": "c20_07580",
+      "speaker": "Roger",
+      "en": "I don't believe that's the case... For one thing, she's an android.",
+      "display_variant": "en",
+      "display_text": "「I don't believe that's the case... For\none thing, she's an android.」"
+    },
+    {
+      "id": "c20_075d0",
+      "speaker": "Mel",
+      "en": "But Mome adores Kei to bits, and Dorothy has a heart too. It wouldn't be strange for her to fall for someone.",
+      "display_variant": "en",
+      "display_text": "「But Mome adores Kei to bits, and\nDorothy has a heart too. It wouldn't be\nstrange for her to fall for someone.」"
+    },
+    {
+      "id": "c20_07650",
+      "speaker": "Roger",
+      "en": "I'll grant that she has a heart. But that doesn't mean I know whether she possesses an emotion like love.",
+      "display_variant": "en",
+      "display_text": "「I'll grant that she has a heart. But\nthat doesn't mean I know whether she\npossesses an emotion like love.」"
+    },
+    {
+      "id": "c20_076c0",
+      "speaker": "Roger",
+      "en": "Much less that it could possibly be directed at me -- I've never even considered such a thing.",
+      "display_variant": "en",
+      "display_text": "「Much less that it could possibly be\ndirected at me -- I've never even\nconsidered such a thing.」"
+    },
+    {
+      "id": "c20_07710",
+      "speaker": "Mel",
+      "en": "Honestly... you're just not honest with yourself.",
+      "display_variant": "en",
+      "display_text": "「Honestly... you're just not honest with\nyourself.」"
+    },
+    {
+      "id": "c20_07740",
+      "speaker": "Roger",
+      "en": "That's enough chatting. My negotiation partner has arrived.",
+      "display_variant": "en",
+      "display_text": "「That's enough chatting. My negotiation\npartner has arrived.」"
+    },
+    {
+      "id": "c20_07780",
+      "speaker": "Citizen",
+      "en": "Sorry to keep you waiting, Mr. Smith. I'm the owner of this garden.",
+      "display_variant": "en",
+      "display_text": "「Sorry to keep you waiting, Mr. Smith.\nI'm the owner of this garden.」"
+    },
+    {
+      "id": "c20_077d0",
+      "speaker": "Roger",
+      "en": "Roger will do just fine, Ms. Flores.",
+      "display_variant": "en",
+      "display_text": "「Roger will do just fine, Ms. Flores.」"
+    },
+    {
+      "id": "c20_07810",
+      "speaker": "Citizen",
+      "en": "I understand you'd like some of this garden's flowers...",
+      "display_variant": "en",
+      "display_text": "「I understand you'd like some of this\ngarden's flowers...」"
+    },
+    {
+      "id": "c20_07850",
+      "speaker": "Roger",
+      "en": "Yes... I've been asked by a certain person to negotiate on their behalf.",
+      "display_variant": "en",
+      "display_text": "「Yes... I've been asked by a certain\nperson to negotiate on their behalf.」"
+    },
+    {
+      "id": "c20_07890",
+      "speaker": "Roger",
+      "en": "What do you say? Would you be willing to part with the flowers he wants, at a fair price?",
+      "display_variant": "en",
+      "display_text": "「What do you say? Would you be willing\nto part with the flowers he wants, at a\nfair price?」"
+    },
+    {
+      "id": "c20_078f0",
+      "speaker": "Citizen",
+      "en": "I'm afraid...",
+      "display_variant": "en",
+      "display_text": "「I'm afraid...」"
+    },
+    {
+      "id": "c20_07910",
+      "speaker": "Roger",
+      "en": "My client says he's prepared to offer a suitable amount, but...",
+      "display_variant": "en",
+      "display_text": "「My client says he's prepared to offer a\nsuitable amount, but...」"
+    },
+    {
+      "id": "c20_07950",
+      "speaker": "Citizen",
+      "en": "It's not a matter of money.",
+      "display_variant": "en",
+      "display_text": "「It's not a matter of money.」"
+    },
+    {
+      "id": "c20_07980",
+      "speaker": "Roger",
+      "en": "How do you mean?",
+      "display_variant": "en",
+      "display_text": "「How do you mean?」"
+    },
+    {
+      "id": "c20_079a0",
+      "speaker": "Citizen",
+      "en": "This garden has been a hobby of my family's since my grandfather's generation.",
+      "display_variant": "en",
+      "display_text": "「This garden has been a hobby of my\nfamily's since my grandfather's generation.」"
+    },
+    {
+      "id": "c20_079e0",
+      "speaker": "Citizen",
+      "en": "During the Break the World, it nearly fell into ruin, but somehow I've managed to bring it back this far.",
+      "display_variant": "en",
+      "display_text": "「During the Break the World, it nearly\nfell into ruin, but somehow I've managed\nto bring it back this far.」"
+    },
+    {
+      "id": "c20_07a40",
+      "speaker": "Citizen",
+      "en": "These flowers are the same as life itself to me. I can't possibly hand them over as mere merchandise.",
+      "display_variant": "en",
+      "display_text": "「These flowers are the same as life\nitself to me. I can't possibly hand them\nover as mere merchandise.」"
+    },
+    {
+      "id": "c20_07aa0",
+      "speaker": "Roger",
+      "en": "I understand. Then, I'll take my leave for today.",
+      "display_variant": "en",
+      "display_text": "「I understand. Then, I'll take my leave\nfor today.」"
+    },
+    {
+      "id": "c20_07ae8",
+      "speaker": "Citizen",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c20_07b00",
+      "speaker": "Mel",
+      "en": "He's just giving up and leaving!?",
+      "display_variant": "en",
+      "display_text": "（He's just giving up and leaving!?）"
+    },
+    {
+      "id": "c20_07b30",
+      "speaker": "Roger",
+      "en": "I work as a negotiator, but...",
+      "display_variant": "en",
+      "display_text": "「I work as a negotiator, but...」"
+    },
+    {
+      "id": "c20_07b70",
+      "speaker": "Roger",
+      "en": "I don't choose my clients based on how much they're paying.",
+      "display_variant": "en",
+      "display_text": "「I don't choose my clients based on how\nmuch they're paying.」"
+    },
+    {
+      "id": "c20_07bc0",
+      "speaker": "Citizen",
+      "en": "Are you saying that, for you, being a negotiator isn't about the money...?",
+      "display_variant": "en",
+      "display_text": "「Are you saying that, for you, being a\nnegotiator isn't about the money...?」"
+    },
+    {
+      "id": "c20_07c20",
+      "speaker": "Roger",
+      "en": "I have no wish to be crude toward someone who shares that same conviction. I'll come back another day.",
+      "display_variant": "en",
+      "display_text": "「I have no wish to be crude toward\nsomeone who shares that same conviction.\nI'll come back another day.」"
+    },
+    {
+      "id": "c20_07c90",
+      "speaker": "Breaker",
+      "en": "Mind if we barge in, Ms. Flores?",
+      "display_variant": "en",
+      "display_text": "「Mind if we barge in, Ms. Flores?」"
+    },
+    {
+      "id": "c20_07cc0",
+      "speaker": "Citizen",
+      "en": "You're from Este Corp...!",
+      "display_variant": "en",
+      "display_text": "「You're from Este Corp...!」"
+    },
+    {
+      "id": "c20_07cf0",
+      "speaker": "Breaker",
+      "en": "That's right. Este says he'd like an answer pretty soon now.",
+      "display_variant": "en",
+      "display_text": "「That's right. Este says he'd like an\nanswer pretty soon now.」"
+    },
+    {
+      "id": "c20_07d40",
+      "speaker": "Breaker",
+      "en": "So that's why we're here -- just running an errand.",
+      "display_variant": "en",
+      "display_text": "「So that's why we're here -- just\nrunning an errand.」"
+    },
+    {
+      "id": "c20_07d80",
+      "speaker": "Citizen",
+      "en": "If it's about that, I've already declined formally. No matter how much money you offer, I have no intention of selling this land...!",
+      "display_variant": "compact",
+      "display_text": "「I've already declined formally. No\nmatter how much you offer, I have no\nintention of selling this land...!」"
+    },
+    {
+      "id": "c20_07df0",
+      "speaker": "Breaker",
+      "en": "Can't hear ya.",
+      "display_variant": "en",
+      "display_text": "「Can't hear ya.」"
+    },
+    {
+      "id": "c20_07e10",
+      "speaker": "Breaker",
+      "en": "That's not the kind of answer Este wants to hear, sweetheart.",
+      "display_variant": "en",
+      "display_text": "「That's not the kind of answer Este\nwants to hear, sweetheart.」"
+    },
+    {
+      "id": "c20_07e70",
+      "speaker": "Citizen",
+      "en": "You are...",
+      "display_variant": "en",
+      "display_text": "「You are...」"
+    },
+    {
+      "id": "c20_07e90",
+      "speaker": "Roger",
+      "en": "Committing intimidation in front of such beautiful flowers -- that's crude, even by low standards.",
+      "display_variant": "en",
+      "display_text": "「Committing intimidation in front of such\nbeautiful flowers -- that's crude, even\nby low standards.」"
+    },
+    {
+      "id": "c20_07ee0",
+      "speaker": "Breaker",
+      "en": "Who the hell are you!? Some bodyguard she hired?",
+      "display_variant": "en",
+      "display_text": "「Who the hell are you!? Some bodyguard\nshe hired?」"
+    },
+    {
+      "id": "c20_07f30",
+      "speaker": "Roger",
+      "en": "I'm not that, but I intend to treat anyone who lacks proper courtesy toward a woman accordingly.",
+      "display_variant": "en",
+      "display_text": "「I'm not that, but I intend to treat\nanyone who lacks proper courtesy toward\na woman accordingly.」"
+    },
+    {
+      "id": "c20_07fa0",
+      "speaker": "Breaker",
+      "en": "Tch... can't go causing trouble out in the open. Let's pull out, guys.",
+      "display_variant": "en",
+      "display_text": "「Tch... can't go causing trouble out in\nthe open. Let's pull out, guys.」"
+    },
+    {
+      "id": "c20_08000",
+      "speaker": "Breaker",
+      "en": "Lucky you, pal. Today's your lucky day.",
+      "display_variant": "en",
+      "display_text": "「Lucky you, pal. Today's your lucky day.」"
+    },
+    {
+      "id": "c20_08050",
+      "speaker": "Breaker",
+      "en": "But remember this, sweetheart. Este wants his answer, and soon.",
+      "display_variant": "en",
+      "display_text": "「But remember this, sweetheart. Este\nwants his answer, and soon.」"
+    },
+    {
+      "id": "c20_080a0",
+      "speaker": "Citizen",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c20_080b0",
+      "speaker": "Roger",
+      "en": "A beautiful garden and a land shark... Now, what should I do about this...",
+      "display_variant": "en",
+      "display_text": "（A beautiful garden and a land shark...\nNow, what should I do about this...）"
+    },
+    {
+      "id": "c20_08140",
+      "speaker": "Mel",
+      "en": "...Taking on a negotiation against a land shark? Pretty shrewd of you, Roger.",
+      "display_variant": "en",
+      "display_text": "「...Taking on a negotiation against a\nland shark? Pretty shrewd of you, Roger.」"
+    },
+    {
+      "id": "c20_081a0",
+      "speaker": "Roger",
+      "en": "What do you mean, Mel?",
+      "display_variant": "en",
+      "display_text": "「What do you mean, Mel?」"
+    },
+    {
+      "id": "c20_081c0",
+      "speaker": "Mel",
+      "en": "If you take down the land shark now, I bet Ms. Flores will give you the flowers for sure. That'll wrap up the job perfectly.",
+      "display_variant": "compact",
+      "display_text": "「If you take down the land shark now, I\nbet Ms. Flores gives you the flowers.\nThat wraps up the job perfectly.」"
+    },
+    {
+      "id": "c20_08230",
+      "speaker": "Roger",
+      "en": "That's not my intention, though.",
+      "display_variant": "en",
+      "display_text": "「That's not my intention, though.」"
+    },
+    {
+      "id": "c20_08260",
+      "speaker": "Mel",
+      "en": "Really?",
+      "display_variant": "en",
+      "display_text": "「Really?」"
+    },
+    {
+      "id": "c20_08280",
+      "speaker": "Roger",
+      "en": "This job and my first job are separate matters. That's why I took on her request properly, in exchange for actual payment.",
+      "display_variant": "fit",
+      "display_text": "「This job and my first job are separate\nmatters. That's why I took her request\nproperly, for actual payment.」"
+    },
+    {
+      "id": "c20_082f0",
+      "speaker": "Roger",
+      "en": "I have no intention of turning my work into something that preys on someone's weakness.",
+      "display_variant": "en",
+      "display_text": "「I have no intention of turning my work\ninto something that preys on someone's\nweakness.」"
+    },
+    {
+      "id": "c20_08350",
+      "speaker": "Mel",
+      "en": "Hmm...",
+      "display_variant": "en",
+      "display_text": "「Hmm...」"
+    },
+    {
+      "id": "c20_08370",
+      "speaker": "Citizen",
+      "en": "Sorry to keep you waiting, Roger. I'm Este, the representative of this company.",
+      "display_variant": "en",
+      "display_text": "「Sorry to keep you waiting, Roger. I'm\nEste, the representative of this company.」"
+    },
+    {
+      "id": "c20_083c0",
+      "speaker": "Roger",
+      "en": "It seems you run quite a wide-reaching real estate business.",
+      "display_variant": "en",
+      "display_text": "「It seems you run quite a wide-reaching\nreal estate business.」"
+    },
+    {
+      "id": "c20_08400",
+      "speaker": "Citizen",
+      "en": "Well, given the times we live in. You never know when land itself might simply vanish...",
+      "display_variant": "en",
+      "display_text": "「Well, given the times we live in. You\nnever know when land itself might simply\nvanish...」"
+    },
+    {
+      "id": "c20_08460",
+      "speaker": "Citizen",
+      "en": "So you see, my buying up land is practically a charitable act, in a way.",
+      "display_variant": "en",
+      "display_text": "「So you see, my buying up land is\npractically a charitable act, in a way.」"
+    },
+    {
+      "id": "c20_084b0",
+      "speaker": "Roger",
+      "en": "I see... So you've been stoking the anxieties unique to the multiverse to buy up land at outrageously low prices...",
+      "display_variant": "en",
+      "display_text": "「I see... So you've been stoking the\nanxieties unique to the multiverse to buy\nup land at outrageously low prices...」"
+    },
+    {
+      "id": "c20_08510",
+      "speaker": "Roger",
+      "en": "And for those who wouldn't comply, you've resorted to intimidation through violence.",
+      "display_variant": "en",
+      "display_text": "「And for those who wouldn't comply,\nyou've resorted to intimidation through\nviolence.」"
+    },
+    {
+      "id": "c20_08570",
+      "speaker": "Citizen",
+      "en": "Please don't say such slanderous things.",
+      "display_variant": "en",
+      "display_text": "「Please don't say such slanderous things.」"
+    },
+    {
+      "id": "c20_085b0",
+      "speaker": "Roger",
+      "en": "I didn't come here to debate your business practices.",
+      "display_variant": "en",
+      "display_text": "「I didn't come here to debate your\nbusiness practices.」"
+    },
+    {
+      "id": "c20_08600",
+      "speaker": "Roger",
+      "en": "Let me be blunt. I want you to stop interfering with Ms. Flores's garden.",
+      "display_variant": "en",
+      "display_text": "「Let me be blunt. I want you to stop\ninterfering with Ms. Flores's garden.」"
+    },
+    {
+      "id": "c20_08660",
+      "speaker": "Citizen",
+      "en": "I refuse. We're conducting business here too.",
+      "display_variant": "en",
+      "display_text": "「I refuse. We're conducting business here\ntoo.」"
+    },
+    {
+      "id": "c20_086a0",
+      "speaker": "Citizen",
+      "en": "If you're going to get in the way of that, I have ways of dealing with it.",
+      "display_variant": "en",
+      "display_text": "「If you're going to get in the way of\nthat, I have ways of dealing with it.」"
+    },
+    {
+      "id": "c20_086e0",
+      "speaker": "Roger",
+      "en": "I've seen exactly what kind of man you are. I'll call that my takeaway from this.",
+      "display_variant": "en",
+      "display_text": "「I've seen exactly what kind of man you\nare. I'll call that my takeaway from this.」"
+    },
+    {
+      "id": "c20_08730",
+      "speaker": "Citizen",
+      "en": "I'll ask you to leave. Don't show your face here again.",
+      "display_variant": "en",
+      "display_text": "「I'll ask you to leave. Don't show your\nface here again.」"
+    },
+    {
+      "id": "c20_08770",
+      "speaker": "Roger",
+      "en": "...Understood. But I imagine we'll meet again.",
+      "display_variant": "en",
+      "display_text": "「...Understood. But I imagine we'll meet\nagain.」"
+    },
+    {
+      "id": "c20_087c0",
+      "speaker": "Roger",
+      "en": "This city has a police force, after all, and public opinion as well.",
+      "display_variant": "en",
+      "display_text": "「This city has a police force, after all,\nand public opinion as well.」"
+    },
+    {
+      "id": "c20_08810",
+      "speaker": "Roger",
+      "en": "I'll use every means at my disposal, even those, to make your company change its ways.",
+      "display_variant": "en",
+      "display_text": "「I'll use every means at my disposal,\neven those, to make your company change\nits ways.」"
+    },
+    {
+      "id": "c20_08870",
+      "speaker": "Citizen",
+      "en": "Grr...",
+      "display_variant": "en",
+      "display_text": "「Grr...」"
+    },
+    {
+      "id": "c20_08880",
+      "speaker": "Roger",
+      "en": "Now then, I'll take my leave.",
+      "display_variant": "en",
+      "display_text": "「Now then, I'll take my leave.」"
+    },
+    {
+      "id": "c20_088c0",
+      "speaker": "Roger",
+      "en": "The sun's completely set, but let's get one more job done.",
+      "display_variant": "en",
+      "display_text": "「The sun's completely set, but let's get\none more job done.」"
+    },
+    {
+      "id": "c20_08900",
+      "speaker": "Mel",
+      "en": "Are you gonna use Big O to take down that company?",
+      "display_variant": "en",
+      "display_text": "「Are you gonna use Big O to take down\nthat company?」"
+    },
+    {
+      "id": "c20_08940",
+      "speaker": "Roger",
+      "en": "Forcing my point through violence would make me no different from that land shark. That's not what a negotiator does.",
+      "display_variant": "en",
+      "display_text": "「Forcing my point through violence would\nmake me no different from that land\nshark. That's not what a negotiator does.」"
+    },
+    {
+      "id": "c20_089a0",
+      "speaker": "Roger",
+      "en": "My power to fight lies in wit and words. Resorting to violent force is only for self-defense, or as a last resort.",
+      "display_variant": "en",
+      "display_text": "「My power to fight lies in wit and\nwords. Resorting to violent force is only\nfor self-defense, or as a last resort.」"
+    },
+    {
+      "id": "c20_08a10",
+      "speaker": "Mel",
+      "en": "I see... I think I had the wrong idea about you.",
+      "display_variant": "en",
+      "display_text": "「I see... I think I had the wrong idea\nabout you.」"
+    },
+    {
+      "id": "c20_08a50",
+      "speaker": "Mel",
+      "en": "Actually, more like -- it seems like everyone has the wrong idea about you, Roger.",
+      "display_variant": "en",
+      "display_text": "「Actually, more like -- it seems like\neveryone has the wrong idea about you,\nRoger.」"
+    },
+    {
+      "id": "c20_08aa0",
+      "speaker": "Roger",
+      "en": "That can't really be helped. It's true that, as a result, I've often ended up using Big O in the process of fulfilling a job.",
+      "display_variant": "compact",
+      "display_text": "「That can't be helped. As a result, I've\noften ended up using Big O while carrying\nout a job.」"
+    },
+    {
+      "id": "c20_08b10",
+      "speaker": "Roger",
+      "en": "But that's only when things end up in the kind of situation I just described.",
+      "display_variant": "en",
+      "display_text": "「But that's only when things end up in\nthe kind of situation I just described.」"
+    },
+    {
+      "id": "c20_08b60",
+      "speaker": "Roger",
+      "en": "If people want to point at that and call me a troublemaker, I'll accept it without complaint.",
+      "display_variant": "en",
+      "display_text": "「If people want to point at that and\ncall me a troublemaker, I'll accept it\nwithout complaint.」"
+    },
+    {
+      "id": "c20_08bc0",
+      "speaker": "Mel",
+      "en": "Is that really okay...!? If you'd just explain properly, everyone would understand.",
+      "display_variant": "en",
+      "display_text": "「Is that really okay...!? If you'd just\nexplain properly, everyone would\nunderstand.」"
+    },
+    {
+      "id": "c20_08c20",
+      "speaker": "Mel",
+      "en": "If you leave the misunderstanding as is, it could end up like that fight between $c's two halves the other day.",
+      "display_variant": "en",
+      "display_text": "「If you leave the misunderstanding as is,\nit could end up like that fight between\n$c's two halves the other day.」"
+    },
+    {
+      "id": "c20_08c80",
+      "speaker": "Roger",
+      "en": "Mel... your feelings for $F are an illusion.",
+      "display_variant": "en",
+      "display_text": "「Mel... your feelings for $F are an\nillusion.」"
+    },
+    {
+      "id": "c20_08cc0",
+      "speaker": "Mel",
+      "en": "Huh!?",
+      "display_variant": "en",
+      "display_text": "「Huh!?」"
+    },
+    {
+      "id": "c20_08ce0",
+      "speaker": "Roger",
+      "en": "You've simply mistaken the familiarity you feel for a man who's been by your side since childhood, for love.",
+      "display_variant": "en",
+      "display_text": "「You've simply mistaken the familiarity\nyou feel for a man who's been by your\nside since childhood, for love.」"
+    },
+    {
+      "id": "c20_08d40",
+      "speaker": "Roger",
+      "en": "This is what everyone in $c says.",
+      "display_variant": "en",
+      "display_text": "「This is what everyone in $c says.」"
+    },
+    {
+      "id": "c20_08d70",
+      "speaker": "Mel",
+      "en": "That's not true...! It's just not true!",
+      "display_variant": "en",
+      "display_text": "「That's not true...! It's just not true!」"
+    },
+    {
+      "id": "c20_08db0",
+      "speaker": "Mel",
+      "en": "It doesn't matter who says what! My feelings for Darling are the real thing!",
+      "display_variant": "en",
+      "display_text": "「It doesn't matter who says what! My\nfeelings for Darling are the real thing!」"
+    },
+    {
+      "id": "c20_08e10",
+      "speaker": "Roger",
+      "en": "That's exactly it.",
+      "display_variant": "en",
+      "display_text": "「That's exactly it.」"
+    },
+    {
+      "id": "c20_08e30",
+      "speaker": "Mel",
+      "en": "Huh!?",
+      "display_variant": "en",
+      "display_text": "「Huh!?」"
+    },
+    {
+      "id": "c20_08e50",
+      "speaker": "Roger",
+      "en": "No matter what others say, as long as you have something unshakable inside yourself, there's no need to waver.",
+      "display_variant": "en",
+      "display_text": "「No matter what others say, as long as\nyou have something unshakable inside\nyourself, there's no need to waver.」"
+    },
+    {
+      "id": "c20_08eb0",
+      "speaker": "Mel",
+      "en": "Roger...",
+      "display_variant": "en",
+      "display_text": "「Roger...」"
+    },
+    {
+      "id": "c20_08ed0",
+      "speaker": "Roger",
+      "en": "...Listen, Mel. This conversation stays between us. Don't repeat what I've said today to anyone...",
+      "display_variant": "en",
+      "display_text": "「...Listen, Mel. This conversation stays\nbetween us. Don't repeat what I've said\ntoday to anyone...」"
+    },
+    {
+      "id": "c20_08f40",
+      "speaker": "Roger",
+      "en": "I want to confirm everything with my own eyes. That's why I left Paradigm City, and why I joined $c as well...",
+      "display_variant": "en",
+      "display_text": "「I want to confirm everything with my\nown eyes. That's why I left Paradigm\nCity, and why I joined $c as well...」"
+    },
+    {
+      "id": "c20_08fb0",
+      "speaker": "Roger",
+      "en": "Even ending up fighting the other half of $c -- I consider that part of the process of confirming the truth with my own eyes.",
+      "display_variant": "fit",
+      "display_text": "「Even fighting the other half of $c --\nI consider that part of confirming the\ntruth with my own eyes.」"
+    },
+    {
+      "id": "c20_09010",
+      "speaker": "Mel",
+      "en": "But that happened because someone tricked us -- both we and they were in the wrong.",
+      "display_variant": "en",
+      "display_text": "「But that happened because someone\ntricked us -- both we and they were in\nthe wrong.」"
+    },
+    {
+      "id": "c20_09070",
+      "speaker": "Roger",
+      "en": "If my own thinking was mistaken, I simply admit the mistake and correct it.",
+      "display_variant": "en",
+      "display_text": "「If my own thinking was mistaken, I\nsimply admit the mistake and correct it.」"
+    },
+    {
+      "id": "c20_090c0",
+      "speaker": "Roger",
+      "en": "As long as I have an unshakable sense of self, I have no need to be ashamed of either regret or rumor.",
+      "display_variant": "en",
+      "display_text": "「As long as I have an unshakable sense\nof self, I have no need to be ashamed of\neither regret or rumor.」"
+    },
+    {
+      "id": "c20_09110",
+      "speaker": "Roger",
+      "en": "Whatever's true for $c as a whole, that's how it is for me personally, at least.",
+      "display_variant": "en",
+      "display_text": "「Whatever's true for $c as a whole,\nthat's how it is for me personally, at\nleast.」"
+    },
+    {
+      "id": "c20_09150",
+      "speaker": "Mel",
+      "en": "Yeah... I understand, Roger.",
+      "display_variant": "en",
+      "display_text": "「Yeah... I understand, Roger.」"
+    },
+    {
+      "id": "c20_09180",
+      "speaker": "Roger",
+      "en": "Mind you, I'm only human too. It's not as if misunderstandings don't hurt me at all.",
+      "display_variant": "en",
+      "display_text": "「Mind you, I'm only human too. It's not\nas if misunderstandings don't hurt me at\nall.」"
+    },
+    {
+      "id": "c20_091d0",
+      "speaker": "Roger",
+      "en": "But I have someone who understands me. As long as there's someone who calls me Roger Smith, I remain Roger Smith.",
+      "display_variant": "en",
+      "display_text": "「But I have someone who understands me.\nAs long as there's someone who calls me\nRoger Smith, I remain Roger Smith.」"
+    },
+    {
+      "id": "c20_09250",
+      "speaker": "Mel",
+      "en": "Well, you do get jobs that name you specifically, so I guess the people who understand, understand.",
+      "display_variant": "en",
+      "display_text": "「Well, you do get jobs that name you\nspecifically, so I guess the people who\nunderstand, understand.」"
+    },
+    {
+      "id": "c20_092a0",
+      "speaker": "Roger",
+      "en": "Now then, let's fulfill this job, Mel. Time to gather evidence of Este Corp's misdeeds.",
+      "display_variant": "en",
+      "display_text": "「Now then, let's fulfill this job, Mel.\nTime to gather evidence of Este Corp's\nmisdeeds.」"
+    },
+    {
+      "id": "c20_092f0",
+      "speaker": "Mel",
+      "en": "Got it!",
+      "display_variant": "en",
+      "display_text": "「Got it!」"
+    },
+    {
+      "id": "c20_09310",
+      "speaker": "Roger",
+      "en": "From what I've heard around the city, Este is the kind of man who'll turn up plenty of dirt once you start digging. Gather that, and we'll win.",
+      "display_variant": "compact",
+      "display_text": "「From what I hear, Este's the kind of\nman who'll turn up plenty of dirt once\nyou dig. Gather that, and we win.」"
+    },
+    {
+      "id": "c20_09380",
+      "speaker": "Breaker",
+      "en": "That's not gonna happen...!",
+      "display_variant": "en",
+      "display_text": "「That's not gonna happen...!」"
+    },
+    {
+      "id": "c20_093b0",
+      "speaker": "Mel",
+      "en": "It's the thug from earlier!",
+      "display_variant": "en",
+      "display_text": "「It's the thug from earlier!」"
+    },
+    {
+      "id": "c20_093d0",
+      "speaker": "Breaker",
+      "en": "I was told to shut up the noisy crow that keeps cawing.",
+      "display_variant": "en",
+      "display_text": "「I was told to shut up the noisy crow\nthat keeps cawing.」"
+    },
+    {
+      "id": "c20_09420",
+      "speaker": "Breaker",
+      "en": "No matter how much dirt you dig up, dead men tell no tales.",
+      "display_variant": "en",
+      "display_text": "「No matter how much dirt you dig up,\ndead men tell no tales.」"
+    },
+    {
+      "id": "c20_09470",
+      "speaker": "Roger",
+      "en": "Dirt turning up before I even start digging. Honestly... a villain's shallow thinking never fails to help me out.",
+      "display_variant": "en",
+      "display_text": "「Dirt turning up before I even start\ndigging. Honestly... a villain's shallow\nthinking never fails to help me out.」"
+    },
+    {
+      "id": "c20_094e0",
+      "speaker": "Breaker",
+      "en": "That smart mouth of yours ends here! Get ready!",
+      "display_variant": "en",
+      "display_text": "「That smart mouth of yours ends here!\nGet ready!」"
+    },
+    {
+      "id": "c20_09520",
+      "speaker": "Mel",
+      "en": "R-Roger! Take those guys down!",
+      "display_variant": "en",
+      "display_text": "「R-Roger! Take those guys down!」"
+    },
+    {
+      "id": "c20_09560",
+      "speaker": "Roger",
+      "en": "Unfortunately, it's my policy not to carry a gun.",
+      "display_variant": "en",
+      "display_text": "「Unfortunately, it's my policy not to\ncarry a gun.」"
+    },
+    {
+      "id": "c20_09590",
+      "speaker": "Mel",
+      "en": "Then what are you gonna do!?",
+      "display_variant": "en",
+      "display_text": "「Then what are you gonna do!?」"
+    },
+    {
+      "id": "c20_095c0",
+      "speaker": "Roger",
+      "en": "At times like this...",
+      "display_variant": "en",
+      "display_text": "「At times like this...」"
+    },
+    {
+      "id": "c20_095e0",
+      "speaker": "Roger",
+      "en": "We run, Mel!!",
+      "display_variant": "en",
+      "display_text": "「We run, Mel!!」"
+    },
+    {
+      "id": "c20_09600",
+      "speaker": "Mel",
+      "en": "R-right!",
+      "display_variant": "en",
+      "display_text": "「R-right!」"
+    },
+    {
+      "id": "c20_09620",
+      "speaker": "Breaker",
+      "en": "Like hell we'll let you go! If that's how it is, we're taking this all the way!",
+      "display_variant": "en",
+      "display_text": "「Like hell we'll let you go! If that's\nhow it is, we're taking this all the way!」"
+    },
+    {
+      "id": "c20_09670",
+      "speaker": "Citizen",
+      "en": "Thank you very much, Roger. I think the city will finally settle down now.",
+      "display_variant": "en",
+      "display_text": "「Thank you very much, Roger. I think\nthe city will finally settle down now.」"
+    },
+    {
+      "id": "c20_096d0",
+      "speaker": "Roger",
+      "en": "I've merely fulfilled my job. There's no need for thanks.",
+      "display_variant": "en",
+      "display_text": "「I've merely fulfilled my job. There's no\nneed for thanks.」"
+    },
+    {
+      "id": "c20_09710",
+      "speaker": "Citizen",
+      "en": "But, for such a small fee...",
+      "display_variant": "en",
+      "display_text": "「But, for such a small fee...」"
+    },
+    {
+      "id": "c20_09740",
+      "speaker": "Roger",
+      "en": "As I told you yesterday. I don't choose my clients based on the size of their payment.",
+      "display_variant": "en",
+      "display_text": "「As I told you yesterday. I don't choose\nmy clients based on the size of their\npayment.」"
+    },
+    {
+      "id": "c20_097a0",
+      "speaker": "Roger",
+      "en": "I simply found it distasteful that petty crooks would try to make your heartfelt garden their own.",
+      "display_variant": "en",
+      "display_text": "「I simply found it distasteful that\npetty crooks would try to make your\nheartfelt garden their own.」"
+    },
+    {
+      "id": "c20_09800",
+      "speaker": "Citizen",
+      "en": "Then please, accept this token of my feelings.",
+      "display_variant": "en",
+      "display_text": "「Then please, accept this token of my\nfeelings.」"
+    },
+    {
+      "id": "c20_09830",
+      "speaker": "Roger",
+      "en": "Anemones... If I recall, their flower language is 'fleeting love'...",
+      "display_variant": "en",
+      "display_text": "「Anemones... If I recall, their flower\nlanguage is 'fleeting love'...」"
+    },
+    {
+      "id": "c20_09870",
+      "speaker": "Citizen",
+      "en": "Oh...? Anemones also carry the meaning 'anticipation,' you know.",
+      "display_variant": "en",
+      "display_text": "「Oh...? Anemones also carry the meaning\n'anticipation,' you know.」"
+    },
+    {
+      "id": "c20_098c0",
+      "speaker": "Roger",
+      "en": "Is that so... It seems I was being a bit presumptuous.",
+      "display_variant": "en",
+      "display_text": "「Is that so... It seems I was being a\nbit presumptuous.」"
+    },
+    {
+      "id": "c20_09900",
+      "speaker": "Citizen",
+      "en": "But this way, you'll be able to fulfill your first job after all.",
+      "display_variant": "en",
+      "display_text": "「But this way, you'll be able to fulfill\nyour first job after all.」"
+    },
+    {
+      "id": "c20_09950",
+      "speaker": "Roger",
+      "en": "Forgive my rudeness, but if it's alright, might I ask for one more bundle of flowers?",
+      "display_variant": "en",
+      "display_text": "「Forgive my rudeness, but if it's alright,\nmight I ask for one more bundle of\nflowers?」"
+    },
+    {
+      "id": "c20_099c0",
+      "speaker": "Dorothy",
+      "en": "...Is the job finished, Roger?",
+      "display_variant": "en",
+      "display_text": "「...Is the job finished, Roger?」"
+    },
+    {
+      "id": "c20_099f0",
+      "speaker": "Roger",
+      "en": "Yes... I handed the requested item over to the messenger.",
+      "display_variant": "en",
+      "display_text": "「Yes... I handed the requested item over\nto the messenger.」"
+    },
+    {
+      "id": "c20_09a20",
+      "speaker": "Dorothy",
+      "en": "An item?",
+      "display_variant": "en",
+      "display_text": "「An item?」"
+    },
+    {
+      "id": "c20_09a40",
+      "speaker": "Roger",
+      "en": "A present for a girl he's fond of, apparently. I was asked to procure it.",
+      "display_variant": "en",
+      "display_text": "「A present for a girl he's fond of,\napparently. I was asked to procure it.」"
+    },
+    {
+      "id": "c20_09a90",
+      "speaker": "Dorothy",
+      "en": "I see.",
+      "display_variant": "en",
+      "display_text": "「I see.」"
+    },
+    {
+      "id": "c20_09ab0",
+      "speaker": "Roger",
+      "en": "That... well, you know, Dorothy... I'm about to do something quite out of character for me.",
+      "display_variant": "en",
+      "display_text": "「That... well, you know, Dorothy... I'm\nabout to do something quite out of\ncharacter for me.」"
+    },
+    {
+      "id": "c20_09b00",
+      "speaker": "Dorothy",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c20_09b20",
+      "speaker": "Roger",
+      "en": "Thank you, Dorothy. I'm always grateful for your support.",
+      "display_variant": "en",
+      "display_text": "「Thank you, Dorothy. I'm always grateful\nfor your support.」"
+    },
+    {
+      "id": "c20_09b70",
+      "speaker": "Dorothy",
+      "en": "Flowers...",
+      "display_variant": "en",
+      "display_text": "「Flowers...」"
+    },
+    {
+      "id": "c20_09b90",
+      "speaker": "Roger",
+      "en": "The garden's owner pushed them on me. Since the timing's good, they're for you.",
+      "display_variant": "en",
+      "display_text": "「The garden's owner pushed them on me.\nSince the timing's good, they're for you.」"
+    },
+    {
+      "id": "c20_09be0",
+      "speaker": "Dorothy",
+      "en": "A present for a girl you're fond of? If that's what this is, I'm very happy, my beloved...",
+      "display_variant": "en",
+      "display_text": "「A present for a girl you're fond of? If\nthat's what this is, I'm very happy, my\nbeloved...」"
+    },
+    {
+      "id": "c20_09c40",
+      "speaker": "Roger",
+      "en": "R. Dorothy Wayneright...",
+      "display_variant": "en",
+      "display_text": "「R. Dorothy Wayneright...」"
+    },
+    {
+      "id": "c20_09c70",
+      "speaker": "Dorothy",
+      "en": "Just kidding.",
+      "display_variant": "en",
+      "display_text": "「Just kidding.」"
+    },
+    {
+      "id": "c20_09c90",
+      "speaker": "Roger",
+      "en": "I-I see...",
+      "display_variant": "en",
+      "display_text": "「I-I see...」"
+    },
+    {
+      "id": "c20_09cb0",
+      "speaker": "Dorothy",
+      "en": "I wanted to try making someone laugh, or making them happy, just like everyone else does.",
+      "display_variant": "en",
+      "display_text": "「I wanted to try making someone laugh,\nor making them happy, just like everyone\nelse does.」"
+    },
+    {
+      "id": "c20_09d10",
+      "speaker": "Roger",
+      "en": "Forgive me for being so startled. Well then, as a matter of manners, a smile.",
+      "display_variant": "en",
+      "display_text": "「Forgive me for being so startled. Well\nthen, as a matter of manners, a smile.」"
+    },
+    {
+      "id": "c20_09d60",
+      "speaker": "Dorothy",
+      "en": "But it's true that I was happy. Thank you, Roger.",
+      "display_variant": "en",
+      "display_text": "「But it's true that I was happy. Thank\nyou, Roger.」"
+    },
+    {
+      "id": "c20_09db0",
+      "speaker": "Roger",
+      "en": "You're welcome, Dorothy.",
+      "display_variant": "en",
+      "display_text": "「You're welcome, Dorothy.」"
+    },
+    {
+      "id": "c20_09de0",
+      "speaker": "Roger",
+      "en": "Now then... I wonder how things are going for him...",
+      "display_variant": "en",
+      "display_text": "（Now then... I wonder how things are\ngoing for him...）"
+    },
+    {
+      "id": "c20_09e60",
+      "speaker": "Dominic",
+      "en": "...I'm back, Anemone. I've just returned.",
+      "display_variant": "en",
+      "display_text": "「...I'm back, Anemone. I've just returned.」"
+    },
+    {
+      "id": "c20_09ea0",
+      "speaker": "Anemone",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c20_09ec0",
+      "speaker": "Dominic",
+      "en": "It was quite the tough mission. We crossed from southern Gallia Continent over to South Ameria, and I've just now gotten back.",
+      "display_variant": "fit",
+      "display_text": "「It was quite the tough mission. We\ncrossed from southern Gallia Continent to\nSouth Ameria, and I just got back.」"
+    },
+    {
+      "id": "c20_09f30",
+      "speaker": "Dominic",
+      "en": "Operation Crusade was a success too, so it looks like things are about to get busy for us.",
+      "display_variant": "en",
+      "display_text": "「Operation Crusade was a success too,\nso it looks like things are about to get\nbusy for us.」"
+    },
+    {
+      "id": "c20_09f90",
+      "speaker": "Dominic",
+      "en": "Anemone...",
+      "display_variant": "en",
+      "display_text": "「Anemone...」"
+    },
+    {
+      "id": "c20_09fb0",
+      "speaker": "Anemone",
+      "en": "Dewey... he never comes to see me at all. I've... been alone this whole time...",
+      "display_variant": "en",
+      "display_text": "「Dewey... he never comes to see me at\nall. I've... been alone this whole time...」"
+    },
+    {
+      "id": "c20_0a000",
+      "speaker": "Dominic",
+      "en": "The Colonel's just busy, so...",
+      "display_variant": "en",
+      "display_text": "「The Colonel's just busy, so...」"
+    },
+    {
+      "id": "c20_0a030",
+      "speaker": "Anemone",
+      "en": "To the Colonel, I'm still nothing but a tool, after all...",
+      "display_variant": "en",
+      "display_text": "「To the Colonel, I'm still nothing but a\ntool, after all...」"
+    },
+    {
+      "id": "c20_0a070",
+      "speaker": "Dominic",
+      "en": "You mustn't think things like that.",
+      "display_variant": "en",
+      "display_text": "「You mustn't think things like that.」"
+    },
+    {
+      "id": "c20_0a0a0",
+      "speaker": "Anemone",
+      "en": "I don't want to hear anything you have to say!",
+      "display_variant": "en",
+      "display_text": "「I don't want to hear anything you have\nto say!」"
+    },
+    {
+      "id": "c20_0a0d0",
+      "speaker": "Dominic",
+      "en": "Oh, right... I brought you a souvenir. ...Here, this.",
+      "display_variant": "en",
+      "display_text": "「Oh, right... I brought you a souvenir.\n...Here, this.」"
+    },
+    {
+      "id": "c20_0a110",
+      "speaker": "Anemone",
+      "en": "Anemone flowers...",
+      "display_variant": "en",
+      "display_text": "「Anemone flowers...」"
+    },
+    {
+      "id": "c20_0a130",
+      "speaker": "Dominic",
+      "en": "I heard there was a flower with the same name as you, so I went looking for it.",
+      "display_variant": "en",
+      "display_text": "「I heard there was a flower with the\nsame name as you, so I went looking for\nit.」"
+    },
+    {
+      "id": "c20_0a180",
+      "speaker": "Anemone",
+      "en": "The flower language of the anemone is 'vanishing hope'...",
+      "display_variant": "en",
+      "display_text": "「The flower language of the anemone is\n'vanishing hope'...」"
+    },
+    {
+      "id": "c20_0a1c0",
+      "speaker": "Dominic",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c20_0a1e0",
+      "speaker": "Anemone",
+      "en": "If I fail, I'll surely be thrown away like an object... It suits exactly how I feel right now...",
+      "display_variant": "en",
+      "display_text": "「If I fail, I'll surely be thrown away\nlike an object... It suits exactly how I\nfeel right now...」"
+    },
+    {
+      "id": "c20_0a250",
+      "speaker": "Dominic",
+      "en": "That's not right, Anemone. The anemone's flower language is 'anticipation.'",
+      "display_variant": "en",
+      "display_text": "「That's not right, Anemone. The\nanemone's flower language is 'anticipation.'」"
+    },
+    {
+      "id": "c20_0a2a0",
+      "speaker": "Anemone",
+      "en": "Dominic...",
+      "display_variant": "en",
+      "display_text": "「Dominic...」"
+    },
+    {
+      "id": "c20_0a2c0",
+      "speaker": "Dominic",
+      "en": "The person who helped me find this flower told me that.",
+      "display_variant": "en",
+      "display_text": "「The person who helped me find this\nflower told me that.」"
+    },
+    {
+      "id": "c20_0a300",
+      "speaker": "Anemone",
+      "en": "Anticipation... You... you have expectations for me?",
+      "display_variant": "en",
+      "display_text": "「Anticipation... You... you have\nexpectations for me?」"
+    },
+    {
+      "id": "c20_0a340",
+      "speaker": "Dominic",
+      "en": "It's not just me. The Colonel has expectations for you too.",
+      "display_variant": "en",
+      "display_text": "「It's not just me. The Colonel has\nexpectations for you too.」"
+    },
+    {
+      "id": "c20_0a380",
+      "speaker": "Anemone",
+      "en": "...That's a surprisingly thoughtful present, coming from you...",
+      "display_variant": "en",
+      "display_text": "「...That's a surprisingly thoughtful\npresent, coming from you...」"
+    },
+    {
+      "id": "c20_0a3c0",
+      "speaker": "Dominic",
+      "en": "I'd do anything for you. Just to see you smile, I'd turn the whole world against me if I had to...",
+      "display_variant": "en",
+      "display_text": "（I'd do anything for you. Just to see\nyou smile, I'd turn the whole world\nagainst me if I had to...）"
+    },
+    {
+      "id": "c20_0a430",
+      "speaker": "Dominic",
+      "en": "I don't think of it as 'fleeting love.' I want to save you.",
+      "display_variant": "en",
+      "display_text": "（I don't think of it as 'fleeting love.' I\nwant to save you.）"
+    }
+  ]
+}

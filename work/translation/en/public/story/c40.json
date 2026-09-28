@@ -1,0 +1,411 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c40_02990",
+      "speaker": "Benkei",
+      "en": "Radar contact! It's the Hundred Demon Empire!",
+      "display_variant": "en",
+      "display_text": "「Radar contact! It's the Hundred Demon\nEmpire!」"
+    },
+    {
+      "id": "c40_029c0",
+      "speaker": "Ryouma",
+      "en": "Bring it on! We're not running or hiding!",
+      "display_variant": "en",
+      "display_text": "「Bring it on! We're not running or hiding!」"
+    },
+    {
+      "id": "c40_02a00",
+      "speaker": "Hayato",
+      "en": "Looks like this is their advance guard.",
+      "display_variant": "en",
+      "display_text": "「Looks like this is their advance guard.」"
+    },
+    {
+      "id": "c40_02a30",
+      "speaker": "Michiru",
+      "en": "According to Father's calculations, Emperor Burai's Science Fortress Island will appear at that point in four minutes.",
+      "display_variant": "fit",
+      "display_text": "「By Father's calculations, Emperor Burai's\nScience Fortress Island will appear there\nin four minutes.」"
+    },
+    {
+      "id": "c40_02a90",
+      "speaker": "Tetsuya",
+      "en": "So the fight is decided in four minutes...!",
+      "display_variant": "en",
+      "display_text": "「So the fight is decided in four\nminutes...!」"
+    },
+    {
+      "id": "c40_02ab0",
+      "speaker": "Koji",
+      "en": "Let's scatter these guys before then!",
+      "display_variant": "en",
+      "display_text": "「Let's scatter these guys before then!」"
+    },
+    {
+      "id": "c40_02af0",
+      "speaker": "Duke",
+      "en": "We only get one chance to strike the Science Fortress Island.",
+      "display_variant": "en",
+      "display_text": "「We only get one chance to strike the\nScience Fortress Island.」"
+    },
+    {
+      "id": "c40_02b30",
+      "speaker": "Duke",
+      "en": "In four minutes, break through their fighter squadron and head for the point where Emperor Burai will appear!",
+      "display_variant": "fit",
+      "display_text": "「In four minutes, break their fighters\nand reach Emperor Burai's appearance\npoint!」"
+    },
+    {
+      "id": "c40_02b90",
+      "speaker": "Ryouma",
+      "en": "And then, we put everything into a single strike...!",
+      "display_variant": "en",
+      "display_text": "「And then, we put everything into a\nsingle strike...!」"
+    },
+    {
+      "id": "c40_02bc0",
+      "speaker": "Ryouma",
+      "en": "Here we come, Hundred Demon Empire! We'll show you our strength!",
+      "display_variant": "en",
+      "display_text": "「Here we come, Hundred Demon Empire!\nWe'll show you our strength!」"
+    },
+    {
+      "id": "c40_02c00",
+      "speaker": "Ryouma",
+      "en": "You came, Emperor Burai!",
+      "display_variant": "en",
+      "display_text": "「You came, Emperor Burai!」"
+    },
+    {
+      "id": "c40_02c20",
+      "speaker": "Burai",
+      "en": "Getter Robo, and your companions -- your futile resistance ends here.",
+      "display_variant": "en",
+      "display_text": "「Getter Robo, and your companions --\nyour futile resistance ends here.」"
+    },
+    {
+      "id": "c40_02c60",
+      "speaker": "Burai",
+      "en": "I myself shall crush you, mankind's so-called hope, with my own two hands.",
+      "display_variant": "fit",
+      "display_text": "「I myself shall crush you, mankind's\nso-called hope, with these two hands.」"
+    },
+    {
+      "id": "c40_02cb0",
+      "speaker": "Koji",
+      "en": "Like hell we will! As long as we're around, your ambitions end here!",
+      "display_variant": "en",
+      "display_text": "「Like hell we will! As long as we're\naround, your ambitions end here!」"
+    },
+    {
+      "id": "c40_02d00",
+      "speaker": "Tetsuya",
+      "en": "Don't think we were sitting around waiting for you with no preparation at all!",
+      "display_variant": "fit",
+      "display_text": "「Don't think we sat waiting for you with\nno preparation at all!」"
+    },
+    {
+      "id": "c40_02d40",
+      "speaker": "Burai",
+      "en": "Bark all you like from a distance! Before the Science Fortress Island's defense system, you're nothing but gnats!",
+      "display_variant": "fit",
+      "display_text": "「Bark all you like from afar! Before the\nScience Fortress Island's defenses, you're\nnothing but gnats!」"
+    },
+    {
+      "id": "c40_02da0",
+      "speaker": "Duke",
+      "en": "Don't underestimate us... don't underestimate the power of humanity, Emperor Burai!",
+      "display_variant": "fit",
+      "display_text": "「Don't underestimate us, or humanity's\npower, Emperor Burai!」"
+    },
+    {
+      "id": "c40_02de0",
+      "speaker": "Tetsuya",
+      "en": "Everyone ready!? We're putting all our strength into one strike!",
+      "display_variant": "en",
+      "display_text": "「Everyone ready!? We're putting all our\nstrength into one strike!」"
+    },
+    {
+      "id": "c40_02e20",
+      "speaker": "Koji",
+      "en": "We've only got one chance! We'll settle this in a single shot!",
+      "display_variant": "en",
+      "display_text": "「We've only got one chance! We'll settle\nthis in a single shot!」"
+    },
+    {
+      "id": "c40_02e60",
+      "speaker": "Ryouma",
+      "en": "This is it, Hundred Demon Empire! Take our strike of fury!!",
+      "display_variant": "en",
+      "display_text": "「This is it, Hundred Demon Empire! Take\nour strike of fury!!」"
+    },
+    {
+      "id": "c40_02ea0",
+      "speaker": "Burai",
+      "en": "R-ridiculous! The Science Fortress Island, wrecked in a single hit!?",
+      "display_variant": "en",
+      "display_text": "「R-ridiculous! The Science Fortress\nIsland, wrecked in a single hit!?」"
+    },
+    {
+      "id": "c40_02ee0",
+      "speaker": "Burai",
+      "en": "Grr, fall back! Remember this, Getter Robo!",
+      "display_variant": "en",
+      "display_text": "「Grr, fall back! Remember this, Getter\nRobo!」"
+    },
+    {
+      "id": "c40_02f20",
+      "speaker": "Ryouma",
+      "en": "We did it, everyone! We won!",
+      "display_variant": "en",
+      "display_text": "「We did it, everyone! We won!」"
+    },
+    {
+      "id": "c40_02f50",
+      "speaker": "Koji",
+      "en": "The damage we dealt was {tm}, huh. Not bad at all.",
+      "display_variant": "en",
+      "display_text": "「The damage we dealt was {tm}, huh.\nNot bad at all.」"
+    },
+    {
+      "id": "c40_02fb0",
+      "speaker": "Hayato",
+      "en": "By my calculations, the max damage we could deal exceeds 40,000.",
+      "display_variant": "en",
+      "display_text": "「By my calculations, the max damage we\ncould deal exceeds 40,000.」"
+    },
+    {
+      "id": "c40_03000",
+      "speaker": "Tetsuya",
+      "en": "We got pretty close to that. We can be proud of it.",
+      "display_variant": "en",
+      "display_text": "「We got pretty close to that. We can be\nproud of it.」"
+    },
+    {
+      "id": "c40_03050",
+      "speaker": "Duke",
+      "en": "This is the result of all of us combining our strength... a victory we won together.",
+      "display_variant": "fit",
+      "display_text": "「What all our combined strength\nachieved... a victory we won together.」"
+    },
+    {
+      "id": "c40_030a0",
+      "speaker": "Benkei",
+      "en": "Still, the Hundred Demon Empire isn't destroyed. Those guys... they'll come again.",
+      "display_variant": "fit",
+      "display_text": "「Still, the Hundred Demon Empire isn't\ndestroyed. They'll be back.」"
+    },
+    {
+      "id": "c40_030f0",
+      "speaker": "Ryouma",
+      "en": "No matter how many times they come, as long as we're here, we won't let them have their way.",
+      "display_variant": "fit",
+      "display_text": "「However many times they come, as long\nas we're here, they won't get their way.」"
+    },
+    {
+      "id": "c40_03140",
+      "speaker": "Ryouma",
+      "en": "Striking down evil for the sake of peace. That's our mission, after all.",
+      "display_variant": "fit",
+      "display_text": "「Striking down evil for peace's sake.\nThat's our mission, after all.」"
+    },
+    {
+      "id": "c40_03180",
+      "speaker": "Tetsuya",
+      "en": "You're being naive, Koji. You can't be satisfied with just this much.",
+      "display_variant": "fit",
+      "display_text": "「You're naive, Koji. Don't be satisfied\nwith just this much.」"
+    },
+    {
+      "id": "c40_031c0",
+      "speaker": "Hayato",
+      "en": "By my calculations, the max damage we could deal exceeds 40,000, after all.",
+      "display_variant": "fit",
+      "display_text": "「By my calculations, our max damage\nexceeds 40,000, after all.」"
+    },
+    {
+      "id": "c40_03210",
+      "speaker": "Koji",
+      "en": "Heh... guess there's always a bigger fish, huh.",
+      "display_variant": "en",
+      "display_text": "「Heh... guess there's always a bigger\nfish, huh.」"
+    },
+    {
+      "id": "c40_03240",
+      "speaker": "Duke",
+      "en": "But Emperor Burai did retreat. This is the result of all of us combining our strength... a victory we won together.",
+      "display_variant": "fit",
+      "display_text": "「But Emperor Burai retreated -- the\nresult of all our combined strength... a\nvictory we won together.」"
+    },
+    {
+      "id": "c40_032b0",
+      "speaker": "Burai",
+      "en": "Nuoooh! Show them a bit of mercy and they get carried away!",
+      "display_variant": "en",
+      "display_text": "「Nuoooh! Show them a bit of mercy and\nthey get carried away!」"
+    },
+    {
+      "id": "c40_03300",
+      "speaker": "Ryouma",
+      "en": "Damage {tm}! No good, this won't stop the fortress!",
+      "display_variant": "en",
+      "display_text": "「Damage {tm}! No good, this won't\nstop the fortress!」"
+    },
+    {
+      "id": "c40_03370",
+      "speaker": "Burai",
+      "en": "I'll show no more mercy! With my full power and that of the Science Fortress Island, I'll snuff out your very last breath!",
+      "display_variant": "fit",
+      "display_text": "「No more mercy! With my power and the\nScience Fortress Island's, I'll snuff out\nyour last breath!」"
+    },
+    {
+      "id": "c40_033e0",
+      "speaker": "Hayato",
+      "en": "Tch! Did our half-hearted attack just light Burai's fuse!?",
+      "display_variant": "en",
+      "display_text": "「Tch! Did our half-hearted attack just\nlight Burai's fuse!?」"
+    },
+    {
+      "id": "c40_03430",
+      "speaker": "Benkei",
+      "en": "N-no good! The power gap is just too overwhelming!",
+      "display_variant": "en",
+      "display_text": "「N-no good! The power gap is just too\noverwhelming!」"
+    },
+    {
+      "id": "c40_03470",
+      "speaker": "Ryouma",
+      "en": "Damn it! The operation's a failure!!",
+      "display_variant": "en",
+      "display_text": "「Damn it! The operation's a failure!!」"
+    },
+    {
+      "id": "c40_034a0",
+      "speaker": "Burai",
+      "en": "The games end here! I'll show you the true power of this Science Fortress Island!",
+      "display_variant": "fit",
+      "display_text": "「Games end here! I'll show you this\nScience Fortress Island's true power!」"
+    },
+    {
+      "id": "c40_034f0",
+      "speaker": "Benkei",
+      "en": "N-no good! We're being overwhelmed by their defense system!",
+      "display_variant": "en",
+      "display_text": "「N-no good! We're being overwhelmed by\ntheir defense system!」"
+    },
+    {
+      "id": "c40_03530",
+      "speaker": "Hayato",
+      "en": "Tch! At this rate, forget attacking -- we can't even run!",
+      "display_variant": "en",
+      "display_text": "「Tch! At this rate, forget attacking --\nwe can't even run!」"
+    },
+    {
+      "id": "c40_03580",
+      "speaker": "Ryouma",
+      "en": "Damn it! The operation's a failure!",
+      "display_variant": "en",
+      "display_text": "「Damn it! The operation's a failure!」"
+    },
+    {
+      "id": "c40_035e0",
+      "speaker": "Ryouma",
+      "en": "The Hundred Demon Empire's Science Fortress Island is headed this way!?",
+      "display_variant": "en",
+      "display_text": "「The Hundred Demon Empire's Science\nFortress Island is headed this way!?」"
+    },
+    {
+      "id": "c40_03620",
+      "speaker": "Hayato",
+      "en": "The institute's radar picked up its movement. It'll likely make landfall in Japan in two hours.",
+      "display_variant": "fit",
+      "display_text": "「The institute's radar caught its\nmovement. It'll likely reach Japan in two\nhours.」"
+    },
+    {
+      "id": "c40_03670",
+      "speaker": "Koji",
+      "en": "If that's how they want it, we'll just turn the tables on them! Let's go, everyone!",
+      "display_variant": "fit",
+      "display_text": "「If that's how they want it, we'll turn\nthe tables on them! Let's go, everyone!」"
+    },
+    {
+      "id": "c40_036c0",
+      "speaker": "Tetsuya",
+      "en": "But the enemy's a giant aerial fortress. If we just charge in recklessly, we won't stand a chance.",
+      "display_variant": "fit",
+      "display_text": "「The enemy's a giant aerial fortress.\nCharging in recklessly won't give us a\nchance.」"
+    },
+    {
+      "id": "c40_03720",
+      "speaker": "Daisuke",
+      "en": "Tetsuya's right. Against that fortress's defense system, even getting close will be difficult.",
+      "display_variant": "fit",
+      "display_text": "「Tetsuya's right. Against that fortress's\ndefenses, even getting close will be\ntough.」"
+    },
+    {
+      "id": "c40_03780",
+      "speaker": "Boss",
+      "en": "Damn it! What are we supposed to do!? We're out of time!",
+      "display_variant": "en",
+      "display_text": "「Damn it! What are we supposed to do!?\nWe're out of time!」"
+    },
+    {
+      "id": "c40_037d0",
+      "speaker": "Ryouma",
+      "en": "...One decisive blow.",
+      "display_variant": "en",
+      "display_text": "「...One decisive blow.」"
+    },
+    {
+      "id": "c40_037f0",
+      "speaker": "Benkei",
+      "en": "Ryo...",
+      "display_variant": "en",
+      "display_text": "「Ryo...」"
+    },
+    {
+      "id": "c40_03810",
+      "speaker": "Ryouma",
+      "en": "It's precisely because their defenses are so strong that carelessness creeps in. We just have to strike that opening...!",
+      "display_variant": "fit",
+      "display_text": "「Strong defenses breed carelessness. We\njust have to strike that opening...!」"
+    },
+    {
+      "id": "c40_03860",
+      "speaker": "Hayato",
+      "en": "We've only got one chance. If we don't deal decisive damage there, it'll turn into a war of attrition.",
+      "display_variant": "fit",
+      "display_text": "「One shot is all we get. Miss decisive\ndamage, and it becomes a war of\nattrition.」"
+    },
+    {
+      "id": "c40_038c0",
+      "speaker": "Tetsuya",
+      "en": "And if that happens, our defeat is certain.",
+      "display_variant": "en",
+      "display_text": "「And if that happens, our defeat is\ncertain.」"
+    },
+    {
+      "id": "c40_038f0",
+      "speaker": "Koji",
+      "en": "Then we put everything into that one strike! Let's do this, everyone!",
+      "display_variant": "en",
+      "display_text": "「Then we put everything into that one\nstrike! Let's do this, everyone!」"
+    },
+    {
+      "id": "c40_03930",
+      "speaker": "Daisuke",
+      "en": "All right...! Let's adjust every unit to deal the highest possible damage in a single strike.",
+      "display_variant": "fit",
+      "display_text": "「All right...! Let's set every unit to\ndeal max damage in a single strike.」"
+    },
+    {
+      "id": "c40_03980",
+      "speaker": "Ryouma",
+      "en": "Bring it on, Emperor Burai...! We'll show you the true power of a cornered human being!",
+      "display_variant": "fit",
+      "display_text": "「Bring it on, Emperor Burai...! We'll show\na cornered human's true power!」"
+    }
+  ]
+}

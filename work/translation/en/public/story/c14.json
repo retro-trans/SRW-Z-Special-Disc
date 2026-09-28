@@ -1,0 +1,1811 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c14_06a10",
+      "speaker": "Gengoro",
+      "en": "...So, what does Mr. Martino have to say about it?",
+      "display_variant": "en",
+      "display_text": "「...So, what does Mr. Martino have to\nsay about it?」"
+    },
+    {
+      "id": "c14_06a50",
+      "speaker": "Kazami",
+      "en": "What he sold to Sandman was only the Trinity Energy patent and the completed God Sigma unit...",
+      "display_variant": "en",
+      "display_text": "「What he sold to Sandman was only the\nTrinity Energy patent and the completed\nGod Sigma unit...」"
+    },
+    {
+      "id": "c14_06ac0",
+      "speaker": "Kazami",
+      "en": "He insists the God Sigma design itself is still his own property.",
+      "display_variant": "en",
+      "display_text": "「He insists the God Sigma design itself\nis still his own property.」"
+    },
+    {
+      "id": "c14_06b10",
+      "speaker": "Rie",
+      "en": "Can a claim like that possibly hold up?",
+      "display_variant": "en",
+      "display_text": "「Can a claim like that possibly hold up?」"
+    },
+    {
+      "id": "c14_06b40",
+      "speaker": "Heizaemon",
+      "en": "That man's a shrewd businessman, for all his faults. He probably agreed to the contract with this exact loophole in mind.",
+      "display_variant": "fit",
+      "display_text": "「That man's a shrewd businessman, faults\naside. He probably agreed to the contract\nwith this exact loophole in mind.」"
+    },
+    {
+      "id": "c14_06ba0",
+      "speaker": "Ichitaro",
+      "en": "Then can whoever buys those blueprints actually build a God Sigma?",
+      "display_variant": "en",
+      "display_text": "「Then can whoever buys those blueprints\nactually build a God Sigma?」"
+    },
+    {
+      "id": "c14_06bf0",
+      "speaker": "Kazami",
+      "en": "No need to worry about that. Without Trinity Energy, God Sigma can never be completed.",
+      "display_variant": "en",
+      "display_text": "「No need to worry about that. Without\nTrinity Energy, God Sigma can never be\ncompleted.」"
+    },
+    {
+      "id": "c14_06c50",
+      "speaker": "Kazami",
+      "en": "Every reference to Trinity Energy has been stripped from the blueprints being sold...",
+      "display_variant": "en",
+      "display_text": "「Every reference to Trinity Energy has\nbeen stripped from the blueprints being\nsold...」"
+    },
+    {
+      "id": "c14_06cb0",
+      "speaker": "Kazami",
+      "en": "They'd be good for nothing more than reference material on the drive system and combination mechanism.",
+      "display_variant": "en",
+      "display_text": "「They'd be good for nothing more than\nreference material on the drive system\nand combination mechanism.」"
+    },
+    {
+      "id": "c14_06cf0",
+      "speaker": "Gengoro",
+      "en": "So with an ordinary engine, it'd only be usable as a work robot.",
+      "display_variant": "en",
+      "display_text": "「So with an ordinary engine, it'd only be\nusable as a work robot.」"
+    },
+    {
+      "id": "c14_06d40",
+      "speaker": "Rie",
+      "en": "Still, it's a design by the Doctor and Julie. That alone makes it more than sellable.",
+      "display_variant": "en",
+      "display_text": "「Still, it's a design by the Doctor and\nJulie. That alone makes it more than\nsellable.」"
+    },
+    {
+      "id": "c14_06d90",
+      "speaker": "Hanae",
+      "en": "We have a contact on radar!",
+      "display_variant": "en",
+      "display_text": "「We have a contact on radar!」"
+    },
+    {
+      "id": "c14_06db0",
+      "speaker": "Umee",
+      "en": "This is bad, everyone! Aliens are coming in from above!",
+      "display_variant": "en",
+      "display_text": "「This is bad, everyone! Aliens are coming\nin from above!」"
+    },
+    {
+      "id": "c14_06df0",
+      "speaker": "Heizaemon",
+      "en": "Launch all units! We're intercepting the alien force!",
+      "display_variant": "en",
+      "display_text": "「Launch all units! We're intercepting the\nalien force!」"
+    },
+    {
+      "id": "c14_06e30",
+      "speaker": "Toshiya",
+      "en": "So you've finally shown up, you Eldar bastards!",
+      "display_variant": "en",
+      "display_text": "「So you've finally shown up, you Eldar\nbastards!」"
+    },
+    {
+      "id": "c14_06e60",
+      "speaker": "Quattro",
+      "en": "All units, stay sharp. The enemy is clearly targeting us specifically.",
+      "display_variant": "en",
+      "display_text": "「All units, stay sharp. The enemy is\nclearly targeting us specifically.」"
+    },
+    {
+      "id": "c14_06ec0",
+      "speaker": "Tetsuya",
+      "en": "So they're confident they can win, huh.",
+      "display_variant": "en",
+      "display_text": "「So they're confident they can win, huh.」"
+    },
+    {
+      "id": "c14_06ef0",
+      "speaker": "Kappei",
+      "en": "Bring it on! Let's turn the tables on them!",
+      "display_variant": "en",
+      "display_text": "「Bring it on! Let's turn the tables on\nthem!」"
+    },
+    {
+      "id": "c14_06f30",
+      "speaker": "Rietz",
+      "en": "Commander Teral, all units have already completed their attack preparations.",
+      "display_variant": "en",
+      "display_text": "「Commander Teral, all units have already\ncompleted their attack preparations.」"
+    },
+    {
+      "id": "c14_06f70",
+      "speaker": "Teral",
+      "en": "Supreme Commander Gattler valued my resolve and entrusted this fleet to me. I must repay that trust.",
+      "display_variant": "en",
+      "display_text": "「Supreme Commander Gattler valued my\nresolve and entrusted this fleet to me. I\nmust repay that trust.」"
+    },
+    {
+      "id": "c14_06fd0",
+      "speaker": "Teral",
+      "en": "Begin the attack! Whatever it takes, we will destroy God Sigma in this battle!",
+      "display_variant": "en",
+      "display_text": "「Begin the attack! Whatever it takes, we\nwill destroy God Sigma in this battle!」"
+    },
+    {
+      "id": "c14_07020",
+      "speaker": "Julie",
+      "en": "Toshiya! The longer this drags on, the worse it gets for us!",
+      "display_variant": "en",
+      "display_text": "「Toshiya! The longer this drags on, the\nworse it gets for us!」"
+    },
+    {
+      "id": "c14_07060",
+      "speaker": "Toshiya",
+      "en": "Right! We'll hit their mothership and settle this!",
+      "display_variant": "en",
+      "display_text": "「Right! We'll hit their mothership and\nsettle this!」"
+    },
+    {
+      "id": "c14_070a0",
+      "speaker": "Kiraken",
+      "en": "Whoa! I can't just sit still through this! We're joining the fight too!",
+      "display_variant": "en",
+      "display_text": "「Whoa! I can't just sit still through\nthis! We're joining the fight too!」"
+    },
+    {
+      "id": "c14_070f0",
+      "speaker": "Julie",
+      "en": "Toshiya! God Sigma is clear to launch!",
+      "display_variant": "en",
+      "display_text": "「Toshiya! God Sigma is clear to launch!」"
+    },
+    {
+      "id": "c14_07130",
+      "speaker": "Toshiya",
+      "en": "All right! We'll hit their mothership and settle this!",
+      "display_variant": "en",
+      "display_text": "「All right! We'll hit their mothership and\nsettle this!」"
+    },
+    {
+      "id": "c14_07170",
+      "speaker": "Jeela",
+      "en": "Commander Teral! God Sigma is closing in!",
+      "display_variant": "en",
+      "display_text": "「Commander Teral! God Sigma is closing\nin!」"
+    },
+    {
+      "id": "c14_071a0",
+      "speaker": "Teral",
+      "en": "This is our chance! Launch the Jerogiras Sniper Type!",
+      "display_variant": "en",
+      "display_text": "「This is our chance! Launch the\nJerogiras Sniper Type!」"
+    },
+    {
+      "id": "c14_071f0",
+      "speaker": "Julie",
+      "en": "Watch out! The Cosmosaurus is coming!",
+      "display_variant": "en",
+      "display_text": "「Watch out! The Cosmosaurus is coming!」"
+    },
+    {
+      "id": "c14_07230",
+      "speaker": "Toshiya",
+      "en": "Who cares! We're plowing straight through!",
+      "display_variant": "en",
+      "display_text": "「Who cares! We're plowing straight\nthrough!」"
+    },
+    {
+      "id": "c14_07270",
+      "speaker": "$n",
+      "en": "Toshiya!",
+      "display_variant": "en",
+      "display_text": "「Toshiya!」"
+    },
+    {
+      "id": "c14_07290",
+      "speaker": "Tetsuya",
+      "en": "God Sigma won't be stopped by something like that! Go, Toshiya!!",
+      "display_variant": "en",
+      "display_text": "「God Sigma won't be stopped by\nsomething like that! Go, Toshiya!!」"
+    },
+    {
+      "id": "c14_072d0",
+      "speaker": "Touga",
+      "en": "What are you doing!? If you stop moving, you'll be finished!",
+      "display_variant": "en",
+      "display_text": "「What are you doing!? If you stop\nmoving, you'll be finished!」"
+    },
+    {
+      "id": "c14_07310",
+      "speaker": "Toshiya",
+      "en": "What!? What's happening!? God Sigma won't move!!",
+      "display_variant": "en",
+      "display_text": "「What!? What's happening!? God Sigma\nwon't move!!」"
+    },
+    {
+      "id": "c14_07360",
+      "speaker": "Julie",
+      "en": "Impossible! Damage like that shouldn't be enough to disable it!",
+      "display_variant": "en",
+      "display_text": "「Impossible! Damage like that shouldn't\nbe enough to disable it!」"
+    },
+    {
+      "id": "c14_073b0",
+      "speaker": "Kazami",
+      "en": "Rie, I need an analysis! The hit landed on the waist section... it's likely near circuit number 1358!",
+      "display_variant": "en",
+      "display_text": "「Rie, I need an analysis! The hit landed\non the waist section... it's likely near\ncircuit number 1358!」"
+    },
+    {
+      "id": "c14_07410",
+      "speaker": "Rie",
+      "en": "Y-yes!",
+      "display_variant": "en",
+      "display_text": "「Y-yes!」"
+    },
+    {
+      "id": "c14_07430",
+      "speaker": "Teral",
+      "en": "Now! Concentrate all fire on God Sigma!",
+      "display_variant": "en",
+      "display_text": "「Now! Concentrate all fire on God Sigma!」"
+    },
+    {
+      "id": "c14_07470",
+      "speaker": "Toshiya",
+      "en": "Gah!!",
+      "display_variant": "en",
+      "display_text": "「Gah!!」"
+    },
+    {
+      "id": "c14_07490",
+      "speaker": "Teral",
+      "en": "All surrounding units, hold the rest of the enemy back! This ship will bring God Sigma down!",
+      "display_variant": "en",
+      "display_text": "「All surrounding units, hold the rest of\nthe enemy back! This ship will bring God\nSigma down!」"
+    },
+    {
+      "id": "c14_074e0",
+      "speaker": "Minako",
+      "en": "Toshiya, run!!",
+      "display_variant": "en",
+      "display_text": "「Toshiya, run!!」"
+    },
+    {
+      "id": "c14_07510",
+      "speaker": "Toshiya",
+      "en": "No good...! We can't even separate!!",
+      "display_variant": "en",
+      "display_text": "「No good...! We can't even separate!!」"
+    },
+    {
+      "id": "c14_07550",
+      "speaker": "Rie",
+      "en": "Doctor, the analysis is in! A malfunction has been found in circuit number 1359!",
+      "display_variant": "en",
+      "display_text": "「Doctor, the analysis is in! A\nmalfunction has been found in circuit\nnumber 1359!」"
+    },
+    {
+      "id": "c14_075b0",
+      "speaker": "Rie",
+      "en": "I'm putting the situation up on the monitor!",
+      "display_variant": "en",
+      "display_text": "「I'm putting the situation up on the\nmonitor!」"
+    },
+    {
+      "id": "c14_075e0",
+      "speaker": "Kazami",
+      "en": "Good god...! This is a design flaw--my design flaw!",
+      "display_variant": "en",
+      "display_text": "「Good god...! This is a design flaw--my\ndesign flaw!」"
+    },
+    {
+      "id": "c14_07620",
+      "speaker": "Gengoro",
+      "en": "What do you mean by that, Doctor!?",
+      "display_variant": "en",
+      "display_text": "「What do you mean by that, Doctor!?」"
+    },
+    {
+      "id": "c14_07650",
+      "speaker": "Kazami",
+      "en": "If a blow lands on God Sigma's waist at a specific timing and angle...",
+      "display_variant": "en",
+      "display_text": "「If a blow lands on God Sigma's waist at\na specific timing and angle...」"
+    },
+    {
+      "id": "c14_076a0",
+      "speaker": "Kazami",
+      "en": "...circuit 1359 short-circuits, and God Sigma's overall performance drops by 98 percent...!",
+      "display_variant": "en",
+      "display_text": "「...circuit 1359 short-circuits, and God\nSigma's overall performance drops by 98\npercent...!」"
+    },
+    {
+      "id": "c14_07700",
+      "speaker": "Heizaemon",
+      "en": "The Eldar forces clearly aimed for that exact spot...!",
+      "display_variant": "en",
+      "display_text": "「The Eldar forces clearly aimed for that\nexact spot...!」"
+    },
+    {
+      "id": "c14_07740",
+      "speaker": "Heizaemon",
+      "en": "Are you saying they knew God Sigma's weak point!?",
+      "display_variant": "en",
+      "display_text": "「Are you saying they knew God Sigma's\nweak point!?」"
+    },
+    {
+      "id": "c14_07788",
+      "speaker": "Minako",
+      "en": "...!",
+      "display_variant": "en",
+      "display_text": "「...!」"
+    },
+    {
+      "id": "c14_077a0",
+      "speaker": "Umee",
+      "en": "What's wrong, Minako?",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Minako?」"
+    },
+    {
+      "id": "c14_077d0",
+      "speaker": "Minako",
+      "en": "That's... Dad...",
+      "display_variant": "en",
+      "display_text": "「That's... Dad...」"
+    },
+    {
+      "id": "c14_077f0",
+      "speaker": "Minako",
+      "en": "The Eldar got hold of the blueprints Dad sold, and that's how they found out!",
+      "display_variant": "en",
+      "display_text": "「The Eldar got hold of the blueprints\nDad sold, and that's how they found out!」"
+    },
+    {
+      "id": "c14_07840",
+      "speaker": "Rie",
+      "en": "Doctor! If we set up a bypass in the circuitry around 1359, God Sigma's functions will recover!",
+      "display_variant": "en",
+      "display_text": "「Doctor! If we set up a bypass in the\ncircuitry around 1359, God Sigma's\nfunctions will recover!」"
+    },
+    {
+      "id": "c14_078b0",
+      "speaker": "Kazami",
+      "en": "But to do that, someone has to input the settings into the unit's sub-computer from outside...!",
+      "display_variant": "en",
+      "display_text": "「But to do that, someone has to input\nthe settings into the unit's sub-computer\nfrom outside...!」"
+    },
+    {
+      "id": "c14_07920",
+      "speaker": "Minako",
+      "en": "I-I'll go!",
+      "display_variant": "en",
+      "display_text": "「I-I'll go!」"
+    },
+    {
+      "id": "c14_07940",
+      "speaker": "Kazami",
+      "en": "Minako...!",
+      "display_variant": "en",
+      "display_text": "「Minako...!」"
+    },
+    {
+      "id": "c14_07960",
+      "speaker": "Minako",
+      "en": "It's because of what my dad did that Toshiya's in danger...! I'm going!",
+      "display_variant": "en",
+      "display_text": "「It's because of what my dad did that\nToshiya's in danger...! I'm going!」"
+    },
+    {
+      "id": "c14_079c0",
+      "speaker": "Rie",
+      "en": "Setting up the bypass isn't something you can do, Minako.",
+      "display_variant": "en",
+      "display_text": "「Setting up the bypass isn't something\nyou can do, Minako.」"
+    },
+    {
+      "id": "c14_07a00",
+      "speaker": "Minako",
+      "en": "But...",
+      "display_variant": "en",
+      "display_text": "「But...」"
+    },
+    {
+      "id": "c14_07a20",
+      "speaker": "Rie",
+      "en": "It's all right. I'll go too.",
+      "display_variant": "en",
+      "display_text": "「It's all right. I'll go too.」"
+    },
+    {
+      "id": "c14_07a50",
+      "speaker": "Minako",
+      "en": "Rie...",
+      "display_variant": "en",
+      "display_text": "「Rie...」"
+    },
+    {
+      "id": "c14_07a70",
+      "speaker": "Toshiya",
+      "en": "No good...! At this rate, all we can do is wait to be finished off!",
+      "display_variant": "en",
+      "display_text": "「No good...! At this rate, all we can do\nis wait to be finished off!」"
+    },
+    {
+      "id": "c14_07ac0",
+      "speaker": "Koji",
+      "en": "Isn't that a shopping TFO!? Who's piloting it!?",
+      "display_variant": "en",
+      "display_text": "「Isn't that a shopping TFO!? Who's\npiloting it!?」"
+    },
+    {
+      "id": "c14_07b00",
+      "speaker": "Rie",
+      "en": "Toshiya!",
+      "display_variant": "en",
+      "display_text": "「Toshiya!」"
+    },
+    {
+      "id": "c14_07b20",
+      "speaker": "Minako",
+      "en": "I'm coming, hang on!!",
+      "display_variant": "en",
+      "display_text": "「I'm coming, hang on!!」"
+    },
+    {
+      "id": "c14_07b40",
+      "speaker": "Toshiya",
+      "en": "Rie! Minako!",
+      "display_variant": "en",
+      "display_text": "「Rie! Minako!」"
+    },
+    {
+      "id": "c14_07b60",
+      "speaker": "Julie",
+      "en": "Both of you, turn back! It's too dangerous!!",
+      "display_variant": "en",
+      "display_text": "「Both of you, turn back! It's too\ndangerous!!」"
+    },
+    {
+      "id": "c14_07b90",
+      "speaker": "Minako",
+      "en": "Quit yammering at me! I know that without being told!",
+      "display_variant": "en",
+      "display_text": "「Quit yammering at me! I know that\nwithout being told!」"
+    },
+    {
+      "id": "c14_07bf0",
+      "speaker": "Rie",
+      "en": "Toshiya...! I'm going to save you!",
+      "display_variant": "en",
+      "display_text": "「Toshiya...! I'm going to save you!」"
+    },
+    {
+      "id": "c14_07c20",
+      "speaker": "Toshiya",
+      "en": "Rie...",
+      "display_variant": "en",
+      "display_text": "「Rie...」"
+    },
+    {
+      "id": "c14_07c40",
+      "speaker": "Rie",
+      "en": "I won't let you die!",
+      "display_variant": "en",
+      "display_text": "「I won't let you die!」"
+    },
+    {
+      "id": "c14_07c70",
+      "speaker": "Teral",
+      "en": "(That girl... risking her own life for Toshiya Dan...!)",
+      "display_variant": "en",
+      "display_text": "（(That girl... risking her own life for\nToshiya Dan...!)）"
+    },
+    {
+      "id": "c14_07cb0",
+      "speaker": "Kiraken",
+      "en": "God Sigma's power is coming back!",
+      "display_variant": "en",
+      "display_text": "「God Sigma's power is coming back!」"
+    },
+    {
+      "id": "c14_07cf0",
+      "speaker": "Rie",
+      "en": "The bypass setup is complete! It should be fine now!",
+      "display_variant": "en",
+      "display_text": "「The bypass setup is complete! It should\nbe fine now!」"
+    },
+    {
+      "id": "c14_07d30",
+      "speaker": "Toshiya",
+      "en": "Sorry, Rie! Minako!",
+      "display_variant": "en",
+      "display_text": "「Sorry, Rie! Minako!」"
+    },
+    {
+      "id": "c14_07d60",
+      "speaker": "Minako",
+      "en": "Do your best, Toshiya! Take those Eldar down!!",
+      "display_variant": "en",
+      "display_text": "「Do your best, Toshiya! Take those Eldar\ndown!!」"
+    },
+    {
+      "id": "c14_07da0",
+      "speaker": "Toshiya",
+      "en": "You've got some nerve! Time to pay you back for all of this!!",
+      "display_variant": "en",
+      "display_text": "「You've got some nerve! Time to pay you\nback for all of this!!」"
+    },
+    {
+      "id": "c14_07de0",
+      "speaker": "Rietz",
+      "en": "Damn these wretched Earthlings! I'll deal with the small fry who got in our way first!",
+      "display_variant": "en",
+      "display_text": "「Damn these wretched Earthlings! I'll\ndeal with the small fry who got in our\nway first!」"
+    },
+    {
+      "id": "c14_07e38",
+      "speaker": "Rie",
+      "en": "...!",
+      "display_variant": "en",
+      "display_text": "「...!」"
+    },
+    {
+      "id": "c14_07e50",
+      "speaker": "Toshiya",
+      "en": "Rie!!",
+      "display_variant": "en",
+      "display_text": "「Rie!!」"
+    },
+    {
+      "id": "c14_07e70",
+      "speaker": "Toshiya",
+      "en": "I'm not letting you die--not after you risked your life to save God Sigma.",
+      "display_variant": "en",
+      "display_text": "「I'm not letting you die--not after you\nrisked your life to save God Sigma.」"
+    },
+    {
+      "id": "c14_07ec0",
+      "speaker": "Teral",
+      "en": "(It's the same... The same as back then, when Teral sacrificed everything to save me...)",
+      "display_variant": "en",
+      "display_text": "（(It's the same... The same as back\nthen, when Teral sacrificed everything to\nsave me...)）"
+    },
+    {
+      "id": "c14_07f10",
+      "speaker": "Teral",
+      "en": "(Toshiya Dan and that girl... They carry the same heart that Teral and I once did...)",
+      "display_variant": "en",
+      "display_text": "（(Toshiya Dan and that girl... They\ncarry the same heart that Teral and I\nonce did...)）"
+    },
+    {
+      "id": "c14_07f60",
+      "speaker": "Toshiya",
+      "en": "Get back, Rie! We'll handle the rest!",
+      "display_variant": "en",
+      "display_text": "「Get back, Rie! We'll handle the rest!」"
+    },
+    {
+      "id": "c14_07fa0",
+      "speaker": "Rie",
+      "en": "Right!",
+      "display_variant": "en",
+      "display_text": "「Right!」"
+    },
+    {
+      "id": "c14_07fb0",
+      "speaker": "Minako",
+      "en": "(Ugh... it's like the two of them are in their own little world...!)",
+      "display_variant": "en",
+      "display_text": "（(Ugh... it's like the two of them are\nin their own little world...!)）"
+    },
+    {
+      "id": "c14_07fe0",
+      "speaker": "Teral",
+      "en": "......",
+      "display_variant": "en",
+      "display_text": "「......」"
+    },
+    {
+      "id": "c14_08000",
+      "speaker": "Rietz",
+      "en": "Commander Teral, your orders!",
+      "display_variant": "en",
+      "display_text": "「Commander Teral, your orders!」"
+    },
+    {
+      "id": "c14_08020",
+      "speaker": "Jeela",
+      "en": "Commander Teral...!",
+      "display_variant": "en",
+      "display_text": "「Commander Teral...!」"
+    },
+    {
+      "id": "c14_08040",
+      "speaker": "Teral",
+      "en": "A-all forces, attack! Our plan's been foiled, but that doesn't mean we've lost!",
+      "display_variant": "en",
+      "display_text": "「A-all forces, attack! Our plan's been\nfoiled, but that doesn't mean we've lost!」"
+    },
+    {
+      "id": "c14_08090",
+      "speaker": "Toshiya",
+      "en": "Here I come, Eldar! I'll pay you back double for this!!",
+      "display_variant": "en",
+      "display_text": "「Here I come, Eldar! I'll pay you back\ndouble for this!!」"
+    },
+    {
+      "id": "c14_080d0",
+      "speaker": "Amuro",
+      "en": "Fall back, Toshiya. God Sigma can't fight anymore.",
+      "display_variant": "en",
+      "display_text": "「Fall back, Toshiya. God Sigma can't\nfight anymore.」"
+    },
+    {
+      "id": "c14_08110",
+      "speaker": "Kappei",
+      "en": "Leave the rest to us! We'll pay back double whatever damage you guys took!",
+      "display_variant": "en",
+      "display_text": "「Leave the rest to us! We'll pay back\ndouble whatever damage you guys took!」"
+    },
+    {
+      "id": "c14_08170",
+      "speaker": "Toshiya",
+      "en": "Sorry! I'm counting on you all!",
+      "display_variant": "en",
+      "display_text": "「Sorry! I'm counting on you all!」"
+    },
+    {
+      "id": "c14_081a0",
+      "speaker": "Teral",
+      "en": "Ngh...! Is this as far as we go? All forces, retreat!!",
+      "display_variant": "en",
+      "display_text": "「Ngh...! Is this as far as we go? All\nforces, retreat!!」"
+    },
+    {
+      "id": "c14_081e0",
+      "speaker": "Toshiya",
+      "en": "Phew... for a minute there, I really thought I was done for.",
+      "display_variant": "en",
+      "display_text": "「Phew... for a minute there, I really\nthought I was done for.」"
+    },
+    {
+      "id": "c14_08220",
+      "speaker": "Sayaka",
+      "en": "We were saved thanks to Rie and Minako.",
+      "display_variant": "en",
+      "display_text": "「We were saved thanks to Rie and\nMinako.」"
+    },
+    {
+      "id": "c14_08260",
+      "speaker": "Mizuki",
+      "en": "That's the hidden strength of a woman in love for you.",
+      "display_variant": "en",
+      "display_text": "「That's the hidden strength of a woman\nin love for you.」"
+    },
+    {
+      "id": "c14_08290",
+      "speaker": "Lunamaria",
+      "en": "I'm kind of curious which one Toshiya will choose.",
+      "display_variant": "en",
+      "display_text": "「I'm kind of curious which one Toshiya\nwill choose.」"
+    },
+    {
+      "id": "c14_082d0",
+      "speaker": "Keiko",
+      "en": "Gentle Rie, lively Minako... They're both wonderful in their own way.",
+      "display_variant": "en",
+      "display_text": "「Gentle Rie, lively Minako... They're both\nwonderful in their own way.」"
+    },
+    {
+      "id": "c14_08320",
+      "speaker": "Luna",
+      "en": "Being popular with both of them--way to go, Toshiya~!",
+      "display_variant": "en",
+      "display_text": "「Being popular with both of them--way\nto go, Toshiya~!」"
+    },
+    {
+      "id": "c14_08360",
+      "speaker": "Kiraken",
+      "en": "Hold on! Julie and I are riding in God Sigma too, you know!",
+      "display_variant": "en",
+      "display_text": "「Hold on! Julie and I are riding in God\nSigma too, you know!」"
+    },
+    {
+      "id": "c14_083b0",
+      "speaker": "Julie",
+      "en": "Don't be so uncouth about it. Toshiya's got enough on his plate as it is.",
+      "display_variant": "en",
+      "display_text": "「Don't be so uncouth about it. Toshiya's\ngot enough on his plate as it is.」"
+    },
+    {
+      "id": "c14_08400",
+      "speaker": "Toshiya",
+      "en": "Did you say something, Julie?",
+      "display_variant": "en",
+      "display_text": "「Did you say something, Julie?」"
+    },
+    {
+      "id": "c14_08430",
+      "speaker": "Julie",
+      "en": "Heh... rough life, being popular.",
+      "display_variant": "en",
+      "display_text": "「Heh... rough life, being popular.」"
+    },
+    {
+      "id": "c14_08460",
+      "speaker": "Julie",
+      "en": "(Well... it's rough on Minako, but from how today went, the answer seems pretty clear already.)",
+      "display_variant": "en",
+      "display_text": "（(Well... it's rough on Minako, but from\nhow today went, the answer seems pretty\nclear already.)）"
+    },
+    {
+      "id": "c14_084c0",
+      "speaker": "Teral",
+      "en": "(Watch over me, Teral...! I will destroy God Sigma without fail, and save Eldar's tomorrow!)",
+      "display_variant": "en",
+      "display_text": "（(Watch over me, Teral...! I will\ndestroy God Sigma without fail, and save\nEldar's tomorrow!)）"
+    },
+    {
+      "id": "c14_08530",
+      "speaker": "Teral",
+      "en": "(Teral... the man I came to acknowledge, Toshiya Dan, already has someone he loves.)",
+      "display_variant": "en",
+      "display_text": "（(Teral... the man I came to\nacknowledge, Toshiya Dan, already has\nsomeone he loves.)）"
+    },
+    {
+      "id": "c14_08570",
+      "speaker": "Teral",
+      "en": "(But I must fight. Even if that girl sheds the same tears I once did, I must still destroy God Sigma!)",
+      "display_variant": "en",
+      "display_text": "（(But I must fight. Even if that girl\nsheds the same tears I once did, I must\nstill destroy God Sigma!)）"
+    },
+    {
+      "id": "c14_08640",
+      "speaker": "Teral",
+      "en": "This mission was a long journey... Was it hard on you, Lira?",
+      "display_variant": "en",
+      "display_text": "「This mission was a long journey... Was\nit hard on you, Lira?」"
+    },
+    {
+      "id": "c14_08690",
+      "speaker": "Lira",
+      "en": "As long as I'm with you, Teral, I can endure anything.",
+      "display_variant": "en",
+      "display_text": "「As long as I'm with you, Teral, I can\nendure anything.」"
+    },
+    {
+      "id": "c14_086e0",
+      "speaker": "Teral",
+      "en": "Thank you, Lira. Your presence is more of a comfort to me than anything else.",
+      "display_variant": "en",
+      "display_text": "「Thank you, Lira. Your presence is more\nof a comfort to me than anything else.」"
+    },
+    {
+      "id": "c14_08730",
+      "speaker": "Teral",
+      "en": "But even once we return to our homeworld, Eldar, I'll have to take up my next mission right away.",
+      "display_variant": "en",
+      "display_text": "「But even once we return to our\nhomeworld, Eldar, I'll have to take up my\nnext mission right away.」"
+    },
+    {
+      "id": "c14_08790",
+      "speaker": "Lira",
+      "en": "After fighting Earthlings out on the frontier, and now right away again...?",
+      "display_variant": "en",
+      "display_text": "「After fighting Earthlings out on the\nfrontier, and now right away again...?」"
+    },
+    {
+      "id": "c14_087e0",
+      "speaker": "Teral",
+      "en": "Lira... you're the only one I'll tell about my next mission.",
+      "display_variant": "en",
+      "display_text": "「Lira... you're the only one I'll tell\nabout my next mission.」"
+    },
+    {
+      "id": "c14_08820",
+      "speaker": "Lira",
+      "en": "Teral...",
+      "display_variant": "en",
+      "display_text": "「Teral...」"
+    },
+    {
+      "id": "c14_08840",
+      "speaker": "Teral",
+      "en": "Trinity Energy--Earth's trump card, and Eldar's mortal enemy...",
+      "display_variant": "en",
+      "display_text": "「Trinity Energy--Earth's trump card, and\nEldar's mortal enemy...」"
+    },
+    {
+      "id": "c14_08890",
+      "speaker": "Teral",
+      "en": "It's a super-energy capable of nullifying any barrier and blowing apart an entire planet in an instant.",
+      "display_variant": "en",
+      "display_text": "「It's a super-energy capable of\nnullifying any barrier and blowing apart\nan entire planet in an instant.」"
+    },
+    {
+      "id": "c14_088f0",
+      "speaker": "Lira",
+      "en": "I know about that devilish power as well.",
+      "display_variant": "en",
+      "display_text": "「I know about that devilish power as\nwell.」"
+    },
+    {
+      "id": "c14_08930",
+      "speaker": "Teral",
+      "en": "My next mission... is to prevent Trinity Energy from ever coming into being.",
+      "display_variant": "en",
+      "display_text": "「My next mission... is to prevent Trinity\nEnergy from ever coming into being.」"
+    },
+    {
+      "id": "c14_08990",
+      "speaker": "Lira",
+      "en": "Prevent it...? But how...?",
+      "display_variant": "en",
+      "display_text": "「Prevent it...? But how...?」"
+    },
+    {
+      "id": "c14_089c0",
+      "speaker": "Teral",
+      "en": "Actually, Planet Eldar was researching that very same energy too.",
+      "display_variant": "en",
+      "display_text": "「Actually, Planet Eldar was researching\nthat very same energy too.」"
+    },
+    {
+      "id": "c14_08a10",
+      "speaker": "Lira",
+      "en": "Oh my...",
+      "display_variant": "en",
+      "display_text": "「Oh my...」"
+    },
+    {
+      "id": "c14_08a20",
+      "speaker": "Teral",
+      "en": "Unfortunately, we were never able to develop the energy itself. But partway through the research, we did succeed in building one device.",
+      "display_variant": "compact",
+      "display_text": "「Unfortunately, we couldn't develop the\nenergy itself. But partway through, we\ndid build one device.」"
+    },
+    {
+      "id": "c14_08a90",
+      "speaker": "Lira",
+      "en": "What is it?",
+      "display_variant": "en",
+      "display_text": "「What is it?」"
+    },
+    {
+      "id": "c14_08ab0",
+      "speaker": "Teral",
+      "en": "A time machine.",
+      "display_variant": "en",
+      "display_text": "「A time machine.」"
+    },
+    {
+      "id": "c14_08ad0",
+      "speaker": "Lira",
+      "en": "A time machine...",
+      "display_variant": "en",
+      "display_text": "「A time machine...」"
+    },
+    {
+      "id": "c14_08af0",
+      "speaker": "Eldar Soldier",
+      "en": "...Excuse me. Commander Teral, I'm sorry to interrupt, but we've spotted the wreckage of an Earth warship ahead.",
+      "display_variant": "fit",
+      "display_text": "「...Excuse me, Commander Teral. Sorry to\ninterrupt, but we've spotted the wreckage\nof an Earth warship ahead.」"
+    },
+    {
+      "id": "c14_08b60",
+      "speaker": "Eldar Soldier",
+      "en": "It appears to have been drifting since it was damaged in battle.",
+      "display_variant": "en",
+      "display_text": "「It appears to have been drifting since\nit was damaged in battle.」"
+    },
+    {
+      "id": "c14_08bb0",
+      "speaker": "Teral",
+      "en": "If it no longer has the strength to fight, it's hardly an enemy anymore. We'll investigate for survivors.",
+      "display_variant": "en",
+      "display_text": "「If it no longer has the strength to\nfight, it's hardly an enemy anymore. We'll\ninvestigate for survivors.」"
+    },
+    {
+      "id": "c14_08c00",
+      "speaker": "Eldar Soldier",
+      "en": "Understood...!",
+      "display_variant": "en",
+      "display_text": "「Understood...!」"
+    },
+    {
+      "id": "c14_08c20",
+      "speaker": "Teral",
+      "en": "What's happening!?",
+      "display_variant": "en",
+      "display_text": "「What's happening!?」"
+    },
+    {
+      "id": "c14_08c40",
+      "speaker": "Eldar Soldier",
+      "en": "C-Commander Teral! The wreck we thought was derelict just opened fire on our ship!",
+      "display_variant": "en",
+      "display_text": "「C-Commander Teral! The wreck we\nthought was derelict just opened fire on\nour ship!」"
+    },
+    {
+      "id": "c14_08ca0",
+      "speaker": "Eldar Soldier",
+      "en": "It was an Earth Forces trap!",
+      "display_variant": "en",
+      "display_text": "「It was an Earth Forces trap!」"
+    },
+    {
+      "id": "c14_08cd0",
+      "speaker": "Teral",
+      "en": "How despicable! They were waiting for us to move in to rescue them!",
+      "display_variant": "en",
+      "display_text": "「How despicable! They were waiting for\nus to move in to rescue them!」"
+    },
+    {
+      "id": "c14_08d20",
+      "speaker": "Eldar Soldier",
+      "en": "Direct hit incoming! Aaaaaaaaaargh!!",
+      "display_variant": "en",
+      "display_text": "「Direct hit incoming! Aaaaaaaaaargh!!」"
+    },
+    {
+      "id": "c14_08d60",
+      "speaker": "Teral",
+      "en": "Ngh... aah...",
+      "display_variant": "en",
+      "display_text": "「Ngh... aah...」"
+    },
+    {
+      "id": "c14_08d80",
+      "speaker": "Lira",
+      "en": "Te... Teral...! Oh no... you're hurt, protecting me...",
+      "display_variant": "en",
+      "display_text": "「Te... Teral...! Oh no... you're hurt,\nprotecting me...」"
+    },
+    {
+      "id": "c14_08dc0",
+      "speaker": "Teral",
+      "en": "Lira... it was... fun... I'm glad... I got to... meet you...",
+      "display_variant": "en",
+      "display_text": "「Lira... it was... fun... I'm glad... I got\nto... meet you...」"
+    },
+    {
+      "id": "c14_08e10",
+      "speaker": "Lira",
+      "en": "Teral, don't die! I don't want you to die!!",
+      "display_variant": "en",
+      "display_text": "「Teral, don't die! I don't want you to\ndie!!」"
+    },
+    {
+      "id": "c14_08e40",
+      "speaker": "Teral",
+      "en": "...Lira... I love... you...",
+      "display_variant": "en",
+      "display_text": "「...Lira... I love... you...」"
+    },
+    {
+      "id": "c14_08e60",
+      "speaker": "Lira",
+      "en": "Teraaal!!",
+      "display_variant": "en",
+      "display_text": "「Teraaal!!」"
+    },
+    {
+      "id": "c14_08ec0",
+      "speaker": "Teral",
+      "en": "(...That day, Teral died...)",
+      "display_variant": "en",
+      "display_text": "（(...That day, Teral died...)）"
+    },
+    {
+      "id": "c14_08ef0",
+      "speaker": "Teral",
+      "en": "(And of my own will, I moved my own heart into Teral's body.)",
+      "display_variant": "en",
+      "display_text": "（(And of my own will, I moved my own\nheart into Teral's body.)）"
+    },
+    {
+      "id": "c14_08f40",
+      "speaker": "Teral",
+      "en": "(The body is yours... the heart is mine... Lira's consciousness, memories, and personality, all inside Teral's body now...)",
+      "display_variant": "fit",
+      "display_text": "（The body's yours... the heart's mine...\nLira's consciousness, memories, and\npersonality, now inside Teral's body...）"
+    },
+    {
+      "id": "c14_08fa0",
+      "speaker": "Teral",
+      "en": "(I'm no longer Lira... I am Teral... Teral, and no one else...)",
+      "display_variant": "en",
+      "display_text": "（(I'm no longer Lira... I am Teral...\nTeral, and no one else...)）"
+    },
+    {
+      "id": "c14_08ff0",
+      "speaker": "Teral",
+      "en": "(And I have only one purpose now: to save Eldar in that person's place.)",
+      "display_variant": "en",
+      "display_text": "（(And I have only one purpose now:\nto save Eldar in that person's place.)）"
+    },
+    {
+      "id": "c14_09040",
+      "speaker": "Teral",
+      "en": "(That's why I crossed through time to come to this Earth...)",
+      "display_variant": "en",
+      "display_text": "（(That's why I crossed through time to\ncome to this Earth...)）"
+    },
+    {
+      "id": "c14_090d0",
+      "speaker": "Gaizock Soldier",
+      "en": "P-please forgive me, Lord Butcher! I gave everything I had to complete the mission!",
+      "display_variant": "en",
+      "display_text": "「P-please forgive me, Lord Butcher! I\ngave everything I had to complete the\nmission!」"
+    },
+    {
+      "id": "c14_09130",
+      "speaker": "Butcher",
+      "en": "But that doesn't change the fact that you failed, now does it~",
+      "display_variant": "en",
+      "display_text": "「But that doesn't change the fact that\nyou failed, now does it~」"
+    },
+    {
+      "id": "c14_09180",
+      "speaker": "Gizzer",
+      "en": "Then, Lord Butcher... your verdict.",
+      "display_variant": "en",
+      "display_text": "「Then, Lord Butcher... your verdict.」"
+    },
+    {
+      "id": "c14_091b0",
+      "speaker": "Butcher",
+      "en": "I may not look it, but I do respect my subordinates' independence... So I'll let you choose your own punishment.",
+      "display_variant": "fit",
+      "display_text": "「I may not look it, but I respect my\nsubordinates' independence... So I'll let\nyou choose your own punishment.」"
+    },
+    {
+      "id": "c14_09210",
+      "speaker": "Gaizock Soldier",
+      "en": "R-really!?",
+      "display_variant": "en",
+      "display_text": "「R-really!?」"
+    },
+    {
+      "id": "c14_09240",
+      "speaker": "Butcher",
+      "en": "All right, three choices.",
+      "display_variant": "en",
+      "display_text": "「All right, three choices.」"
+    },
+    {
+      "id": "c14_09260",
+      "speaker": "Butcher",
+      "en": "1. Hanging. 2. A firing squad. 3. Tickle torture.",
+      "display_variant": "en",
+      "display_text": "「1. Hanging. 2. A firing squad. 3. Tickle\ntorture.」"
+    },
+    {
+      "id": "c14_092a0",
+      "speaker": "Gaizock Soldier",
+      "en": "N-no way!",
+      "display_variant": "en",
+      "display_text": "「N-no way!」"
+    },
+    {
+      "id": "c14_092c0",
+      "speaker": "Butcher",
+      "en": "Well, time's up. Trapdoor it is, then!",
+      "display_variant": "en",
+      "display_text": "「Well, time's up. Trapdoor it is, then!」"
+    },
+    {
+      "id": "c14_09300",
+      "speaker": "Gaizock Soldier",
+      "en": "Waaaaaaaaah!",
+      "display_variant": "en",
+      "display_text": "「Waaaaaaaaah!」"
+    },
+    {
+      "id": "c14_09330",
+      "speaker": "Butcher",
+      "en": "What a hoot! Good thing I had that trapdoor built into the command room!",
+      "display_variant": "en",
+      "display_text": "「What a hoot! Good thing I had that\ntrapdoor built into the command room!」"
+    },
+    {
+      "id": "c14_09380",
+      "speaker": "Valetar",
+      "en": "Now then, Lord Butcher... I'll bring in the next mission failure.",
+      "display_variant": "en",
+      "display_text": "「Now then, Lord Butcher... I'll bring in\nthe next mission failure.」"
+    },
+    {
+      "id": "c14_093c0",
+      "speaker": "Gizzer",
+      "en": "This one botched the human hunt and let every last bit of prey get away.",
+      "display_variant": "en",
+      "display_text": "「This one botched the human hunt and\nlet every last bit of prey get away.」"
+    },
+    {
+      "id": "c14_09410",
+      "speaker": "Butcher",
+      "en": "Well, I'm shocked! To think Gaizock had such an incompetent among its ranks!",
+      "display_variant": "en",
+      "display_text": "「Well, I'm shocked! To think Gaizock had\nsuch an incompetent among its ranks!」"
+    },
+    {
+      "id": "c14_09460",
+      "speaker": "Butcher",
+      "en": "By way of collective responsibility, I suppose the soldiers who were with this one will need to be punished too...",
+      "display_variant": "fit",
+      "display_text": "「By collective responsibility, I suppose\nthe soldiers with this one will need\npunishing too...」"
+    },
+    {
+      "id": "c14_094c0",
+      "speaker": "Butcher",
+      "en": "Ugh, what a hassle! Just execute the whole unit while we're at it!",
+      "display_variant": "en",
+      "display_text": "「Ugh, what a hassle! Just execute the\nwhole unit while we're at it!」"
+    },
+    {
+      "id": "c14_09510",
+      "speaker": "Gizzer",
+      "en": "That makes eight in total.",
+      "display_variant": "en",
+      "display_text": "「That makes eight in total.」"
+    },
+    {
+      "id": "c14_09540",
+      "speaker": "Butcher",
+      "en": "Then throw in two more at random, and make it a nice round ten for execution.",
+      "display_variant": "en",
+      "display_text": "「Then throw in two more at random, and\nmake it a nice round ten for execution.」"
+    },
+    {
+      "id": "c14_09590",
+      "speaker": "Teral",
+      "en": "That's enough, Killer the Butcher!",
+      "display_variant": "en",
+      "display_text": "「That's enough, Killer the Butcher!」"
+    },
+    {
+      "id": "c14_095d0",
+      "speaker": "Butcher",
+      "en": "What's this...! Don't tell me you're the incompetent who failed a mission, Teral!?",
+      "display_variant": "en",
+      "display_text": "「What's this...! Don't tell me you're the\nincompetent who failed a mission, Teral!?」"
+    },
+    {
+      "id": "c14_09620",
+      "speaker": "Teral",
+      "en": "You...! Still cracking jokes at a time like this!?",
+      "display_variant": "en",
+      "display_text": "「You...! Still cracking jokes at a time\nlike this!?」"
+    },
+    {
+      "id": "c14_09660",
+      "speaker": "Butcher",
+      "en": "Just a joke, just a joke. Getting angry ruins that pretty face of yours.",
+      "display_variant": "en",
+      "display_text": "「Just a joke, just a joke. Getting angry\nruins that pretty face of yours.」"
+    },
+    {
+      "id": "c14_096b0",
+      "speaker": "Butcher",
+      "en": "So, what do you want? I assume you're just here to interrupt my hobby, hm?",
+      "display_variant": "en",
+      "display_text": "「So, what do you want? I assume you're\njust here to interrupt my hobby, hm?」"
+    },
+    {
+      "id": "c14_09700",
+      "speaker": "King Vega",
+      "en": "(T-this one... so he really was executing his own men half for sport...!)",
+      "display_variant": "en",
+      "display_text": "（(T-this one... so he really was\nexecuting his own men half for sport...!)）"
+    },
+    {
+      "id": "c14_09750",
+      "speaker": "Teral",
+      "en": "What's your answer regarding the joint operation for conquering Earth--the one I proposed as an agenda item?",
+      "display_variant": "en",
+      "display_text": "「What's your answer regarding the joint\noperation for conquering Earth--the one I\nproposed as an agenda item?」"
+    },
+    {
+      "id": "c14_097b0",
+      "speaker": "Butcher",
+      "en": "Gaizock's passing. We'd like to enjoy the game a little longer.",
+      "display_variant": "en",
+      "display_text": "「Gaizock's passing. We'd like to enjoy\nthe game a little longer.」"
+    },
+    {
+      "id": "c14_09800",
+      "speaker": "Teral",
+      "en": "You're still treating this war like some kind of game...!",
+      "display_variant": "en",
+      "display_text": "「You're still treating this war like some\nkind of game...!」"
+    },
+    {
+      "id": "c14_09840",
+      "speaker": "Butcher",
+      "en": "Aah, well... you've killed the mood. I think I'll turn in for the night.",
+      "display_variant": "en",
+      "display_text": "「Aah, well... you've killed the mood. I\nthink I'll turn in for the night.」"
+    },
+    {
+      "id": "c14_09890",
+      "speaker": "Teral",
+      "en": "Wait, Butcher! We're not finished talking!",
+      "display_variant": "en",
+      "display_text": "「Wait, Butcher! We're not finished\ntalking!」"
+    },
+    {
+      "id": "c14_098d0",
+      "speaker": "Butcher",
+      "en": "Gaizock has its own way of doing things. Keep your nose out of it.",
+      "display_variant": "en",
+      "display_text": "「Gaizock has its own way of doing\nthings. Keep your nose out of it.」"
+    },
+    {
+      "id": "c14_09920",
+      "speaker": "Butcher",
+      "en": "If you keep nagging at me like this, I might just start thinking up something nasty.",
+      "display_variant": "en",
+      "display_text": "「If you keep nagging at me like this, I\nmight just start thinking up something\nnasty.」"
+    },
+    {
+      "id": "c14_09970",
+      "speaker": "Teral",
+      "en": "Are you saying you intend to fight Eldar?",
+      "display_variant": "en",
+      "display_text": "「Are you saying you intend to fight\nEldar?」"
+    },
+    {
+      "id": "c14_099a0",
+      "speaker": "Butcher",
+      "en": "Fuhohoho... now, what should I do, I wonder... Well, good night~",
+      "display_variant": "en",
+      "display_text": "「Fuhohoho... now, what should I do, I\nwonder... Well, good night~」"
+    },
+    {
+      "id": "c14_099f0",
+      "speaker": "Teral",
+      "en": "(Ngh...! Just what is with that man...!)",
+      "display_variant": "en",
+      "display_text": "（(Ngh...! Just what is with that\nman...!)）"
+    },
+    {
+      "id": "c14_09a30",
+      "speaker": "King Vega",
+      "en": "Honestly... does Gaizock even have any real intention of conquering Earth...?",
+      "display_variant": "en",
+      "display_text": "「Honestly... does Gaizock even have any\nreal intention of conquering Earth...?」"
+    },
+    {
+      "id": "c14_09a80",
+      "speaker": "Teral",
+      "en": "King Vega... if the master of this Skull Moon Base acts like that, Butcher will only grow more insolent.",
+      "display_variant": "en",
+      "display_text": "「King Vega... if the master of this Skull\nMoon Base acts like that, Butcher will\nonly grow more insolent.」"
+    },
+    {
+      "id": "c14_09af0",
+      "speaker": "Teral",
+      "en": "If you object to Gaizock's methods, why didn't you back me up and condemn Butcher?",
+      "display_variant": "en",
+      "display_text": "「If you object to Gaizock's methods,\nwhy didn't you back me up and condemn\nButcher?」"
+    },
+    {
+      "id": "c14_09b60",
+      "speaker": "King Vega",
+      "en": "T-that's...",
+      "display_variant": "en",
+      "display_text": "「T-that's...」"
+    },
+    {
+      "id": "c14_09b80",
+      "speaker": "Gattler",
+      "en": "It's no wonder. Even we, allied as we are, can't rein in Gaizock's recklessness.",
+      "display_variant": "en",
+      "display_text": "「It's no wonder. Even we, allied as we\nare, can't rein in Gaizock's recklessness.」"
+    },
+    {
+      "id": "c14_09be0",
+      "speaker": "Teral",
+      "en": "Supreme Commander Gattler...",
+      "display_variant": "en",
+      "display_text": "「Supreme Commander Gattler...」"
+    },
+    {
+      "id": "c14_09c00",
+      "speaker": "Gattler",
+      "en": "Surely you heard it yourself, Teral. If that one takes a disliking to us, he'll turn his fangs on us in earnest too.",
+      "display_variant": "fit",
+      "display_text": "「Surely you heard it, Teral. If that one\ntakes a disliking to us, he'll turn his\nfangs on us in earnest too.」"
+    },
+    {
+      "id": "c14_09c60",
+      "speaker": "Teral",
+      "en": "Then let me ask you this. What do you make of the delay in conquering Earth, Supreme Commander Gattler?",
+      "display_variant": "en",
+      "display_text": "「Then let me ask you this. What do you\nmake of the delay in conquering Earth,\nSupreme Commander Gattler?」"
+    },
+    {
+      "id": "c14_09cc0",
+      "speaker": "Teral",
+      "en": "The longer this war drags on, the more danger it puts the people of Planet S-1 in, sleeping in cryo-stasis as they are.",
+      "display_variant": "fit",
+      "display_text": "「The longer this war drags on, the more\ndanger it puts the cryo-sleeping people\nof Planet S-1 in.」"
+    },
+    {
+      "id": "c14_09d20",
+      "speaker": "Gattler",
+      "en": "I'm waiting for the right moment.",
+      "display_variant": "en",
+      "display_text": "「I'm waiting for the right moment.」"
+    },
+    {
+      "id": "c14_09d50",
+      "speaker": "Gattler",
+      "en": "If I move Aldebaron carelessly and wear it down, I'll only be handing Eldar and Gaizock an opening.",
+      "display_variant": "en",
+      "display_text": "「If I move Aldebaron carelessly and wear\nit down, I'll only be handing Eldar and\nGaizock an opening.」"
+    },
+    {
+      "id": "c14_09dc0",
+      "speaker": "Teral",
+      "en": "Do you think we'd betray you?",
+      "display_variant": "en",
+      "display_text": "「Do you think we'd betray you?」"
+    },
+    {
+      "id": "c14_09df0",
+      "speaker": "Gattler",
+      "en": "I'm only speaking of the possibility. This alliance exists purely for mutual benefit, after all.",
+      "display_variant": "en",
+      "display_text": "「I'm only speaking of the possibility.\nThis alliance exists purely for mutual\nbenefit, after all.」"
+    },
+    {
+      "id": "c14_09e60",
+      "speaker": "Teral",
+      "en": "Those words... I'll take them as distrust toward us.",
+      "display_variant": "en",
+      "display_text": "「Those words... I'll take them as\ndistrust toward us.」"
+    },
+    {
+      "id": "c14_09ea0",
+      "speaker": "King Vega",
+      "en": "Both of you, stop! What good does it do us to fight amongst ourselves here!?",
+      "display_variant": "en",
+      "display_text": "「Both of you, stop! What good does it\ndo us to fight amongst ourselves here!?」"
+    },
+    {
+      "id": "c14_09ee0",
+      "speaker": "Teral",
+      "en": "Ngh...!",
+      "display_variant": "en",
+      "display_text": "「Ngh...!」"
+    },
+    {
+      "id": "c14_09f00",
+      "speaker": "Gattler",
+      "en": "Where do you think you're going, Teral?",
+      "display_variant": "en",
+      "display_text": "「Where do you think you're going, Teral?」"
+    },
+    {
+      "id": "c14_09f30",
+      "speaker": "Teral",
+      "en": "I was a fool to rely on other powers.",
+      "display_variant": "en",
+      "display_text": "「I was a fool to rely on other powers.」"
+    },
+    {
+      "id": "c14_09f60",
+      "speaker": "Teral",
+      "en": "For the sake of my homeland Eldar, I must seize Earth, whatever the cost!",
+      "display_variant": "en",
+      "display_text": "「For the sake of my homeland Eldar, I\nmust seize Earth, whatever the cost!」"
+    },
+    {
+      "id": "c14_09fd0",
+      "speaker": "Gattler",
+      "en": "Are you planning to move on your own, Eldar alone?",
+      "display_variant": "en",
+      "display_text": "「Are you planning to move on your own,\nEldar alone?」"
+    },
+    {
+      "id": "c14_0a000",
+      "speaker": "Teral",
+      "en": "I have a plan... I'll sortie myself and crush that $c and God Sigma.",
+      "display_variant": "en",
+      "display_text": "「I have a plan... I'll sortie myself and\ncrush that $c and God Sigma.」"
+    },
+    {
+      "id": "c14_0a060",
+      "speaker": "Teral",
+      "en": "(For the sake of the Teral who's gone, I have to win...! I'll use every means necessary...!)",
+      "display_variant": "en",
+      "display_text": "（(For the sake of the Teral who's\ngone, I have to win...! I'll use every\nmeans necessary...!)）"
+    },
+    {
+      "id": "c14_0a120",
+      "speaker": "Kiraken",
+      "en": "Sure is boring around here...",
+      "display_variant": "en",
+      "display_text": "「Sure is boring around here...」"
+    },
+    {
+      "id": "c14_0a140",
+      "speaker": "Minako",
+      "en": "What's with you, Kiraken? Still in vacation mode?",
+      "display_variant": "en",
+      "display_text": "「What's with you, Kiraken? Still in\nvacation mode?」"
+    },
+    {
+      "id": "c14_0a170",
+      "speaker": "Toshiya",
+      "en": "Guess we relaxed a little too much at the hot springs and went soft.",
+      "display_variant": "en",
+      "display_text": "「Guess we relaxed a little too much at\nthe hot springs and went soft.」"
+    },
+    {
+      "id": "c14_0a1b0",
+      "speaker": "Kappei",
+      "en": "If you want something to kill time with, just watch UN.",
+      "display_variant": "en",
+      "display_text": "「If you want something to kill time\nwith, just watch UN.」"
+    },
+    {
+      "id": "c14_0a1f0",
+      "speaker": "Kiraken",
+      "en": "I checked the program list, but there wasn't anything that looked particularly interesting on...",
+      "display_variant": "en",
+      "display_text": "「I checked the program list, but there\nwasn't anything that looked particularly\ninteresting on...」"
+    },
+    {
+      "id": "c14_0a250",
+      "speaker": "Julie",
+      "en": "Sheesh... Sounds like you're putting UN on the same level as entertainment TV.",
+      "display_variant": "en",
+      "display_text": "「Sheesh... Sounds like you're putting UN\non the same level as entertainment TV.」"
+    },
+    {
+      "id": "c14_0a2b0",
+      "speaker": "Julie",
+      "en": "The news programs on the public site are a vital source of information, telling us the state of the world in real time.",
+      "display_variant": "fit",
+      "display_text": "「The news programs on the public site\nare a vital source of info, telling us the\nstate of the world in real time.」"
+    },
+    {
+      "id": "c14_0a330",
+      "speaker": "Julie",
+      "en": "Besides, truth is stranger than fiction--especially in this multiverse of utter chaos.",
+      "display_variant": "en",
+      "display_text": "「Besides, truth is stranger than\nfiction--especially in this multiverse of\nutter chaos.」"
+    },
+    {
+      "id": "c14_0a390",
+      "speaker": "Kiraken",
+      "en": "...True enough. Better than nothing, I suppose. Guess I'll just watch whatever's on.",
+      "display_variant": "en",
+      "display_text": "「...True enough. Better than nothing, I\nsuppose. Guess I'll just watch whatever's\non.」"
+    },
+    {
+      "id": "c14_0a3f0",
+      "speaker": "Julie",
+      "en": "Pearls before swine... UN, wasted on Kiraken.",
+      "display_variant": "en",
+      "display_text": "「Pearls before swine... UN, wasted on\nKiraken.」"
+    },
+    {
+      "id": "c14_0a430",
+      "speaker": "Newscaster",
+      "en": "...And now, our next story. Blueprints for a giant robot meant for civil engineering work have gone on sale, drawing attention all over.",
+      "display_variant": "fit",
+      "display_text": "「...Next story: blueprints for a\ncivil-engineering giant robot have gone on\nsale, drawing attention everywhere.」"
+    },
+    {
+      "id": "c14_0a4b0",
+      "speaker": "Keiko",
+      "en": "So there's a business like that too.",
+      "display_variant": "en",
+      "display_text": "「So there's a business like that too.」"
+    },
+    {
+      "id": "c14_0a4d0",
+      "speaker": "Uchuta",
+      "en": "But it's just a work robot, right? Can't be much compared to $c's robots.",
+      "display_variant": "en",
+      "display_text": "「But it's just a work robot, right? Can't\nbe much compared to $c's robots.」"
+    },
+    {
+      "id": "c14_0a530",
+      "speaker": "Newscaster",
+      "en": "Now, let's hear from Mr. Martino, the one selling the blueprints.",
+      "display_variant": "en",
+      "display_text": "「Now, let's hear from Mr. Martino, the\none selling the blueprints.」"
+    },
+    {
+      "id": "c14_0a5a0",
+      "speaker": "Martino",
+      "en": "Hello there. I'm Martino, and I'm the one selling this formidable three-unit combining robot.",
+      "display_variant": "en",
+      "display_text": "「Hello there. I'm Martino, and I'm the\none selling this formidable three-unit\ncombining robot.」"
+    },
+    {
+      "id": "c14_0a5f0",
+      "speaker": "Minako",
+      "en": "Dad!?",
+      "display_variant": "en",
+      "display_text": "「Dad!?」"
+    },
+    {
+      "id": "c14_0a610",
+      "speaker": "Toshiya",
+      "en": "That's Minako's old man!?",
+      "display_variant": "en",
+      "display_text": "「That's Minako's old man!?」"
+    },
+    {
+      "id": "c14_0a640",
+      "speaker": "Kappei",
+      "en": "Whoa, hold on! If Old Man Martino's selling a combining robot, that means--!",
+      "display_variant": "en",
+      "display_text": "「Whoa, hold on! If Old Man Martino's\nselling a combining robot, that means--!」"
+    },
+    {
+      "id": "c14_0a6a0",
+      "speaker": "Julie",
+      "en": "That man...! He's selling God Sigma's blueprints!?",
+      "display_variant": "en",
+      "display_text": "「That man...! He's selling God Sigma's\nblueprints!?」"
+    },
+    {
+      "id": "c14_0a720",
+      "speaker": "Kazami",
+      "en": "I'm sorry, Julie. My design flaw put all of you in danger.",
+      "display_variant": "en",
+      "display_text": "「I'm sorry, Julie. My design flaw put all\nof you in danger.」"
+    },
+    {
+      "id": "c14_0a780",
+      "speaker": "Julie",
+      "en": "Come on, Doctor, don't. You're always saying there's no progress in science without failure.",
+      "display_variant": "en",
+      "display_text": "「Come on, Doctor, don't. You're always\nsaying there's no progress in science\nwithout failure.」"
+    },
+    {
+      "id": "c14_0a7f0",
+      "speaker": "Kazami",
+      "en": "So I am.",
+      "display_variant": "en",
+      "display_text": "「So I am.」"
+    },
+    {
+      "id": "c14_0a810",
+      "speaker": "Julie",
+      "en": "Honestly, I'm not thrilled about what Mr. Martino did, but every cloud has a silver lining.",
+      "display_variant": "en",
+      "display_text": "「Honestly, I'm not thrilled about what\nMr. Martino did, but every cloud has a\nsilver lining.」"
+    },
+    {
+      "id": "c14_0a880",
+      "speaker": "Julie",
+      "en": "Let's take this chance to go back over God Sigma's design once more.",
+      "display_variant": "en",
+      "display_text": "「Let's take this chance to go back over\nGod Sigma's design once more.」"
+    },
+    {
+      "id": "c14_0a8d0",
+      "speaker": "Kazami",
+      "en": "Actually, about that--alongside improving each part, I'm thinking we should go ahead with that power-up plan of ours.",
+      "display_variant": "fit",
+      "display_text": "「Actually, about that -- alongside part\nupgrades, I'm thinking we should move\nahead with our power-up plan too.」"
+    },
+    {
+      "id": "c14_0a930",
+      "speaker": "Julie",
+      "en": "Then...",
+      "display_variant": "en",
+      "display_text": "「Then...」"
+    },
+    {
+      "id": "c14_0a950",
+      "speaker": "Kazami",
+      "en": "That's right. Let's get to work implementing Sigma Breast.",
+      "display_variant": "en",
+      "display_text": "「That's right. Let's get to work\nimplementing Sigma Breast.」"
+    },
+    {
+      "id": "c14_0a990",
+      "speaker": "Julie",
+      "en": "Understood, Doctor. Sounds like we're in for a busy stretch.",
+      "display_variant": "en",
+      "display_text": "「Understood, Doctor. Sounds like we're in\nfor a busy stretch.」"
+    },
+    {
+      "id": "c14_0a9d0",
+      "speaker": "Kazami",
+      "en": "All of it leads to the advancement of science... and by extension, the advancement of humanity.",
+      "display_variant": "en",
+      "display_text": "「All of it leads to the advancement of\nscience... and by extension, the\nadvancement of humanity.」"
+    },
+    {
+      "id": "c14_0aa20",
+      "speaker": "Kazami",
+      "en": "We must never forget that our science is what shapes humanity's future.",
+      "display_variant": "en",
+      "display_text": "「We must never forget that our science\nis what shapes humanity's future.」"
+    },
+    {
+      "id": "c14_0aa60",
+      "speaker": "Julie",
+      "en": "Yes!",
+      "display_variant": "en",
+      "display_text": "「Yes!」"
+    },
+    {
+      "id": "c14_0aa80",
+      "speaker": "Gattler",
+      "en": "So you've returned, Teral.",
+      "display_variant": "en",
+      "display_text": "「So you've returned, Teral.」"
+    },
+    {
+      "id": "c14_0aab0",
+      "speaker": "Teral",
+      "en": "Forgive me, Supreme Commander Gattler. You were kind enough to lend me a fleet, and this is how it turned out.",
+      "display_variant": "en",
+      "display_text": "「Forgive me, Supreme Commander Gattler.\nYou were kind enough to lend me a fleet,\nand this is how it turned out.」"
+    },
+    {
+      "id": "c14_0ab10",
+      "speaker": "Teral",
+      "en": "The Earthlings' strength--especially that $c's--has grown far beyond anything I anticipated.",
+      "display_variant": "en",
+      "display_text": "「The Earthlings' strength--especially\nthat $c's--has grown far beyond\nanything I anticipated.」"
+    },
+    {
+      "id": "c14_0ab70",
+      "speaker": "Gattler",
+      "en": "Wasn't the real reason for your defeat something else entirely?",
+      "display_variant": "en",
+      "display_text": "「Wasn't the real reason for your defeat\nsomething else entirely?」"
+    },
+    {
+      "id": "c14_0abb0",
+      "speaker": "Teral",
+      "en": "What...?",
+      "display_variant": "en",
+      "display_text": "「What...?」"
+    },
+    {
+      "id": "c14_0abd0",
+      "speaker": "Gattler",
+      "en": "I watched the Eldar forces' performance on the monitor. Including the part where you cornered God Sigma.",
+      "display_variant": "en",
+      "display_text": "「I watched the Eldar forces' performance\non the monitor. Including the part where\nyou cornered God Sigma.」"
+    },
+    {
+      "id": "c14_0ac40",
+      "speaker": "Gattler",
+      "en": "Why didn't you finish God Sigma off then and there?",
+      "display_variant": "en",
+      "display_text": "「Why didn't you finish God Sigma off\nthen and there?」"
+    },
+    {
+      "id": "c14_0ac90",
+      "speaker": "Gattler",
+      "en": "Even though its power recovered afterward, you must have had the chance.",
+      "display_variant": "en",
+      "display_text": "「Even though its power recovered\nafterward, you must have had the chance.」"
+    },
+    {
+      "id": "c14_0ace0",
+      "speaker": "Gattler",
+      "en": "I doubt it, but you're not going to tell me you were moved by some worthless little farce, are you?",
+      "display_variant": "en",
+      "display_text": "「I doubt it, but you're not going to tell\nme you were moved by some worthless\nlittle farce, are you?」"
+    },
+    {
+      "id": "c14_0ad40",
+      "speaker": "Gattler",
+      "en": "A woman, was it.",
+      "display_variant": "en",
+      "display_text": "「A woman, was it.」"
+    },
+    {
+      "id": "c14_0ad60",
+      "speaker": "Teral",
+      "en": "What!?",
+      "display_variant": "en",
+      "display_text": "「What!?」"
+    },
+    {
+      "id": "c14_0ad80",
+      "speaker": "Gattler",
+      "en": "Throwing away a win over such shallow sentiment... now that's how a woman fights.",
+      "display_variant": "en",
+      "display_text": "「Throwing away a win over such shallow\nsentiment... now that's how a woman\nfights.」"
+    },
+    {
+      "id": "c14_0adc0",
+      "speaker": "Teral",
+      "en": "...You've gone too far, Supreme Commander!",
+      "display_variant": "en",
+      "display_text": "「...You've gone too far, Supreme\nCommander!」"
+    },
+    {
+      "id": "c14_0adf0",
+      "speaker": "Gattler",
+      "en": "Hmph... fine, have it your way. But I'm marking today down as a debt owed. Don't forget it, Teral.",
+      "display_variant": "en",
+      "display_text": "「Hmph... fine, have it your way. But I'm\nmarking today down as a debt owed. Don't\nforget it, Teral.」"
+    },
+    {
+      "id": "c14_0ae50",
+      "speaker": "Teral",
+      "en": "I'll repay that debt without fail... but when I do, you'll apologize for what you just said.",
+      "display_variant": "en",
+      "display_text": "「I'll repay that debt without fail... but\nwhen I do, you'll apologize for what you\njust said.」"
+    },
+    {
+      "id": "c14_0aea0",
+      "speaker": "Gattler",
+      "en": "Very well. I'll be waiting for that day to come.",
+      "display_variant": "en",
+      "display_text": "「Very well. I'll be waiting for that day\nto come.」"
+    },
+    {
+      "id": "c14_0aee0",
+      "speaker": "Teral",
+      "en": "(The Lira inside me let the chance for victory slip away...)",
+      "display_variant": "en",
+      "display_text": "（(The Lira inside me let the chance for\nvictory slip away...)）"
+    },
+    {
+      "id": "c14_0af20",
+      "speaker": "Teral",
+      "en": "(Even Earthlings hold hearts that care for one another... That Toshiya Dan is human, just as we Eldar are...)",
+      "display_variant": "en",
+      "display_text": "（(Even Earthlings hold hearts that care\nfor one another... That Toshiya Dan is\nhuman, just as we Eldar are...)）"
+    },
+    {
+      "id": "c14_0af80",
+      "speaker": "Teral",
+      "en": "(......)",
+      "display_variant": "en",
+      "display_text": "（(......)）"
+    },
+    {
+      "id": "c14_0afa0",
+      "speaker": "Teral",
+      "en": "(But I am Teral... commander of the Eldar forces.)",
+      "display_variant": "en",
+      "display_text": "（(But I am Teral... commander of the\nEldar forces.)）"
+    },
+    {
+      "id": "c14_0afe0",
+      "speaker": "Teral",
+      "en": "(I must win. For the sake of the Teral I love, and for my homeland, Eldar...)",
+      "display_variant": "en",
+      "display_text": "（(I must win. For the sake of the\nTeral I love, and for my homeland,\nEldar...)）"
+    }
+  ]
+}

@@ -1,0 +1,2007 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c11_05610",
+      "speaker": "Breaker",
+      "en": "See? Just like I said--there's no military scum around here after all!",
+      "display_variant": "en",
+      "display_text": "「See? Just like I said--there's no\nmilitary scum around here after all!」"
+    },
+    {
+      "id": "c11_05660",
+      "speaker": "Breaker",
+      "en": "That's weird... I could've sworn I saw a mobile suit go into town.",
+      "display_variant": "fit",
+      "display_text": "「That's weird... I could've sworn a mobile\nsuit went into town.」"
+    },
+    {
+      "id": "c11_056c0",
+      "speaker": "Breaker",
+      "en": "Anyway, now's the time to strike! Let's tear this town apart and take every last thing they've got!",
+      "display_variant": "fit",
+      "display_text": "「Anyway, now's the time to strike! Let's\ntear this town apart and take everything\nthey've got!」"
+    },
+    {
+      "id": "c11_05730",
+      "speaker": "Breaker",
+      "en": "All right! First squad, charge!",
+      "display_variant": "en",
+      "display_text": "「All right! First squad, charge!」"
+    },
+    {
+      "id": "c11_05760",
+      "speaker": "Breaker",
+      "en": "A pitfall!?",
+      "display_variant": "en",
+      "display_text": "「A pitfall!?」"
+    },
+    {
+      "id": "c11_05790",
+      "speaker": "Mayor",
+      "en": "Now, everyone! Fire! FIRE!!",
+      "display_variant": "en",
+      "display_text": "「Now, everyone! Fire! FIRE!!」"
+    },
+    {
+      "id": "c11_057d0",
+      "speaker": "Breaker",
+      "en": "Th-the first squad's been wiped out!",
+      "display_variant": "en",
+      "display_text": "「Th-the first squad's been wiped out!」"
+    },
+    {
+      "id": "c11_05800",
+      "speaker": "Breaker",
+      "en": "You bastards! You think you can take us on with nothing but hand-held weapons!?",
+      "display_variant": "fit",
+      "display_text": "「You bastards! Think you can take us on\nwith nothing but hand-held weapons!?」"
+    },
+    {
+      "id": "c11_05850",
+      "speaker": "Breaker",
+      "en": "Don't underestimate us! I'll show you being outlaws ain't just for show!",
+      "display_variant": "fit",
+      "display_text": "「Don't underestimate us! I'll show you\nbeing outlaws ain't just for show!」"
+    },
+    {
+      "id": "c11_058a0",
+      "speaker": "Mayor",
+      "en": "All right! Everyone, fall back! We'll leave the rest to our bodyguards!",
+      "display_variant": "fit",
+      "display_text": "「All right! Everyone, fall back! Leave the\nrest to our bodyguards!」"
+    },
+    {
+      "id": "c11_058e0",
+      "speaker": "Breaker",
+      "en": "Wh-what the hell!?",
+      "display_variant": "en",
+      "display_text": "「Wh-what the hell!?」"
+    },
+    {
+      "id": "c11_05900",
+      "speaker": "Breaker",
+      "en": "These townsfolk went and hired themselves some backup!",
+      "display_variant": "en",
+      "display_text": "「These townsfolk went and hired\nthemselves some backup!」"
+    },
+    {
+      "id": "c11_05940",
+      "speaker": "Ohne",
+      "en": "Sijou, Hex, Septe--disrupt the enemy from the air.",
+      "display_variant": "en",
+      "display_text": "「Sijou, Hex, Septe--disrupt the enemy\nfrom the air.」"
+    },
+    {
+      "id": "c11_05980",
+      "speaker": "Sijou",
+      "en": "Understood, Leader. I'll show them the power of the Murasame.",
+      "display_variant": "en",
+      "display_text": "「Understood, Leader. I'll show them the\npower of the Murasame.」"
+    },
+    {
+      "id": "c11_059d0",
+      "speaker": "Hex",
+      "en": "There's a good wave coming in...! Let's do this!",
+      "display_variant": "en",
+      "display_text": "「There's a good wave coming in...! Let's\ndo this!」"
+    },
+    {
+      "id": "c11_05a10",
+      "speaker": "Septe",
+      "en": "Don't think a Walker Machine can keep up with a device's speed!",
+      "display_variant": "en",
+      "display_text": "「Don't think a Walker Machine can keep\nup with a device's speed!」"
+    },
+    {
+      "id": "c11_05a60",
+      "speaker": "Ohne",
+      "en": "Zwei, Cinq--rear support! Trois, you're with me!",
+      "display_variant": "en",
+      "display_text": "「Zwei, Cinq--rear support! Trois, you're\nwith me!」"
+    },
+    {
+      "id": "c11_05ab0",
+      "speaker": "Zwei",
+      "en": "R-roger! Please clear the line of fire!",
+      "display_variant": "en",
+      "display_text": "「R-roger! Please clear the line of fire!」"
+    },
+    {
+      "id": "c11_05af0",
+      "speaker": "Cinq",
+      "en": "Times like this, I'm glad the Dobeck's got range.",
+      "display_variant": "en",
+      "display_text": "「Times like this, I'm glad the Dobeck's\ngot range.」"
+    },
+    {
+      "id": "c11_05b30",
+      "speaker": "Trois",
+      "en": "Well then... shall we get to it?",
+      "display_variant": "en",
+      "display_text": "「Well then... shall we get to it?」"
+    },
+    {
+      "id": "c11_05b60",
+      "speaker": "Breaker",
+      "en": "Damn it! Keep firing! Tear this town to pieces!!",
+      "display_variant": "en",
+      "display_text": "「Damn it! Keep firing! Tear this town to\npieces!!」"
+    },
+    {
+      "id": "c11_05bb0",
+      "speaker": "Trois",
+      "en": "You bastard...! Going out in a blaze of desperation, huh!",
+      "display_variant": "fit",
+      "display_text": "「You bastard...! Out in a blaze of\ndesperation, huh!」"
+    },
+    {
+      "id": "c11_05bf0",
+      "speaker": "Ohne",
+      "en": "All units, begin attack! Don't forget--the center of the world is right behind us!!",
+      "display_variant": "fit",
+      "display_text": "「All units, attack! Don't forget--the\ncenter of the world is right behind us!!」"
+    },
+    {
+      "id": "c11_05c50",
+      "speaker": "Ohne",
+      "en": "That's...!",
+      "display_variant": "en",
+      "display_text": "「That's...!」"
+    },
+    {
+      "id": "c11_05c70",
+      "speaker": "Hex",
+      "en": "What are you doing, Leader!",
+      "display_variant": "en",
+      "display_text": "「What are you doing, Leader!」"
+    },
+    {
+      "id": "c11_05ca0",
+      "speaker": "Ohne",
+      "en": "I've spotted a resident who couldn't get away in time! I'm moving to rescue her now!",
+      "display_variant": "fit",
+      "display_text": "「I've spotted a resident who couldn't\nget away! I'm moving to rescue her now!」"
+    },
+    {
+      "id": "c11_05ce0",
+      "speaker": "Girl",
+      "en": "A... aah...",
+      "display_variant": "en",
+      "display_text": "「A... aah...」"
+    },
+    {
+      "id": "c11_05d00",
+      "speaker": "Ohne",
+      "en": "It's all right, miss. There's nothing to worry about now.",
+      "display_variant": "en",
+      "display_text": "「It's all right, miss. There's nothing to\nworry about now.」"
+    },
+    {
+      "id": "c11_05d40",
+      "speaker": "Breaker",
+      "en": "You're the one who oughta be worried!",
+      "display_variant": "en",
+      "display_text": "「You're the one who oughta be worried!」"
+    },
+    {
+      "id": "c11_05d80",
+      "speaker": "Ohne",
+      "en": "Gah!!",
+      "display_variant": "en",
+      "display_text": "「Gah!!」"
+    },
+    {
+      "id": "c11_05da0",
+      "speaker": "Zwei",
+      "en": "Leader!!",
+      "display_variant": "en",
+      "display_text": "「Leader!!」"
+    },
+    {
+      "id": "c11_05dc0",
+      "speaker": "Breaker",
+      "en": "What an idiot! Worrying about somebody else at a time like this!",
+      "display_variant": "en",
+      "display_text": "「What an idiot! Worrying about somebody\nelse at a time like this!」"
+    },
+    {
+      "id": "c11_05e10",
+      "speaker": "Breaker",
+      "en": "But I ain't gonna kill you quick. I'll crush you nice and slow, right along with that brat you tried to protect!",
+      "display_variant": "fit",
+      "display_text": "「But I ain't killing you quick. I'll crush\nyou slow, right along with that brat you\ntried to protect!」"
+    },
+    {
+      "id": "c11_05e80",
+      "speaker": "Ohne",
+      "en": "Lose to the likes of you...!? I won't! I refuse to lose!",
+      "display_variant": "fit",
+      "display_text": "「Lose to you...!? I won't! I refuse to\nlose!」"
+    },
+    {
+      "id": "c11_05ec0",
+      "speaker": "Breaker",
+      "en": "Nice bluff! C'mon now... at least save yourself and run. Just leave the brat behind.",
+      "display_variant": "fit",
+      "display_text": "「Nice bluff! C'mon... at least save\nyourself and run. Leave the brat behind.」"
+    },
+    {
+      "id": "c11_05f20",
+      "speaker": "Ohne",
+      "en": "I won't be a coward again...! I won't run from what I have to do!",
+      "display_variant": "en",
+      "display_text": "「I won't be a coward again...! I won't\nrun from what I have to do!」"
+    },
+    {
+      "id": "c11_05f70",
+      "speaker": "Breaker",
+      "en": "Ain't that just so cool! But you're way too soft for your own good!",
+      "display_variant": "en",
+      "display_text": "「Ain't that just so cool! But you're way\ntoo soft for your own good!」"
+    },
+    {
+      "id": "c11_05fc0",
+      "speaker": "Breaker",
+      "en": "This is the kind of world we live in! Nobody gives a damn about somebody else's life!",
+      "display_variant": "fit",
+      "display_text": "「This is the world we live in! Nobody\ngives a damn about someone else's life!」"
+    },
+    {
+      "id": "c11_06010",
+      "speaker": "Ohne",
+      "en": "...Maybe you're right about that...",
+      "display_variant": "en",
+      "display_text": "「...Maybe you're right about that...」"
+    },
+    {
+      "id": "c11_06050",
+      "speaker": "Cinq",
+      "en": "Leader...",
+      "display_variant": "en",
+      "display_text": "「Leader...」"
+    },
+    {
+      "id": "c11_06070",
+      "speaker": "Ohne",
+      "en": "I used to be that kind of man too... Fighting only on orders, taking other people's lives whenever it served that purpose...",
+      "display_variant": "fit",
+      "display_text": "「I was that kind of man too... Fighting\nonly on orders, taking lives whenever it\nserved that end...」"
+    },
+    {
+      "id": "c11_060d0",
+      "speaker": "Ohne",
+      "en": "But I'm a human being...! I don't want to throw away my own judgment and become nothing but a machine that just follows orders!",
+      "display_variant": "fit",
+      "display_text": "「But I'm human...! I won't throw away my\njudgment and become a mere\norder-following machine!」"
+    },
+    {
+      "id": "c11_06140",
+      "speaker": "Breaker",
+      "en": "Wh-what's this!? You starting some kind of confession now!?",
+      "display_variant": "fit",
+      "display_text": "「Wh-what's this!? Starting some kind of\nconfession now!?」"
+    },
+    {
+      "id": "c11_06180",
+      "speaker": "Ohne",
+      "en": "That's why I left the military...! Even if I'm still going to fight, I wanted to fight by my own will!",
+      "display_variant": "fit",
+      "display_text": "「That's why I left the military...! Even\nif I still fight, I want to fight by my\nown will!」"
+    },
+    {
+      "id": "c11_061e0",
+      "speaker": "Ohne",
+      "en": "If I ran away now, after all that, there'd be no place left for me in this world!",
+      "display_variant": "fit",
+      "display_text": "「If I ran away now, there'd be no place\nleft for me in this world!」"
+    },
+    {
+      "id": "c11_06240",
+      "speaker": "Breaker",
+      "en": "Sh-shut up! Get crushed and die!!",
+      "display_variant": "en",
+      "display_text": "「Sh-shut up! Get crushed and die!!」"
+    },
+    {
+      "id": "c11_06280",
+      "speaker": "Ohne",
+      "en": "Heh... thanks for humoring my little sob story.",
+      "display_variant": "en",
+      "display_text": "「Heh... thanks for humoring my little sob\nstory.」"
+    },
+    {
+      "id": "c11_062c0",
+      "speaker": "Breaker",
+      "en": "What!?",
+      "display_variant": "en",
+      "display_text": "「What!?」"
+    },
+    {
+      "id": "c11_062e0",
+      "speaker": "Ohne",
+      "en": "While that was going on, the young lady got herself rescued by an angel.",
+      "display_variant": "fit",
+      "display_text": "「Meanwhile, the young lady got herself\nrescued by an angel.」"
+    },
+    {
+      "id": "c11_06320",
+      "speaker": "Dorothy",
+      "en": "It's all right now, dear.",
+      "display_variant": "en",
+      "display_text": "「It's all right now, dear.」"
+    },
+    {
+      "id": "c11_06350",
+      "speaker": "Girl",
+      "en": "But what about the mister!",
+      "display_variant": "en",
+      "display_text": "「But what about the mister!」"
+    },
+    {
+      "id": "c11_06370",
+      "speaker": "Dorothy",
+      "en": "There's nothing to worry about.",
+      "display_variant": "en",
+      "display_text": "「There's nothing to worry about.」"
+    },
+    {
+      "id": "c11_06390",
+      "speaker": "Roger",
+      "en": "Big O, Showtime!",
+      "display_variant": "en",
+      "display_text": "「Big O, Showtime!」"
+    },
+    {
+      "id": "c11_063c0",
+      "speaker": "Breaker",
+      "en": "Wh-what is that!? That huge thing!?",
+      "display_variant": "en",
+      "display_text": "「Wh-what is that!? That huge thing!?」"
+    },
+    {
+      "id": "c11_063f0",
+      "speaker": "Ohne",
+      "en": "A Negotiator...?",
+      "display_variant": "en",
+      "display_text": "「A Negotiator...?」"
+    },
+    {
+      "id": "c11_06410",
+      "speaker": "Roger",
+      "en": "No... that's not it.",
+      "display_variant": "en",
+      "display_text": "「No... that's not it.」"
+    },
+    {
+      "id": "c11_06430",
+      "speaker": "Roger",
+      "en": "Having actively intervened in this battle, the name of Negotiator no longer suits me. Today, I'm nothing more than a busybody.",
+      "display_variant": "compact",
+      "display_text": "「Having jumped into this fight, I'm no\nlonger a Negotiator. Today, I'm just a\nbusybody.」"
+    },
+    {
+      "id": "c11_064a0",
+      "speaker": "Breaker",
+      "en": "You bastard! Don't screw with me!",
+      "display_variant": "en",
+      "display_text": "「You bastard! Don't screw with me!」"
+    },
+    {
+      "id": "c11_064d0",
+      "speaker": "Roger",
+      "en": "Understood. As proof I'm not playing around, I'll crush you with everything I've got.",
+      "display_variant": "fit",
+      "display_text": "「Understood. As proof I'm not playing,\nI'll crush you with everything I've got.」"
+    },
+    {
+      "id": "c11_06530",
+      "speaker": "Breaker",
+      "en": "Wh-what... th-that's...! No way!",
+      "display_variant": "en",
+      "display_text": "「Wh-what... th-that's...! No way!」"
+    },
+    {
+      "id": "c11_06560",
+      "speaker": "Ohne",
+      "en": "Sorry about this, Roger Smith.",
+      "display_variant": "en",
+      "display_text": "「Sorry about this, Roger Smith.」"
+    },
+    {
+      "id": "c11_06590",
+      "speaker": "Roger",
+      "en": "No need to thank me. I'm just a busybody, after all.",
+      "display_variant": "en",
+      "display_text": "「No need to thank me. I'm just a\nbusybody, after all.」"
+    },
+    {
+      "id": "c11_065e0",
+      "speaker": "Roger",
+      "en": "That's how it is. I'll go all out, then!",
+      "display_variant": "en",
+      "display_text": "「That's how it is. I'll go all out, then!」"
+    },
+    {
+      "id": "c11_06620",
+      "speaker": "Norman",
+      "en": "Master Roger, the bandit gang has been wiped out, and the survivors have all fled.",
+      "display_variant": "fit",
+      "display_text": "「Master Roger, the bandit gang's wiped\nout, and the survivors have all fled.」"
+    },
+    {
+      "id": "c11_06670",
+      "speaker": "Roger",
+      "en": "I see. The town should have peace now.",
+      "display_variant": "en",
+      "display_text": "「I see. The town should have peace now.」"
+    },
+    {
+      "id": "c11_066b0",
+      "speaker": "Ohne",
+      "en": "You saved us, Roger. You might turn it down, but let me thank you properly all the same.",
+      "display_variant": "fit",
+      "display_text": "「You saved us, Roger. You might refuse\nit, but let me thank you properly all the\nsame.」"
+    },
+    {
+      "id": "c11_06710",
+      "speaker": "Roger",
+      "en": "Mister Oone, that story you told Breaker...",
+      "display_variant": "en",
+      "display_text": "「Mister Oone, that story you told\nBreaker...」"
+    },
+    {
+      "id": "c11_06750",
+      "speaker": "Ohne",
+      "en": "Don't take it seriously. I told you it was just a sob story, didn't I?",
+      "display_variant": "fit",
+      "display_text": "「Don't take it seriously. It was just a\nsob story, I told you.」"
+    },
+    {
+      "id": "c11_06790",
+      "speaker": "Ohne",
+      "en": "But there's one thing I swore to myself after I left the military.",
+      "display_variant": "fit",
+      "display_text": "「But there's one thing I swore after I\nleft the military.」"
+    },
+    {
+      "id": "c11_067d0",
+      "speaker": "Ohne",
+      "en": "That I'd fight by my own will, so I could live like a human being.",
+      "display_variant": "fit",
+      "display_text": "「To fight by my own will, so I could\nlive like a human being.」"
+    },
+    {
+      "id": "c11_06810",
+      "speaker": "Roger",
+      "en": "So that's the way of life you all found.",
+      "display_variant": "en",
+      "display_text": "「So that's the way of life you all\nfound.」"
+    },
+    {
+      "id": "c11_06840",
+      "speaker": "Ohne",
+      "en": "Let's pull out, everyone! Rough-and-tumble bodyguards don't belong in a peaceful town!",
+      "display_variant": "fit",
+      "display_text": "「Pull out, everyone! Rough-and-tumble\nbodyguards don't belong in a peaceful\ntown!」"
+    },
+    {
+      "id": "c11_06890",
+      "speaker": "Hex",
+      "en": "Got it, Leader. So, where to next?",
+      "display_variant": "en",
+      "display_text": "「Got it, Leader. So, where to next?」"
+    },
+    {
+      "id": "c11_068d0",
+      "speaker": "Ohne",
+      "en": "Who knows... But don't forget this much.",
+      "display_variant": "en",
+      "display_text": "「Who knows... But don't forget this\nmuch.」"
+    },
+    {
+      "id": "c11_06910",
+      "speaker": "Ohne",
+      "en": "Wherever we go, the ground we're standing on with our own two feet is the center of the world.",
+      "display_variant": "fit",
+      "display_text": "「Wherever we go, the ground we stand on\nwith our own two feet is the center of\nthe world.」"
+    },
+    {
+      "id": "c11_06960",
+      "speaker": "Ohne",
+      "en": "Come on, then, bandits! Don't think you can take down a man who's made up his mind that easily!",
+      "display_variant": "fit",
+      "display_text": "「Come on, bandits! Don't think you can\ntake down a man who's made up his mind\nthat easily!」"
+    },
+    {
+      "id": "c11_069c0",
+      "speaker": "Zwei",
+      "en": "Lady Dianna... I've left the Dianna Counter, but I think of the Moon always.",
+      "display_variant": "fit",
+      "display_text": "（Lady Dianna... I left the Dianna\nCounter, but I always think of the Moon.）"
+    },
+    {
+      "id": "c11_06a30",
+      "speaker": "Zwei",
+      "en": "That's why I'm traveling with everyone, searching for a place where the Moonrace can return.",
+      "display_variant": "fit",
+      "display_text": "（That's why I travel with everyone,\nsearching for a place where the Moonrace\ncan return.）"
+    },
+    {
+      "id": "c11_06a90",
+      "speaker": "Zwei",
+      "en": "That's exactly why I can't afford to go down in a place like this! I'll win this fight, no matter what!",
+      "display_variant": "fit",
+      "display_text": "（That's exactly why I can't go down in\na place like this! I'll win this fight, no\nmatter what!）"
+    },
+    {
+      "id": "c11_06b00",
+      "speaker": "Trois",
+      "en": "I like it, you guys. Wearing your feelings and desires right out in the open.",
+      "display_variant": "fit",
+      "display_text": "「I like it, you guys. Feelings and desires\nworn right out in the open.」"
+    },
+    {
+      "id": "c11_06b40",
+      "speaker": "Trois",
+      "en": "You're not gonna find guys like these holed up in a PLANT.",
+      "display_variant": "fit",
+      "display_text": "「You won't find guys like these holed up\nin a PLANT.」"
+    },
+    {
+      "id": "c11_06b80",
+      "speaker": "Trois",
+      "en": "Well... if anything, I'm closer to your kind these days! So I'm coming at you without holding back!",
+      "display_variant": "fit",
+      "display_text": "「Well... if anything, I'm closer to your\nkind these days! I'm coming at you\nwithout holding back!」"
+    },
+    {
+      "id": "c11_06bf0",
+      "speaker": "Sijou",
+      "en": "My homeland, Orb, was once an ideal nation where Naturals and Coordinators coexisted.",
+      "display_variant": "fit",
+      "display_text": "「My homeland, Orb, was an ideal nation\nwhere Naturals and Coordinators coexisted.」"
+    },
+    {
+      "id": "c11_06c50",
+      "speaker": "Sijou",
+      "en": "That ideal still lives on inside me, even now...!",
+      "display_variant": "en",
+      "display_text": "「That ideal still lives on inside me, even\nnow...!」"
+    },
+    {
+      "id": "c11_06c90",
+      "speaker": "Sijou",
+      "en": "That's why I will never forgive those who trample others underfoot to satisfy their own greed, like you!",
+      "display_variant": "fit",
+      "display_text": "「That's why I'll never forgive those who\ntrample others underfoot for their own\ngreed, like you!」"
+    },
+    {
+      "id": "c11_06cf0",
+      "speaker": "Cinq",
+      "en": "Promotions and bonuses don't matter to me. If there's no track laid out, I'll build my own road.",
+      "display_variant": "fit",
+      "display_text": "「Promotions and bonuses don't matter to\nme. With no track laid out, I'll build my\nown road.」"
+    },
+    {
+      "id": "c11_06d50",
+      "speaker": "Cinq",
+      "en": "Making a living is tough work. ...That's exactly why I'm going to treasure this life and give it everything I've got!",
+      "display_variant": "fit",
+      "display_text": "「Making a living is tough. ...That's\nexactly why I'll treasure this life and\ngive it everything I've got!」"
+    },
+    {
+      "id": "c11_06dc0",
+      "speaker": "Hex",
+      "en": "When it comes to Lift boarding, it's gotta be free, no matter what!",
+      "display_variant": "fit",
+      "display_text": "「When it comes to Lift boarding, it's\ngotta be free, period!」"
+    },
+    {
+      "id": "c11_06e00",
+      "speaker": "Hex",
+      "en": "If you guys had ridden Trapar too, you wouldn't have had to pull some dumb stunt like becoming bandits!",
+      "display_variant": "fit",
+      "display_text": "「If you'd ridden Trapar too, you\nwouldn't have pulled some dumb stunt like\nbecoming bandits!」"
+    },
+    {
+      "id": "c11_06e60",
+      "speaker": "Septe",
+      "en": "I might just be some deserter now, but I used to be an ace with the Singularity Search Unit!",
+      "display_variant": "fit",
+      "display_text": "「I might be just some deserter now, but\nI used to be an ace with the Singularity\nSearch Unit!」"
+    },
+    {
+      "id": "c11_06ec0",
+      "speaker": "Septe",
+      "en": "You think some run-of-the-mill bandits can take down someone trained by the military like me!?",
+      "display_variant": "fit",
+      "display_text": "「You think some run-of-the-mill bandits\ncan take down someone military-trained\nlike me!?」"
+    },
+    {
+      "id": "c11_06f00",
+      "speaker": "Roger",
+      "en": "Freedom... Those seven, and the people of this town too--they're all living true to their own hearts.",
+      "display_variant": "fit",
+      "display_text": "（Freedom... Those seven, and the\ntownsfolk too--they're all living true to\ntheir own hearts.）"
+    },
+    {
+      "id": "c11_06f50",
+      "speaker": "Roger",
+      "en": "I should follow their example too, if I'm going to live on in this chaotic world.",
+      "display_variant": "fit",
+      "display_text": "（I should follow their lead too, if I'm\nto live on in this chaotic world.）"
+    },
+    {
+      "id": "c11_06ff0",
+      "speaker": "Roger",
+      "en": "...The multiverse, being an assembly of many different worlds, naturally gathers its people from just as many different worlds.",
+      "display_variant": "fit",
+      "display_text": "「...The multiverse, an assembly of many\nworlds, naturally draws its people from\njust as many worlds.」"
+    },
+    {
+      "id": "c11_07060",
+      "speaker": "Koji",
+      "en": "Kamille and I come from the same world, while Kappei and Shinn and the others are from a different one.",
+      "display_variant": "fit",
+      "display_text": "「Kamille and I are from the same\nworld; Kappei and Shinn and the rest are\nfrom a different one.」"
+    },
+    {
+      "id": "c11_070b0",
+      "speaker": "Kei",
+      "en": "Besides that, there's also Mimsy and the others from Emaan, and Jiron and Marin and the rest, who come from a world way out of sync in time.",
+      "display_variant": "compact",
+      "display_text": "「There's also Mimsy and the others from\nEmaan, plus Jiron and Marin, from a world\nway out of sync in time.」"
+    },
+    {
+      "id": "c11_07120",
+      "speaker": "Daisuke",
+      "en": "Even within $c alone, this many people have gathered from all these different worlds.",
+      "display_variant": "fit",
+      "display_text": "「Even within $c alone, this many people\nhave gathered from so many different\nworlds.」"
+    },
+    {
+      "id": "c11_07170",
+      "speaker": "Daisuke",
+      "en": "You can imagine what the situation must be like across the whole world.",
+      "display_variant": "fit",
+      "display_text": "「You can imagine what it's like across\nthe whole world.」"
+    },
+    {
+      "id": "c11_071a0",
+      "speaker": "Roger",
+      "en": "That's right... And whenever people from different standpoints gather, conflict is born, big or small.",
+      "display_variant": "fit",
+      "display_text": "「That's right... Whenever people from\ndifferent standpoints gather, conflict is\nborn, big or small.」"
+    },
+    {
+      "id": "c11_07200",
+      "speaker": "Roger",
+      "en": "From disputes between individuals to a full-scale war splitting the world in two--the forms it takes vary widely.",
+      "display_variant": "fit",
+      "display_text": "「From disputes between individuals to a\nwar splitting the world in two--the forms\nit takes vary widely.」"
+    },
+    {
+      "id": "c11_07250",
+      "speaker": "Roger",
+      "en": "A small town I stopped by during my travels was also caught in the middle of a conflict.",
+      "display_variant": "fit",
+      "display_text": "「A small town I stopped by during my\ntravels was caught in a conflict too.」"
+    },
+    {
+      "id": "c11_072a0",
+      "speaker": "Kappei",
+      "en": "What... For something about the center of the world, this sounds like a pretty plain story.",
+      "display_variant": "fit",
+      "display_text": "「What... For something about the center\nof the world, this sounds like a plain\nstory.」"
+    },
+    {
+      "id": "c11_072f0",
+      "speaker": "Boss",
+      "en": "I get it! So that's when you sided with one of them and beat the other side to a pulp!",
+      "display_variant": "fit",
+      "display_text": "「I get it! So you sided with one of\nthem and beat the other side to a pulp!」"
+    },
+    {
+      "id": "c11_07360",
+      "speaker": "Jiron",
+      "en": "I see. So you went and fought it out flashily in the Big O.",
+      "display_variant": "en",
+      "display_text": "「I see. So you went and fought it out\nflashily in the Big O.」"
+    },
+    {
+      "id": "c11_073a0",
+      "speaker": "Roger",
+      "en": "I'm no bodyguard, and no mercenary either. I'm a Negotiator.",
+      "display_variant": "fit",
+      "display_text": "「I'm no bodyguard, no mercenary either.\nI'm a Negotiator.」"
+    },
+    {
+      "id": "c11_073f0",
+      "speaker": "Roger",
+      "en": "I'm used to it by now, but to be misunderstood right down to the very end...",
+      "display_variant": "fit",
+      "display_text": "「I'm used to it, but to be misunderstood\nright to the very end...」"
+    },
+    {
+      "id": "c11_07440",
+      "speaker": "Gain",
+      "en": "I know that, Mister Negotiator.",
+      "display_variant": "en",
+      "display_text": "「I know that, Mister Negotiator.」"
+    },
+    {
+      "id": "c11_07480",
+      "speaker": "Gain",
+      "en": "It's just that, for some reason, every job that comes your way ends up turning into that kind of thing in the end.",
+      "display_variant": "fit",
+      "display_text": "「It's just that every job that comes\nyour way somehow ends up turning into\nthat kind of thing in the end.」"
+    },
+    {
+      "id": "c11_074e0",
+      "speaker": "Roger",
+      "en": "It might sound like an excuse, but that's not my doing. All I can say is my luck was bad.",
+      "display_variant": "fit",
+      "display_text": "「It may sound like an excuse, but that's\nnot my doing. My luck was just bad.」"
+    },
+    {
+      "id": "c11_07540",
+      "speaker": "Kappei",
+      "en": "Man, you're killing me. Skip the work complaints and just get on with the story already.",
+      "display_variant": "fit",
+      "display_text": "「Man, you're killing me. Skip the work\ncomplaints and get on with the story.」"
+    },
+    {
+      "id": "c11_07590",
+      "speaker": "Roger",
+      "en": "Understood. I've no intention of putting on a gloomy story at a time like this myself, either.",
+      "display_variant": "fit",
+      "display_text": "「Understood. I've no intention of telling\na gloomy story at a time like this,\neither.」"
+    },
+    {
+      "id": "c11_075f0",
+      "speaker": "Roger",
+      "en": "...That was during the time between when I parted ways with Banjo and the others at Bellforest, and when I rejoined the Iron Gear.",
+      "display_variant": "compact",
+      "display_text": "「...That was between parting with Banjo\nand the others at Bellforest, and\nrejoining the Iron Gear.」"
+    },
+    {
+      "id": "c11_07660",
+      "speaker": "Roger",
+      "en": "I received a request to negotiate from a small town that was being subjected to a bandit gang's unreasonable demands...",
+      "display_variant": "fit",
+      "display_text": "「I received a request to negotiate from\na small town being subjected to a bandit\ngang's unreasonable demands...」"
+    },
+    {
+      "id": "c11_07700",
+      "speaker": "Breaker",
+      "en": "...So, what? You gonna be the one bringing us the town's tribute money?",
+      "display_variant": "fit",
+      "display_text": "「...So what? You bringing us the town's\ntribute money, then?」"
+    },
+    {
+      "id": "c11_07750",
+      "speaker": "Roger",
+      "en": "As I explained a moment ago, I've come here to tell you that the town refuses to pay that money.",
+      "display_variant": "fit",
+      "display_text": "「As I explained, I've come here to tell\nyou the town refuses to pay that money.」"
+    },
+    {
+      "id": "c11_077b0",
+      "speaker": "Breaker",
+      "en": "These townsfolk are a bunch of idiots. We're offering to be their bodyguards, and they turn us down?",
+      "display_variant": "fit",
+      "display_text": "「These townsfolk are idiots. We offer to\nbe their bodyguards, and they turn us\ndown?」"
+    },
+    {
+      "id": "c11_07810",
+      "speaker": "Roger",
+      "en": "Demanding an outrageous tribute in return is no different from extortion.",
+      "display_variant": "en",
+      "display_text": "「Demanding an outrageous tribute in\nreturn is no different from extortion.」"
+    },
+    {
+      "id": "c11_07860",
+      "speaker": "Breaker",
+      "en": "You're a smart one, ain'tcha.",
+      "display_variant": "en",
+      "display_text": "「You're a smart one, ain'tcha.」"
+    },
+    {
+      "id": "c11_07890",
+      "speaker": "Breaker",
+      "en": "Hyahahahahaha! You're right about that!",
+      "display_variant": "en",
+      "display_text": "「Hyahahahahaha! You're right about that!」"
+    },
+    {
+      "id": "c11_078d0",
+      "speaker": "Breaker",
+      "en": "So that's how it is, pal. If you don't wanna get hurt, go tell those townsfolk to hurry up and pay.",
+      "display_variant": "fit",
+      "display_text": "「So that's how it is, pal. If you don't\nwanna get hurt, tell the townsfolk to pay\nup fast.」"
+    },
+    {
+      "id": "c11_07940",
+      "speaker": "Roger",
+      "en": "The mayor is requesting the Federation forces be deployed, and is considering having you driven out.",
+      "display_variant": "fit",
+      "display_text": "「The mayor's requesting Federation\nforces be deployed, and considering having\nyou driven out.」"
+    },
+    {
+      "id": "c11_07990",
+      "speaker": "Breaker",
+      "en": "Th-the Federation army's coming here!?",
+      "display_variant": "en",
+      "display_text": "「Th-the Federation army's coming here!?」"
+    },
+    {
+      "id": "c11_079c0",
+      "speaker": "Roger",
+      "en": "At this point it's only under consideration. But if you withdraw quietly, I expect the request to the military will be called off.",
+      "display_variant": "compact",
+      "display_text": "「It's only under consideration for now.\nBut withdraw quietly, and I expect the\nrequest to the military gets called off.」"
+    },
+    {
+      "id": "c11_07a30",
+      "speaker": "Roger",
+      "en": "Your lives matter too, don't they. I'm telling you this for your own good... I'd advise you to retreat here.",
+      "display_variant": "fit",
+      "display_text": "「Your lives matter too. I'm telling you\nthis for your own good... I'd advise\nretreating here.」"
+    },
+    {
+      "id": "c11_07a90",
+      "speaker": "Breaker",
+      "en": "Y-yeah... guess you're right...",
+      "display_variant": "en",
+      "display_text": "「Y-yeah... guess you're right...」"
+    },
+    {
+      "id": "c11_07ac0",
+      "speaker": "Breaker",
+      "en": "You idiot! Don't fall for his sweet talk!",
+      "display_variant": "en",
+      "display_text": "「You idiot! Don't fall for his sweet\ntalk!」"
+    },
+    {
+      "id": "c11_07b00",
+      "speaker": "Breaker",
+      "en": "It's gotta be a bluff! This continent's outside the New Earth Federation's jurisdiction!",
+      "display_variant": "fit",
+      "display_text": "「Gotta be a bluff! This continent's\noutside the New Earth Federation's\njurisdiction!」"
+    },
+    {
+      "id": "c11_07b60",
+      "speaker": "Breaker",
+      "en": "There's no way the Federation army would move for some tiny town in South Ameria!",
+      "display_variant": "fit",
+      "display_text": "「No way the Federation army would move\nfor some tiny town in South Ameria!」"
+    },
+    {
+      "id": "c11_07bc0",
+      "speaker": "Roger",
+      "en": "Is that so?",
+      "display_variant": "en",
+      "display_text": "「Is that so?」"
+    },
+    {
+      "id": "c11_07be0",
+      "speaker": "Roger",
+      "en": "The New Federation, aiming to expand its power, has been actively absorbing autonomous cities and small nations as part of that effort.",
+      "display_variant": "compact",
+      "display_text": "「The New Federation, aiming to expand\nits power, has been actively absorbing\nautonomous cities and small nations.」"
+    },
+    {
+      "id": "c11_07c50",
+      "speaker": "Breaker",
+      "en": "You're saying they sold the town out to the Federation just to run us off!?",
+      "display_variant": "fit",
+      "display_text": "「So they sold the town to the\nFederation just to run us off!?」"
+    },
+    {
+      "id": "c11_07ca0",
+      "speaker": "Roger",
+      "en": "That just means their resolve runs that deep. ...You'd best make your decision quickly.",
+      "display_variant": "fit",
+      "display_text": "「That just means their resolve runs\ndeep. ...Best make your decision quickly.」"
+    },
+    {
+      "id": "c11_07cf0",
+      "speaker": "Breaker",
+      "en": "Shut up, you crow bastard! If that's how it is, it's war!",
+      "display_variant": "en",
+      "display_text": "「Shut up, you crow bastard! If that's\nhow it is, it's war!」"
+    },
+    {
+      "id": "c11_07d30",
+      "speaker": "Breaker",
+      "en": "We'll burn this town to the ground and skip town before the Federation army ever gets here!",
+      "display_variant": "fit",
+      "display_text": "「We'll burn this town down and skip out\nbefore the Federation army gets here!」"
+    },
+    {
+      "id": "c11_07d80",
+      "speaker": "Roger",
+      "en": "Do something like that, and you'll make an enemy of the New Federation for good.",
+      "display_variant": "en",
+      "display_text": "「Do something like that, and you'll make\nan enemy of the New Federation for good.」"
+    },
+    {
+      "id": "c11_07dd0",
+      "speaker": "Breaker",
+      "en": "Like I give a damn! It's do-or-die from here!",
+      "display_variant": "en",
+      "display_text": "「Like I give a damn! It's do-or-die from\nhere!」"
+    },
+    {
+      "id": "c11_07e10",
+      "speaker": "Roger",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c11_07e30",
+      "speaker": "Roger",
+      "en": "It seems there's no point talking any further.",
+      "display_variant": "en",
+      "display_text": "「It seems there's no point talking any\nfurther.」"
+    },
+    {
+      "id": "c11_07e70",
+      "speaker": "Breaker",
+      "en": "Wh-what's this!? You wanna fight us now!?",
+      "display_variant": "en",
+      "display_text": "「Wh-what's this!? You wanna fight us\nnow!?」"
+    },
+    {
+      "id": "c11_07eb0",
+      "speaker": "Roger",
+      "en": "I'm a Negotiator. I came here to negotiate.",
+      "display_variant": "en",
+      "display_text": "「I'm a Negotiator. I came here to\nnegotiate.」"
+    },
+    {
+      "id": "c11_07f00",
+      "speaker": "Roger",
+      "en": "I'll come back another day. Until then, I hope you'll have withdrawn.",
+      "display_variant": "en",
+      "display_text": "「I'll come back another day. Until then,\nI hope you'll have withdrawn.」"
+    },
+    {
+      "id": "c11_07f50",
+      "speaker": "Breaker",
+      "en": "You're the one who oughta tell the townsfolk! Tell 'em we mean business!",
+      "display_variant": "fit",
+      "display_text": "「You're the one to tell the townsfolk!\nTell 'em we mean business!」"
+    },
+    {
+      "id": "c11_07fa0",
+      "speaker": "Breaker",
+      "en": "If you understand, then get lost already! Consider this our declaration of war!",
+      "display_variant": "fit",
+      "display_text": "「If you get it, then get lost already!\nConsider this our declaration of war!」"
+    },
+    {
+      "id": "c11_08030",
+      "speaker": "Mayor",
+      "en": "Oh... welcome back, Mr. Roger. So, how did the negotiation go?",
+      "display_variant": "en",
+      "display_text": "「Oh... welcome back, Mr. Roger. So, how\ndid the negotiation go?」"
+    },
+    {
+      "id": "c11_08080",
+      "speaker": "Roger",
+      "en": "Unfortunately, it seems they've abandoned even the ability to weigh gain against loss.",
+      "display_variant": "fit",
+      "display_text": "「Unfortunately, they seem to have\nabandoned even the ability to weigh gain\nagainst loss.」"
+    },
+    {
+      "id": "c11_080d0",
+      "speaker": "Roger",
+      "en": "By hinting at the military's presence, I may have provoked them into striking first.",
+      "display_variant": "fit",
+      "display_text": "「By hinting at the military's presence, I\nmay have provoked them to strike first.」"
+    },
+    {
+      "id": "c11_08130",
+      "speaker": "Mayor",
+      "en": "What a thing to happen! Then what was the point of hiring you as our negotiator!",
+      "display_variant": "en",
+      "display_text": "「What a thing to happen! Then what was\nthe point of hiring you as our negotiator!」"
+    },
+    {
+      "id": "c11_08190",
+      "speaker": "Mayor",
+      "en": "There's no way the Federation army would come to a backwater like this...! Oh... what am I supposed to do...!?",
+      "display_variant": "fit",
+      "display_text": "「There's no way the Federation army\nwould come to a backwater like this...!\nOh... what do I do...!?」"
+    },
+    {
+      "id": "c11_081f0",
+      "speaker": "Roger",
+      "en": "Rest assured, Mayor. They're nothing more than thugs frightened by the shadow of the military, after all.",
+      "display_variant": "fit",
+      "display_text": "「Rest assured, Mayor. They're just thugs\nfrightened by the shadow of the military.」"
+    },
+    {
+      "id": "c11_08240",
+      "speaker": "Roger",
+      "en": "If you give them a small amount--say, about one percent of the tribute they're demanding--they'll likely take it and run.",
+      "display_variant": "fit",
+      "display_text": "「Give them a small amount--about one\npercent of the tribute they want--and\nthey'll likely take it and run.」"
+    },
+    {
+      "id": "c11_082b0",
+      "speaker": "Mayor",
+      "en": "If it can be settled with that little, nothing would please me more...",
+      "display_variant": "fit",
+      "display_text": "「If it's settled with that little, nothing\nwould please me more...」"
+    },
+    {
+      "id": "c11_082e0",
+      "speaker": "Roger",
+      "en": "I see any job I take on through to the end. I promise to handle this matter with both responsibility and sincerity.",
+      "display_variant": "fit",
+      "display_text": "「I see any job through to the end. I\npromise to handle this with both\nresponsibility and sincerity.」"
+    },
+    {
+      "id": "c11_08350",
+      "speaker": "Mayor",
+      "en": "A-all right. Then I'll get the money ready right away.",
+      "display_variant": "en",
+      "display_text": "「A-all right. Then I'll get the money\nready right away.」"
+    },
+    {
+      "id": "c11_08390",
+      "speaker": "Vigilante Leader",
+      "en": "Wait, Mayor! You mustn't give those bastards any money!",
+      "display_variant": "en",
+      "display_text": "「Wait, Mayor! You mustn't give those\nbastards any money!」"
+    },
+    {
+      "id": "c11_083d0",
+      "speaker": "Mayor",
+      "en": "It's only one percent of the tribute. If that's enough to buy the town's safety...",
+      "display_variant": "fit",
+      "display_text": "「It's only one percent of the tribute.\nIf that buys the town's safety...」"
+    },
+    {
+      "id": "c11_08420",
+      "speaker": "Vigilante Leader",
+      "en": "It's not about the amount...! I don't want us to just hand over money without even putting up a fight!",
+      "display_variant": "fit",
+      "display_text": "「It's not about the amount...! I won't\njust hand over money without even\nputting up a fight!」"
+    },
+    {
+      "id": "c11_08480",
+      "speaker": "Mayor",
+      "en": "B-but...",
+      "display_variant": "en",
+      "display_text": "「B-but...」"
+    },
+    {
+      "id": "c11_084a0",
+      "speaker": "Vigilante Leader",
+      "en": "There's nothing to worry about. If they come at us, the militia will handle them.",
+      "display_variant": "fit",
+      "display_text": "「There's nothing to worry about. If they\nattack, the militia will handle them.」"
+    },
+    {
+      "id": "c11_084f0",
+      "speaker": "Roger",
+      "en": "With respect, however much they're thugs, those men make their living by fighting.",
+      "display_variant": "fit",
+      "display_text": "「With respect, thugs or not, those men\nmake their living by fighting.」"
+    },
+    {
+      "id": "c11_08550",
+      "speaker": "Roger",
+      "en": "The mayor has judged that if this town's militia fought them, it would amount to marching to their deaths.",
+      "display_variant": "fit",
+      "display_text": "「The mayor's judged that if this town's\nmilitia fought them, it'd mean marching to\ntheir deaths.」"
+    },
+    {
+      "id": "c11_085b0",
+      "speaker": "Roger",
+      "en": "That's why you hired me.",
+      "display_variant": "en",
+      "display_text": "「That's why you hired me.」"
+    },
+    {
+      "id": "c11_085e0",
+      "speaker": "Vigilante Leader",
+      "en": "I know that full well. That's exactly why we've hired professionals of our own.",
+      "display_variant": "fit",
+      "display_text": "「I know that full well. That's why we\nhired professionals of our own.」"
+    },
+    {
+      "id": "c11_08630",
+      "speaker": "Mayor",
+      "en": "You hired bodyguards?",
+      "display_variant": "en",
+      "display_text": "「You hired bodyguards?」"
+    },
+    {
+      "id": "c11_08650",
+      "speaker": "Vigilante Leader",
+      "en": "They used to be soldiers. Their skills should be the real deal.",
+      "display_variant": "fit",
+      "display_text": "「They used to be soldiers, so their\nskills should be solid.」"
+    },
+    {
+      "id": "c11_08690",
+      "speaker": "Vigilante Leader",
+      "en": "That's how it is, Negotiator. Sorry, but leave the rest to us from here.",
+      "display_variant": "fit",
+      "display_text": "「That's how it is, Negotiator. Sorry, but\nleave the rest to us.」"
+    },
+    {
+      "id": "c11_086f0",
+      "speaker": "Roger",
+      "en": "What will you do, Mayor?",
+      "display_variant": "en",
+      "display_text": "「What will you do, Mayor?」"
+    },
+    {
+      "id": "c11_08710",
+      "speaker": "Mayor",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c11_08720",
+      "speaker": "Mayor",
+      "en": "I'm sorry, Mr. Roger. I've decided to choose the path of fighting them, along with everyone else.",
+      "display_variant": "fit",
+      "display_text": "「I'm sorry, Mr. Roger. I've chosen the\npath of fighting them, along with\neveryone else.」"
+    },
+    {
+      "id": "c11_08770",
+      "speaker": "Roger",
+      "en": "You'd waste a life that could be saved?",
+      "display_variant": "en",
+      "display_text": "「You'd waste a life that could be saved?」"
+    },
+    {
+      "id": "c11_087a0",
+      "speaker": "Mayor",
+      "en": "It's true that if I left it to you, we might be able to buy the town's safety for next to nothing.",
+      "display_variant": "fit",
+      "display_text": "「It's true that if I left it to you, we\nmight buy the town's safety for next to\nnothing.」"
+    },
+    {
+      "id": "c11_08800",
+      "speaker": "Mayor",
+      "en": "But from now on... when a second or third gang of outlaws shows up, we can't keep running away forever.",
+      "display_variant": "fit",
+      "display_text": "「But from now on... when a second or\nthird gang shows up, we can't keep\nrunning forever.」"
+    },
+    {
+      "id": "c11_08870",
+      "speaker": "Mayor",
+      "en": "As mayor, putting the people of this town in danger might be the wrong choice...",
+      "display_variant": "en",
+      "display_text": "「As mayor, putting the people of this\ntown in danger might be the wrong\nchoice...」"
+    },
+    {
+      "id": "c11_088c0",
+      "speaker": "Mayor",
+      "en": "But I believe that to go on living in this world, we mustn't lose our strength of heart.",
+      "display_variant": "fit",
+      "display_text": "「But I believe that to live on in this\nworld, we mustn't lose our strength of\nheart.」"
+    },
+    {
+      "id": "c11_08920",
+      "speaker": "Vigilante Leader",
+      "en": "Mayor...",
+      "display_variant": "en",
+      "display_text": "「Mayor...」"
+    },
+    {
+      "id": "c11_08940",
+      "speaker": "Roger",
+      "en": "I understand. If your resolve runs that deep, there's nothing more for me to say.",
+      "display_variant": "fit",
+      "display_text": "「I understand. If your resolve runs that\ndeep, I've nothing more to say.」"
+    },
+    {
+      "id": "c11_089a0",
+      "speaker": "Roger",
+      "en": "Allow me to wish you all good fortune in the fight ahead.",
+      "display_variant": "fit",
+      "display_text": "「Let me wish you all good fortune in\nthe fight ahead.」"
+    },
+    {
+      "id": "c11_089d0",
+      "speaker": "Vigilante Leader",
+      "en": "Now that that's settled, let's get the hired help together for a war council.",
+      "display_variant": "fit",
+      "display_text": "「That settled, let's get the hired help\ntogether for a war council.」"
+    },
+    {
+      "id": "c11_08a10",
+      "speaker": "Mayor",
+      "en": "Well then, Mr. Roger... I'm sorry, but I'll take my leave now.",
+      "display_variant": "en",
+      "display_text": "「Well then, Mr. Roger... I'm sorry, but\nI'll take my leave now.」"
+    },
+    {
+      "id": "c11_08a60",
+      "speaker": "Dorothy",
+      "en": "Too bad, Roger.",
+      "display_variant": "en",
+      "display_text": "「Too bad, Roger.」"
+    },
+    {
+      "id": "c11_08a80",
+      "speaker": "Roger",
+      "en": "It's not as though the negotiation failed. I'm not bothered by it.",
+      "display_variant": "fit",
+      "display_text": "「It's not that the negotiation failed.\nI'm not bothered by it.」"
+    },
+    {
+      "id": "c11_08ac0",
+      "speaker": "Dorothy",
+      "en": "If anything, you look happy about it.",
+      "display_variant": "en",
+      "display_text": "「If anything, you look happy about it.」"
+    },
+    {
+      "id": "c11_08af0",
+      "speaker": "Roger",
+      "en": "Since leaving Paradigm City, I've met all sorts of people...",
+      "display_variant": "en",
+      "display_text": "「Since leaving Paradigm City, I've met all\nsorts of people...」"
+    },
+    {
+      "id": "c11_08b40",
+      "speaker": "Roger",
+      "en": "and among them, the strength of will these townspeople have earns my respect.",
+      "display_variant": "fit",
+      "display_text": "「and among them, this town's people\nshow a will that earns my respect.」"
+    },
+    {
+      "id": "c11_08b90",
+      "speaker": "Roger",
+      "en": "Before I leave town, I'd like to see the faces of the bodyguards who inspired them to that resolve.",
+      "display_variant": "fit",
+      "display_text": "「Before I leave town, I'd like to see\nthe faces of the bodyguards who inspired\ntheir resolve.」"
+    },
+    {
+      "id": "c11_08c30",
+      "speaker": "Ohne",
+      "en": "Who's there...!?",
+      "display_variant": "en",
+      "display_text": "「Who's there...!?」"
+    },
+    {
+      "id": "c11_08c50",
+      "speaker": "Roger",
+      "en": "Sorry to startle you. My name is Roger Smith. I work as a Negotiator.",
+      "display_variant": "en",
+      "display_text": "「Sorry to startle you. My name is Roger\nSmith. I work as a Negotiator.」"
+    },
+    {
+      "id": "c11_08cb0",
+      "speaker": "Roger",
+      "en": "I thought I'd pay my respects to the people who volunteered to guard this town.",
+      "display_variant": "fit",
+      "display_text": "「I wanted to pay my respects to those\nwho volunteered to guard this town.」"
+    },
+    {
+      "id": "c11_08d00",
+      "speaker": "Zwei",
+      "en": "You're the one who was acting as negotiator with the bandit gang, aren't you?",
+      "display_variant": "fit",
+      "display_text": "「You're the one who negotiated with the\nbandit gang, aren't you?」"
+    },
+    {
+      "id": "c11_08d40",
+      "speaker": "Roger",
+      "en": "That's right.",
+      "display_variant": "en",
+      "display_text": "「That's right.」"
+    },
+    {
+      "id": "c11_08d60",
+      "speaker": "Trois",
+      "en": "Don't tell me you came here to complain 'cause we stole your job.",
+      "display_variant": "en",
+      "display_text": "「Don't tell me you came here to complain\n'cause we stole your job.」"
+    },
+    {
+      "id": "c11_08dc0",
+      "speaker": "Sijou",
+      "en": "Stop talking as if you're mocking him like that.",
+      "display_variant": "en",
+      "display_text": "「Stop talking as if you're mocking him\nlike that.」"
+    },
+    {
+      "id": "c11_08e10",
+      "speaker": "Trois",
+      "en": "I meant it as a joke. Don't take it so seriously.",
+      "display_variant": "en",
+      "display_text": "「I meant it as a joke. Don't take it so\nseriously.」"
+    },
+    {
+      "id": "c11_08e60",
+      "speaker": "Sijou",
+      "en": "Even if you mean it as a joke, it's rude toward someone you've just met.",
+      "display_variant": "en",
+      "display_text": "「Even if you mean it as a joke, it's\nrude toward someone you've just met.」"
+    },
+    {
+      "id": "c11_08eb0",
+      "speaker": "Cinq",
+      "en": "Now, now... it's unbecoming to squabble in front of a guest.",
+      "display_variant": "en",
+      "display_text": "「Now, now... it's unbecoming to squabble\nin front of a guest.」"
+    },
+    {
+      "id": "c11_08f00",
+      "speaker": "Hex",
+      "en": "Sorry about that... You came all this way to visit, and we go and show you something so unsightly.",
+      "display_variant": "fit",
+      "display_text": "「Sorry about that... You came all this\nway, and we show you something so\nunsightly.」"
+    },
+    {
+      "id": "c11_08f60",
+      "speaker": "Roger",
+      "en": "That's no trouble at all... though you're quite the motley crew, aren't you.",
+      "display_variant": "fit",
+      "display_text": "「No trouble at all... though you're quite\nthe motley crew, aren't you.」"
+    },
+    {
+      "id": "c11_08fa0",
+      "speaker": "Roger",
+      "en": "To have Titans from the New Federation army, along with ZAFT, the Orb military, Moonrace, and even a member of the Sibe Rail Security Corps...",
+      "display_variant": "compact",
+      "display_text": "「New Federation Titans, ZAFT, Orb\nmilitary, Moonrace, and even a Sibe Rail\nSecurity Corps member, too...」"
+    },
+    {
+      "id": "c11_09020",
+      "speaker": "Ohne",
+      "en": "Every one of us comes with a 'former' attached, though.",
+      "display_variant": "en",
+      "display_text": "「Every one of us comes with a 'former'\nattached, though.」"
+    },
+    {
+      "id": "c11_09050",
+      "speaker": "Roger",
+      "en": "How do you mean?",
+      "display_variant": "en",
+      "display_text": "「How do you mean?」"
+    },
+    {
+      "id": "c11_09070",
+      "speaker": "Ohne",
+      "en": "We're Noir 7. A mercenary group made up of people who've left their armies and organizations behind.",
+      "display_variant": "fit",
+      "display_text": "「We're Noir 7. A mercenary group of\npeople who left their armies and\norganizations behind.」"
+    },
+    {
+      "id": "c11_090c0",
+      "speaker": "Ohne",
+      "en": "Let's do introductions. I'm Oone... as you can see, a former member of the Titans.",
+      "display_variant": "fit",
+      "display_text": "「Let's do introductions. I'm Oone... a\nformer Titans member, as you can see.」"
+    },
+    {
+      "id": "c11_09110",
+      "speaker": "Zwei",
+      "en": "I'm Zwei. I used to be with the Dianna Counter.",
+      "display_variant": "en",
+      "display_text": "「I'm Zwei. I used to be with the Dianna\nCounter.」"
+    },
+    {
+      "id": "c11_09160",
+      "speaker": "Trois",
+      "en": "Name's Trois. Used to be ZAFT, but now I'm one of the outlaws.",
+      "display_variant": "en",
+      "display_text": "「Name's Trois. Used to be ZAFT, but now\nI'm one of the outlaws.」"
+    },
+    {
+      "id": "c11_091b0",
+      "speaker": "Sijou",
+      "en": "I'm Sijou. I was formerly a soldier of Orb.",
+      "display_variant": "en",
+      "display_text": "「I'm Sijou. I was formerly a soldier of\nOrb.」"
+    },
+    {
+      "id": "c11_091f0",
+      "speaker": "Cinq",
+      "en": "I'm Cinq. I used to work Sibe Rail security.",
+      "display_variant": "en",
+      "display_text": "「I'm Cinq. I used to work Sibe Rail\nsecurity.」"
+    },
+    {
+      "id": "c11_09230",
+      "speaker": "Hex",
+      "en": "Name's Hex. A KLF rider who loves the waves.",
+      "display_variant": "en",
+      "display_text": "「Name's Hex. A KLF rider who loves the\nwaves.」"
+    },
+    {
+      "id": "c11_09270",
+      "speaker": "Roger",
+      "en": "For a name like Noir 7, there seem to be only six of you...",
+      "display_variant": "en",
+      "display_text": "「For a name like Noir 7, there seem to\nbe only six of you...」"
+    },
+    {
+      "id": "c11_092c0",
+      "speaker": "Ohne",
+      "en": "There's one more--a former Chiram soldier--but he's out on reconnaissance.",
+      "display_variant": "fit",
+      "display_text": "「One more--a former Chiram soldier--but\nhe's out on recon.」"
+    },
+    {
+      "id": "c11_09310",
+      "speaker": "Roger",
+      "en": "Leaving your organizations to take up bodyguard work--sounds like there's a story behind that for each of you.",
+      "display_variant": "fit",
+      "display_text": "「Leaving your organizations for\nbodyguard work--sounds like there's a\nstory behind that for each of you.」"
+    },
+    {
+      "id": "c11_09360",
+      "speaker": "Trois",
+      "en": "Well... that's different for everyone. In my case, I fell for a Natural girl and ran out on my unit.",
+      "display_variant": "fit",
+      "display_text": "「Well... that's different for everyone. I\nfell for a Natural girl and ran out on my\nunit.」"
+    },
+    {
+      "id": "c11_093d0",
+      "speaker": "Roger",
+      "en": "What happened to that girl?",
+      "display_variant": "en",
+      "display_text": "「What happened to that girl?」"
+    },
+    {
+      "id": "c11_09400",
+      "speaker": "Trois",
+      "en": "She got caught up in the fighting...",
+      "display_variant": "en",
+      "display_text": "「She got caught up in the fighting...」"
+    },
+    {
+      "id": "c11_09420",
+      "speaker": "Trois",
+      "en": "That's how it would've gone if this were a drama, but the truth is she was two-timing me, and she up and married some other guy.",
+      "display_variant": "fit",
+      "display_text": "「That'd be a drama, but the truth is\nshe two-timed me, and married someone\nelse.」"
+    },
+    {
+      "id": "c11_09490",
+      "speaker": "Sijou",
+      "en": "Honestly... that's what happens when you chase after fleeting pleasures.",
+      "display_variant": "en",
+      "display_text": "「Honestly... that's what happens when\nyou chase after fleeting pleasures.」"
+    },
+    {
+      "id": "c11_094d0",
+      "speaker": "Sijou",
+      "en": "In my case, I defected in protest against the Seiran family, who run Orb.",
+      "display_variant": "fit",
+      "display_text": "「In my case, I defected in protest\nagainst the Seirans, who run Orb.」"
+    },
+    {
+      "id": "c11_09520",
+      "speaker": "Zwei",
+      "en": "Huh... I'd heard Sijou was a huge fan of Chief Representative Cagalli, and left Orb just to follow after her...",
+      "display_variant": "fit",
+      "display_text": "「Huh... I'd heard Sijou was a huge fan\nof Chief Representative Cagalli and left\nOrb just to follow her...」"
+    },
+    {
+      "id": "c11_09590",
+      "speaker": "Sijou",
+      "en": "D-don't go making it sound so scandalous, Zwei! I left so that I could bring Chief Representative Cagalli back to Orb and overthrow the Seiran family...",
+      "display_variant": "compact",
+      "display_text": "「D-don't make it sound scandalous, Zwei!\nI left to bring Chief Rep. Cagalli back to\nOrb and overthrow the Seirans...」"
+    },
+    {
+      "id": "c11_09610",
+      "speaker": "Cinq",
+      "en": "Come on, it's fine. No need to act tough about it now.",
+      "display_variant": "en",
+      "display_text": "「Come on, it's fine. No need to act\ntough about it now.」"
+    },
+    {
+      "id": "c11_09650",
+      "speaker": "Cinq",
+      "en": "For what it's worth, in my case, the operations chief who took over running the security corps took a dislike to me, and I got fired.",
+      "display_variant": "compact",
+      "display_text": "「For what it's worth, the operations\nchief who took over the security corps\ndisliked me, and I got fired.」"
+    },
+    {
+      "id": "c11_096c0",
+      "speaker": "Zwei",
+      "en": "I came down to Earth from the Moon, and I left the military because I wanted to see more of Earth's nature.",
+      "display_variant": "fit",
+      "display_text": "「I came down to Earth from the Moon,\nand left the military to see more of\nEarth's nature.」"
+    },
+    {
+      "id": "c11_09730",
+      "speaker": "Hex",
+      "en": "You're a romantic, Zwei. Well... I punched a superior officer I didn't like, so I'm probably the most troublesome one here.",
+      "display_variant": "fit",
+      "display_text": "「You're a romantic, Zwei. Well... I\npunched a superior I disliked, so I'm\nprobably the worst offender here.」"
+    },
+    {
+      "id": "c11_097a0",
+      "speaker": "Ohne",
+      "en": "That's about the size of it. None of us really have a reason worth bragging about.",
+      "display_variant": "fit",
+      "display_text": "「That's about the size of it. None of us\nreally have a reason worth bragging\nabout.」"
+    },
+    {
+      "id": "c11_097e0",
+      "speaker": "Roger",
+      "en": "And what about you, yourself?",
+      "display_variant": "en",
+      "display_text": "「And what about you, yourself?」"
+    },
+    {
+      "id": "c11_09810",
+      "speaker": "Ohne",
+      "en": "Something similar. I just got sick of the military as an organization.",
+      "display_variant": "en",
+      "display_text": "「Something similar. I just got sick of\nthe military as an organization.」"
+    },
+    {
+      "id": "c11_09860",
+      "speaker": "Roger",
+      "en": "Was there a particular reason?",
+      "display_variant": "en",
+      "display_text": "「Was there a particular reason?」"
+    },
+    {
+      "id": "c11_09880",
+      "speaker": "Ohne",
+      "en": "It's this kind of world we live in. I stopped wanting to trust in anything but what I'd seen with my own eyes.",
+      "display_variant": "fit",
+      "display_text": "「It's this kind of world. I stopped\nwanting to trust anything but what I've\nseen with my own eyes.」"
+    },
+    {
+      "id": "c11_098e0",
+      "speaker": "Roger",
+      "en": "So that's the story behind you throwing away your elite title...",
+      "display_variant": "fit",
+      "display_text": "「So that's why you threw away your\nelite title...」"
+    },
+    {
+      "id": "c11_09920",
+      "speaker": "Ohne",
+      "en": "I don't regret it.",
+      "display_variant": "en",
+      "display_text": "「I don't regret it.」"
+    },
+    {
+      "id": "c11_09940",
+      "speaker": "Ohne",
+      "en": "It's true that back when I was an elite of the New Earth Federation army, power was everything to me, and I never once thought about a place outside of that.",
+      "display_variant": "compact",
+      "display_text": "「Back when I was a New Earth Federation\nelite, power was everything--I never once\nthought of a place outside that.」"
+    },
+    {
+      "id": "c11_099b0",
+      "speaker": "Ohne",
+      "en": "But it's precisely because the world is like this that I want to value humanity itself...",
+      "display_variant": "fit",
+      "display_text": "「But it's exactly because the world's\nlike this that I want to value humanity\nitself...」"
+    },
+    {
+      "id": "c11_09a00",
+      "speaker": "Ohne",
+      "en": "That's why, even after throwing away my title and status, I believe that this place where I stand is the center of the world.",
+      "display_variant": "compact",
+      "display_text": "「That's why, even without title or\nstatus, I believe this place where I stand\nis the center of the world.」"
+    },
+    {
+      "id": "c11_09a70",
+      "speaker": "Trois",
+      "en": "There it is, the leader's usual line.",
+      "display_variant": "en",
+      "display_text": "「There it is, the leader's usual line.」"
+    },
+    {
+      "id": "c11_09aa0",
+      "speaker": "Sijou",
+      "en": "Well... it was that character of his that drew us together to form this team, though.",
+      "display_variant": "fit",
+      "display_text": "「Well... it was his character that drew\nus together to form this team, though.」"
+    },
+    {
+      "id": "c11_09af0",
+      "speaker": "Roger",
+      "en": "...From what I can see, the bandit gang has assembled a fair number of Walker Machines.",
+      "display_variant": "fit",
+      "display_text": "「...From what I can see, the bandit gang\nhas assembled quite a few Walker\nMachines.」"
+    },
+    {
+      "id": "c11_09b50",
+      "speaker": "Roger",
+      "en": "Do you think you can win with just the six of you?",
+      "display_variant": "en",
+      "display_text": "「Do you think you can win with just the\nsix of you?」"
+    },
+    {
+      "id": "c11_09b90",
+      "speaker": "Hex",
+      "en": "Course, it's a piece of cake!... is what I'd like to say, but...",
+      "display_variant": "en",
+      "display_text": "「Course, it's a piece of cake!... is what\nI'd like to say, but...」"
+    },
+    {
+      "id": "c11_09bd0",
+      "speaker": "Zwei",
+      "en": "By my calculations, it's about fifty-fifty... if anything, I think we might actually be at a disadvantage.",
+      "display_variant": "fit",
+      "display_text": "「By my calculations, it's about\nfifty-fifty... if anything, we might\nactually be at a disadvantage.」"
+    },
+    {
+      "id": "c11_09c30",
+      "speaker": "Roger",
+      "en": "Do the townspeople know that?",
+      "display_variant": "en",
+      "display_text": "「Do the townspeople know that?」"
+    },
+    {
+      "id": "c11_09c60",
+      "speaker": "Cinq",
+      "en": "We're not con artists. We told them straight before signing the contract.",
+      "display_variant": "en",
+      "display_text": "「We're not con artists. We told them\nstraight before signing the contract.」"
+    },
+    {
+      "id": "c11_09cb0",
+      "speaker": "Ohne",
+      "en": "And even knowing that, they chose to bet on us.",
+      "display_variant": "en",
+      "display_text": "「And even knowing that, they chose to\nbet on us.」"
+    },
+    {
+      "id": "c11_09ce0",
+      "speaker": "Roger",
+      "en": "Then, all of you are...",
+      "display_variant": "en",
+      "display_text": "「Then, all of you are...」"
+    },
+    {
+      "id": "c11_09d00",
+      "speaker": "Ohne",
+      "en": "I know what you're getting at. You want to ask why we'd take on a job that puts us at such a disadvantage.",
+      "display_variant": "fit",
+      "display_text": "「I know what you're getting at. You\nwant to know why we took a job with\nsuch bad odds.」"
+    },
+    {
+      "id": "c11_09d60",
+      "speaker": "Ohne",
+      "en": "The reason's in what I just told you. It's because this town is the center of the world for the people who live here.",
+      "display_variant": "fit",
+      "display_text": "「The reason's in what I just said. This\ntown is the center of the world for the\npeople who live here.」"
+    },
+    {
+      "id": "c11_09dc0",
+      "speaker": "Hex",
+      "en": "It might be a small town to a gang of bandits, but to the people who live here, it's the precious place where they live with their families.",
+      "display_variant": "compact",
+      "display_text": "「It's a small town to bandits, but to\nthe people here, it's the precious place\nthey share with their families.」"
+    },
+    {
+      "id": "c11_09e30",
+      "speaker": "Trois",
+      "en": "So we got hit right in the heart by these folks who mustered up the courage to protect it. Heh... corny enough to laugh at, huh?",
+      "display_variant": "fit",
+      "display_text": "「So we got hit right in the heart by\nfolks brave enough to protect it. Heh...\ncorny, huh?」"
+    },
+    {
+      "id": "c11_09ea0",
+      "speaker": "Sijou",
+      "en": "But this is our unanimous decision.",
+      "display_variant": "en",
+      "display_text": "「But this is our unanimous decision.」"
+    },
+    {
+      "id": "c11_09ed0",
+      "speaker": "Zwei",
+      "en": "Whatever we're lacking in strength, we'll make up for with the townspeople's cooperation and each of us fighting our hardest.",
+      "display_variant": "fit",
+      "display_text": "「What we lack in strength, we'll cover\nwith the townspeople's help and each of\nus fighting our hardest.」"
+    },
+    {
+      "id": "c11_09f30",
+      "speaker": "Roger",
+      "en": "...Thank you. I'm glad I got to meet all of you before leaving this town.",
+      "display_variant": "fit",
+      "display_text": "「...Thank you. I'm glad I got to meet\nyou all before leaving town.」"
+    },
+    {
+      "id": "c11_09f80",
+      "speaker": "Ohne",
+      "en": "This place is about to become a battlefield. You'd best get going soon.",
+      "display_variant": "fit",
+      "display_text": "「This place is about to become a\nbattlefield. Best get going soon.」"
+    },
+    {
+      "id": "c11_09fd0",
+      "speaker": "Septe",
+      "en": "It's bad, Leader! The bandits are already making their move!",
+      "display_variant": "en",
+      "display_text": "「It's bad, Leader! The bandits are\nalready making their move!」"
+    },
+    {
+      "id": "c11_0a020",
+      "speaker": "Ohne",
+      "en": "Sooner than expected... Guess they're desperate too.",
+      "display_variant": "en",
+      "display_text": "「Sooner than expected... Guess they're\ndesperate too.」"
+    },
+    {
+      "id": "c11_0a060",
+      "speaker": "Roger",
+      "en": "A wounded beast, then.",
+      "display_variant": "en",
+      "display_text": "「A wounded beast, then.」"
+    },
+    {
+      "id": "c11_0a090",
+      "speaker": "Septe",
+      "en": "You're that Negotiator, right? Take my advice and get out of here fast.",
+      "display_variant": "fit",
+      "display_text": "「You're that Negotiator, right? Take my\nadvice, get out fast.」"
+    },
+    {
+      "id": "c11_0a0f0",
+      "speaker": "Roger",
+      "en": "So you're the last member of Noir 7.",
+      "display_variant": "en",
+      "display_text": "「So you're the last member of Noir 7.」"
+    },
+    {
+      "id": "c11_0a120",
+      "speaker": "Septe",
+      "en": "Name's Septe. Chiram's militarism started seeming so stupid that I deserted.",
+      "display_variant": "fit",
+      "display_text": "「Name's Septe. Chiram's militarism started\nseeming stupid, so I deserted.」"
+    },
+    {
+      "id": "c11_0a180",
+      "speaker": "Septe",
+      "en": "We probably won't meet again, but keep it somewhere in the back of your mind that a guy like me existed.",
+      "display_variant": "fit",
+      "display_text": "「We probably won't meet again, but\nremember that a guy like me existed.」"
+    },
+    {
+      "id": "c11_0a1e0",
+      "speaker": "Ohne",
+      "en": "Don't say something so ill-omened, Septe. I don't intend to let a single person die, townsfolk or you guys.",
+      "display_variant": "fit",
+      "display_text": "「Don't say something so ill-omened,\nSepte. I won't let a single person die,\ntownsfolk or you.」"
+    },
+    {
+      "id": "c11_0a250",
+      "speaker": "Septe",
+      "en": "Heh... sorry about that. Guess I was getting weak-kneed, which isn't like me.",
+      "display_variant": "fit",
+      "display_text": "「Heh... sorry. Guess I was getting\nweak-kneed, which isn't like me.」"
+    },
+    {
+      "id": "c11_0a2a0",
+      "speaker": "Cinq",
+      "en": "Don't sweat it, don't sweat it! Let's just switch gears and get going!",
+      "display_variant": "en",
+      "display_text": "「Don't sweat it, don't sweat it! Let's\njust switch gears and get going!」"
+    },
+    {
+      "id": "c11_0a2f0",
+      "speaker": "Hex",
+      "en": "Let's show 'em...! What Noir 7's really made of!",
+      "display_variant": "en",
+      "display_text": "「Let's show 'em...! What Noir 7's really\nmade of!」"
+    },
+    {
+      "id": "c11_0a330",
+      "speaker": "Ohne",
+      "en": "Get ready, everyone! We'll meet the bandits head-on just like we planned!",
+      "display_variant": "en",
+      "display_text": "「Get ready, everyone! We'll meet the\nbandits head-on just like we planned!」"
+    },
+    {
+      "id": "c11_0a370",
+      "speaker": "Athrun",
+      "en": "Fighting by my own will, so I can live like a human being...",
+      "display_variant": "en",
+      "display_text": "「Fighting by my own will, so I can live\nlike a human being...」"
+    },
+    {
+      "id": "c11_0a3b0",
+      "speaker": "Tetsuya",
+      "en": "The place where you stand on your own two feet is the center of the world, huh...",
+      "display_variant": "fit",
+      "display_text": "「The place you stand on your own two\nfeet is the center of the world, huh...」"
+    },
+    {
+      "id": "c11_0a3f0",
+      "speaker": "Roger",
+      "en": "That's right. Moved by his words, I too tried to find the truth for myself.",
+      "display_variant": "en",
+      "display_text": "「That's right. Moved by his words, I too\ntried to find the truth for myself.」"
+    },
+    {
+      "id": "c11_0a450",
+      "speaker": "Roger",
+      "en": "That's the reason I joined $c, too.",
+      "display_variant": "en",
+      "display_text": "「That's the reason I joined $c, too.」"
+    },
+    {
+      "id": "c11_0a480",
+      "speaker": "Kappei",
+      "en": "Heh heh... you gave us a real good story there, right at the last minute.",
+      "display_variant": "fit",
+      "display_text": "「Heh heh... you gave us a good story\nthere, right at the last minute.」"
+    },
+    {
+      "id": "c11_0a4c0",
+      "speaker": "Ryouma",
+      "en": "For the sake of those people too, we've absolutely got to see the spacetime restoration through.",
+      "display_variant": "fit",
+      "display_text": "「For their sake too, we've absolutely\ngot to see the spacetime restoration\nthrough.」"
+    },
+    {
+      "id": "c11_0a510",
+      "speaker": "Jiron",
+      "en": "But not everyone in the world's a good person.",
+      "display_variant": "en",
+      "display_text": "「But not everyone in the world's a good\nperson.」"
+    },
+    {
+      "id": "c11_0a540",
+      "speaker": "Garrod",
+      "en": "There's plenty of scum in this world too. So what do we do about guys like that?",
+      "display_variant": "fit",
+      "display_text": "「There's plenty of scum in this world\ntoo. So what do we do about them?」"
+    },
+    {
+      "id": "c11_0a590",
+      "speaker": "Loran",
+      "en": "It doesn't matter whether someone's good or bad... I think we should protect the world for the sake of every single person.",
+      "display_variant": "fit",
+      "display_text": "「Good or bad doesn't matter... I think\nwe should protect the world for everyone.」"
+    },
+    {
+      "id": "c11_0a5f0",
+      "speaker": "Eiji",
+      "en": "So that means saving the bad guys too?",
+      "display_variant": "en",
+      "display_text": "「So that means saving the bad guys too?」"
+    },
+    {
+      "id": "c11_0a620",
+      "speaker": "Kira",
+      "en": "I think the world is made up of all those kinds of people put together.",
+      "display_variant": "fit",
+      "display_text": "「I think the world's made up of all\nthose kinds of people together.」"
+    },
+    {
+      "id": "c11_0a660",
+      "speaker": "Shinn",
+      "en": "That's why I want to protect it. Not for the sake of any one person in particular, but the world that belongs to everyone.",
+      "display_variant": "fit",
+      "display_text": "「That's why I want to protect it--not\nfor one person, but the world that\nbelongs to everyone.」"
+    },
+    {
+      "id": "c11_0a6c0",
+      "speaker": "Shinn",
+      "en": "And on top of that, I'll work to end wars and fight against people who only think of themselves. ...Might sound like empty idealism, though.",
+      "display_variant": "compact",
+      "display_text": "「And on top of that, I'll work to end\nwars and fight the self-serving. ...Might\nsound like empty idealism, though.」"
+    },
+    {
+      "id": "c11_0a730",
+      "speaker": "Toshiya",
+      "en": "What you're trying to say... I get it, Shinn.",
+      "display_variant": "en",
+      "display_text": "「What you're trying to say... I get it,\nShinn.」"
+    },
+    {
+      "id": "c11_0a760",
+      "speaker": "Kei",
+      "en": "We're only guides for the spacetime restoration--we're not the creators of the world.",
+      "display_variant": "fit",
+      "display_text": "「We're just guides for the spacetime\nrestoration--not the world's creators.」"
+    },
+    {
+      "id": "c11_0a7b0",
+      "speaker": "Koji",
+      "en": "This whole thing's like a natural disaster. It's no time to be picking and choosing who we save.",
+      "display_variant": "fit",
+      "display_text": "「This whole thing's like a disaster. It's\nno time to pick and choose who we save.」"
+    },
+    {
+      "id": "c11_0a800",
+      "speaker": "Gainer",
+      "en": "Right. If it's come to this, let's go into it with the mindset of protecting everyone in the world.",
+      "display_variant": "fit",
+      "display_text": "「Right. Let's go into this with the\nmindset of protecting everyone in the\nworld.」"
+    },
+    {
+      "id": "c11_0a850",
+      "speaker": "Apollo",
+      "en": "Beating up bad guys can wait. First we've gotta do something about everyone's home.",
+      "display_variant": "fit",
+      "display_text": "「Beating bad guys can wait. First, we've\ngot to sort out everyone's home.」"
+    },
+    {
+      "id": "c11_0a8b0",
+      "speaker": "Amuro",
+      "en": "Even if this world doesn't have any value worth protecting, we can protect it first and change it afterward.",
+      "display_variant": "fit",
+      "display_text": "「Even if this world has no value worth\nprotecting, we can protect it first and\nchange it after.」"
+    },
+    {
+      "id": "c11_0a920",
+      "speaker": "Banjo",
+      "en": "Six hours left until the scheduled time for the spacetime restoration, huh...",
+      "display_variant": "fit",
+      "display_text": "「Six hours left till the spacetime\nrestoration's scheduled time, huh...」"
+    },
+    {
+      "id": "c11_0a950",
+      "speaker": "Marin",
+      "en": "There's no more hesitation in me. All that's left is to wait for that moment.",
+      "display_variant": "fit",
+      "display_text": "「No more hesitation in me. All that's\nleft is to wait for that moment.」"
+    },
+    {
+      "id": "c11_0a990",
+      "speaker": "Daisuke",
+      "en": "We're gathering the feelings of everyone in the world as we head for the Great Singularity.",
+      "display_variant": "fit",
+      "display_text": "「We're gathering everyone's feelings as\nwe head for the Great Singularity.」"
+    },
+    {
+      "id": "c11_0a9d0",
+      "speaker": "Kamille",
+      "en": "And then, we'll restore spacetime... I believe there's a new future waiting on the other side of that.",
+      "display_variant": "fit",
+      "display_text": "「And then, we'll restore spacetime... I\nbelieve a new future waits on the other\nside of that.」"
+    },
+    {
+      "id": "c11_0aa30",
+      "speaker": "Renton",
+      "en": "Wait for me, Eureka... I'll definitely come to get you, no matter what.",
+      "display_variant": "en",
+      "display_text": "（Wait for me, Eureka... I'll definitely\ncome to get you, no matter what.）"
+    },
+    {
+      "id": "c11_0aa80",
+      "speaker": "Renton",
+      "en": "And then, let's wish for it together. A new world for all of us, and for everyone else too...",
+      "display_variant": "fit",
+      "display_text": "（And then, let's wish for it together. A\nnew world for us, and for everyone else\ntoo...）"
+    }
+  ]
+}

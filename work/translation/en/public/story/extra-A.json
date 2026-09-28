@@ -1,0 +1,355 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "x_689b6707d9",
+      "en": "Defeat all enemies."
+    },
+    {
+      "id": "x_c45cd84bf8",
+      "en": "An allied battleship is shot down."
+    },
+    {
+      "id": "x_aba71b54e5",
+      "en": "..."
+    },
+    {
+      "id": "x_9e1c1bf3fc",
+      "en": "\n- None in particular."
+    },
+    {
+      "id": "x_1d0adb8717",
+      "en": "Squad 1"
+    },
+    {
+      "id": "x_a31e79afe8",
+      "en": "Squad 2"
+    },
+    {
+      "id": "x_4e8aaf328f",
+      "en": "Squad 3"
+    },
+    {
+      "id": "x_0cbc2a5f65",
+      "en": "Squad 4"
+    },
+    {
+      "id": "x_c1378b3e1c",
+      "en": "Squad 5"
+    },
+    {
+      "id": "x_a8d777e1be",
+      "en": "Squad 6"
+    },
+    {
+      "id": "x_ba437596f6",
+      "en": "Squad 7"
+    },
+    {
+      "id": "x_e0ace6b07f",
+      "en": "Squad 8"
+    },
+    {
+      "id": "x_0b21ea7fd7",
+      "en": "Squad 9"
+    },
+    {
+      "id": "x_b0307e6f75",
+      "speaker": "Amuro",
+      "en": "All hands, launch! This time, we're the enemy!"
+    },
+    {
+      "id": "x_98b2895860",
+      "speaker": "???",
+      "en": "Damn it! The noise is terrible! The screen's a total blizzard of static."
+    },
+    {
+      "id": "x_06dbb04d71",
+      "speaker": "Bright",
+      "en": "What are you doing! Get out there already! It's completely obvious even through the monitor!"
+    },
+    {
+      "id": "x_c9084e75eb",
+      "speaker": "???",
+      "en": "Ah... sorry. This monitor on our end is completely dead..."
+    },
+    {
+      "id": "x_c1684e40a3",
+      "speaker": "???",
+      "en": "Oh wait, it's recovering a little. Is the bottom half or so showing now?"
+    },
+    {
+      "id": "x_0b42f587e1",
+      "speaker": "Kamille",
+      "en": "Wait a second... is the bottom part wavering?"
+    },
+    {
+      "id": "x_2e36f2a882",
+      "speaker": "Amuro",
+      "en": "Yeah... So it's a two-choice question, huh..."
+    },
+    {
+      "id": "x_9ccc82555c",
+      "en": "Amuro's Choice\nEveryone, hang in there\nValue your life"
+    },
+    {
+      "id": "x_aa1b1166ef",
+      "speaker": "Amuro",
+      "en": "Since I chose 'Everyone, hang in there,' let's do our best!"
+    },
+    {
+      "id": "x_ce52d0c96b",
+      "speaker": "Kamille",
+      "en": "Understood."
+    },
+    {
+      "id": "x_8ed665be44",
+      "speaker": "Amuro",
+      "en": "Since I chose 'Value your life,' don't go dying on me!"
+    },
+    {
+      "id": "x_99e529daa3",
+      "speaker": "Bright",
+      "en": "Just in case, let me go over the allied units' missions."
+    },
+    {
+      "id": "x_3c6162b508",
+      "speaker": "Bright",
+      "en": "The Strike Gundam does an on-map equipment change -- or rather, a transformation..."
+    },
+    {
+      "id": "x_78810be552",
+      "speaker": "Bright",
+      "en": "As for the Ideon, it's an Ideon System check. Jeeg has Jeeg Solo Separation, which only lets him come back from splitting apart once..."
+    },
+    {
+      "id": "x_0eb42ac06a",
+      "speaker": "Bright",
+      "en": "EVA Unit-01 goes berserk when shot down, and then there's the Song System and all that."
+    },
+    {
+      "id": "x_f5a511ff44",
+      "speaker": "Bright",
+      "en": "Now then, let's give it our all."
+    },
+    {
+      "id": "x_ccf580fa0e",
+      "en": "Alpha Numbers"
+    },
+    {
+      "id": "x_d063c93e4c",
+      "en": "Daiku-Maryu Squad"
+    },
+    {
+      "id": "x_3d990b3825",
+      "en": "Orphan"
+    },
+    {
+      "id": "x_79dfa938c3",
+      "en": "Brain Powerd"
+    },
+    {
+      "id": "x_7a320db154",
+      "en": "A mysterious ruin, 150 kilometers long, sunk in the seas near Japan. Said to possess a will of its own, it houses researchers known as Reclaimers. It is believed to have originally been a starship, and the Reclaimers' ultimate goal is thought to be a voyage across the galaxy aboard this Orphan. Its interior is also said to be filled with Organic Energy, the fundamental force of life."
+    },
+    {
+      "id": "x_bbae163f46",
+      "en": "A mysterious ruin, 150 kilometers long, sunk in the seas near Japan. Said to possess a will of its own, it houses researchers known as Reclaimers. It is believed to have originally been a starship, and the Reclaimers' ultimate goal is thought to be a voyage across the galaxy aboard this Orphan. Its interior is also said to be filled with Organic Energy, the fundamental force of life.\nNo one really knows how it all turned out in the end."
+    },
+    {
+      "id": "x_009664929e",
+      "en": "Balmar War"
+    },
+    {
+      "id": "x_e4319f0ac8",
+      "en": "Super Robot Wars Alpha"
+    },
+    {
+      "id": "x_18998eff89",
+      "en": "Refers to a series of conflicts in the year 186 of the New Western Calendar. Born from the tangled ambitions of aliens, otherworlders, and anti-Earth Federation forces, the war grew into a massive conflict that plunged the entire Earth into devastation and chaos. In the end, humanity intercepted the anti-Earth lifeform fleets and the alien fleet in orbit around Pluto and won, but the human and social cost was immense, leaving deep scars on the generations that followed."
+    },
+    {
+      "id": "x_34df11ddc9",
+      "en": "Refers to a series of conflicts in the year 186 of the New Western Calendar. Born from the tangled ambitions of aliens, otherworlders, and anti-Earth Federation forces, the war grew into a massive conflict that plunged the entire Earth into devastation and chaos. In the end, humanity intercepted the anti-Earth lifeform fleets and the alien fleet in orbit around Pluto and won, but the human and social cost was immense, leaving deep scars on the generations that followed.\nRight?"
+    },
+    {
+      "id": "x_e1d45de31d",
+      "en": "Yoshinori Kanada"
+    },
+    {
+      "id": "x_9ba1815084",
+      "en": "Various"
+    },
+    {
+      "id": "x_24b5967355",
+      "en": "'A Standard-Bearer of Anime's Third Generation' (Animage)\nHis distinctive movement and timing, his deformed character designs, the shapes of his explosions and beams, and the way he presented robots left a huge influence on countless animators who came after him.\nEven Mr. Ochi and Mr. Nabeshima, who these days feel firmly rooted in directing, were once drawing key animation with real gusto back in the day.\nThere's probably a growing generation that has no idea about any of this, but even 'the' Mutsumi Inomata and Masayuki were influenced by Kanada as well. (Well, in Masayuki's case, it could be said he was influenced more strongly -- and thus only indirectly -- by Masahito Yamashita and Kazuhide Tomonaga.)\nThese days there are far fewer chances to see his work, but there's plenty of it available on packaged video media, so anyone who feels like it can enjoy as much as they want. Anyone interested should go look for it themselves."
+    },
+    {
+      "id": "x_fdadba4f58",
+      "en": "'A Standard-Bearer of Anime's Third Generation' (Animage)\nHis distinctive movement and timing, his deformed character designs, the shapes of his explosions and beams, and the way he presented robots left a huge influence on countless animators who came after him.\nAnd he remains, to this day, a charismatic icon of the anime world -- one who continues to leave his mark even now."
+    },
+    {
+      "id": "x_47a7e443cf",
+      "speaker": "Amuro",
+      "en": "First, the basic dialogue format. I enter from the right."
+    },
+    {
+      "id": "x_6e9a26260b",
+      "speaker": "Amuro",
+      "en": "The screen's in sepia because that's just how it's set up."
+    },
+    {
+      "id": "x_f6e4963936",
+      "speaker": "Kamille",
+      "en": "Then I'll come in from the left! With an angry expression!"
+    },
+    {
+      "id": "x_4667f709c8",
+      "speaker": "Kamille",
+      "en": "Anyway, let's stop the sepia filter here."
+    },
+    {
+      "id": "x_692e02369a",
+      "speaker": "Bright",
+      "en": "Judau! What are you doing! It's completely obvious even from the monitor!"
+    },
+    {
+      "id": "x_04e174cdcd",
+      "speaker": "Bright",
+      "en": "Whoa! Too bright! Anyway, that's the end of this transmission!"
+    },
+    {
+      "id": "x_9ace8b0a34",
+      "speaker": "Kamille",
+      "en": "Sheesh... I'm heading back too."
+    },
+    {
+      "id": "x_b8281b52f0",
+      "speaker": "Amuro",
+      "en": "Well, that's just how it always goes. I'm taking off too."
+    },
+    {
+      "id": "x_c2f65e301d",
+      "speaker": "Amuro",
+      "en": "After that, there was a three-second pause..."
+    },
+    {
+      "id": "x_37180aeb1b",
+      "speaker": "Amuro",
+      "en": "I swear, time just stopped for a second."
+    },
+    {
+      "id": "x_ee6fbb66eb",
+      "speaker": "Kamille",
+      "en": "So, Amuro, what do we do after this?"
+    },
+    {
+      "id": "x_b925c641e2",
+      "speaker": "Amuro",
+      "en": "Hmm... A two-way choice, huh..."
+    },
+    {
+      "id": "x_5f1f6fc763",
+      "en": "Amuro's Choice\nGo right\nGo left"
+    },
+    {
+      "id": "x_1ebc5d8adc",
+      "speaker": "Amuro",
+      "en": "All right, let's go right!"
+    },
+    {
+      "id": "x_32aaaffde0",
+      "speaker": "Amuro",
+      "en": "On second thought, maybe left..."
+    },
+    {
+      "id": "x_8f76cac495",
+      "speaker": "Kamille",
+      "en": "Then I'll do the same."
+    },
+    {
+      "id": "x_6bcab87a52",
+      "speaker": "Amuro",
+      "en": "By the way, Kamille... do you know about {{Orphan}}?"
+    },
+    {
+      "id": "x_dd09f53c02",
+      "speaker": "Kamille",
+      "en": "Then can you explain {{Balmar War}}, Amuro?"
+    },
+    {
+      "id": "x_2320e0d305",
+      "speaker": "Amuro",
+      "en": "Of course. I know all about {{Orphan}} and {{Balmar War}}."
+    },
+    {
+      "id": "x_43b7375b68",
+      "speaker": "Amuro",
+      "en": "And of course, I know all about {{Orphan}}, {{Balmar War}}, and {{Yoshinori Kanada}} too."
+    },
+    {
+      "id": "x_ef08d8b0f0",
+      "speaker": "Kamille",
+      "en": "As expected! {{Orphan}}, {{Balmar War}}, and {{Yoshinori Kanada}}! {{Orphan}}, {{Balmar War}}, and {{Yoshinori Kanada}}!"
+    },
+    {
+      "id": "x_d12a15c4da",
+      "speaker": "Kamille",
+      "en": "As expected! ...Anyway, that should cover every command used in scenario demos."
+    },
+    {
+      "id": "x_90cd6e8128",
+      "speaker": "Amuro",
+      "en": "Before that, let's check the new command, Left-Right Active."
+    },
+    {
+      "id": "x_c30dc0bbbf",
+      "speaker": "Kamille",
+      "en": "What!?"
+    },
+    {
+      "id": "x_9fc0ec93ba",
+      "speaker": "Kamille",
+      "en": "What do you mean!?"
+    },
+    {
+      "id": "x_f31742e724",
+      "speaker": "Amuro",
+      "en": "Right. You use this Left-Right Active whenever everyone needs to look surprised together like that."
+    },
+    {
+      "id": "x_528b3386e2",
+      "speaker": "Kamille",
+      "en": "Kind of reminds me of MMR's 'Nani--!?'"
+    },
+    {
+      "id": "x_6e036c66fe",
+      "speaker": "Amuro",
+      "en": "All right, let's head to the map and check the commands over there."
+    },
+    {
+      "id": "x_84bbb15bcb",
+      "en": "Daiku-Maryu - Bridge"
+    },
+    {
+      "id": "x_8b9515d9cd",
+      "speaker": "Bright",
+      "en": "Well, I suppose that about covers it for this time."
+    },
+    {
+      "id": "x_0cf5b22841",
+      "speaker": "Amuro",
+      "en": "As unenthusiastic as ever..."
+    },
+    {
+      "id": "x_46e5a2520f",
+      "speaker": "Bright",
+      "en": "Now, don't say that. This should cover every command outside the main characters' own..."
+    },
+    {
+      "id": "x_054de58779",
+      "speaker": "Amuro",
+      "en": "Wait a second! T-the light's spreading out...!"
+    }
+  ]
+}

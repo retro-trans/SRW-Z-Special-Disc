@@ -1,0 +1,86 @@
+{
+  "checked": "2026-09-25",
+  "repository": "https://github.com/dyzz/srwz-zh",
+  "commit": "f6673b1edf697df3501fba3889e930815fd1b001",
+  "files": [
+    {
+      "path": "docs/special-disc/README.md",
+      "blob_sha": "515a18f0e0d88de6a2bf5b9b612429a5824f9195",
+      "url": "https://github.com/dyzz/srwz-zh/blob/f6673b1edf697df3501fba3889e930815fd1b001/docs/special-disc/README.md"
+    },
+    {
+      "path": "docs/special-disc/LAYOUT.md",
+      "blob_sha": "bdbc53a9ca3af321a6e1eedeb854f7facf8b4cf6",
+      "url": "https://github.com/dyzz/srwz-zh/blob/f6673b1edf697df3501fba3889e930815fd1b001/docs/special-disc/LAYOUT.md"
+    },
+    {
+      "path": "docs/special-disc/STATUS.md",
+      "blob_sha": "00959d11d9ec7b233a0c6c1093de0b9fbefb6a0e",
+      "url": "https://github.com/dyzz/srwz-zh/blob/f6673b1edf697df3501fba3889e930815fd1b001/docs/special-disc/STATUS.md"
+    },
+    {
+      "path": "docs/special-disc/PLAN.md",
+      "blob_sha": "54de6af3e25207a8d02ff5b87f8a4106822da76f",
+      "url": "https://github.com/dyzz/srwz-zh/blob/f6673b1edf697df3501fba3889e930815fd1b001/docs/special-disc/PLAN.md"
+    },
+    {
+      "path": "docs/special-disc/TEXT_WRITEBACK_PLAN.md",
+      "blob_sha": "897637400f6d2d1c490113446cf0be1a1ffb5956",
+      "url": "https://github.com/dyzz/srwz-zh/blob/f6673b1edf697df3501fba3889e930815fd1b001/docs/special-disc/TEXT_WRITEBACK_PLAN.md"
+    },
+    {
+      "path": "docs/special-disc/CURRENT_ISO.md",
+      "blob_sha": "c45dc965b0d177a070475ebd011b5f48e63e42a7",
+      "url": "https://github.com/dyzz/srwz-zh/blob/f6673b1edf697df3501fba3889e930815fd1b001/docs/special-disc/CURRENT_ISO.md"
+    },
+    {
+      "path": "tools/special_disc/README.md",
+      "blob_sha": "a94870a4ca64283f59bc57b519dc2068e3691d5e",
+      "url": "https://github.com/dyzz/srwz-zh/blob/f6673b1edf697df3501fba3889e930815fd1b001/tools/special_disc/README.md"
+    },
+    {
+      "path": "config/products/special-disc/disc-inventory.json",
+      "blob_sha": "e8eb71aed3ca4f12922287bb2f8fb8509364c711",
+      "url": "https://github.com/dyzz/srwz-zh/blob/f6673b1edf697df3501fba3889e930815fd1b001/config/products/special-disc/disc-inventory.json"
+    },
+    {
+      "path": "tools/special_disc/baselines.py",
+      "blob_sha": "4db47448b81f1ae3d726c03f373e92c2ae468216",
+      "url": "https://github.com/dyzz/srwz-zh/blob/f6673b1edf697df3501fba3889e930815fd1b001/tools/special_disc/baselines.py"
+    },
+    {
+      "path": "tools/special_disc/writeback/migrate_exe_patches.py",
+      "blob_sha": "b35d6481e289a693a7be6c3571e14c22706e0ca1",
+      "url": "https://github.com/dyzz/srwz-zh/blob/f6673b1edf697df3501fba3889e930815fd1b001/tools/special_disc/writeback/migrate_exe_patches.py"
+    },
+    {
+      "path": "tools/special_disc/writeback/install_font.py",
+      "blob_sha": "7b06ec754ac5da3b30985a1eb1f2edba31deeea8",
+      "url": "https://github.com/dyzz/srwz-zh/blob/f6673b1edf697df3501fba3889e930815fd1b001/tools/special_disc/writeback/install_font.py"
+    },
+    {
+      "path": "tools/special_disc/writeback/migrate_stage_dialogue.py",
+      "blob_sha": "83289eae08ba008b78b0c494422defa7c6cb3ebb",
+      "url": "https://github.com/dyzz/srwz-zh/blob/f6673b1edf697df3501fba3889e930815fd1b001/tools/special_disc/writeback/migrate_stage_dialogue.py"
+    },
+    {
+      "path": "tools/special_disc/writeback/migrate_srvc.py",
+      "blob_sha": "e1e47cf988478d320d52a0b83688d39db17403a9",
+      "url": "https://github.com/dyzz/srwz-zh/blob/f6673b1edf697df3501fba3889e930815fd1b001/tools/special_disc/writeback/migrate_srvc.py"
+    },
+    {
+      "path": "tools/special_disc/writeback/exe_data_guard.py",
+      "blob_sha": "7b8add3170f7b6c6561b26b391de88f53084a1ce",
+      "url": "https://github.com/dyzz/srwz-zh/blob/f6673b1edf697df3501fba3889e930815fd1b001/tools/special_disc/writeback/exe_data_guard.py"
+    },
+    {
+      "path": "tools/srwz/stage.py",
+      "blob_sha": "fcaf90b184194d09ce62b7a1218bbd8b22d04b5d",
+      "url": "https://github.com/dyzz/srwz-zh/blob/f6673b1edf697df3501fba3889e930815fd1b001/tools/srwz/stage.py"
+    }
+  ],
+  "notes": [
+    "Reference inventory only was saved locally; no upstream dialogue corpora were copied.",
+    "Paths and dates in upstream historical reports may be superseded by CURRENT_ISO.md and active tools."
+  ]
+}

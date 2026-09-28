@@ -1,0 +1,586 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c25_02b10",
+      "speaker": "Shaya",
+      "en": "Brings back memories. This is the trading point where we all first met, isn't it?",
+      "display_variant": "fit",
+      "display_text": "「Brings back memories. This is the\ntrading point where we all met, isn't it?」"
+    },
+    {
+      "id": "c25_02b60",
+      "speaker": "Elchi",
+      "en": "That's right. We fought all sorts of enemies here, and then Captain Lowen showed up...",
+      "display_variant": "fit",
+      "display_text": "「Right. We fought all sorts of enemies\nhere, then Captain Lowen showed up...」"
+    },
+    {
+      "id": "c25_02bb0",
+      "speaker": "Talho",
+      "en": "Sure, but if I recall, we didn't want to get dragged into it, so we ran off.",
+      "display_variant": "fit",
+      "display_text": "「Sure, but we didn't want to get\ndragged into it, so we ran off.」"
+    },
+    {
+      "id": "c25_02c10",
+      "speaker": "Heizaemon",
+      "en": "So our battle begins again, here in this land...",
+      "display_variant": "en",
+      "display_text": "「So our battle begins again, here in this\nland...」"
+    },
+    {
+      "id": "c25_02c50",
+      "speaker": "Ichitaro",
+      "en": "Everyone, $c from North Ameria is here.",
+      "display_variant": "en",
+      "display_text": "「Everyone, $c from North Ameria is\nhere.」"
+    },
+    {
+      "id": "c25_02c80",
+      "speaker": "Meyrin",
+      "en": "I've confirmed each of $c's ships.",
+      "display_variant": "en",
+      "display_text": "「I've confirmed each of $c's ships.」"
+    },
+    {
+      "id": "c25_02cb0",
+      "speaker": "Lacus",
+      "en": "It's been a while, everyone.",
+      "display_variant": "en",
+      "display_text": "「It's been a while, everyone.」"
+    },
+    {
+      "id": "c25_02ce0",
+      "speaker": "Dianna",
+      "en": "I can't say I'm glad for a reunion under these circumstances, but let's first confirm everyone's safety.",
+      "display_variant": "fit",
+      "display_text": "「I can't say I'm glad for a reunion like\nthis, but let's first confirm everyone's\nsafety.」"
+    },
+    {
+      "id": "c25_02d50",
+      "speaker": "Bright",
+      "en": "I hear Banjo and the others have obtained some promising intelligence. I'd like to move straight into a briefing.",
+      "display_variant": "fit",
+      "display_text": "「I hear Banjo and the others got some\npromising intel. Let's move straight into a\nbriefing.」"
+    },
+    {
+      "id": "c25_02dc0",
+      "speaker": "Gengoro",
+      "en": "Understood. I'll get the crew assembled.",
+      "display_variant": "en",
+      "display_text": "「Understood. I'll get the crew assembled.」"
+    },
+    {
+      "id": "c25_02e00",
+      "speaker": "Heizaemon",
+      "en": "A new enemy of unknown identity... and to face them, comrades gathered together beyond nation and standing...",
+      "display_variant": "fit",
+      "display_text": "「A new enemy of unknown identity... and\nagainst them, comrades gathered beyond\nnation and standing...」"
+    },
+    {
+      "id": "c25_02e60",
+      "speaker": "Heizaemon",
+      "en": "Now then... how shall we see this fight through...",
+      "display_variant": "en",
+      "display_text": "「Now then... how shall we see this fight\nthrough...」"
+    },
+    {
+      "id": "c25_02ed0",
+      "speaker": "Garrod",
+      "en": "Been keeping well, Renton?",
+      "display_variant": "en",
+      "display_text": "「Been keeping well, Renton?」"
+    },
+    {
+      "id": "c25_02f00",
+      "speaker": "Renton",
+      "en": "You haven't changed a bit either, Garrod. Glad you're safe.",
+      "display_variant": "en",
+      "display_text": "「You haven't changed a bit either,\nGarrod. Glad you're safe.」"
+    },
+    {
+      "id": "c25_02f40",
+      "speaker": "Witz",
+      "en": "Hey... what happened to that new look you had before the space-time repair?",
+      "display_variant": "en",
+      "display_text": "「Hey... what happened to that new look\nyou had before the space-time repair?」"
+    },
+    {
+      "id": "c25_02f80",
+      "speaker": "Renton",
+      "en": "That was just for special occasions. Normally I'm sticking with the same old me, not trying to act more grown-up than I am.",
+      "display_variant": "fit",
+      "display_text": "「Only for special occasions. Normally, I'm\nstill just me -- no acting grown-up.」"
+    },
+    {
+      "id": "c25_02fe0",
+      "speaker": "Tiffa",
+      "en": "Eureka... you came too.",
+      "display_variant": "en",
+      "display_text": "「Eureka... you came too.」"
+    },
+    {
+      "id": "c25_03010",
+      "speaker": "Eureka",
+      "en": "Nirvash went off on its journey together with the Scub Coral, but I thought there might still be something I could do.",
+      "display_variant": "fit",
+      "display_text": "「Nirvash left with the Scub Coral, but I\nthought there might still be something I\ncould do.」"
+    },
+    {
+      "id": "c25_03080",
+      "speaker": "Renton",
+      "en": "We're Gekkostate too, after all. Even if we can't fight in an LFO, there's still plenty for us to do.",
+      "display_variant": "fit",
+      "display_text": "「We're Gekkostate too. Even without an\nLFO, there's still plenty for us to do.」"
+    },
+    {
+      "id": "c25_030f0",
+      "speaker": "Holland",
+      "en": "Listen to you talk. You forced your way aboard again, same as always.",
+      "display_variant": "fit",
+      "display_text": "「Listen to you. You forced your way\naboard again, same as always.」"
+    },
+    {
+      "id": "c25_03140",
+      "speaker": "Jamil",
+      "en": "I appreciate your cooperation, Holland. I hear you're the one who gathered up our comrades scattered across the world.",
+      "display_variant": "fit",
+      "display_text": "「Thanks for your help, Holland. I hear\nyou gathered our comrades scattered\nacross the world.」"
+    },
+    {
+      "id": "c25_031b0",
+      "speaker": "Holland",
+      "en": "It's a dangerous world out there -- can't have Talho or the kid in her belly settling down anywhere safe.",
+      "display_variant": "fit",
+      "display_text": "「It's a dangerous world -- can't have\nTalho or the kid in her belly settling\ndown safe anywhere.」"
+    },
+    {
+      "id": "c25_03200",
+      "speaker": "Holland",
+      "en": "Figured it was about time I tried acting a bit more like a father myself.",
+      "display_variant": "fit",
+      "display_text": "「Figured it was time I tried acting more\nlike a father myself.」"
+    },
+    {
+      "id": "c25_03250",
+      "speaker": "Jiron",
+      "en": "Heh... becoming a parent really does change a guy, huh.",
+      "display_variant": "en",
+      "display_text": "「Heh... becoming a parent really does\nchange a guy, huh.」"
+    },
+    {
+      "id": "c25_03290",
+      "speaker": "Holland",
+      "en": "Shut it, Jiron. Don't go bringing up the old days.",
+      "display_variant": "en",
+      "display_text": "「Shut it, Jiron. Don't go bringing up the\nold days.」"
+    },
+    {
+      "id": "c25_032d0",
+      "speaker": "Kei",
+      "en": "Now, now, Holland. Let's just let those who don't understand this feeling of fulfillment say whatever they want.",
+      "display_variant": "fit",
+      "display_text": "「Now, now, Holland. Let those who don't\nget this feeling of fulfillment say what\nthey like.」"
+    },
+    {
+      "id": "c25_03330",
+      "speaker": "Roybea",
+      "en": "Sure, but you're on the same countdown to fatherhood, and you don't look like you've changed one bit.",
+      "display_variant": "fit",
+      "display_text": "「Sure, but you're on the same countdown\nto fatherhood, and you haven't changed\none bit.」"
+    },
+    {
+      "id": "c25_03390",
+      "speaker": "Amuro",
+      "en": "How about Mimsy? Is her belly starting to show by now?",
+      "display_variant": "en",
+      "display_text": "「How about Mimsy? Is her belly starting\nto show by now?」"
+    },
+    {
+      "id": "c25_033e0",
+      "speaker": "Kei",
+      "en": "Still a ways off, Lieutenant. She's out there today too, cheerfully assisting Shaya.",
+      "display_variant": "fit",
+      "display_text": "「Still a ways off, Lieutenant. She's\nassisting Shaya cheerfully again today.」"
+    },
+    {
+      "id": "c25_03430",
+      "speaker": "Kei",
+      "en": "Anyway, that's why all of us from the Factory are joining up with $c too. Nice to be working with you.",
+      "display_variant": "fit",
+      "display_text": "「Anyway, that's why we're all from the\nFactory joining $c too. Nice working with\nyou.」"
+    },
+    {
+      "id": "c25_03480",
+      "speaker": "Amuro",
+      "en": "Likewise. We're counting on you.",
+      "display_variant": "en",
+      "display_text": "「Likewise. We're counting on you.」"
+    },
+    {
+      "id": "c25_034c0",
+      "speaker": "Chill",
+      "en": "It's not just Gekkostate and the Factory -- us Iron Gear folks are here too, y'know!",
+      "display_variant": "fit",
+      "display_text": "「It's not just Gekkostate and the\nFactory -- us Iron Gear folks are here\ntoo!」"
+    },
+    {
+      "id": "c25_03530",
+      "speaker": "Jiron",
+      "en": "We're fighting too. Can't get a decent night's sleep with things like that crawling up out of the ground.",
+      "display_variant": "fit",
+      "display_text": "「We're fighting too. Can't sleep well with\nthings like that crawling out of the\nground.」"
+    },
+    {
+      "id": "c25_03590",
+      "speaker": "Eiji",
+      "en": "Been a while, Shinn. Figured I'd get to see you here too.",
+      "display_variant": "en",
+      "display_text": "「Been a while, Shinn. Figured I'd get to\nsee you here too.」"
+    },
+    {
+      "id": "c25_035d0",
+      "speaker": "Shinn",
+      "en": "So the Gran Knights came too.",
+      "display_variant": "en",
+      "display_text": "「So the Gran Knights came too.」"
+    },
+    {
+      "id": "c25_03600",
+      "speaker": "Luna",
+      "en": "Of course. Protecting the world from the clutches of evil is our mission.",
+      "display_variant": "en",
+      "display_text": "「Of course. Protecting the world from\nthe clutches of evil is our mission.」"
+    },
+    {
+      "id": "c25_03650",
+      "speaker": "Touga",
+      "en": "It's not just us, either. Japan's whole army of super robots is joining in.",
+      "display_variant": "en",
+      "display_text": "「It's not just us, either. Japan's whole\narmy of super robots is joining in.」"
+    },
+    {
+      "id": "c25_036a0",
+      "speaker": "Koji",
+      "en": "Daisuke and the others, plus Marin and Toshiya, even postponed their departure for space for this.",
+      "display_variant": "fit",
+      "display_text": "「Daisuke and the others, plus Marin and\nToshiya, even delayed their departure for\nspace for this.」"
+    },
+    {
+      "id": "c25_036f0",
+      "speaker": "Daisuke",
+      "en": "Earth is my second home. I can't just stand by and watch it get ravaged.",
+      "display_variant": "en",
+      "display_text": "「Earth is my second home. I can't just\nstand by and watch it get ravaged.」"
+    },
+    {
+      "id": "c25_03750",
+      "speaker": "Toshiya",
+      "en": "That's the way of it. We're not setting sail for the sea of stars until we've settled everything here.",
+      "display_variant": "fit",
+      "display_text": "「That's the way of it. We won't sail for\nthe sea of stars till everything here's\nsettled.」"
+    },
+    {
+      "id": "c25_037a0",
+      "speaker": "Marin",
+      "en": "Which is exactly why we have to bring peace back as soon as possible.",
+      "display_variant": "en",
+      "display_text": "「Which is exactly why we have to bring\npeace back as soon as possible.」"
+    },
+    {
+      "id": "c25_037f0",
+      "speaker": "Kappei",
+      "en": "So that's why we went and pulled Beal and Zambot 3 back up out of Suruga Bay.",
+      "display_variant": "fit",
+      "display_text": "「That's why we pulled Beal and Zambot 3\nback up out of Suruga Bay.」"
+    },
+    {
+      "id": "c25_03850",
+      "speaker": "Tetsuya",
+      "en": "But that swarm of unmanned drones... they're a tougher enemy than we expected.",
+      "display_variant": "fit",
+      "display_text": "「But that drone swarm's a tougher enemy\nthan we expected.」"
+    },
+    {
+      "id": "c25_03890",
+      "speaker": "Ryouma",
+      "en": "And with their identity and purpose still unknown, there's not much we can do about it...",
+      "display_variant": "fit",
+      "display_text": "「With their identity and purpose still\nunknown, there's not much we can do...」"
+    },
+    {
+      "id": "c25_038d0",
+      "speaker": "Apollo",
+      "en": "Nothing to worry about. Seems like Roger and Banjo have been working together with old man Fudo on this.",
+      "display_variant": "fit",
+      "display_text": "「Nothing to worry about. Roger and Banjo\nseem to have worked with old man Fudo on\nthis.」"
+    },
+    {
+      "id": "c25_03940",
+      "speaker": "Sirius",
+      "en": "From what they've learned, this is apparently the rendezvous point they settled on for all of us.",
+      "display_variant": "fit",
+      "display_text": "「From what they've learned, this is\napparently the rendezvous point they\npicked for all of us.」"
+    },
+    {
+      "id": "c25_03990",
+      "speaker": "Koji",
+      "en": "The mystery enemy's stronghold being in Japan, of all places... I was floored when I heard that.",
+      "display_variant": "fit",
+      "display_text": "「The mystery enemy's stronghold being in\nJapan, of all places... I was stunned to\nhear that.」"
+    },
+    {
+      "id": "c25_039e0",
+      "speaker": "Ryouma",
+      "en": "So that's why Japan hasn't been attacked by the drones...",
+      "display_variant": "en",
+      "display_text": "「So that's why Japan hasn't been\nattacked by the drones...」"
+    },
+    {
+      "id": "c25_03a30",
+      "speaker": "$n",
+      "en": "You're...",
+      "display_variant": "en",
+      "display_text": "「You're...」"
+    },
+    {
+      "id": "c25_03a50",
+      "speaker": "Rand",
+      "en": "Yo... $n. Good work on that whole space-time repair thing.",
+      "display_variant": "en",
+      "display_text": "「Yo... $n. Good work on that whole\nspace-time repair thing.」"
+    },
+    {
+      "id": "c25_03a90",
+      "speaker": "$n",
+      "en": "Mr. Rand... so you're joining $c too.",
+      "display_variant": "en",
+      "display_text": "「Mr. Rand... so you're joining $c too.」"
+    },
+    {
+      "id": "c25_03ad0",
+      "speaker": "Rand",
+      "en": "Eh... it just kinda happened. Figured I'd go along with that big-forehead general's recruiting drive.",
+      "display_variant": "fit",
+      "display_text": "「Eh... it just happened. Figured I'd go\nalong with that big-forehead general's\nrecruiting drive.」"
+    },
+    {
+      "id": "c25_03b30",
+      "speaker": "Rand",
+      "en": "I'd crossed paths with Jiron and the Black Southern Cross before too. Figured this counts as part of the repairman trade.",
+      "display_variant": "fit",
+      "display_text": "「I've met Jiron and the Black Southern\nCross before, too -- part of the repair\ntrade.」"
+    },
+    {
+      "id": "c25_03b90",
+      "speaker": "Toby",
+      "en": "This wild-looking guy a friend of yours?",
+      "display_variant": "en",
+      "display_text": "「This wild-looking guy a friend of\nyours?」"
+    },
+    {
+      "id": "c25_03bc0",
+      "speaker": "$n",
+      "en": "Yes... he's someone who looked after me.",
+      "display_variant": "en",
+      "display_text": "「Yes... he's someone who looked after\nme.」"
+    },
+    {
+      "id": "c25_03bf0",
+      "speaker": "Rand",
+      "en": "Rand Travis. Nice to meet you.",
+      "display_variant": "en",
+      "display_text": "「Rand Travis. Nice to meet you.」"
+    },
+    {
+      "id": "c25_03c20",
+      "speaker": "Denzel",
+      "en": "I hear you looked out for one of my people. Much appreciated -- likewise, nice to meet you.",
+      "display_variant": "fit",
+      "display_text": "「I hear you looked out for one of my\npeople. Appreciate it -- likewise, nice to\nmeet you.」"
+    },
+    {
+      "id": "c25_03c70",
+      "speaker": "$n",
+      "en": "Asakim's gone now... Mr. Rand's able to smile again, isn't he.",
+      "display_variant": "en",
+      "display_text": "（Asakim's gone now... Mr. Rand's able to\nsmile again, isn't he.）"
+    },
+    {
+      "id": "c25_03cd0",
+      "speaker": "$n",
+      "en": "Though he's a little... no, actually pretty overbearing about it...",
+      "display_variant": "en",
+      "display_text": "（Though he's a little... no, actually\npretty overbearing about it...）"
+    },
+    {
+      "id": "c25_03d00",
+      "speaker": "Mel",
+      "en": "Nice to meet you, $n. My darling's been in your debt.",
+      "display_variant": "en",
+      "display_text": "「Nice to meet you, $n. My darling's\nbeen in your debt.」"
+    },
+    {
+      "id": "c25_03d40",
+      "speaker": "$n",
+      "en": "Darling...!?",
+      "display_variant": "en",
+      "display_text": "「Darling...!?」"
+    },
+    {
+      "id": "c25_03d60",
+      "speaker": "Mel",
+      "en": "I'm Mel Beater. Acting president of the wandering repair outfit, Beater Service...",
+      "display_variant": "fit",
+      "display_text": "「I'm Mel Beater, acting president of\nwandering repair outfit Beater Service...」"
+    },
+    {
+      "id": "c25_03dc0",
+      "speaker": "Mel",
+      "en": "...and also my darling's fiancee.",
+      "display_variant": "en",
+      "display_text": "「...and also my darling's fiancee.」"
+    },
+    {
+      "id": "c25_03df0",
+      "speaker": "Toby",
+      "en": "Nice going, mister... You just shot straight to the top of my list of guys I respect.",
+      "display_variant": "fit",
+      "display_text": "「Nice going, mister... You just shot to\nthe top of my list of guys I respect.」"
+    },
+    {
+      "id": "c25_03e50",
+      "speaker": "Rand",
+      "en": "What kind of criteria is that, exactly...!?",
+      "display_variant": "en",
+      "display_text": "「What kind of criteria is that,\nexactly...!?」"
+    },
+    {
+      "id": "c25_03e80",
+      "speaker": "$n",
+      "en": "So, this fiancee thing...",
+      "display_variant": "en",
+      "display_text": "「So, this fiancee thing...」"
+    },
+    {
+      "id": "c25_03eb0",
+      "speaker": "Rand",
+      "en": "Eh... explaining it's too much trouble. Let's just leave it at that until this whole mess is sorted out.",
+      "display_variant": "fit",
+      "display_text": "「Eh... explaining is too much trouble.\nLet's leave it at that till this mess is\nsorted out.」"
+    },
+    {
+      "id": "c25_03f10",
+      "speaker": "$n",
+      "en": "So she was the person you were looking for, Mr. Rand.",
+      "display_variant": "en",
+      "display_text": "「So she was the person you were looking\nfor, Mr. Rand.」"
+    },
+    {
+      "id": "c25_03f50",
+      "speaker": "$n",
+      "en": "I'm really glad you found the person you love. You two make a great match.",
+      "display_variant": "en",
+      "display_text": "「I'm really glad you found the person\nyou love. You two make a great match.」"
+    },
+    {
+      "id": "c25_03fa0",
+      "speaker": "Rand",
+      "en": "Hold on a second! On second thought, I'm going to explain this properly!",
+      "display_variant": "en",
+      "display_text": "「Hold on a second! On second thought,\nI'm going to explain this properly!」"
+    },
+    {
+      "id": "c25_03fe0",
+      "speaker": "Mel",
+      "en": "Oh, come on, it's fine. Let's just say I've got him reserved.",
+      "display_variant": "en",
+      "display_text": "「Oh, come on, it's fine. Let's just say\nI've got him reserved.」"
+    },
+    {
+      "id": "c25_04010",
+      "speaker": "$n",
+      "en": "Yes. Please let me offer my congratulations too.",
+      "display_variant": "en",
+      "display_text": "「Yes. Please let me offer my\ncongratulations too.」"
+    },
+    {
+      "id": "c25_04040",
+      "speaker": "Rand",
+      "en": "Ah, well... good enough. I got to see a good smile out of them, at least.",
+      "display_variant": "en",
+      "display_text": "（Ah, well... good enough. I got to see a\ngood smile out of them, at least.）"
+    },
+    {
+      "id": "c25_04080",
+      "speaker": "Rand",
+      "en": "Sounds like a lot's happened, but it seems $n's found something, in $n's own way.",
+      "display_variant": "fit",
+      "display_text": "（Sounds like a lot's happened, but $n's\nfound something, in $n's own way.）"
+    },
+    {
+      "id": "c25_040d0",
+      "speaker": "Loran",
+      "en": "Then, over on your end too...?",
+      "display_variant": "en",
+      "display_text": "「Then, over on your end too...?」"
+    },
+    {
+      "id": "c25_040f0",
+      "speaker": "Gainer",
+      "en": "Yeah... around the time the drones woke up all over the world, King Gainer started up on its own too.",
+      "display_variant": "fit",
+      "display_text": "「Yeah... around when the drones woke up\nworldwide, King Gainer started up on its\nown too.」"
+    },
+    {
+      "id": "c25_04150",
+      "speaker": "Loran",
+      "en": "Then maybe it's not just the Turn A -- King Gainer might have it too...",
+      "display_variant": "en",
+      "display_text": "「Then maybe it's not just the Turn A\n-- King Gainer might have it too...」"
+    },
+    {
+      "id": "c25_04190",
+      "speaker": "Gainer",
+      "en": "...that system they call the Executor built into it, I mean.",
+      "display_variant": "en",
+      "display_text": "「...that system they call the Executor\nbuilt into it, I mean.」"
+    },
+    {
+      "id": "c25_041f0",
+      "speaker": "Sandman",
+      "en": "Gentlemen, assemble in the briefing room. It's time you all learned about the enemy we're up against.",
+      "display_variant": "fit",
+      "display_text": "「Gentlemen, assemble in the briefing\nroom. Time you learned about the enemy\nwe're up against.」"
+    },
+    {
+      "id": "c25_04250",
+      "speaker": "Eiji",
+      "en": "Just what I wanted to hear. Whatever they turn out to be, I won't forgive anyone who tramples on peace and happiness.",
+      "display_variant": "fit",
+      "display_text": "「Just what I wanted. Whatever they are,\nI won't forgive anyone trampling peace\nand happiness.」"
+    },
+    {
+      "id": "c25_042b0",
+      "speaker": "Kamille",
+      "en": "Whoever it was that awakened the Black History's legacy... do we know their identity?",
+      "display_variant": "fit",
+      "display_text": "「Whoever awakened the Black History's\nlegacy... do we know who it was?」"
+    },
+    {
+      "id": "c25_04300",
+      "speaker": "Loran",
+      "en": "And how exactly do the Turn A and King Gainer factor into this...?",
+      "display_variant": "en",
+      "display_text": "（And how exactly do the Turn A and\nKing Gainer factor into this...?）"
+    },
+    {
+      "id": "c25_04340",
+      "speaker": "Gainer",
+      "en": "What is this uneasy feeling...? Is King Gainer trying to tell me something...?",
+      "display_variant": "fit",
+      "display_text": "（What is this uneasy feeling...? Is King\nGainer trying to tell me something?）"
+    }
+  ]
+}

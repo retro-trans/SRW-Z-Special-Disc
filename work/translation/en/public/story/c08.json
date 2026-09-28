@@ -1,0 +1,2000 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c08_04b90",
+      "speaker": "Sara",
+      "en": "What's wrong, Gainer? You came back in such a hurry -- did the errand go well?",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Gainer? You came back in\nsuch a hurry -- did the errand go well?」"
+    },
+    {
+      "id": "c08_04bf0",
+      "speaker": "Garrod",
+      "en": "What a waste. All that makeup, and you went and washed it off.",
+      "display_variant": "en",
+      "display_text": "「What a waste. All that makeup, and you\nwent and washed it off.」"
+    },
+    {
+      "id": "c08_04c40",
+      "speaker": "Gainer",
+      "en": "This isn't the time for that! Watch out!",
+      "display_variant": "en",
+      "display_text": "「This isn't the time for that! Watch\nout!」"
+    },
+    {
+      "id": "c08_04c80",
+      "speaker": "Breaker",
+      "en": "It's just a bunch of kids. Let's scatter them and be done with it!",
+      "display_variant": "en",
+      "display_text": "「It's just a bunch of kids. Let's\nscatter them and be done with it!」"
+    },
+    {
+      "id": "c08_04cc0",
+      "speaker": "Breaker",
+      "en": "While we're at it, let's grab what we can from this town and skip out!",
+      "display_variant": "en",
+      "display_text": "「While we're at it, let's grab what we\ncan from this town and skip out!」"
+    },
+    {
+      "id": "c08_04d10",
+      "speaker": "Garrod",
+      "en": "What's with those guys!? They look raring to go!",
+      "display_variant": "en",
+      "display_text": "「What's with those guys!? They look\nraring to go!」"
+    },
+    {
+      "id": "c08_04d50",
+      "speaker": "Gainer",
+      "en": "I'm not sure, but it sounds like they're wanted criminals.",
+      "display_variant": "en",
+      "display_text": "「I'm not sure, but it sounds like they're\nwanted criminals.」"
+    },
+    {
+      "id": "c08_04d90",
+      "speaker": "Sara",
+      "en": "We can't let people like that do as they please with Katez's dome!",
+      "display_variant": "en",
+      "display_text": "「We can't let people like that do as\nthey please with Katez's dome!」"
+    },
+    {
+      "id": "c08_04de0",
+      "speaker": "Gainer",
+      "en": "I know...! Let's protect the dome ourselves!",
+      "display_variant": "en",
+      "display_text": "「I know...! Let's protect the dome\nourselves!」"
+    },
+    {
+      "id": "c08_04e20",
+      "speaker": "Eureka",
+      "en": "Renton... let me pilot. Switch seats with me.",
+      "display_variant": "en",
+      "display_text": "「Renton... let me pilot. Switch seats\nwith me.」"
+    },
+    {
+      "id": "c08_04e60",
+      "speaker": "Renton",
+      "en": "No...",
+      "display_variant": "en",
+      "display_text": "「No...」"
+    },
+    {
+      "id": "c08_04e80",
+      "speaker": "Eureka",
+      "en": "Renton...",
+      "display_variant": "en",
+      "display_text": "「Renton...」"
+    },
+    {
+      "id": "c08_04ea0",
+      "speaker": "Renton",
+      "en": "I'm the one who got asked to run this errand. And now it's turned into this...",
+      "display_variant": "en",
+      "display_text": "「I'm the one who got asked to run this\nerrand. And now it's turned into this...」"
+    },
+    {
+      "id": "c08_04ef0",
+      "speaker": "Renton",
+      "en": "So I... I want to settle this myself, with my own strength...! I have to!",
+      "display_variant": "en",
+      "display_text": "「So I... I want to settle this myself,\nwith my own strength...! I have to!」"
+    },
+    {
+      "id": "c08_04f50",
+      "speaker": "Eureka",
+      "en": "...Okay.",
+      "display_variant": "en",
+      "display_text": "「...Okay.」"
+    },
+    {
+      "id": "c08_04f70",
+      "speaker": "Eureka",
+      "en": "But... that outfit looks a little weird.",
+      "display_variant": "en",
+      "display_text": "「But... that outfit looks a little weird.」"
+    },
+    {
+      "id": "c08_04fa0",
+      "speaker": "Renton",
+      "en": "I-it does!?",
+      "display_variant": "en",
+      "display_text": "「I-it does!?」"
+    },
+    {
+      "id": "c08_04fc0",
+      "speaker": "Garrod",
+      "en": "They've got the numbers on us. This could get ugly.",
+      "display_variant": "en",
+      "display_text": "「They've got the numbers on us. This\ncould get ugly.」"
+    },
+    {
+      "id": "c08_05010",
+      "speaker": "Gainer",
+      "en": "It's fine. The Gekko-Goh will be here soon.",
+      "display_variant": "en",
+      "display_text": "「It's fine. The Gekko-Goh will be here\nsoon.」"
+    },
+    {
+      "id": "c08_05050",
+      "speaker": "Sara",
+      "en": "You already called for backup?",
+      "display_variant": "en",
+      "display_text": "「You already called for backup?」"
+    },
+    {
+      "id": "c08_05070",
+      "speaker": "Gainer",
+      "en": "Something like that.",
+      "display_variant": "en",
+      "display_text": "「Something like that.」"
+    },
+    {
+      "id": "c08_05090",
+      "speaker": "Renton",
+      "en": "Here I come, you thugs! I'm a member of Gekkostate too!",
+      "display_variant": "en",
+      "display_text": "「Here I come, you thugs! I'm a member\nof Gekkostate too!」"
+    },
+    {
+      "id": "c08_050e0",
+      "speaker": "Renton",
+      "en": "I'm not about to go down here before I finish my mission!",
+      "display_variant": "en",
+      "display_text": "「I'm not about to go down here before I\nfinish my mission!」"
+    },
+    {
+      "id": "c08_05120",
+      "speaker": "Moondoggie",
+      "en": "That guy... he's serious...",
+      "display_variant": "en",
+      "display_text": "「That guy... he's serious...」"
+    },
+    {
+      "id": "c08_05150",
+      "speaker": "Holland",
+      "en": "Pulling in a gang of thugs on his very first errand...",
+      "display_variant": "en",
+      "display_text": "（Pulling in a gang of thugs on his very\nfirst errand...）"
+    },
+    {
+      "id": "c08_05190",
+      "speaker": "Holland",
+      "en": "Man... That kid's a trouble magnet if I ever saw one...",
+      "display_variant": "en",
+      "display_text": "（Man... That kid's a trouble magnet if I\never saw one...）"
+    },
+    {
+      "id": "c08_051e0",
+      "speaker": "Sara",
+      "en": "They really did come right away!",
+      "display_variant": "en",
+      "display_text": "「They really did come right away!」"
+    },
+    {
+      "id": "c08_05200",
+      "speaker": "Garrod",
+      "en": "Whoa...! It's like they knew we were in trouble!",
+      "display_variant": "en",
+      "display_text": "「Whoa...! It's like they knew we were in\ntrouble!」"
+    },
+    {
+      "id": "c08_05250",
+      "speaker": "Witz",
+      "en": "Well, of course we did...",
+      "display_variant": "en",
+      "display_text": "（Well, of course we did...）"
+    },
+    {
+      "id": "c08_05270",
+      "speaker": "Roybea",
+      "en": "We've been monitoring Renton and the others' every move, after all.",
+      "display_variant": "en",
+      "display_text": "（We've been monitoring Renton and the\nothers' every move, after all.）"
+    },
+    {
+      "id": "c08_052c0",
+      "speaker": "Ken-Goh",
+      "en": "What is the meaning of this? Why were Renton and the others in this town?",
+      "display_variant": "en",
+      "display_text": "「What is the meaning of this? Why were\nRenton and the others in this town?」"
+    },
+    {
+      "id": "c08_05310",
+      "speaker": "Hap",
+      "en": "W-who knows... They were probably just bored and came out shopping or something.",
+      "display_variant": "en",
+      "display_text": "「W-who knows... They were probably just\nbored and came out shopping or something.」"
+    },
+    {
+      "id": "c08_05360",
+      "speaker": "Matthieu",
+      "en": "Don't worry, Renton! Now that we're here, you're in the clear!",
+      "display_variant": "en",
+      "display_text": "「Don't worry, Renton! Now that we're\nhere, you're in the clear!」"
+    },
+    {
+      "id": "c08_053b0",
+      "speaker": "Renton",
+      "en": "Thank you, everyone!",
+      "display_variant": "en",
+      "display_text": "「Thank you, everyone!」"
+    },
+    {
+      "id": "c08_053e0",
+      "speaker": "Hap",
+      "en": "Let's wrap this up quick before Ken-Goh catches on we've been hazing the rookie.",
+      "display_variant": "en",
+      "display_text": "（Let's wrap this up quick before\nKen-Goh catches on we've been hazing the\nrookie.）"
+    },
+    {
+      "id": "c08_05430",
+      "speaker": "Matthieu",
+      "en": "Roger that...! Lucky for us, Renton hasn't caught on to the prank this time either.",
+      "display_variant": "en",
+      "display_text": "（Roger that...! Lucky for us, Renton\nhasn't caught on to the prank this time\neither.）"
+    },
+    {
+      "id": "c08_05480",
+      "speaker": "Holland",
+      "en": "Let's move, everyone! Show them our Lifting is unbeatable, snow or no snow!",
+      "display_variant": "en",
+      "display_text": "「Let's move, everyone! Show them our\nLifting is unbeatable, snow or no snow!」"
+    },
+    {
+      "id": "c08_054e0",
+      "speaker": "Renton",
+      "en": "Man, Holland's just too cool...!",
+      "display_variant": "en",
+      "display_text": "（Man, Holland's just too cool...!）"
+    },
+    {
+      "id": "c08_05510",
+      "speaker": "Moondoggie",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c08_05530",
+      "speaker": "Gidget",
+      "en": "Confirmed: all enemies destroyed.",
+      "display_variant": "en",
+      "display_text": "「Confirmed: all enemies destroyed.」"
+    },
+    {
+      "id": "c08_05560",
+      "speaker": "Talho",
+      "en": "Those guys are supposedly wanted criminals. If we hand them over to the Federation, that's a bounty in our pocket.",
+      "display_variant": "en",
+      "display_text": "「Those guys are supposedly wanted\ncriminals. If we hand them over to the\nFederation, that's a bounty in our pocket.」"
+    },
+    {
+      "id": "c08_055c0",
+      "speaker": "Ken-Goh",
+      "en": "What are you talking about. We're wanted criminals too.",
+      "display_variant": "en",
+      "display_text": "「What are you talking about. We're\nwanted criminals too.」"
+    },
+    {
+      "id": "c08_05600",
+      "speaker": "Renton",
+      "en": "Um, Hap... about the package...",
+      "display_variant": "en",
+      "display_text": "「Um, Hap... about the package...」"
+    },
+    {
+      "id": "c08_05630",
+      "speaker": "Ken-Goh",
+      "en": "Package?",
+      "display_variant": "en",
+      "display_text": "「Package?」"
+    },
+    {
+      "id": "c08_05650",
+      "speaker": "Hap",
+      "en": "Ah, right...! You mean the boots I asked you to pick up? Never mind about those!",
+      "display_variant": "en",
+      "display_text": "「Ah, right...! You mean the boots I\nasked you to pick up? Never mind about\nthose!」"
+    },
+    {
+      "id": "c08_056b0",
+      "speaker": "Gainer",
+      "en": "That's... Renton was doing his best to complete the errand he was given!",
+      "display_variant": "en",
+      "display_text": "「That's... Renton was doing his best to\ncomplete the errand he was given!」"
+    },
+    {
+      "id": "c08_05710",
+      "speaker": "Ken-Goh",
+      "en": "Errand...?",
+      "display_variant": "en",
+      "display_text": "「Errand...?」"
+    },
+    {
+      "id": "c08_05730",
+      "speaker": "Gainer",
+      "en": "We delivered something dangerous enough to blow up a whole town, packed inside a delivery box, all the way to Katez exactly as we were told...",
+      "display_variant": "compact",
+      "display_text": "「We delivered something dangerous enough\nto level a town, packed in a box, to\nKatez exactly as ordered...」"
+    },
+    {
+      "id": "c08_057a0",
+      "speaker": "Adette",
+      "en": "What an on-the-nose line that was!",
+      "display_variant": "en",
+      "display_text": "「What an on-the-nose line that was!」"
+    },
+    {
+      "id": "c08_057d0",
+      "speaker": "Matthieu",
+      "en": "G-Gainer! Let's save that story for after we get back, shall we!",
+      "display_variant": "en",
+      "display_text": "「G-Gainer! Let's save that story for\nafter we get back, shall we!」"
+    },
+    {
+      "id": "c08_05820",
+      "speaker": "Gainer",
+      "en": "Why's that? We're still in the middle of our errand!",
+      "display_variant": "en",
+      "display_text": "「Why's that? We're still in the middle of\nour errand!」"
+    },
+    {
+      "id": "c08_05870",
+      "speaker": "Hap",
+      "en": "That's just it, it's already...",
+      "display_variant": "en",
+      "display_text": "「That's just it, it's already...」"
+    },
+    {
+      "id": "c08_05890",
+      "speaker": "Gainer",
+      "en": "We've come this far, so we're going to see it through to the end!",
+      "display_variant": "en",
+      "display_text": "「We've come this far, so we're going to\nsee it through to the end!」"
+    },
+    {
+      "id": "c08_058d0",
+      "speaker": "Gainer",
+      "en": "We had a rough time -- getting hassled by thugs, dragged into fights, all of it!",
+      "display_variant": "en",
+      "display_text": "「We had a rough time -- getting hassled\nby thugs, dragged into fights, all of it!」"
+    },
+    {
+      "id": "c08_05940",
+      "speaker": "Gainer",
+      "en": "We did all of it because you told us to, Hap. Telling us to stop halfway now doesn't make sense!",
+      "display_variant": "en",
+      "display_text": "「We did all of it because you told us\nto, Hap. Telling us to stop halfway now\ndoesn't make sense!」"
+    },
+    {
+      "id": "c08_059a0",
+      "speaker": "Gainer",
+      "en": "So what exactly was that dangerous something put in the delivery box? Tell us!",
+      "display_variant": "en",
+      "display_text": "「So what exactly was that dangerous\nsomething put in the delivery box? Tell\nus!」"
+    },
+    {
+      "id": "c08_05a00",
+      "speaker": "Hap",
+      "en": "Ah... uh...",
+      "display_variant": "en",
+      "display_text": "「Ah... uh...」"
+    },
+    {
+      "id": "c08_05a20",
+      "speaker": "Ken-Goh",
+      "en": "That's enough, Gainer Sanga. It seems my people have caused you trouble.",
+      "display_variant": "en",
+      "display_text": "「That's enough, Gainer Sanga. It seems\nmy people have caused you trouble.」"
+    },
+    {
+      "id": "c08_05a70",
+      "speaker": "Gainer",
+      "en": "Huh!? What's going on here!?",
+      "display_variant": "en",
+      "display_text": "「Huh!? What's going on here!?」"
+    },
+    {
+      "id": "c08_05aa0",
+      "speaker": "Ken-Goh",
+      "en": "I'll make a proper apology to you and Garrod later.",
+      "display_variant": "en",
+      "display_text": "「I'll make a proper apology to you and\nGarrod later.」"
+    },
+    {
+      "id": "c08_05ae0",
+      "speaker": "Renton",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c08_05b00",
+      "speaker": "Ken-Goh",
+      "en": "You lot! You've been hazing the rookie again, haven't you! I told you to knock off that nonsense!",
+      "display_variant": "en",
+      "display_text": "「You lot! You've been hazing the rookie\nagain, haven't you! I told you to knock\noff that nonsense!」"
+    },
+    {
+      "id": "c08_05b60",
+      "speaker": "Matthieu",
+      "en": "T-that's, well... it's a kind of expression of affection, really...",
+      "display_variant": "en",
+      "display_text": "「T-that's, well... it's a kind of\nexpression of affection, really...」"
+    },
+    {
+      "id": "c08_05ba0",
+      "speaker": "Hilda",
+      "en": "Honestly, you two... if that's affection, I'd answer it with a punch.",
+      "display_variant": "en",
+      "display_text": "「Honestly, you two... if that's affection,\nI'd answer it with a punch.」"
+    },
+    {
+      "id": "c08_05c00",
+      "speaker": "Ken-Goh",
+      "en": "You're getting a lecture when we're back. Consider it tough love, from me.",
+      "display_variant": "en",
+      "display_text": "「You're getting a lecture when we're\nback. Consider it tough love, from me.」"
+    },
+    {
+      "id": "c08_05c40",
+      "speaker": "Hap",
+      "en": "...Yes, sir.",
+      "display_variant": "en",
+      "display_text": "「...Yes, sir.」"
+    },
+    {
+      "id": "c08_05c60",
+      "speaker": "Renton",
+      "en": "...Was I... just being messed with... this whole time...?",
+      "display_variant": "en",
+      "display_text": "「...Was I... just being messed with... this\nwhole time...?」"
+    },
+    {
+      "id": "c08_05ca0",
+      "speaker": "Garrod",
+      "en": "Damn it! Looks like Tiffa's hunch was right after all!",
+      "display_variant": "en",
+      "display_text": "「Damn it! Looks like Tiffa's hunch was\nright after all!」"
+    },
+    {
+      "id": "c08_05ce0",
+      "speaker": "Tiffa",
+      "en": "Garrod...",
+      "display_variant": "en",
+      "display_text": "「Garrod...」"
+    },
+    {
+      "id": "c08_05d00",
+      "speaker": "Garrod",
+      "en": "Don't worry, Tiffa! Whatever bad thing was coming, it ends here!",
+      "display_variant": "en",
+      "display_text": "「Don't worry, Tiffa! Whatever bad thing\nwas coming, it ends here!」"
+    },
+    {
+      "id": "c08_05d50",
+      "speaker": "Garrod",
+      "en": "As long as I'm around, I'll protect you no matter what! So just hang in there a little longer!",
+      "display_variant": "en",
+      "display_text": "「As long as I'm around, I'll protect you\nno matter what! So just hang in there a\nlittle longer!」"
+    },
+    {
+      "id": "c08_05db0",
+      "speaker": "Tiffa",
+      "en": "Okay...",
+      "display_variant": "en",
+      "display_text": "「Okay...」"
+    },
+    {
+      "id": "c08_05dd0",
+      "speaker": "Tiffa",
+      "en": "I believe in you, Garrod.",
+      "display_variant": "en",
+      "display_text": "（I believe in you, Garrod.）"
+    },
+    {
+      "id": "c08_05df0",
+      "speaker": "Gainer",
+      "en": "This errand... it's way too unnatural.",
+      "display_variant": "en",
+      "display_text": "（This errand... it's way too unnatural.）"
+    },
+    {
+      "id": "c08_05e20",
+      "speaker": "Gainer",
+      "en": "If my hunch is right, then this is...",
+      "display_variant": "en",
+      "display_text": "（If my hunch is right, then this is...）"
+    },
+    {
+      "id": "c08_05e60",
+      "speaker": "Sara",
+      "en": "I knew leaving it to just Gainer and Garrod would be worrying, and sure enough, trouble found them...!",
+      "display_variant": "en",
+      "display_text": "「I knew leaving it to just Gainer and\nGarrod would be worrying, and sure\nenough, trouble found them...!」"
+    },
+    {
+      "id": "c08_05ec0",
+      "speaker": "Sara",
+      "en": "We're the ones who protected this town of Katez from the Moonrace...!",
+      "display_variant": "en",
+      "display_text": "「We're the ones who protected this town\nof Katez from the Moonrace...!」"
+    },
+    {
+      "id": "c08_05f10",
+      "speaker": "Sara",
+      "en": "We won't let a bunch of thugs do as they please!",
+      "display_variant": "en",
+      "display_text": "「We won't let a bunch of thugs do as\nthey please!」"
+    },
+    {
+      "id": "c08_05f50",
+      "speaker": "Eureka",
+      "en": "Renton...!",
+      "display_variant": "en",
+      "display_text": "「Renton...!」"
+    },
+    {
+      "id": "c08_05f70",
+      "speaker": "Renton",
+      "en": "It's fine...! I'm not scared, not even a little!",
+      "display_variant": "en",
+      "display_text": "「It's fine...! I'm not scared, not even a\nlittle!」"
+    },
+    {
+      "id": "c08_05fb0",
+      "speaker": "Renton",
+      "en": "Because I've got Eureka and Nirvash with me!",
+      "display_variant": "en",
+      "display_text": "「Because I've got Eureka and Nirvash\nwith me!」"
+    },
+    {
+      "id": "c08_05ff0",
+      "speaker": "Eureka",
+      "en": "Y-yeah.",
+      "display_variant": "en",
+      "display_text": "「Y-yeah.」"
+    },
+    {
+      "id": "c08_06010",
+      "speaker": "Renton",
+      "en": "Let's go, Nirvash! I'll give it everything I've got, so lend me your strength!!",
+      "display_variant": "en",
+      "display_text": "「Let's go, Nirvash! I'll give it everything\nI've got, so lend me your strength!!」"
+    },
+    {
+      "id": "c08_060b0",
+      "speaker": "Renton",
+      "en": "Yes! This is Renton! Go ahead with your instructions!",
+      "display_variant": "en",
+      "display_text": "「Yes! This is Renton! Go ahead with your\ninstructions!」"
+    },
+    {
+      "id": "c08_060f0",
+      "speaker": "Adette",
+      "en": "Pfft... what's with that getup!?",
+      "display_variant": "en",
+      "display_text": "（Pfft... what's with that getup!?）"
+    },
+    {
+      "id": "c08_06120",
+      "speaker": "Gain",
+      "en": "So that's Gekkostate's prized urban camouflage, huh.",
+      "display_variant": "en",
+      "display_text": "（So that's Gekkostate's prized urban\ncamouflage, huh.）"
+    },
+    {
+      "id": "c08_06160",
+      "speaker": "Witz",
+      "en": "However you look at it, that's just a tracksuit!",
+      "display_variant": "en",
+      "display_text": "（However you look at it, that's just a\ntracksuit!）"
+    },
+    {
+      "id": "c08_061a0",
+      "speaker": "Roybea",
+      "en": "Don't say it so loud, Witz. You'll ruin the whole setup.",
+      "display_variant": "en",
+      "display_text": "（Don't say it so loud, Witz. You'll ruin\nthe whole setup.）"
+    },
+    {
+      "id": "c08_06200",
+      "speaker": "Hap",
+      "en": "All right... looks like they've arrived at Katez, for now.",
+      "display_variant": "en",
+      "display_text": "「All right... looks like they've arrived at\nKatez, for now.」"
+    },
+    {
+      "id": "c08_06240",
+      "speaker": "Hap",
+      "en": "Thanks to Gainer and Garrod too, for lending a hand.",
+      "display_variant": "en",
+      "display_text": "「Thanks to Gainer and Garrod too, for\nlending a hand.」"
+    },
+    {
+      "id": "c08_06270",
+      "speaker": "Gainer",
+      "en": "Don't worry about it. We're all members of the same $c.",
+      "display_variant": "en",
+      "display_text": "「Don't worry about it. We're all members\nof the same $c.」"
+    },
+    {
+      "id": "c08_062c0",
+      "speaker": "Garrod",
+      "en": "Yeah, exactly. Companions on the road, and all that.",
+      "display_variant": "en",
+      "display_text": "「Yeah, exactly. Companions on the road,\nand all that.」"
+    },
+    {
+      "id": "c08_062f0",
+      "speaker": "Matthieu",
+      "en": "Tch... calling in backup, what a small-time move from Renton.",
+      "display_variant": "en",
+      "display_text": "（Tch... calling in backup, what a\nsmall-time move from Renton.）"
+    },
+    {
+      "id": "c08_06340",
+      "speaker": "Adette",
+      "en": "Don't say that. Friendship's a nice thing, isn't it?",
+      "display_variant": "en",
+      "display_text": "（Don't say that. Friendship's a nice\nthing, isn't it?）"
+    },
+    {
+      "id": "c08_06390",
+      "speaker": "Renton",
+      "en": "So... what should we do from here?",
+      "display_variant": "en",
+      "display_text": "「So... what should we do from here?」"
+    },
+    {
+      "id": "c08_063d0",
+      "speaker": "Hap",
+      "en": "First, get out of your machine and infiltrate Katez on foot.",
+      "display_variant": "en",
+      "display_text": "「First, get out of your machine and\ninfiltrate Katez on foot.」"
+    },
+    {
+      "id": "c08_06410",
+      "speaker": "Hap",
+      "en": "This is a top-secret operation, though. Keep the infiltration team to the bare minimum; the rest stand by in the area.",
+      "display_variant": "en",
+      "display_text": "「This is a top-secret operation, though.\nKeep the infiltration team to the bare\nminimum; the rest stand by in the area.」"
+    },
+    {
+      "id": "c08_06470",
+      "speaker": "Renton",
+      "en": "Then... I'll go alone.",
+      "display_variant": "en",
+      "display_text": "「Then... I'll go alone.」"
+    },
+    {
+      "id": "c08_064a0",
+      "speaker": "Hap",
+      "en": "Wait... You're going in with one other person.",
+      "display_variant": "en",
+      "display_text": "「Wait... You're going in with one other\nperson.」"
+    },
+    {
+      "id": "c08_064e0",
+      "speaker": "Renton",
+      "en": "What do you mean?",
+      "display_variant": "en",
+      "display_text": "「What do you mean?」"
+    },
+    {
+      "id": "c08_06500",
+      "speaker": "Hap",
+      "en": "Actually, a troublesome problem's come up.",
+      "display_variant": "en",
+      "display_text": "「Actually, a troublesome problem's come\nup.」"
+    },
+    {
+      "id": "c08_06530",
+      "speaker": "Hap",
+      "en": "I told the delivery contact about you already, but it seems they're being cautious.",
+      "display_variant": "en",
+      "display_text": "「I told the delivery contact about you\nalready, but it seems they're being\ncautious.」"
+    },
+    {
+      "id": "c08_06590",
+      "speaker": "Hap",
+      "en": "It looks like they're even suspicious of us, the couriers.",
+      "display_variant": "en",
+      "display_text": "「It looks like they're even suspicious of\nus, the couriers.」"
+    },
+    {
+      "id": "c08_065d0",
+      "speaker": "Renton",
+      "en": "No way!",
+      "display_variant": "en",
+      "display_text": "「No way!」"
+    },
+    {
+      "id": "c08_065f0",
+      "speaker": "Hap",
+      "en": "They've told us to send a girl along with you as an extra courier.",
+      "display_variant": "en",
+      "display_text": "「They've told us to send a girl along\nwith you as an extra courier.」"
+    },
+    {
+      "id": "c08_06650",
+      "speaker": "Hap",
+      "en": "They're probably planning to use her as an insurance hostage.",
+      "display_variant": "en",
+      "display_text": "「They're probably planning to use her as\nan insurance hostage.」"
+    },
+    {
+      "id": "c08_06690",
+      "speaker": "Renton",
+      "en": "H-hostage...?",
+      "display_variant": "en",
+      "display_text": "「H-hostage...?」"
+    },
+    {
+      "id": "c08_066b0",
+      "speaker": "Hap",
+      "en": "As luck would have it -- good or bad -- you've got Eureka, Sara, and Tiffa with you. Ask one of them to come along.",
+      "display_variant": "en",
+      "display_text": "「As luck would have it -- good or bad\n-- you've got Eureka, Sara, and Tiffa\nwith you. Ask one of them to come along.」"
+    },
+    {
+      "id": "c08_06710",
+      "speaker": "Renton",
+      "en": "Asking someone to do something that dangerous!?",
+      "display_variant": "en",
+      "display_text": "「Asking someone to do something that\ndangerous!?」"
+    },
+    {
+      "id": "c08_06740",
+      "speaker": "Hap",
+      "en": "There's a risk of eavesdropping. That's all for my first set of instructions.",
+      "display_variant": "en",
+      "display_text": "「There's a risk of eavesdropping. That's\nall for my first set of instructions.」"
+    },
+    {
+      "id": "c08_06780",
+      "speaker": "Hap",
+      "en": "Once you've infiltrated Katez with your partner, contact us. That's all.",
+      "display_variant": "en",
+      "display_text": "「Once you've infiltrated Katez with your\npartner, contact us. That's all.」"
+    },
+    {
+      "id": "c08_067e0",
+      "speaker": "Renton",
+      "en": "W-wait, Hap! Hap!!",
+      "display_variant": "en",
+      "display_text": "「W-wait, Hap! Hap!!」"
+    },
+    {
+      "id": "c08_06820",
+      "speaker": "Witz",
+      "en": "That's a great reaction out of him!",
+      "display_variant": "en",
+      "display_text": "「That's a great reaction out of him!」"
+    },
+    {
+      "id": "c08_06850",
+      "speaker": "Toniya",
+      "en": "Seriously! That outfit... it's basically a joke at this point!",
+      "display_variant": "en",
+      "display_text": "「Seriously! That outfit... it's basically a\njoke at this point!」"
+    },
+    {
+      "id": "c08_06890",
+      "speaker": "Stoner",
+      "en": "Now, now. The kid's dead serious about it.",
+      "display_variant": "en",
+      "display_text": "「Now, now. The kid's dead serious about\nit.」"
+    },
+    {
+      "id": "c08_068d0",
+      "speaker": "Gain",
+      "en": "Is this some kind of newcomer welcome ritual for Gekkostate?",
+      "display_variant": "en",
+      "display_text": "「Is this some kind of newcomer welcome\nritual for Gekkostate?」"
+    },
+    {
+      "id": "c08_06920",
+      "speaker": "Stoner",
+      "en": "Well, something like that.",
+      "display_variant": "en",
+      "display_text": "「Well, something like that.」"
+    },
+    {
+      "id": "c08_06950",
+      "speaker": "Matthieu",
+      "en": "Hazing the rookie is a kind of affection, you know.",
+      "display_variant": "en",
+      "display_text": "「Hazing the rookie is a kind of\naffection, you know.」"
+    },
+    {
+      "id": "c08_06990",
+      "speaker": "Gain",
+      "en": "I've got no intention of butting into your ways, but from the receiving end, it can't be much fun.",
+      "display_variant": "en",
+      "display_text": "「I've got no intention of butting into\nyour ways, but from the receiving end, it\ncan't be much fun.」"
+    },
+    {
+      "id": "c08_069f0",
+      "speaker": "Stoner",
+      "en": "Well... if he runs off over this, then that's all he ever was.",
+      "display_variant": "en",
+      "display_text": "「Well... if he runs off over this, then\nthat's all he ever was.」"
+    },
+    {
+      "id": "c08_06a40",
+      "speaker": "Matthieu",
+      "en": "It's not like we bowed our heads and begged him to join us, after all.",
+      "display_variant": "en",
+      "display_text": "「It's not like we bowed our heads and\nbegged him to join us, after all.」"
+    },
+    {
+      "id": "c08_06aa0",
+      "speaker": "Gidget",
+      "en": "By the way, what was that about a partner just now? I never heard anything about that bit.",
+      "display_variant": "en",
+      "display_text": "「By the way, what was that about a\npartner just now? I never heard anything\nabout that bit.」"
+    },
+    {
+      "id": "c08_06b00",
+      "speaker": "Hap",
+      "en": "As for that, since Renton called in backup, I just raised the bar a little.",
+      "display_variant": "en",
+      "display_text": "「As for that, since Renton called in\nbackup, I just raised the bar a little.」"
+    },
+    {
+      "id": "c08_06b60",
+      "speaker": "Gidget",
+      "en": "But then... isn't whoever gets picked as his partner going to have it rough?",
+      "display_variant": "en",
+      "display_text": "「But then... isn't whoever gets picked as\nhis partner going to have it rough?」"
+    },
+    {
+      "id": "c08_06bc0",
+      "speaker": "Hap",
+      "en": "So, here's a question. Who do you think they'll pick for the infiltration team?",
+      "display_variant": "en",
+      "display_text": "「So, here's a question. Who do you think\nthey'll pick for the infiltration team?」"
+    },
+    {
+      "id": "c08_06c20",
+      "speaker": "Adette",
+      "en": "Tiffa, Sara, or Eureka, huh... Isn't Tiffa the natural pick, what with that strange power of hers?",
+      "display_variant": "en",
+      "display_text": "「Tiffa, Sara, or Eureka, huh... Isn't\nTiffa the natural pick, what with that\nstrange power of hers?」"
+    },
+    {
+      "id": "c08_06c90",
+      "speaker": "Roybea",
+      "en": "Garrod would never let Tiffa put herself in danger like that.",
+      "display_variant": "en",
+      "display_text": "「Garrod would never let Tiffa put\nherself in danger like that.」"
+    },
+    {
+      "id": "c08_06ce0",
+      "speaker": "Matthieu",
+      "en": "I'd bet it's Eureka, since she's from Gekkostate too, same as Renton.",
+      "display_variant": "en",
+      "display_text": "「I'd bet it's Eureka, since she's from\nGekkostate too, same as Renton.」"
+    },
+    {
+      "id": "c08_06d30",
+      "speaker": "Stoner",
+      "en": "I wonder. Renton's right smack in the middle of puberty.",
+      "display_variant": "en",
+      "display_text": "「I wonder. Renton's right smack in the\nmiddle of puberty.」"
+    },
+    {
+      "id": "c08_06d70",
+      "speaker": "Stoner",
+      "en": "I'd say he couldn't stand walking around with Eureka dressed like that.",
+      "display_variant": "en",
+      "display_text": "「I'd say he couldn't stand walking around\nwith Eureka dressed like that.」"
+    },
+    {
+      "id": "c08_06dc0",
+      "speaker": "Gidget",
+      "en": "So by process of elimination, it's Sara?",
+      "display_variant": "en",
+      "display_text": "「So by process of elimination, it's Sara?」"
+    },
+    {
+      "id": "c08_06df0",
+      "speaker": "Adette",
+      "en": "That girl's got guts to spare. I'd say the odds are pretty high.",
+      "display_variant": "en",
+      "display_text": "「That girl's got guts to spare. I'd say\nthe odds are pretty high.」"
+    },
+    {
+      "id": "c08_06e40",
+      "speaker": "Gain",
+      "en": "But if Sara's the one going, young Gainer's not going to sit quiet about it.",
+      "display_variant": "en",
+      "display_text": "「But if Sara's the one going, young\nGainer's not going to sit quiet about it.」"
+    },
+    {
+      "id": "c08_06e90",
+      "speaker": "Gain",
+      "en": "The kid's got enough resolve to declare he wants to hug her tight enough to crush her, after all.",
+      "display_variant": "en",
+      "display_text": "「The kid's got enough resolve to declare\nhe wants to hug her tight enough to\ncrush her, after all.」"
+    },
+    {
+      "id": "c08_06ef0",
+      "speaker": "Hap",
+      "en": "Thinking time's over. Now then... each of the three has her own circumstances, but what's the answer, I wonder...?",
+      "display_variant": "en",
+      "display_text": "「Thinking time's over. Now then... each\nof the three has her own circumstances,\nbut what's the answer, I wonder...?」"
+    },
+    {
+      "id": "c08_06f50",
+      "speaker": "Gidget",
+      "en": "In the end, he might not be able to choose anyone and just give up before he even gets into the town.",
+      "display_variant": "en",
+      "display_text": "「In the end, he might not be able to\nchoose anyone and just give up before he\neven gets into the town.」"
+    },
+    {
+      "id": "c08_06fb0",
+      "speaker": "Hap",
+      "en": "That part's a treat for later -- watch and see.",
+      "display_variant": "en",
+      "display_text": "「That part's a treat for later -- watch\nand see.」"
+    },
+    {
+      "id": "c08_06fe0",
+      "speaker": "Stoner",
+      "en": "Moondoggie's already in Katez. Renton thinks he can only reach us by voice, but...",
+      "display_variant": "en",
+      "display_text": "「Moondoggie's already in Katez. Renton\nthinks he can only reach us by voice,\nbut...」"
+    },
+    {
+      "id": "c08_07050",
+      "speaker": "Stoner",
+      "en": "We can watch his every move perfectly, thanks to Doggy's camera.",
+      "display_variant": "en",
+      "display_text": "「We can watch his every move perfectly,\nthanks to Doggy's camera.」"
+    },
+    {
+      "id": "c08_070a0",
+      "speaker": "Matthieu",
+      "en": "And we're watching it and feeding him instructions on the fly.",
+      "display_variant": "en",
+      "display_text": "「And we're watching it and feeding him\ninstructions on the fly.」"
+    },
+    {
+      "id": "c08_070f0",
+      "speaker": "Roybea",
+      "en": "That's tasteless beyond belief.",
+      "display_variant": "en",
+      "display_text": "「That's tasteless beyond belief.」"
+    },
+    {
+      "id": "c08_07120",
+      "speaker": "Gain",
+      "en": "Watching along like this makes us just as guilty, I'd say.",
+      "display_variant": "en",
+      "display_text": "「Watching along like this makes us just\nas guilty, I'd say.」"
+    },
+    {
+      "id": "c08_07150",
+      "speaker": "Hap",
+      "en": "Everyone needs a little recreation now and then. Now... let's look forward to Renton's crew's next move.",
+      "display_variant": "en",
+      "display_text": "「Everyone needs a little recreation now\nand then. Now... let's look forward to\nRenton's crew's next move.」"
+    },
+    {
+      "id": "c08_071b0",
+      "speaker": "Gidget",
+      "en": "Hap! We've got footage coming in from Doggy!",
+      "display_variant": "en",
+      "display_text": "「Hap! We've got footage coming in from\nDoggy!」"
+    },
+    {
+      "id": "c08_071f0",
+      "speaker": "Hap",
+      "en": "So that means Renton's already infiltrated Katez, huh.",
+      "display_variant": "en",
+      "display_text": "「So that means Renton's already\ninfiltrated Katez, huh.」"
+    },
+    {
+      "id": "c08_07230",
+      "speaker": "Gidget",
+      "en": "Sending the footage... to the monitor now.",
+      "display_variant": "en",
+      "display_text": "「Sending the footage... to the monitor\nnow.」"
+    },
+    {
+      "id": "c08_072a0",
+      "speaker": "Renton",
+      "en": "...This is Renton. Hap, please respond.",
+      "display_variant": "en",
+      "display_text": "「...This is Renton. Hap, please respond.」"
+    },
+    {
+      "id": "c08_072e0",
+      "speaker": "Hap",
+      "en": "This is Hap. How's your partner holding up?",
+      "display_variant": "en",
+      "display_text": "「This is Hap. How's your partner holding\nup?」"
+    },
+    {
+      "id": "c08_07320",
+      "speaker": "Renton",
+      "en": "A-actually, about that...",
+      "display_variant": "en",
+      "display_text": "「A-actually, about that...」"
+    },
+    {
+      "id": "c08_07350",
+      "speaker": "Hap",
+      "en": "N-no... never mind the report. I'll... I'll trust your painful decision.",
+      "display_variant": "en",
+      "display_text": "「N-no... never mind the report. I'll... I'll\ntrust your painful decision.」"
+    },
+    {
+      "id": "c08_073a0",
+      "speaker": "Hap",
+      "en": "Eureka, Tiffa, Sara... I won't ask which one you picked, but I want to salute your resolve.",
+      "display_variant": "en",
+      "display_text": "「Eureka, Tiffa, Sara... I won't ask which\none you picked, but I want to salute your\nresolve.」"
+    },
+    {
+      "id": "c08_07410",
+      "speaker": "Renton",
+      "en": "Hap... your voice sounds like it's shaking...",
+      "display_variant": "en",
+      "display_text": "「Hap... your voice sounds like it's\nshaking...」"
+    },
+    {
+      "id": "c08_07450",
+      "speaker": "Hap",
+      "en": "...Never mind about this end. Now, make contact with the recipient.",
+      "display_variant": "en",
+      "display_text": "「...Never mind about this end. Now, make\ncontact with the recipient.」"
+    },
+    {
+      "id": "c08_074a0",
+      "speaker": "Hap",
+      "en": "According to the information we've got, the target is... a man in a yellow suit.",
+      "display_variant": "en",
+      "display_text": "「According to the information we've got,\nthe target is... a man in a yellow suit.」"
+    },
+    {
+      "id": "c08_074f0",
+      "speaker": "Renton",
+      "en": "Understood...! I'll do my best.",
+      "display_variant": "en",
+      "display_text": "「Understood...! I'll do my best.」"
+    },
+    {
+      "id": "c08_07520",
+      "speaker": "Hap",
+      "en": "Good luck out there.",
+      "display_variant": "en",
+      "display_text": "「Good luck out there.」"
+    },
+    {
+      "id": "c08_07540",
+      "speaker": "Renton",
+      "en": "I've come this far... All that's left is to steel myself and push on.",
+      "display_variant": "en",
+      "display_text": "「I've come this far... All that's left is\nto steel myself and push on.」"
+    },
+    {
+      "id": "c08_07580",
+      "speaker": "Renton",
+      "en": "Let's go, miss...!",
+      "display_variant": "en",
+      "display_text": "「Let's go, miss...!」"
+    },
+    {
+      "id": "c08_075b0",
+      "speaker": "Gainer",
+      "en": "Y-yeah...",
+      "display_variant": "en",
+      "display_text": "「Y-yeah...」"
+    },
+    {
+      "id": "c08_075e0",
+      "speaker": "Witz",
+      "en": "Of all people, it's Gainer in drag!?",
+      "display_variant": "en",
+      "display_text": "「Of all people, it's Gainer in drag!?」"
+    },
+    {
+      "id": "c08_07620",
+      "speaker": "Toniya",
+      "en": "But you've got to admit, he thought it through! Taking the fall himself so his sweetheart wouldn't be put in danger!",
+      "display_variant": "en",
+      "display_text": "「But you've got to admit, he thought it\nthrough! Taking the fall himself so his\nsweetheart wouldn't be put in danger!」"
+    },
+    {
+      "id": "c08_07680",
+      "speaker": "Roybea",
+      "en": "...Might be more his taste than we thought.",
+      "display_variant": "en",
+      "display_text": "「...Might be more his taste than we\nthought.」"
+    },
+    {
+      "id": "c08_076b0",
+      "speaker": "Hap",
+      "en": "Whew... I'm impressed. Even I had a hard time holding back a laugh.",
+      "display_variant": "en",
+      "display_text": "「Whew... I'm impressed. Even I had a hard\ntime holding back a laugh.」"
+    },
+    {
+      "id": "c08_07700",
+      "speaker": "Gidget",
+      "en": "But honestly, that was iffy! Actually, more like gross!",
+      "display_variant": "en",
+      "display_text": "「But honestly, that was iffy! Actually,\nmore like gross!」"
+    },
+    {
+      "id": "c08_07750",
+      "speaker": "Gain",
+      "en": "No, no... the basic idea isn't bad. It's the makeup that's the problem there.",
+      "display_variant": "en",
+      "display_text": "「No, no... the basic idea isn't bad. It's\nthe makeup that's the problem there.」"
+    },
+    {
+      "id": "c08_07790",
+      "speaker": "Adette",
+      "en": "Heh heh... when he gets back, maybe I'll do his makeup myself.",
+      "display_variant": "en",
+      "display_text": "「Heh heh... when he gets back, maybe I'll\ndo his makeup myself.」"
+    },
+    {
+      "id": "c08_077e0",
+      "speaker": "Matthieu",
+      "en": "So, is the guy kicking that game table over there the one designated as the target?",
+      "display_variant": "en",
+      "display_text": "「So, is the guy kicking that game table\nover there the one designated as the\ntarget?」"
+    },
+    {
+      "id": "c08_07830",
+      "speaker": "Gidget",
+      "en": "Is this going to be okay? He's got total thug written all over him.",
+      "display_variant": "en",
+      "display_text": "「Is this going to be okay? He's got\ntotal thug written all over him.」"
+    },
+    {
+      "id": "c08_07870",
+      "speaker": "Hap",
+      "en": "He muscled through the first stage by sheer force. I'm sure he'll pull through the next one too.",
+      "display_variant": "en",
+      "display_text": "「He muscled through the first stage by\nsheer force. I'm sure he'll pull through\nthe next one too.」"
+    },
+    {
+      "id": "c08_078c0",
+      "speaker": "Hap",
+      "en": "Oh... he's moving. Now then... let's see what he's got.",
+      "display_variant": "en",
+      "display_text": "「Oh... he's moving. Now then... let's see\nwhat he's got.」"
+    },
+    {
+      "id": "c08_07900",
+      "speaker": "Renton",
+      "en": "Um, excuse me...",
+      "display_variant": "en",
+      "display_text": "「Um, excuse me...」"
+    },
+    {
+      "id": "c08_07920",
+      "speaker": "Beck",
+      "en": "What is it? What's a kid want with me?",
+      "display_variant": "en",
+      "display_text": "「What is it? What's a kid want with me?」"
+    },
+    {
+      "id": "c08_07950",
+      "speaker": "Renton",
+      "en": "Um... well...",
+      "display_variant": "en",
+      "display_text": "「Um... well...」"
+    },
+    {
+      "id": "c08_07970",
+      "speaker": "Beck",
+      "en": "I'm in a rotten mood! Stuck around here until my mech's repairs are done...",
+      "display_variant": "en",
+      "display_text": "「I'm in a rotten mood! Stuck around here\nuntil my mech's repairs are done...」"
+    },
+    {
+      "id": "c08_079d0",
+      "speaker": "Beck",
+      "en": "If you've got business, spit it out already!!",
+      "display_variant": "en",
+      "display_text": "「If you've got business, spit it out\nalready!!」"
+    },
+    {
+      "id": "c08_07a00",
+      "speaker": "Gainer",
+      "en": "I... I mean, we've come as messengers from Gekkostate...",
+      "display_variant": "en",
+      "display_text": "「I... I mean, we've come as messengers\nfrom Gekkostate...」"
+    },
+    {
+      "id": "c08_07a50",
+      "speaker": "Beck",
+      "en": "Gekkostate, huh? What's that rumored sky pirate crew want with me?",
+      "display_variant": "en",
+      "display_text": "「Gekkostate, huh? What's that rumored\nsky pirate crew want with me?」"
+    },
+    {
+      "id": "c08_07aa0",
+      "speaker": "Beck",
+      "en": "Or is it, missy... you trying to pick me up?",
+      "display_variant": "en",
+      "display_text": "「Or is it, missy... you trying to pick me\nup?」"
+    },
+    {
+      "id": "c08_07ae0",
+      "speaker": "Gainer",
+      "en": "Eh... uh... well...",
+      "display_variant": "en",
+      "display_text": "「Eh... uh... well...」"
+    },
+    {
+      "id": "c08_07b00",
+      "speaker": "Beck",
+      "en": "Well... you're not my type, but there're all sorts of tastes out there.",
+      "display_variant": "en",
+      "display_text": "「Well... you're not my type, but there're\nall sorts of tastes out there.」"
+    },
+    {
+      "id": "c08_07b50",
+      "speaker": "Beck",
+      "en": "I could snatch you up and drag you off to some rich old man, too.",
+      "display_variant": "en",
+      "display_text": "「I could snatch you up and drag you off\nto some rich old man, too.」"
+    },
+    {
+      "id": "c08_07ba0",
+      "speaker": "Gainer",
+      "en": "Eek...! D-don't touch me!",
+      "display_variant": "en",
+      "display_text": "「Eek...! D-don't touch me!」"
+    },
+    {
+      "id": "c08_07bd0",
+      "speaker": "Renton",
+      "en": "S-sorry, mister! W-wrong person!!",
+      "display_variant": "en",
+      "display_text": "「S-sorry, mister! W-wrong person!!」"
+    },
+    {
+      "id": "c08_07c20",
+      "speaker": "Beck",
+      "en": "You little punk! Who're you calling 'mister'!!",
+      "display_variant": "en",
+      "display_text": "「You little punk! Who're you calling\n'mister'!!」"
+    },
+    {
+      "id": "c08_07c50",
+      "speaker": "Renton",
+      "en": "I'm sooorryyyy!!",
+      "display_variant": "en",
+      "display_text": "「I'm sooorryyyy!!」"
+    },
+    {
+      "id": "c08_07c80",
+      "speaker": "Beck",
+      "en": "What was that all about...",
+      "display_variant": "en",
+      "display_text": "「What was that all about...」"
+    },
+    {
+      "id": "c08_07ca0",
+      "speaker": "Beck",
+      "en": "Achoo! Damn it! Why's it gotta be this cold in Siberia!",
+      "display_variant": "en",
+      "display_text": "「Achoo! Damn it! Why's it gotta be this\ncold in Siberia!」"
+    },
+    {
+      "id": "c08_07d10",
+      "speaker": "Renton",
+      "en": "H-Hap... that guy didn't seem to be the target after all...",
+      "display_variant": "en",
+      "display_text": "「H-Hap... that guy didn't seem to be the\ntarget after all...」"
+    },
+    {
+      "id": "c08_07d60",
+      "speaker": "Hap",
+      "en": "Looks like that was a fake. Seems the client was testing us.",
+      "display_variant": "en",
+      "display_text": "「Looks like that was a fake. Seems the\nclient was testing us.」"
+    },
+    {
+      "id": "c08_07dc0",
+      "speaker": "Renton",
+      "en": "Testing us...?",
+      "display_variant": "en",
+      "display_text": "「Testing us...?」"
+    },
+    {
+      "id": "c08_07de0",
+      "speaker": "Hap",
+      "en": "It means the goods you're carrying are worth that much. Don't you forget it.",
+      "display_variant": "en",
+      "display_text": "「It means the goods you're carrying are\nworth that much. Don't you forget it.」"
+    },
+    {
+      "id": "c08_07e40",
+      "speaker": "Renton",
+      "en": "Y-yes, sir...",
+      "display_variant": "en",
+      "display_text": "「Y-yes, sir...」"
+    },
+    {
+      "id": "c08_07e60",
+      "speaker": "Hap",
+      "en": "Hm... instructions just came in from the client. Wh-what...!?",
+      "display_variant": "en",
+      "display_text": "「Hm... instructions just came in from the\nclient. Wh-what...!?」"
+    },
+    {
+      "id": "c08_07ea0",
+      "speaker": "Renton",
+      "en": "What's wrong?",
+      "display_variant": "en",
+      "display_text": "「What's wrong?」"
+    },
+    {
+      "id": "c08_07ec0",
+      "speaker": "Hap",
+      "en": "What a cautious character... The client's put up a proxy, and wants you to hand the goods to that person instead.",
+      "display_variant": "en",
+      "display_text": "「What a cautious character... The\nclient's put up a proxy, and wants you to\nhand the goods to that person instead.」"
+    },
+    {
+      "id": "c08_07f30",
+      "speaker": "Hap",
+      "en": "The distinguishing features of that person are...",
+      "display_variant": "en",
+      "display_text": "「The distinguishing features of that\nperson are...」"
+    },
+    {
+      "id": "c08_07f50",
+      "speaker": "Renton",
+      "en": "Y-yes...?",
+      "display_variant": "en",
+      "display_text": "「Y-yes...?」"
+    },
+    {
+      "id": "c08_07f70",
+      "speaker": "Hap",
+      "en": "And the password is...",
+      "display_variant": "en",
+      "display_text": "「And the password is...」"
+    },
+    {
+      "id": "c08_07f90",
+      "speaker": "Renton",
+      "en": "You want me to say that!?",
+      "display_variant": "en",
+      "display_text": "「You want me to say that!?」"
+    },
+    {
+      "id": "c08_07fc0",
+      "speaker": "Hap",
+      "en": "Those are their instructions. ...But don't worry. We told them your features too.",
+      "display_variant": "en",
+      "display_text": "「Those are their instructions. ...But\ndon't worry. We told them your features\ntoo.」"
+    },
+    {
+      "id": "c08_08020",
+      "speaker": "Hap",
+      "en": "We let them know a boy in a helmet and tracksuit with a drooping mustache, and a sharp-looking girl in glasses, would be coming.",
+      "display_variant": "fit",
+      "display_text": "「We told them a boy in a helmet and\ntracksuit with a droopy mustache, and a\nsharp girl in glasses, were coming.」"
+    },
+    {
+      "id": "c08_08090",
+      "speaker": "Gainer",
+      "en": "...!",
+      "display_variant": "en",
+      "display_text": "「...!」"
+    },
+    {
+      "id": "c08_080b0",
+      "speaker": "Hap",
+      "en": "Well then, good luck.",
+      "display_variant": "en",
+      "display_text": "「Well then, good luck.」"
+    },
+    {
+      "id": "c08_080d0",
+      "speaker": "Gainer",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c08_080f0",
+      "speaker": "Renton",
+      "en": "Miss Gainer... we've got no choice but to steel ourselves.",
+      "display_variant": "en",
+      "display_text": "「Miss Gainer... we've got no choice but\nto steel ourselves.」"
+    },
+    {
+      "id": "c08_08130",
+      "speaker": "Gainer",
+      "en": "But, Renton... this errand...",
+      "display_variant": "en",
+      "display_text": "「But, Renton... this errand...」"
+    },
+    {
+      "id": "c08_08160",
+      "speaker": "Renton",
+      "en": "I'm... going to do it.",
+      "display_variant": "en",
+      "display_text": "「I'm... going to do it.」"
+    },
+    {
+      "id": "c08_08180",
+      "speaker": "Renton",
+      "en": "When I pull this mission off, I think I'll finally become a real member of Gekkostate.",
+      "display_variant": "en",
+      "display_text": "「When I pull this mission off, I think\nI'll finally become a real member of\nGekkostate.」"
+    },
+    {
+      "id": "c08_081f0",
+      "speaker": "Gainer",
+      "en": "Wait, Renton...! This errand is...",
+      "display_variant": "en",
+      "display_text": "「Wait, Renton...! This errand is...」"
+    },
+    {
+      "id": "c08_08230",
+      "speaker": "Renton",
+      "en": "Miss Gainer...! I'm going! This is my fight!!",
+      "display_variant": "en",
+      "display_text": "「Miss Gainer...! I'm going! This is my\nfight!!」"
+    },
+    {
+      "id": "c08_08280",
+      "speaker": "Moondoggie",
+      "en": "Are you an idiot!?",
+      "display_variant": "en",
+      "display_text": "「Are you an idiot!?」"
+    },
+    {
+      "id": "c08_082b0",
+      "speaker": "Renton",
+      "en": "Brother Doggy!",
+      "display_variant": "en",
+      "display_text": "「Brother Doggy!」"
+    },
+    {
+      "id": "c08_082d0",
+      "speaker": "Renton",
+      "en": "Thank you!!",
+      "display_variant": "en",
+      "display_text": "「Thank you!!」"
+    },
+    {
+      "id": "c08_08300",
+      "speaker": "Moondoggie",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c08_08320",
+      "speaker": "Renton",
+      "en": "You came again today! Because you were worried about me!",
+      "display_variant": "en",
+      "display_text": "「You came again today! Because you were\nworried about me!」"
+    },
+    {
+      "id": "c08_08370",
+      "speaker": "Moondoggie",
+      "en": "Eh...?",
+      "display_variant": "en",
+      "display_text": "「Eh...?」"
+    },
+    {
+      "id": "c08_08390",
+      "speaker": "Renton",
+      "en": "I'm... really happy. Brother Doggy really is my big brother!",
+      "display_variant": "en",
+      "display_text": "「I'm... really happy. Brother Doggy really\nis my big brother!」"
+    },
+    {
+      "id": "c08_083e0",
+      "speaker": "Moondoggie",
+      "en": "You... you actually know everything, don't you!?",
+      "display_variant": "en",
+      "display_text": "「You... you actually know everything,\ndon't you!?」"
+    },
+    {
+      "id": "c08_08420",
+      "speaker": "Renton",
+      "en": "What do you mean?",
+      "display_variant": "en",
+      "display_text": "「What do you mean?」"
+    },
+    {
+      "id": "c08_08450",
+      "speaker": "Moondoggie",
+      "en": "It was the same thing last time! You know exactly what position you're in, and you're doing this on purpose, aren't you!?",
+      "display_variant": "en",
+      "display_text": "「It was the same thing last time! You\nknow exactly what position you're in, and\nyou're doing this on purpose, aren't you!?」"
+    },
+    {
+      "id": "c08_084c0",
+      "speaker": "Renton",
+      "en": "Eh... uh... I mean... I don't get what you--",
+      "display_variant": "en",
+      "display_text": "「Eh... uh... I mean... I don't get what\nyou--」"
+    },
+    {
+      "id": "c08_084f0",
+      "speaker": "Moondoggie",
+      "en": "Making a fool out of me! You... you--!!",
+      "display_variant": "en",
+      "display_text": "「Making a fool out of me! You... you--!!」"
+    },
+    {
+      "id": "c08_08530",
+      "speaker": "Renton",
+      "en": "...Brother Doggy, you really are a kind person, aren't you.",
+      "display_variant": "en",
+      "display_text": "「...Brother Doggy, you really are a kind\nperson, aren't you.」"
+    },
+    {
+      "id": "c08_08570",
+      "speaker": "Moondoggie",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c08_08590",
+      "speaker": "Renton",
+      "en": "Saying such harsh things on purpose, just to encourage me...",
+      "display_variant": "en",
+      "display_text": "「Saying such harsh things on purpose,\njust to encourage me...」"
+    },
+    {
+      "id": "c08_085d0",
+      "speaker": "Moondoggie",
+      "en": "H-hold on a second...!",
+      "display_variant": "en",
+      "display_text": "「H-hold on a second...!」"
+    },
+    {
+      "id": "c08_08600",
+      "speaker": "Renton",
+      "en": "I was... scared. Scared that delivering these goods into someone's hands might end up hurting innocent people...",
+      "display_variant": "en",
+      "display_text": "「I was... scared. Scared that delivering\nthese goods into someone's hands might\nend up hurting innocent people...」"
+    },
+    {
+      "id": "c08_08670",
+      "speaker": "Renton",
+      "en": "But that's no good, is it!",
+      "display_variant": "en",
+      "display_text": "「But that's no good, is it!」"
+    },
+    {
+      "id": "c08_086a0",
+      "speaker": "Moondoggie",
+      "en": "H-hey...",
+      "display_variant": "en",
+      "display_text": "「H-hey...」"
+    },
+    {
+      "id": "c08_086c0",
+      "speaker": "Renton",
+      "en": "I was... such a kid!",
+      "display_variant": "en",
+      "display_text": "「I was... such a kid!」"
+    },
+    {
+      "id": "c08_086e0",
+      "speaker": "Renton",
+      "en": "I decided this the moment I climbed aboard the Gekko-Goh!",
+      "display_variant": "en",
+      "display_text": "「I decided this the moment I climbed\naboard the Gekko-Goh!」"
+    },
+    {
+      "id": "c08_08720",
+      "speaker": "Renton",
+      "en": "That even if I had to turn the whole world into my enemy, I'd be there for Eureka!!",
+      "display_variant": "en",
+      "display_text": "「That even if I had to turn the whole\nworld into my enemy, I'd be there for\nEureka!!」"
+    },
+    {
+      "id": "c08_08770",
+      "speaker": "Gainer",
+      "en": "Renton...",
+      "display_variant": "en",
+      "display_text": "「Renton...」"
+    },
+    {
+      "id": "c08_08790",
+      "speaker": "Moondoggie",
+      "en": "Y-you...",
+      "display_variant": "en",
+      "display_text": "「Y-you...」"
+    },
+    {
+      "id": "c08_087b0",
+      "speaker": "Moondoggie",
+      "en": "Could it be... you're actually amazing, after all...",
+      "display_variant": "en",
+      "display_text": "「Could it be... you're actually amazing,\nafter all...」"
+    },
+    {
+      "id": "c08_087f0",
+      "speaker": "Renton",
+      "en": "Thanks to you, I've finally made up my mind. Real kindness hidden inside toughness... Thank you! Brother Doggy!!",
+      "display_variant": "en",
+      "display_text": "「Thanks to you, I've finally made up my\nmind. Real kindness hidden inside\ntoughness... Thank you! Brother Doggy!!」"
+    },
+    {
+      "id": "c08_08870",
+      "speaker": "Breaker",
+      "en": "You've been loud as hell this whole time, kid!",
+      "display_variant": "en",
+      "display_text": "「You've been loud as hell this whole\ntime, kid!」"
+    },
+    {
+      "id": "c08_088a0",
+      "speaker": "Renton",
+      "en": "You're...!",
+      "display_variant": "en",
+      "display_text": "「You're...!」"
+    },
+    {
+      "id": "c08_088c0",
+      "speaker": "Breaker",
+      "en": "Wh-what is it...!",
+      "display_variant": "en",
+      "display_text": "「Wh-what is it...!」"
+    },
+    {
+      "id": "c08_088e0",
+      "speaker": "Renton",
+      "en": "That ridiculously jutting chin...! You must be the one who's supposed to receive the goods!",
+      "display_variant": "en",
+      "display_text": "「That ridiculously jutting chin...! You\nmust be the one who's supposed to\nreceive the goods!」"
+    },
+    {
+      "id": "c08_08930",
+      "speaker": "Breaker",
+      "en": "You bastard! Bringing up something a guy's sensitive about...",
+      "display_variant": "en",
+      "display_text": "「You bastard! Bringing up something a\nguy's sensitive about...」"
+    },
+    {
+      "id": "c08_08960",
+      "speaker": "Renton",
+      "en": "Um... let's see... the password is...",
+      "display_variant": "en",
+      "display_text": "「Um... let's see... the password is...」"
+    },
+    {
+      "id": "c08_08990",
+      "speaker": "Renton",
+      "en": "You've got a bread roll stuck on your chin!",
+      "display_variant": "en",
+      "display_text": "「You've got a bread roll stuck on your\nchin!」"
+    },
+    {
+      "id": "c08_089c0",
+      "speaker": "Breaker",
+      "en": "You bastard!! You looking to die!!",
+      "display_variant": "en",
+      "display_text": "「You bastard!! You looking to die!!」"
+    },
+    {
+      "id": "c08_08a00",
+      "speaker": "Breaker",
+      "en": "Hey, what are you doing! Don't start trouble in a place like this!",
+      "display_variant": "en",
+      "display_text": "「Hey, what are you doing! Don't start\ntrouble in a place like this!」"
+    },
+    {
+      "id": "c08_08a50",
+      "speaker": "Breaker",
+      "en": "B-but...! This kid seems to know my face...",
+      "display_variant": "en",
+      "display_text": "「B-but...! This kid seems to know my\nface...」"
+    },
+    {
+      "id": "c08_08aa0",
+      "speaker": "Breaker",
+      "en": "Tch! So a bounty hunter's tracked me down even out here!!",
+      "display_variant": "en",
+      "display_text": "「Tch! So a bounty hunter's tracked me\ndown even out here!!」"
+    },
+    {
+      "id": "c08_08af0",
+      "speaker": "Breaker",
+      "en": "This brat's got some nerve! I'll turn the tables on him!!",
+      "display_variant": "en",
+      "display_text": "「This brat's got some nerve! I'll turn\nthe tables on him!!」"
+    },
+    {
+      "id": "c08_08b30",
+      "speaker": "Breaker",
+      "en": "I'm bringing out the Walker Machine! If it's come to this, I'll take it all the way!",
+      "display_variant": "en",
+      "display_text": "「I'm bringing out the Walker Machine! If\nit's come to this, I'll take it all the\nway!」"
+    },
+    {
+      "id": "c08_08b80",
+      "speaker": "Renton",
+      "en": "Uh... um... I'm... from Gekkostate...",
+      "display_variant": "en",
+      "display_text": "「Uh... um... I'm... from Gekkostate...」"
+    },
+    {
+      "id": "c08_08bb0",
+      "speaker": "Gainer",
+      "en": "Run, Renton! These guys are serious!",
+      "display_variant": "en",
+      "display_text": "「Run, Renton! These guys are serious!」"
+    },
+    {
+      "id": "c08_08bf0",
+      "speaker": "Renton",
+      "en": "Why! Why does it always turn out like this!!",
+      "display_variant": "en",
+      "display_text": "「Why! Why does it always turn out like\nthis!!」"
+    },
+    {
+      "id": "c08_08c80",
+      "speaker": "Kira",
+      "en": "...Sounds like you had a rough time, Renton.",
+      "display_variant": "en",
+      "display_text": "「...Sounds like you had a rough time,\nRenton.」"
+    },
+    {
+      "id": "c08_08cb0",
+      "speaker": "Matthieu",
+      "en": "We're the ones who had it rough! I don't even want to remember Ken-Goh's lecture afterward!",
+      "display_variant": "en",
+      "display_text": "「We're the ones who had it rough! I\ndon't even want to remember Ken-Goh's\nlecture afterward!」"
+    },
+    {
+      "id": "c08_08d10",
+      "speaker": "Hilda",
+      "en": "That's what you call bringing it on yourself.",
+      "display_variant": "en",
+      "display_text": "「That's what you call bringing it on\nyourself.」"
+    },
+    {
+      "id": "c08_08d40",
+      "speaker": "Stoner",
+      "en": "That time, Renton's natural cluelessness had us laughing, and then Gainer's got us good.",
+      "display_variant": "en",
+      "display_text": "「That time, Renton's natural cluelessness\nhad us laughing, and then Gainer's got us\ngood.」"
+    },
+    {
+      "id": "c08_08da0",
+      "speaker": "Gainer",
+      "en": "Y-yeah... well...",
+      "display_variant": "en",
+      "display_text": "「Y-yeah... well...」"
+    },
+    {
+      "id": "c08_08dc0",
+      "speaker": "Gain",
+      "en": "Just come clean, Gainer. It was all calculated from the start, wasn't it?",
+      "display_variant": "en",
+      "display_text": "「Just come clean, Gainer. It was all\ncalculated from the start, wasn't it?」"
+    },
+    {
+      "id": "c08_08e10",
+      "speaker": "Adette",
+      "en": "What!?",
+      "display_variant": "en",
+      "display_text": "「What!?」"
+    },
+    {
+      "id": "c08_08e30",
+      "speaker": "Matthieu",
+      "en": "Then you...! You already knew it was a prank back then!?",
+      "display_variant": "en",
+      "display_text": "「Then you...! You already knew it was a\nprank back then!?」"
+    },
+    {
+      "id": "c08_08e80",
+      "speaker": "Gainer",
+      "en": "Well, part of it was that the instructions were just way too outrageous...",
+      "display_variant": "en",
+      "display_text": "「Well, part of it was that the\ninstructions were just way too\noutrageous...」"
+    },
+    {
+      "id": "c08_08ed0",
+      "speaker": "Gainer",
+      "en": "Back then, Hap, you said 'a girl in glasses,' didn't you?",
+      "display_variant": "en",
+      "display_text": "「Back then, Hap, you said 'a girl in\nglasses,' didn't you?」"
+    },
+    {
+      "id": "c08_08f20",
+      "speaker": "Hap",
+      "en": "Did I say that...?",
+      "display_variant": "en",
+      "display_text": "「Did I say that...?」"
+    },
+    {
+      "id": "c08_08f40",
+      "speaker": "Gainer",
+      "en": "There's no way you'd know about my cross-dressing unless you could see our situation...",
+      "display_variant": "en",
+      "display_text": "「There's no way you'd know about my\ncross-dressing unless you could see our\nsituation...」"
+    },
+    {
+      "id": "c08_08f90",
+      "speaker": "Gainer",
+      "en": "That's how I realized we were being watched and made a laughingstock of.",
+      "display_variant": "en",
+      "display_text": "「That's how I realized we were being\nwatched and made a laughingstock of.」"
+    },
+    {
+      "id": "c08_08fe0",
+      "speaker": "Holland",
+      "en": "Well, look at that. So he played dumb and then spilled the whole thing to Ken-Goh.",
+      "display_variant": "en",
+      "display_text": "「Well, look at that. So he played dumb\nand then spilled the whole thing to\nKen-Goh.」"
+    },
+    {
+      "id": "c08_09030",
+      "speaker": "Matthieu",
+      "en": "Gainer! You little...!!",
+      "display_variant": "en",
+      "display_text": "「Gainer! You little...!!」"
+    },
+    {
+      "id": "c08_09060",
+      "speaker": "Adette",
+      "en": "This guy...! Pulling such a sneaky move!",
+      "display_variant": "en",
+      "display_text": "「This guy...! Pulling such a sneaky move!」"
+    },
+    {
+      "id": "c08_090a0",
+      "speaker": "Gainer",
+      "en": "What are you talking about. You're the ones who tried to trick us first.",
+      "display_variant": "en",
+      "display_text": "「What are you talking about. You're the\nones who tried to trick us first.」"
+    },
+    {
+      "id": "c08_09100",
+      "speaker": "Ana",
+      "en": "Gainer's right. Grown adults ganging up to bully a child -- you should be ashamed of yourselves.",
+      "display_variant": "en",
+      "display_text": "「Gainer's right. Grown adults ganging up\nto bully a child -- you should be ashamed\nof yourselves.」"
+    },
+    {
+      "id": "c08_09170",
+      "speaker": "Moondoggie",
+      "en": "But still, back then, I'll be honest -- I was jealous of Renton's guts.",
+      "display_variant": "en",
+      "display_text": "「But still, back then, I'll be honest --\nI was jealous of Renton's guts.」"
+    },
+    {
+      "id": "c08_091c0",
+      "speaker": "Renton",
+      "en": "Brother Doggy...",
+      "display_variant": "en",
+      "display_text": "「Brother Doggy...」"
+    },
+    {
+      "id": "c08_091e0",
+      "speaker": "Moondoggie",
+      "en": "Your reckless drive back then was something else. From that moment, you became my rival.",
+      "display_variant": "en",
+      "display_text": "「Your reckless drive back then was\nsomething else. From that moment, you\nbecame my rival.」"
+    },
+    {
+      "id": "c08_09240",
+      "speaker": "Gidget",
+      "en": "Before Renton showed up, Doggy was the one everyone picked on, after all.",
+      "display_variant": "en",
+      "display_text": "「Before Renton showed up, Doggy was\nthe one everyone picked on, after all.」"
+    },
+    {
+      "id": "c08_09290",
+      "speaker": "Moondoggie",
+      "en": "But when I was getting picked on, I still thought of myself as one of the gang. So, you being the new guy, you were an eyesore to me.",
+      "display_variant": "compact",
+      "display_text": "「But even while getting picked on, I\nstill felt like one of the gang. So you,\nthe new guy, were an eyesore to me.」"
+    },
+    {
+      "id": "c08_09310",
+      "speaker": "Renton",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c08_09330",
+      "speaker": "Moondoggie",
+      "en": "But that fight of yours, where you put your whole body on the line... it hit me hard...",
+      "display_variant": "en",
+      "display_text": "「But that fight of yours, where you put\nyour whole body on the line... it hit me\nhard...」"
+    },
+    {
+      "id": "c08_09380",
+      "speaker": "Moondoggie",
+      "en": "So I worked hard too. Trying not to lose to your guts.",
+      "display_variant": "en",
+      "display_text": "「So I worked hard too. Trying not to\nlose to your guts.」"
+    },
+    {
+      "id": "c08_093d0",
+      "speaker": "Renton",
+      "en": "Brother Doggy! You really are my big brother!",
+      "display_variant": "en",
+      "display_text": "「Brother Doggy! You really are my big\nbrother!」"
+    },
+    {
+      "id": "c08_09420",
+      "speaker": "Moondoggie",
+      "en": "Let's do our best, Renton. We'll definitely save Eureka.",
+      "display_variant": "en",
+      "display_text": "「Let's do our best, Renton. We'll\ndefinitely save Eureka.」"
+    },
+    {
+      "id": "c08_09470",
+      "speaker": "Renton",
+      "en": "Right!",
+      "display_variant": "en",
+      "display_text": "「Right!」"
+    },
+    {
+      "id": "c08_09490",
+      "speaker": "Roger",
+      "en": "Good spirit, Renton. You're every bit the grandson of Axel Thurston.",
+      "display_variant": "en",
+      "display_text": "「Good spirit, Renton. You're every bit\nthe grandson of Axel Thurston.」"
+    },
+    {
+      "id": "c08_094f0",
+      "speaker": "Renton",
+      "en": "You knew my grandpa?",
+      "display_variant": "en",
+      "display_text": "「You knew my grandpa?」"
+    },
+    {
+      "id": "c08_09520",
+      "speaker": "Roger",
+      "en": "That man did a great deal for me too.",
+      "display_variant": "en",
+      "display_text": "「That man did a great deal for me too.」"
+    },
+    {
+      "id": "c08_09550",
+      "speaker": "Banjo",
+      "en": "Well then, next let's talk about the incident the Negotiator and I ran into at Bellforest.",
+      "display_variant": "en",
+      "display_text": "「Well then, next let's talk about the\nincident the Negotiator and I ran into at\nBellforest.」"
+    }
+  ]
+}

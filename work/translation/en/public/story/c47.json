@@ -1,0 +1,411 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c47_02910",
+      "speaker": "Chiram Sldr",
+      "en": "Prime pickings, this! All units, don't hit the containers!",
+      "display_variant": "en",
+      "display_text": "「Prime pickings, this! All units, don't hit\nthe containers!」"
+    },
+    {
+      "id": "c47_02950",
+      "speaker": "Emaan Soldier",
+      "en": "N-no good! At this ship's speed, we can't outrun them!",
+      "display_variant": "en",
+      "display_text": "「N-no good! At this ship's speed, we\ncan't outrun them!」"
+    },
+    {
+      "id": "c47_029a0",
+      "speaker": "Emaan Soldier",
+      "en": "Radar contact! It's an Emaan ship!",
+      "display_variant": "en",
+      "display_text": "「Radar contact! It's an Emaan ship!」"
+    },
+    {
+      "id": "c47_029e0",
+      "speaker": "Emaan Soldier",
+      "en": "Has help arrived!?",
+      "display_variant": "en",
+      "display_text": "「Has help arrived!?」"
+    },
+    {
+      "id": "c47_02a10",
+      "speaker": "Emaan Soldier",
+      "en": "T-that's the Factory's Glomar!",
+      "display_variant": "en",
+      "display_text": "「T-that's the Factory's Glomar!」"
+    },
+    {
+      "id": "c47_02a50",
+      "speaker": "Chiram Sldr",
+      "en": "Oh... a Singularity's ship. But that's nothing to do with us deserters.",
+      "display_variant": "en",
+      "display_text": "「Oh... a Singularity's ship. But that's\nnothing to do with us deserters.」"
+    },
+    {
+      "id": "c47_02aa0",
+      "speaker": "Chiram Sldr",
+      "en": "If you're going to get in our way, we'll knock you right out of the sky...!",
+      "display_variant": "en",
+      "display_text": "「If you're going to get in our way, we'll\nknock you right out of the sky...!」"
+    },
+    {
+      "id": "c47_02ae0",
+      "speaker": "Kei",
+      "en": "I like it. When you say villain lines like that, it makes things a lot easier for us.",
+      "display_variant": "en",
+      "display_text": "「I like it. When you say villain lines like\nthat, it makes things a lot easier for us.」"
+    },
+    {
+      "id": "c47_02b30",
+      "speaker": "Shaya",
+      "en": "This is Shaya Thoov of the Factory.",
+      "display_variant": "en",
+      "display_text": "「This is Shaya Thoov of the Factory.」"
+    },
+    {
+      "id": "c47_02b70",
+      "speaker": "Shaya",
+      "en": "We'll take it from here. Please, the caravan, fall back.",
+      "display_variant": "en",
+      "display_text": "「We'll take it from here. Please, the\ncaravan, fall back.」"
+    },
+    {
+      "id": "c47_02bc0",
+      "speaker": "Emaan Soldier",
+      "en": "W-who'd accept help from the likes of you!",
+      "display_variant": "en",
+      "display_text": "「W-who'd accept help from the likes of\nyou!」"
+    },
+    {
+      "id": "c47_02c00",
+      "speaker": "Shaya",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c47_02c20",
+      "speaker": "Emaan Soldier",
+      "en": "We know! We know you're wanted fugitives from the Emaan homeland!",
+      "display_variant": "en",
+      "display_text": "「We know! We know you're wanted\nfugitives from the Emaan homeland!」"
+    },
+    {
+      "id": "c47_02c80",
+      "speaker": "Emaan Soldier",
+      "en": "We can't possibly accept help from people like that!",
+      "display_variant": "en",
+      "display_text": "「We can't possibly accept help from\npeople like that!」"
+    },
+    {
+      "id": "c47_02cc0",
+      "speaker": "Maai",
+      "en": "That's so mean! And here we came all this way to help!",
+      "display_variant": "en",
+      "display_text": "「That's so mean! And here we came all\nthis way to help!」"
+    },
+    {
+      "id": "c47_02d00",
+      "speaker": "Lieea",
+      "en": "If you're going to talk like that, we're just going home!",
+      "display_variant": "en",
+      "display_text": "「If you're going to talk like that, we're\njust going home!」"
+    },
+    {
+      "id": "c47_02d40",
+      "speaker": "Shaya",
+      "en": "We can't do that.",
+      "display_variant": "en",
+      "display_text": "「We can't do that.」"
+    },
+    {
+      "id": "c47_02d70",
+      "speaker": "Kei",
+      "en": "Shaya's right. We're not here because anyone asked us to be. Call it volunteer work, if you like.",
+      "display_variant": "en",
+      "display_text": "「Shaya's right. We're not here because\nanyone asked us to be. Call it volunteer\nwork, if you like.」"
+    },
+    {
+      "id": "c47_02dd0",
+      "speaker": "Kei",
+      "en": "Even if you push us away, we're just going to do this our own way.",
+      "display_variant": "en",
+      "display_text": "「Even if you push us away, we're just\ngoing to do this our own way.」"
+    },
+    {
+      "id": "c47_02e10",
+      "speaker": "Mimsy",
+      "en": "Kei...",
+      "display_variant": "en",
+      "display_text": "「Kei...」"
+    },
+    {
+      "id": "c47_02e30",
+      "speaker": "Kei",
+      "en": "So there you have it, folks of the caravan. We're taking care of these bandits on our own say-so.",
+      "display_variant": "en",
+      "display_text": "「So there you have it, folks of the\ncaravan. We're taking care of these\nbandits on our own say-so.」"
+    },
+    {
+      "id": "c47_02e90",
+      "speaker": "Kei",
+      "en": "That's fine with everyone, right?",
+      "display_variant": "en",
+      "display_text": "「That's fine with everyone, right?」"
+    },
+    {
+      "id": "c47_02eb0",
+      "speaker": "Orson",
+      "en": "Understood. I'm with you on this, Kei.",
+      "display_variant": "en",
+      "display_text": "「Understood. I'm with you on this, Kei.」"
+    },
+    {
+      "id": "c47_02ee0",
+      "speaker": "Shaya",
+      "en": "All units, protect the Emaan ship while we intercept the bandits!",
+      "display_variant": "en",
+      "display_text": "「All units, protect the Emaan ship while\nwe intercept the bandits!」"
+    },
+    {
+      "id": "c47_02f30",
+      "speaker": "Emaan Soldier",
+      "en": "W-what do we do?",
+      "display_variant": "en",
+      "display_text": "「W-what do we do?」"
+    },
+    {
+      "id": "c47_02f50",
+      "speaker": "Emaan Soldier",
+      "en": "Everyone protects themselves! Don't count on them for anything!",
+      "display_variant": "en",
+      "display_text": "「Everyone protects themselves! Don't\ncount on them for anything!」"
+    },
+    {
+      "id": "c47_02fa0",
+      "speaker": "Kei",
+      "en": "Man... you're not the honest type, are you. If you were girls, I bet you'd give me a real hard time.",
+      "display_variant": "en",
+      "display_text": "「Man... you're not the honest type, are\nyou. If you were girls, I bet you'd give\nme a real hard time.」"
+    },
+    {
+      "id": "c47_03000",
+      "speaker": "Kei",
+      "en": "Well... that's about the size of it.",
+      "display_variant": "en",
+      "display_text": "「Well... that's about the size of it.」"
+    },
+    {
+      "id": "c47_03020",
+      "speaker": "Emaan Soldier",
+      "en": "W-well...",
+      "display_variant": "en",
+      "display_text": "「W-well...」"
+    },
+    {
+      "id": "c47_03040",
+      "speaker": "Kei",
+      "en": "Whoa, no need for thanks. We just did it because we wanted to.",
+      "display_variant": "en",
+      "display_text": "「Whoa, no need for thanks. We just did\nit because we wanted to.」"
+    },
+    {
+      "id": "c47_03080",
+      "speaker": "Emaan Soldier",
+      "en": "That won't do! We're people of Emaan, the nation of commerce!",
+      "display_variant": "en",
+      "display_text": "「That won't do! We're people of Emaan,\nthe nation of commerce!」"
+    },
+    {
+      "id": "c47_030d0",
+      "speaker": "Emaan Soldier",
+      "en": "Service demands payment! At the very least, accept our words of thanks!",
+      "display_variant": "en",
+      "display_text": "「Service demands payment! At the very\nleast, accept our words of thanks!」"
+    },
+    {
+      "id": "c47_03120",
+      "speaker": "Emaan Soldier",
+      "en": "Thank you! We're grateful for your rescue!",
+      "display_variant": "en",
+      "display_text": "「Thank you! We're grateful for your\nrescue!」"
+    },
+    {
+      "id": "c47_03160",
+      "speaker": "Shaya",
+      "en": "Yes... we've received your thanks, loud and clear.",
+      "display_variant": "en",
+      "display_text": "「Yes... we've received your thanks, loud\nand clear.」"
+    },
+    {
+      "id": "c47_03190",
+      "speaker": "Kei",
+      "en": "Huh... here I thought you were just stubborn, but you've got an honest side too.",
+      "display_variant": "en",
+      "display_text": "「Huh... here I thought you were just\nstubborn, but you've got an honest side\ntoo.」"
+    },
+    {
+      "id": "c47_031d0",
+      "speaker": "Kei",
+      "en": "(If only Athena would open up to me like this too...)",
+      "display_variant": "en",
+      "display_text": "（(If only Athena would open up to me\nlike this too...)）"
+    },
+    {
+      "id": "c47_03220",
+      "speaker": "Emaan Soldier",
+      "en": "W-waaaaaahh!",
+      "display_variant": "en",
+      "display_text": "「W-waaaaaahh!」"
+    },
+    {
+      "id": "c47_03250",
+      "speaker": "Shaya",
+      "en": "N-no way...!",
+      "display_variant": "en",
+      "display_text": "「N-no way...!」"
+    },
+    {
+      "id": "c47_03270",
+      "speaker": "Kei",
+      "en": "Damn it! There's no point in us even being here at this rate!",
+      "display_variant": "en",
+      "display_text": "「Damn it! There's no point in us even\nbeing here at this rate!」"
+    },
+    {
+      "id": "c47_03300",
+      "speaker": "Kei",
+      "en": "An Emaan caravan is under attack by the Chiram, you say?",
+      "display_variant": "en",
+      "display_text": "「An Emaan caravan is under attack by\nthe Chiram, you say?」"
+    },
+    {
+      "id": "c47_03340",
+      "speaker": "Orson",
+      "en": "Though calling them Chiram, it looks like they're just a bunch of deserters who broke off from the regular army.",
+      "display_variant": "en",
+      "display_text": "「Though calling them Chiram, it looks like\nthey're just a bunch of deserters who\nbroke off from the regular army.」"
+    },
+    {
+      "id": "c47_033a0",
+      "speaker": "Kei",
+      "en": "So basically a band of bandits, huh. Can't very well look the other way on that.",
+      "display_variant": "en",
+      "display_text": "「So basically a band of bandits, huh.\nCan't very well look the other way on\nthat.」"
+    },
+    {
+      "id": "c47_033f0",
+      "speaker": "Mome",
+      "en": "Lord Kei, are you going to go help Emaan!?",
+      "display_variant": "en",
+      "display_text": "「Lord Kei, are you going to go help\nEmaan!?」"
+    },
+    {
+      "id": "c47_03430",
+      "speaker": "Kei",
+      "en": "That's the plan, yeah?",
+      "display_variant": "en",
+      "display_text": "「That's the plan, yeah?」"
+    },
+    {
+      "id": "c47_03450",
+      "speaker": "Shaya",
+      "en": "...But Emaan tried to capture Kei and control his mind.",
+      "display_variant": "en",
+      "display_text": "「...But Emaan tried to capture Kei and\ncontrol his mind.」"
+    },
+    {
+      "id": "c47_034a0",
+      "speaker": "Mimsy",
+      "en": "Since we're Emaan people ourselves, part of us wants to go help the caravan under attack, but...",
+      "display_variant": "en",
+      "display_text": "「Since we're Emaan people ourselves, part\nof us wants to go help the caravan under\nattack, but...」"
+    },
+    {
+      "id": "c47_03500",
+      "speaker": "Kei",
+      "en": "Hold it right there, Mimsy. Let's just get ready to launch.",
+      "display_variant": "en",
+      "display_text": "「Hold it right there, Mimsy. Let's just\nget ready to launch.」"
+    },
+    {
+      "id": "c47_03540",
+      "speaker": "Kei",
+      "en": "Sure, I'm plenty mad about the way Emaan did things. But that's a separate matter from this.",
+      "display_variant": "en",
+      "display_text": "「Sure, I'm plenty mad about the way\nEmaan did things. But that's a separate\nmatter from this.」"
+    },
+    {
+      "id": "c47_03590",
+      "speaker": "Kei",
+      "en": "Ignoring people in trouble would sit pretty badly with me anyway.",
+      "display_variant": "en",
+      "display_text": "「Ignoring people in trouble would sit\npretty badly with me anyway.」"
+    },
+    {
+      "id": "c47_035d0",
+      "speaker": "Mome",
+      "en": "Understood, Lord Kei!",
+      "display_variant": "en",
+      "display_text": "「Understood, Lord Kei!」"
+    },
+    {
+      "id": "c47_035f0",
+      "speaker": "Mimsy",
+      "en": "Thank you, Kei.",
+      "display_variant": "en",
+      "display_text": "「Thank you, Kei.」"
+    },
+    {
+      "id": "c47_03610",
+      "speaker": "Kei",
+      "en": "Your thanks alone is more than enough reward for me.",
+      "display_variant": "en",
+      "display_text": "「Your thanks alone is more than enough\nreward for me.」"
+    },
+    {
+      "id": "c47_03650",
+      "speaker": "Athena",
+      "en": "(Lending a hand to those who hunt him... What is that man thinking?)",
+      "display_variant": "en",
+      "display_text": "（(Lending a hand to those who hunt\nhim... What is that man thinking?)）"
+    },
+    {
+      "id": "c47_036a0",
+      "speaker": "Orson",
+      "en": "Can't quite figure Kei out, Athena?",
+      "display_variant": "en",
+      "display_text": "「Can't quite figure Kei out, Athena?」"
+    },
+    {
+      "id": "c47_036d0",
+      "speaker": "Athena",
+      "en": "Y-yeah...",
+      "display_variant": "en",
+      "display_text": "「Y-yeah...」"
+    },
+    {
+      "id": "c47_036f0",
+      "speaker": "Orson",
+      "en": "But it's exactly because he's that kind of person that I and everyone on the Glomar wanted to bet on him.",
+      "display_variant": "en",
+      "display_text": "「But it's exactly because he's that kind\nof person that I and everyone on the\nGlomar wanted to bet on him.」"
+    },
+    {
+      "id": "c47_03750",
+      "speaker": "Orson",
+      "en": "Even this world's future, for that matter.",
+      "display_variant": "en",
+      "display_text": "「Even this world's future, for that\nmatter.」"
+    },
+    {
+      "id": "c47_03780",
+      "speaker": "Athena",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    }
+  ]
+}

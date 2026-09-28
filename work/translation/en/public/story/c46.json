@@ -1,0 +1,390 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c46_02c10",
+      "speaker": "Ichitaro",
+      "en": "Radar contact! The Gaizock are coming!",
+      "display_variant": "en",
+      "display_text": "「Radar contact! The Gaizock are coming!」"
+    },
+    {
+      "id": "c46_02c50",
+      "speaker": "Gengoro",
+      "en": "All units, prepare to intercept!",
+      "display_variant": "en",
+      "display_text": "「All units, prepare to intercept!」"
+    },
+    {
+      "id": "c46_02c70",
+      "speaker": "Uchuta",
+      "en": "Butcher's not here...!",
+      "display_variant": "en",
+      "display_text": "「Butcher's not here...!」"
+    },
+    {
+      "id": "c46_02ca0",
+      "speaker": "Keiko",
+      "en": "Looks like the Bandock is standing by in the rear!",
+      "display_variant": "en",
+      "display_text": "「Looks like the Bandock is standing by\nin the rear!」"
+    },
+    {
+      "id": "c46_02ce0",
+      "speaker": "Toshiya",
+      "en": "That bastard! Watching from a safe distance in the back, huh!",
+      "display_variant": "en",
+      "display_text": "「That bastard! Watching from a safe\ndistance in the back, huh!」"
+    },
+    {
+      "id": "c46_02d10",
+      "speaker": "Marin",
+      "en": "Then all we have to do is smash through them and drag him out!",
+      "display_variant": "en",
+      "display_text": "「Then all we have to do is smash\nthrough them and drag him out!」"
+    },
+    {
+      "id": "c46_02d60",
+      "speaker": "Heizaemon",
+      "en": "But if the fight drags on, we're the ones at a disadvantage...",
+      "display_variant": "en",
+      "display_text": "「But if the fight drags on, we're the\nones at a disadvantage...」"
+    },
+    {
+      "id": "c46_02da0",
+      "speaker": "Heizaemon",
+      "en": "We'll settle this in these five minutes...!",
+      "display_variant": "en",
+      "display_text": "「We'll settle this in these five\nminutes...!」"
+    },
+    {
+      "id": "c46_02dd0",
+      "speaker": "Gengoro",
+      "en": "All units! Clear out the enemies in front of us and drag the Bandock out!",
+      "display_variant": "en",
+      "display_text": "「All units! Clear out the enemies in\nfront of us and drag the Bandock out!」"
+    },
+    {
+      "id": "c46_02e20",
+      "speaker": "Gengoro",
+      "en": "And once the Bandock shows itself, we bring it down in a single blow!",
+      "display_variant": "en",
+      "display_text": "「And once the Bandock shows itself, we\nbring it down in a single blow!」"
+    },
+    {
+      "id": "c46_02e60",
+      "speaker": "Ichitaro",
+      "en": "The Bandock's predicted appearance point is right here!",
+      "display_variant": "en",
+      "display_text": "「The Bandock's predicted appearance\npoint is right here!」"
+    },
+    {
+      "id": "c46_02ea0",
+      "speaker": "Eiji",
+      "en": "Wipe out the Mechaboost army, then take down the Gaizock in one blow...",
+      "display_variant": "en",
+      "display_text": "「Wipe out the Mechaboost army, then\ntake down the Gaizock in one blow...」"
+    },
+    {
+      "id": "c46_02f00",
+      "speaker": "Touga",
+      "en": "And we have to do all of that within five minutes.",
+      "display_variant": "en",
+      "display_text": "「And we have to do all of that within\nfive minutes.」"
+    },
+    {
+      "id": "c46_02f40",
+      "speaker": "Apollo",
+      "en": "No time to waste getting scared! Let's charge in!",
+      "display_variant": "en",
+      "display_text": "「No time to waste getting scared! Let's\ncharge in!」"
+    },
+    {
+      "id": "c46_02f80",
+      "speaker": "Kappei",
+      "en": "Just wait, Butcher! I'll drag you out here for sure!",
+      "display_variant": "en",
+      "display_text": "「Just wait, Butcher! I'll drag you out\nhere for sure!」"
+    },
+    {
+      "id": "c46_02fd0",
+      "speaker": "Kappei",
+      "en": "Here I come, Mechaboost! First I'll crush the lot of you!",
+      "display_variant": "en",
+      "display_text": "「Here I come, Mechaboost! First I'll\ncrush the lot of you!」"
+    },
+    {
+      "id": "c46_03020",
+      "speaker": "Kiraken",
+      "en": "All right! The Mechaboost are down!",
+      "display_variant": "en",
+      "display_text": "「All right! The Mechaboost are down!」"
+    },
+    {
+      "id": "c46_03060",
+      "speaker": "Julie",
+      "en": "A bit early to celebrate, Kiraken...! Here comes the big boss!",
+      "display_variant": "en",
+      "display_text": "「A bit early to celebrate, Kiraken...!\nHere comes the big boss!」"
+    },
+    {
+      "id": "c46_030a0",
+      "speaker": "Butcher",
+      "en": "Ho ho ho ho ho! Wiping out my whole Mechaboost army -- you Earthlings aren't half bad.",
+      "display_variant": "en",
+      "display_text": "「Ho ho ho ho ho! Wiping out my whole\nMechaboost army -- you Earthlings aren't\nhalf bad.」"
+    },
+    {
+      "id": "c46_03100",
+      "speaker": "Butcher",
+      "en": "As a reward, I, Killer the Butcher, shall face you myself.",
+      "display_variant": "en",
+      "display_text": "「As a reward, I, Killer the Butcher, shall\nface you myself.」"
+    },
+    {
+      "id": "c46_03150",
+      "speaker": "Apollo",
+      "en": "You bastard! That laugh of yours ends right here!",
+      "display_variant": "en",
+      "display_text": "「You bastard! That laugh of yours ends\nright here!」"
+    },
+    {
+      "id": "c46_03190",
+      "speaker": "Kappei",
+      "en": "Butcher! Today's the day you die!!",
+      "display_variant": "en",
+      "display_text": "「Butcher! Today's the day you die!!」"
+    },
+    {
+      "id": "c46_031d0",
+      "speaker": "Gengoro",
+      "en": "We only get one chance! Pour every bit of strength we have into the Bandock!",
+      "display_variant": "en",
+      "display_text": "「We only get one chance! Pour every bit\nof strength we have into the Bandock!」"
+    },
+    {
+      "id": "c46_03220",
+      "speaker": "Kappei",
+      "en": "Here I come, Butcher! All the rage of the people you've tormented -- we're unleashing it on you!!",
+      "display_variant": "en",
+      "display_text": "「Here I come, Butcher! All the rage of\nthe people you've tormented -- we're\nunleashing it on you!!」"
+    },
+    {
+      "id": "c46_03280",
+      "speaker": "Butcher",
+      "en": "T-that's absurd!! Gwaaaaaaahhh!!",
+      "display_variant": "en",
+      "display_text": "「T-that's absurd!! Gwaaaaaaahhh!!」"
+    },
+    {
+      "id": "c46_032c0",
+      "speaker": "Kappei",
+      "en": "We did it! Have you learned your lesson, Gaizock!",
+      "display_variant": "en",
+      "display_text": "「We did it! Have you learned your lesson,\nGaizock!」"
+    },
+    {
+      "id": "c46_03300",
+      "speaker": "Keiko",
+      "en": "Amazing. Dealing {tm} damage in a single blow...",
+      "display_variant": "en",
+      "display_text": "「Amazing. Dealing {tm} damage in a\nsingle blow...」"
+    },
+    {
+      "id": "c46_03370",
+      "speaker": "Julie",
+      "en": "By my calculations, the max damage dealt exceeds 56,000.",
+      "display_variant": "en",
+      "display_text": "「By my calculations, the max damage\ndealt exceeds 56,000.」"
+    },
+    {
+      "id": "c46_033c0",
+      "speaker": "Toshiya",
+      "en": "So we managed to hit close to the max, huh.",
+      "display_variant": "en",
+      "display_text": "「So we managed to hit close to the max,\nhuh.」"
+    },
+    {
+      "id": "c46_03400",
+      "speaker": "Gengoro",
+      "en": "But this doesn't mean every enemy targeting Earth has been wiped out.",
+      "display_variant": "en",
+      "display_text": "「But this doesn't mean every enemy\ntargeting Earth has been wiped out.」"
+    },
+    {
+      "id": "c46_03450",
+      "speaker": "Kappei",
+      "en": "I know that, Pop.",
+      "display_variant": "en",
+      "display_text": "「I know that, Pop.」"
+    },
+    {
+      "id": "c46_03480",
+      "speaker": "Eiji",
+      "en": "No matter who comes at us, as long as we're here, we won't let them have their way.",
+      "display_variant": "en",
+      "display_text": "「No matter who comes at us, as long as\nwe're here, we won't let them have their\nway.」"
+    },
+    {
+      "id": "c46_034d0",
+      "speaker": "Touga",
+      "en": "Because that's the fight that's ours to fight.",
+      "display_variant": "en",
+      "display_text": "「Because that's the fight that's ours to\nfight.」"
+    },
+    {
+      "id": "c46_03500",
+      "speaker": "Uchuta",
+      "en": "So the damage dealt was {tm}. Not bad at all.",
+      "display_variant": "en",
+      "display_text": "「So the damage dealt was {tm}. Not\nbad at all.」"
+    },
+    {
+      "id": "c46_03560",
+      "speaker": "Julie",
+      "en": "But by my calculations, the max damage dealt exceeds 56,000.",
+      "display_variant": "en",
+      "display_text": "「But by my calculations, the max damage\ndealt exceeds 56,000.」"
+    },
+    {
+      "id": "c46_035c0",
+      "speaker": "Kiraken",
+      "en": "We won and he's still being harsh -- that's Julie for you.",
+      "display_variant": "en",
+      "display_text": "「We won and he's still being harsh --\nthat's Julie for you.」"
+    },
+    {
+      "id": "c46_03600",
+      "speaker": "Toshiya",
+      "en": "Come on, it's fine. Let's just enjoy the win for now.",
+      "display_variant": "en",
+      "display_text": "「Come on, it's fine. Let's just enjoy the\nwin for now.」"
+    },
+    {
+      "id": "c46_03640",
+      "speaker": "Eiji",
+      "en": "No matter who comes at us, as long as we're here, we won't let them have their way.",
+      "display_variant": "en",
+      "display_text": "「No matter who comes at us, as long as\nwe're here, we won't let them have their\nway.」"
+    },
+    {
+      "id": "c46_03690",
+      "speaker": "Butcher",
+      "en": "You Earthlings, pulling off such an outrageous stunt!",
+      "display_variant": "en",
+      "display_text": "「You Earthlings, pulling off such an\noutrageous stunt!」"
+    },
+    {
+      "id": "c46_036d0",
+      "speaker": "Butcher",
+      "en": "I'm in a foul mood! We're heading home for today!",
+      "display_variant": "en",
+      "display_text": "「I'm in a foul mood! We're heading home\nfor today!」"
+    },
+    {
+      "id": "c46_03700",
+      "speaker": "Ichitaro",
+      "en": "The Bandock is falling back!",
+      "display_variant": "en",
+      "display_text": "「The Bandock is falling back!」"
+    },
+    {
+      "id": "c46_03730",
+      "speaker": "Heizaemon",
+      "en": "So the operation failed... Back to square one, then.",
+      "display_variant": "en",
+      "display_text": "「So the operation failed... Back to\nsquare one, then.」"
+    },
+    {
+      "id": "c46_03770",
+      "speaker": "Ichitaro",
+      "en": "Five minutes of operation time have passed! Our forces' attrition is about to exceed the limit!",
+      "display_variant": "en",
+      "display_text": "「Five minutes of operation time have\npassed! Our forces' attrition is about to\nexceed the limit!」"
+    },
+    {
+      "id": "c46_037c0",
+      "speaker": "Gengoro",
+      "en": "There's nothing left to do but retreat here...!",
+      "display_variant": "en",
+      "display_text": "「There's nothing left to do but retreat\nhere...!」"
+    },
+    {
+      "id": "c46_03840",
+      "speaker": "Ichitaro",
+      "en": "Grandpa! We've picked up movement from the Gaizock!",
+      "display_variant": "en",
+      "display_text": "「Grandpa! We've picked up movement from\nthe Gaizock!」"
+    },
+    {
+      "id": "c46_03880",
+      "speaker": "Heizaemon",
+      "en": "If we leave them running loose any longer, the damage will only keep spreading.",
+      "display_variant": "en",
+      "display_text": "「If we leave them running loose any\nlonger, the damage will only keep\nspreading.」"
+    },
+    {
+      "id": "c46_038d0",
+      "speaker": "Heizaemon",
+      "en": "To all hands! The King Beal is now committing everything it has to a decisive battle against the Gaizock!",
+      "display_variant": "en",
+      "display_text": "「To all hands! The King Beal is now\ncommitting everything it has to a decisive\nbattle against the Gaizock!」"
+    },
+    {
+      "id": "c46_03930",
+      "speaker": "Kappei",
+      "en": "All right! Let's show them what we've got!",
+      "display_variant": "en",
+      "display_text": "「All right! Let's show them what we've\ngot!」"
+    },
+    {
+      "id": "c46_03960",
+      "speaker": "Marin",
+      "en": "But the Bandock, the Gaizock's mothership, is a formidable enemy.",
+      "display_variant": "en",
+      "display_text": "「But the Bandock, the Gaizock's\nmothership, is a formidable enemy.」"
+    },
+    {
+      "id": "c46_039b0",
+      "speaker": "Toshiya",
+      "en": "And on top of that, that Butcher guy fights like it's half a game.",
+      "display_variant": "en",
+      "display_text": "「And on top of that, that Butcher guy\nfights like it's half a game.」"
+    },
+    {
+      "id": "c46_03a00",
+      "speaker": "Toshiya",
+      "en": "If he's ever in real trouble, he'll probably turn tail and run right away.",
+      "display_variant": "en",
+      "display_text": "「If he's ever in real trouble, he'll\nprobably turn tail and run right away.」"
+    },
+    {
+      "id": "c46_03a40",
+      "speaker": "Apollo",
+      "en": "Then let's settle this in one shot before he can run.",
+      "display_variant": "en",
+      "display_text": "「Then let's settle this in one shot\nbefore he can run.」"
+    },
+    {
+      "id": "c46_03a80",
+      "speaker": "Touga",
+      "en": "We'll pour everything we have into a single strike and bring down the Bandock.",
+      "display_variant": "en",
+      "display_text": "「We'll pour everything we have into a\nsingle strike and bring down the Bandock.」"
+    },
+    {
+      "id": "c46_03ac0",
+      "speaker": "Eiji",
+      "en": "All right! Let's give that bastard a hit that'll make his eyes pop out!",
+      "display_variant": "en",
+      "display_text": "「All right! Let's give that bastard a hit\nthat'll make his eyes pop out!」"
+    },
+    {
+      "id": "c46_03b20",
+      "speaker": "Kappei",
+      "en": "Just you wait, Killer the Butcher! We'll make you feel the full weight of our anger!",
+      "display_variant": "en",
+      "display_text": "「Just you wait, Killer the Butcher! We'll\nmake you feel the full weight of our\nanger!」"
+    }
+  ]
+}

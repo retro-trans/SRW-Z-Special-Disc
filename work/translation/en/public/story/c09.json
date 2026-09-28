@@ -1,0 +1,2070 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c09_05b10",
+      "speaker": "Angel",
+      "en": "A Megadeus!",
+      "display_variant": "en",
+      "display_text": "「A Megadeus!」"
+    },
+    {
+      "id": "c09_05b30",
+      "speaker": "Schwarzwald",
+      "en": "You've come at last, Big Duo! Now, let's show these people a taste of your tremendous power!",
+      "display_variant": "en",
+      "display_text": "「You've come at last, Big Duo! Now, let's\nshow these people a taste of your\ntremendous power!」"
+    },
+    {
+      "id": "c09_05b90",
+      "speaker": "Dominic",
+      "en": "A... ah...",
+      "display_variant": "en",
+      "display_text": "「A... ah...」"
+    },
+    {
+      "id": "c09_05bb0",
+      "speaker": "Angel",
+      "en": "This is no time to be frozen with fear. We're getting out of here.",
+      "display_variant": "en",
+      "display_text": "「This is no time to be frozen with fear.\nWe're getting out of here.」"
+    },
+    {
+      "id": "c09_05bf0",
+      "speaker": "Dominic",
+      "en": "B-but, wouldn't it be dangerous to go outside...?",
+      "display_variant": "en",
+      "display_text": "「B-but, wouldn't it be dangerous to go\noutside...?」"
+    },
+    {
+      "id": "c09_05c30",
+      "speaker": "Angel",
+      "en": "Are you going to let Schwarzwald destroy this house full of memories?",
+      "display_variant": "en",
+      "display_text": "「Are you going to let Schwarzwald\ndestroy this house full of memories?」"
+    },
+    {
+      "id": "c09_05c80",
+      "speaker": "Dominic",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c09_05ca0",
+      "speaker": "Angel",
+      "en": "Besides, it'll be fine. The sun is rising.",
+      "display_variant": "en",
+      "display_text": "「Besides, it'll be fine. The sun is rising.」"
+    },
+    {
+      "id": "c09_05cd0",
+      "speaker": "Dominic",
+      "en": "The sun...",
+      "display_variant": "en",
+      "display_text": "「The sun...」"
+    },
+    {
+      "id": "c09_05cf0",
+      "speaker": "Banjo",
+      "en": "Daitarn, come here!",
+      "display_variant": "en",
+      "display_text": "「Daitarn, come here!」"
+    },
+    {
+      "id": "c09_05d10",
+      "speaker": "Schwarzwald",
+      "en": "Nngh!",
+      "display_variant": "en",
+      "display_text": "「Nngh!」"
+    },
+    {
+      "id": "c09_05d30",
+      "speaker": "Banjo",
+      "en": "Change, Daitarn 3!!",
+      "display_variant": "en",
+      "display_text": "「Change, Daitarn 3!!」"
+    },
+    {
+      "id": "c09_05d60",
+      "speaker": "Banjo",
+      "en": "For the world, for its people, Daitarn 3 crushes the ambitions of evil!",
+      "display_variant": "en",
+      "display_text": "「For the world, for its people, Daitarn 3\ncrushes the ambitions of evil!」"
+    },
+    {
+      "id": "c09_05da0",
+      "speaker": "Schwarzwald",
+      "en": "The solar disc... the sun...! So, light, is it!",
+      "display_variant": "en",
+      "display_text": "「The solar disc... the sun...! So, light, is\nit!」"
+    },
+    {
+      "id": "c09_05dd0",
+      "speaker": "Banjo",
+      "en": "Schwarzwald. Your eccentric acts end here.",
+      "display_variant": "en",
+      "display_text": "「Schwarzwald. Your eccentric acts end\nhere.」"
+    },
+    {
+      "id": "c09_05e20",
+      "speaker": "Schwarzwald",
+      "en": "Eccentric, you say?",
+      "display_variant": "en",
+      "display_text": "「Eccentric, you say?」"
+    },
+    {
+      "id": "c09_05e40",
+      "speaker": "Banjo",
+      "en": "Stirring up people's anxieties with delusions and proclaiming the world's ruin -- a place in the sun doesn't suit someone like you.",
+      "display_variant": "compact",
+      "display_text": "「Stirring fear with delusions and\nproclaiming ruin -- a place in the sun\ndoesn't suit you.」"
+    },
+    {
+      "id": "c09_05ea0",
+      "speaker": "Banjo",
+      "en": "Go back quietly to the place that suits you... the darkness!",
+      "display_variant": "en",
+      "display_text": "「Go back quietly to the place that suits\nyou... the darkness!」"
+    },
+    {
+      "id": "c09_05ee0",
+      "speaker": "Schwarzwald",
+      "en": "Darkness... the thing people have feared since the dawn of time. The origin that swallows everything whole...",
+      "display_variant": "en",
+      "display_text": "「Darkness... the thing people have feared\nsince the dawn of time. The origin that\nswallows everything whole...」"
+    },
+    {
+      "id": "c09_05f30",
+      "speaker": "Schwarzwald",
+      "en": "People turn their eyes away from that fear, and behave as though its existence were never even part of their own history.",
+      "display_variant": "compact",
+      "display_text": "「People turn from that fear, acting as\nthough it were never part of their own\nhistory.」"
+    },
+    {
+      "id": "c09_05fa0",
+      "speaker": "Schwarzwald",
+      "en": "But that is where the truth lies! No... darkness itself is the truth! It is the answer to this world!",
+      "display_variant": "en",
+      "display_text": "「But that is where the truth lies! No...\ndarkness itself is the truth! It is the\nanswer to this world!」"
+    },
+    {
+      "id": "c09_06000",
+      "speaker": "Banjo",
+      "en": "I have no intention of debating you. But you, the wreck of what was once a newspaper reporter... your misreporting will be corrected.",
+      "display_variant": "compact",
+      "display_text": "「I won't debate you. But you, a wrecked\nex-reporter... your misreporting will be\ncorrected.」"
+    },
+    {
+      "id": "c09_06060",
+      "speaker": "Banjo",
+      "en": "Even if this world is mired in chaos, what waits beyond it is not the darkness you speak of...!",
+      "display_variant": "en",
+      "display_text": "「Even if this world is mired in chaos,\nwhat waits beyond it is not the darkness\nyou speak of...!」"
+    },
+    {
+      "id": "c09_060c0",
+      "speaker": "Banjo",
+      "en": "As long as I'm here, that will never be the truth!",
+      "display_variant": "en",
+      "display_text": "「As long as I'm here, that will never be\nthe truth!」"
+    },
+    {
+      "id": "c09_06100",
+      "speaker": "Schwarzwald",
+      "en": "Very well, Child of the Sun! If you believe your light can illuminate the darkness, then show me!",
+      "display_variant": "en",
+      "display_text": "「Very well, Child of the Sun! If you\nbelieve your light can illuminate the\ndarkness, then show me!」"
+    },
+    {
+      "id": "c09_06160",
+      "speaker": "Schwarzwald",
+      "en": "I will correct your arrogance by striking you down -- with this Big Duo!",
+      "display_variant": "en",
+      "display_text": "「I will correct your arrogance by\nstriking you down -- with this Big Duo!」"
+    },
+    {
+      "id": "c09_061c0",
+      "speaker": "Banjo",
+      "en": "Just what I wanted...! Banjo Haran and Daitarn 3 will drag it all out into the light of day!",
+      "display_variant": "en",
+      "display_text": "「Just what I wanted...! Banjo Haran and\nDaitarn 3 will drag it all out into the\nlight of day!」"
+    },
+    {
+      "id": "c09_06220",
+      "speaker": "Banjo",
+      "en": "What is this...!?",
+      "display_variant": "en",
+      "display_text": "「What is this...!?」"
+    },
+    {
+      "id": "c09_06240",
+      "speaker": "Angel",
+      "en": "A Megadeus Archetype...!",
+      "display_variant": "en",
+      "display_text": "「A Megadeus Archetype...!」"
+    },
+    {
+      "id": "c09_06270",
+      "speaker": "Dominic",
+      "en": "Relics of the Black History being excavated all over the world!",
+      "display_variant": "en",
+      "display_text": "「Relics of the Black History being\nexcavated all over the world!」"
+    },
+    {
+      "id": "c09_062c0",
+      "speaker": "Schwarzwald",
+      "en": "It seems the slumbering ghosts, drawn by the Big Duo, have awoken.",
+      "display_variant": "en",
+      "display_text": "「It seems the slumbering ghosts, drawn\nby the Big Duo, have awoken.」"
+    },
+    {
+      "id": "c09_06310",
+      "speaker": "Schwarzwald",
+      "en": "What do you think, Child of the Sun? Fragments showing the truth lie buried all over this world.",
+      "display_variant": "en",
+      "display_text": "「What do you think, Child of the Sun?\nFragments showing the truth lie buried all\nover this world.」"
+    },
+    {
+      "id": "c09_06370",
+      "speaker": "Banjo",
+      "en": "The Black History, is it...",
+      "display_variant": "en",
+      "display_text": "「The Black History, is it...」"
+    },
+    {
+      "id": "c09_06390",
+      "speaker": "Schwarzwald",
+      "en": "This is the world's truth. Face that darkness!",
+      "display_variant": "en",
+      "display_text": "「This is the world's truth. Face that\ndarkness!」"
+    },
+    {
+      "id": "c09_063d0",
+      "speaker": "Banjo",
+      "en": "I refuse...!",
+      "display_variant": "en",
+      "display_text": "「I refuse...!」"
+    },
+    {
+      "id": "c09_063f0",
+      "speaker": "Schwarzwald",
+      "en": "What...!?",
+      "display_variant": "en",
+      "display_text": "「What...!?」"
+    },
+    {
+      "id": "c09_06410",
+      "speaker": "Banjo",
+      "en": "I told you already. I will sweep away the darkness!",
+      "display_variant": "en",
+      "display_text": "「I told you already. I will sweep away\nthe darkness!」"
+    },
+    {
+      "id": "c09_06450",
+      "speaker": "Banjo",
+      "en": "If this junk is a fragment of the truth you speak of, then all I have to do is smash it to pieces!",
+      "display_variant": "en",
+      "display_text": "「If this junk is a fragment of the\ntruth you speak of, then all I have to do\nis smash it to pieces!」"
+    },
+    {
+      "id": "c09_064b0",
+      "speaker": "Schwarzwald",
+      "en": "How disappointing. So you too are a fool who turns his eyes from the truth.",
+      "display_variant": "en",
+      "display_text": "「How disappointing. So you too are a\nfool who turns his eyes from the truth.」"
+    },
+    {
+      "id": "c09_06500",
+      "speaker": "Schwarzwald",
+      "en": "Then you will disappear here. Be swallowed by the darkness, never knowing where this world is headed!",
+      "display_variant": "en",
+      "display_text": "「Then you will disappear here. Be\nswallowed by the darkness, never knowing\nwhere this world is headed!」"
+    },
+    {
+      "id": "c09_06560",
+      "speaker": "Roger",
+      "en": "That's enough of your ravings!",
+      "display_variant": "en",
+      "display_text": "「That's enough of your ravings!」"
+    },
+    {
+      "id": "c09_06590",
+      "speaker": "Banjo",
+      "en": "Mr. Negotiator. I've been waiting for you.",
+      "display_variant": "en",
+      "display_text": "「Mr. Negotiator. I've been waiting for\nyou.」"
+    },
+    {
+      "id": "c09_065d0",
+      "speaker": "Roger",
+      "en": "It's been a while, the Storm. Not since Japan, was it?",
+      "display_variant": "en",
+      "display_text": "「It's been a while, the Storm. Not since\nJapan, was it?」"
+    },
+    {
+      "id": "c09_06610",
+      "speaker": "Roger",
+      "en": "Sorry for leaving you to deal with Schwarzwald.",
+      "display_variant": "en",
+      "display_text": "「Sorry for leaving you to deal with\nSchwarzwald.」"
+    },
+    {
+      "id": "c09_06650",
+      "speaker": "Banjo",
+      "en": "Don't worry about it. I was getting fed up with him myself.",
+      "display_variant": "en",
+      "display_text": "「Don't worry about it. I was getting fed\nup with him myself.」"
+    },
+    {
+      "id": "c09_066a0",
+      "speaker": "Schwarzwald",
+      "en": "So you've come, Roger Smith. As I thought, you too were drawn to the truth.",
+      "display_variant": "en",
+      "display_text": "「So you've come, Roger Smith. As I\nthought, you too were drawn to the\ntruth.」"
+    },
+    {
+      "id": "c09_066f0",
+      "speaker": "Roger",
+      "en": "I'm simply on a carefree journey. I only stopped in this city because of some mechanical trouble with Big O.",
+      "display_variant": "en",
+      "display_text": "「I'm simply on a carefree journey. I only\nstopped in this city because of some\nmechanical trouble with Big O.」"
+    },
+    {
+      "id": "c09_06760",
+      "speaker": "Schwarzwald",
+      "en": "And what if that was the Big's guidance?",
+      "display_variant": "en",
+      "display_text": "「And what if that was the Big's\nguidance?」"
+    },
+    {
+      "id": "c09_067a0",
+      "speaker": "Roger",
+      "en": "What...?",
+      "display_variant": "en",
+      "display_text": "「What...?」"
+    },
+    {
+      "id": "c09_067c0",
+      "speaker": "Schwarzwald",
+      "en": "Because this is the land where a fragment of the being that destroys the world's laws once was.",
+      "display_variant": "en",
+      "display_text": "「Because this is the land where a\nfragment of the being that destroys the\nworld's laws once was.」"
+    },
+    {
+      "id": "c09_06810",
+      "speaker": "Dominic",
+      "en": "That bandaged man... he knows about the Coralian...!",
+      "display_variant": "en",
+      "display_text": "（That bandaged man... he knows about\nthe Coralian...!）"
+    },
+    {
+      "id": "c09_06860",
+      "speaker": "Banjo",
+      "en": "Why did you try to eliminate Captain Dominic and the rest of us?",
+      "display_variant": "en",
+      "display_text": "「Why did you try to eliminate Captain\nDominic and the rest of us?」"
+    },
+    {
+      "id": "c09_068b0",
+      "speaker": "Schwarzwald",
+      "en": "Those who feel no fear before great power... to think they could control such a thing is no different from turning your back on the truth.",
+      "display_variant": "compact",
+      "display_text": "「Those who feel no fear before great\npower -- believing they could control it\nis no different from denying the truth.」"
+    },
+    {
+      "id": "c09_06920",
+      "speaker": "Schwarzwald",
+      "en": "That is why I show my power! So that people never forget how to fear!",
+      "display_variant": "en",
+      "display_text": "「That is why I show my power! So that\npeople never forget how to fear!」"
+    },
+    {
+      "id": "c09_06970",
+      "speaker": "Roger",
+      "en": "I'm sick and tired of your ravings and your eccentric ways. If meeting you here is some kind of fate, I'll put it to use.",
+      "display_variant": "en",
+      "display_text": "「I'm sick and tired of your ravings and\nyour eccentric ways. If meeting you here\nis some kind of fate, I'll put it to use.」"
+    },
+    {
+      "id": "c09_069e0",
+      "speaker": "Roger",
+      "en": "Schwarzwald! Go back to the darkness that is your home!",
+      "display_variant": "en",
+      "display_text": "「Schwarzwald! Go back to the darkness\nthat is your home!」"
+    },
+    {
+      "id": "c09_06a30",
+      "speaker": "Schwarzwald",
+      "en": "Can you manage that -- with your Big?",
+      "display_variant": "en",
+      "display_text": "「Can you manage that -- with your Big?」"
+    },
+    {
+      "id": "c09_06a60",
+      "speaker": "Norman",
+      "en": "Master Roger... that man seems to be aware of Big O's trouble.",
+      "display_variant": "en",
+      "display_text": "「Master Roger... that man seems to be\naware of Big O's trouble.」"
+    },
+    {
+      "id": "c09_06ac0",
+      "speaker": "Roger",
+      "en": "All weapons disabled, huh. I have to admit, this one has me beat.",
+      "display_variant": "en",
+      "display_text": "「All weapons disabled, huh. I have to\nadmit, this one has me beat.」"
+    },
+    {
+      "id": "c09_06b10",
+      "speaker": "Axel",
+      "en": "No need to worry, young Roger. I'll keep working on repairing your machine right where it is.",
+      "display_variant": "en",
+      "display_text": "「No need to worry, young Roger. I'll\nkeep working on repairing your machine\nright where it is.」"
+    },
+    {
+      "id": "c09_06b70",
+      "speaker": "Roger",
+      "en": "But, Mr. Thurston...",
+      "display_variant": "en",
+      "display_text": "「But, Mr. Thurston...」"
+    },
+    {
+      "id": "c09_06ba0",
+      "speaker": "Axel",
+      "en": "I can't just let some fool go on rampaging around my house!",
+      "display_variant": "en",
+      "display_text": "「I can't just let some fool go on\nrampaging around my house!」"
+    },
+    {
+      "id": "c09_06bf0",
+      "speaker": "Axel",
+      "en": "I have to protect the house my grandson will come home to!",
+      "display_variant": "en",
+      "display_text": "「I have to protect the house my\ngrandson will come home to!」"
+    },
+    {
+      "id": "c09_06c30",
+      "speaker": "Roger",
+      "en": "...Understood. I'll trust your skill.",
+      "display_variant": "en",
+      "display_text": "「...Understood. I'll trust your skill.」"
+    },
+    {
+      "id": "c09_06c70",
+      "speaker": "Banjo",
+      "en": "I'll take on that guy for the time being. Finish the repairs while I do.",
+      "display_variant": "en",
+      "display_text": "「I'll take on that guy for the time\nbeing. Finish the repairs while I do.」"
+    },
+    {
+      "id": "c09_06cc0",
+      "speaker": "Roger",
+      "en": "And here I made such a grand entrance, only to end up in this sorry state...",
+      "display_variant": "en",
+      "display_text": "「And here I made such a grand entrance,\nonly to end up in this sorry state...」"
+    },
+    {
+      "id": "c09_06d00",
+      "speaker": "Roger",
+      "en": "Sorry, Banjo Haran. I'll have to rely on you for a bit.",
+      "display_variant": "en",
+      "display_text": "「Sorry, Banjo Haran. I'll have to rely on\nyou for a bit.」"
+    },
+    {
+      "id": "c09_06d40",
+      "speaker": "Schwarzwald",
+      "en": "You who turn your eyes from the truth! Taste your own powerlessness!",
+      "display_variant": "en",
+      "display_text": "「You who turn your eyes from the truth!\nTaste your own powerlessness!」"
+    },
+    {
+      "id": "c09_06d90",
+      "speaker": "Schwarzwald",
+      "en": "How pathetic, Roger Smith! It seems the Big has run out of patience with you!",
+      "display_variant": "en",
+      "display_text": "「How pathetic, Roger Smith! It seems the\nBig has run out of patience with you!」"
+    },
+    {
+      "id": "c09_06e00",
+      "speaker": "Roger",
+      "en": "Big O is my partner. But I have no intention of needlessly deifying it, the way you do...!",
+      "display_variant": "en",
+      "display_text": "「Big O is my partner. But I have no\nintention of needlessly deifying it, the\nway you do...!」"
+    },
+    {
+      "id": "c09_06e70",
+      "speaker": "Axel",
+      "en": "That's right, young Roger! A mech is not some magic tool!",
+      "display_variant": "en",
+      "display_text": "「That's right, young Roger! A mech is\nnot some magic tool!」"
+    },
+    {
+      "id": "c09_06ec0",
+      "speaker": "Axel",
+      "en": "But the soul that dwells within it will never betray the one who tended and cherished it!",
+      "display_variant": "en",
+      "display_text": "「But the soul that dwells within it will\nnever betray the one who tended and\ncherished it!」"
+    },
+    {
+      "id": "c09_06f20",
+      "speaker": "Roger",
+      "en": "Mr. Thurston...",
+      "display_variant": "en",
+      "display_text": "「Mr. Thurston...」"
+    },
+    {
+      "id": "c09_06f40",
+      "speaker": "Axel",
+      "en": "Just a bit more...! Just a bit more and your mech will get its power back!",
+      "display_variant": "en",
+      "display_text": "「Just a bit more...! Just a bit more and\nyour mech will get its power back!」"
+    },
+    {
+      "id": "c09_06f90",
+      "speaker": "Axel",
+      "en": "If you protect Big O, Big O will always answer you!",
+      "display_variant": "en",
+      "display_text": "「If you protect Big O, Big O will always\nanswer you!」"
+    },
+    {
+      "id": "c09_06fe0",
+      "speaker": "Roger",
+      "en": "Of course. Big O has never betrayed my trust.",
+      "display_variant": "en",
+      "display_text": "「Of course. Big O has never betrayed my\ntrust.」"
+    },
+    {
+      "id": "c09_07030",
+      "speaker": "Angel",
+      "en": "Those words... So you really are the Dominus of the Big.",
+      "display_variant": "en",
+      "display_text": "（Those words... So you really are the\nDominus of the Big.）"
+    },
+    {
+      "id": "c09_07080",
+      "speaker": "Angel",
+      "en": "A transmission...? In a place like this...?",
+      "display_variant": "en",
+      "display_text": "「A transmission...? In a place like\nthis...?」"
+    },
+    {
+      "id": "c09_070b0",
+      "speaker": "Vera",
+      "en": "It's been a while, No. 340.",
+      "display_variant": "en",
+      "display_text": "「It's been a while, No. 340.」"
+    },
+    {
+      "id": "c09_070e0",
+      "speaker": "Angel",
+      "en": "Vera Ronstadt...!",
+      "display_variant": "en",
+      "display_text": "「Vera Ronstadt...!」"
+    },
+    {
+      "id": "c09_07110",
+      "speaker": "Vera",
+      "en": "Your reports have been lagging lately, so I was a little worried, but you look well enough.",
+      "display_variant": "en",
+      "display_text": "「Your reports have been lagging lately,\nso I was a little worried, but you look\nwell enough.」"
+    },
+    {
+      "id": "c09_07160",
+      "speaker": "Angel",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c09_07180",
+      "speaker": "Vera",
+      "en": "We've sent our forces your way. Partly to test the power of the Big, as well.",
+      "display_variant": "en",
+      "display_text": "「We've sent our forces your way. Partly\nto test the power of the Big, as well.」"
+    },
+    {
+      "id": "c09_071d0",
+      "speaker": "Angel",
+      "en": "The Union is beginning direct action...!",
+      "display_variant": "en",
+      "display_text": "「The Union is beginning direct action...!」"
+    },
+    {
+      "id": "c09_07210",
+      "speaker": "Vera",
+      "en": "You have no right to question our strategy.",
+      "display_variant": "en",
+      "display_text": "「You have no right to question our\nstrategy.」"
+    },
+    {
+      "id": "c09_07250",
+      "speaker": "Vera",
+      "en": "Just move as ordered. Don't forget that betraying the organization means death, No. 340.",
+      "display_variant": "en",
+      "display_text": "「Just move as ordered. Don't forget\nthat betraying the organization means\ndeath, No. 340.」"
+    },
+    {
+      "id": "c09_072c0",
+      "speaker": "Roger",
+      "en": "Reinforcements!?",
+      "display_variant": "en",
+      "display_text": "「Reinforcements!?」"
+    },
+    {
+      "id": "c09_072e0",
+      "speaker": "Schwarzwald",
+      "en": "A collaborator of that fool who plays king in that city...!",
+      "display_variant": "en",
+      "display_text": "「A collaborator of that fool who plays\nking in that city...!」"
+    },
+    {
+      "id": "c09_07320",
+      "speaker": "Roger",
+      "en": "The one who plays king... Alex Rosewater...!",
+      "display_variant": "en",
+      "display_text": "「The one who plays king... Alex\nRosewater...!」"
+    },
+    {
+      "id": "c09_07370",
+      "speaker": "Banjo",
+      "en": "Watch out, Roger! That strange robot is targeting Big O!",
+      "display_variant": "en",
+      "display_text": "「Watch out, Roger! That strange robot is\ntargeting Big O!」"
+    },
+    {
+      "id": "c09_073c0",
+      "speaker": "Roger",
+      "en": "Damn it...! Evade!",
+      "display_variant": "en",
+      "display_text": "「Damn it...! Evade!」"
+    },
+    {
+      "id": "c09_073f0",
+      "speaker": "Roger",
+      "en": "Guh...!",
+      "display_variant": "en",
+      "display_text": "「Guh...!」"
+    },
+    {
+      "id": "c09_07410",
+      "speaker": "Angel",
+      "en": "Roger!",
+      "display_variant": "en",
+      "display_text": "「Roger!」"
+    },
+    {
+      "id": "c09_07430",
+      "speaker": "Roger",
+      "en": "This is... bad, isn't it!",
+      "display_variant": "en",
+      "display_text": "「This is... bad, isn't it!」"
+    },
+    {
+      "id": "c09_07450",
+      "speaker": "Norman",
+      "en": "Rest assured, Master Roger.",
+      "display_variant": "en",
+      "display_text": "「Rest assured, Master Roger.」"
+    },
+    {
+      "id": "c09_07480",
+      "speaker": "Garrison",
+      "en": "Please leave it to us.",
+      "display_variant": "en",
+      "display_text": "「Please leave it to us.」"
+    },
+    {
+      "id": "c09_074b0",
+      "speaker": "Dominic",
+      "en": "That old man's got a bazooka!?",
+      "display_variant": "en",
+      "display_text": "「That old man's got a bazooka!?」"
+    },
+    {
+      "id": "c09_074e0",
+      "speaker": "Norman",
+      "en": "Well done, Master Garrison. That's a good angle you've got there.",
+      "display_variant": "en",
+      "display_text": "「Well done, Master Garrison. That's a\ngood angle you've got there.」"
+    },
+    {
+      "id": "c09_07530",
+      "speaker": "Garrison",
+      "en": "No, no... it's you, Master Norman, landing a direct hit on the drive unit -- that's the impressive one.",
+      "display_variant": "en",
+      "display_text": "「No, no... it's you, Master Norman,\nlanding a direct hit on the drive unit --\nthat's the impressive one.」"
+    },
+    {
+      "id": "c09_07580",
+      "speaker": "Dorothy",
+      "en": "I won't let you have Roger or Big O.",
+      "display_variant": "en",
+      "display_text": "「I won't let you have Roger or Big O.」"
+    },
+    {
+      "id": "c09_075c0",
+      "speaker": "Dominic",
+      "en": "And now the girl has a missile launcher!?",
+      "display_variant": "en",
+      "display_text": "「And now the girl has a missile\nlauncher!?」"
+    },
+    {
+      "id": "c09_07600",
+      "speaker": "Banjo",
+      "en": "Nice one, Garrison!",
+      "display_variant": "en",
+      "display_text": "「Nice one, Garrison!」"
+    },
+    {
+      "id": "c09_07620",
+      "speaker": "Roger",
+      "en": "Sorry, Norman. And you too, Dorothy.",
+      "display_variant": "en",
+      "display_text": "「Sorry, Norman. And you too, Dorothy.」"
+    },
+    {
+      "id": "c09_07660",
+      "speaker": "Dorothy",
+      "en": "Don't worry about it. Besides, that thing can still move.",
+      "display_variant": "en",
+      "display_text": "「Don't worry about it. Besides, that\nthing can still move.」"
+    },
+    {
+      "id": "c09_076a0",
+      "speaker": "Axel",
+      "en": "All right! Repairs complete! Young Roger! Hit it with everything you've got!",
+      "display_variant": "en",
+      "display_text": "「All right! Repairs complete! Young\nRoger! Hit it with everything you've got!」"
+    },
+    {
+      "id": "c09_076f0",
+      "speaker": "Roger",
+      "en": "Thank you, Mr. Thurston!",
+      "display_variant": "en",
+      "display_text": "「Thank you, Mr. Thurston!」"
+    },
+    {
+      "id": "c09_07730",
+      "speaker": "Roger",
+      "en": "The old man's giving it his all...! I can't afford to lose either!",
+      "display_variant": "en",
+      "display_text": "「The old man's giving it his all...! I\ncan't afford to lose either!」"
+    },
+    {
+      "id": "c09_07780",
+      "speaker": "Roger",
+      "en": "Big O, action!!",
+      "display_variant": "en",
+      "display_text": "「Big O, action!!」"
+    },
+    {
+      "id": "c09_077b0",
+      "speaker": "Roger",
+      "en": "What a hair-trigger tune-up this is!!",
+      "display_variant": "en",
+      "display_text": "「What a hair-trigger tune-up this is!!」"
+    },
+    {
+      "id": "c09_077e0",
+      "speaker": "Dominic",
+      "en": "So this is the Thurston style!!",
+      "display_variant": "en",
+      "display_text": "「So this is the Thurston style!!」"
+    },
+    {
+      "id": "c09_07810",
+      "speaker": "Axel",
+      "en": "Give it everything, young Roger! Big O will answer you!",
+      "display_variant": "en",
+      "display_text": "「Give it everything, young Roger! Big O\nwill answer you!」"
+    },
+    {
+      "id": "c09_07860",
+      "speaker": "Roger",
+      "en": "Understood, Mr. Thurston. I send my thanks and respect to your skill.",
+      "display_variant": "en",
+      "display_text": "「Understood, Mr. Thurston. I send my\nthanks and respect to your skill.」"
+    },
+    {
+      "id": "c09_078c0",
+      "speaker": "Banjo",
+      "en": "Well then, shall we go, Mr. Negotiator?",
+      "display_variant": "en",
+      "display_text": "「Well then, shall we go, Mr. Negotiator?」"
+    },
+    {
+      "id": "c09_07900",
+      "speaker": "Roger",
+      "en": "Schwarzwald... and you, Alex's so-called collaborator!",
+      "display_variant": "en",
+      "display_text": "「Schwarzwald... and you, Alex's so-called\ncollaborator!」"
+    },
+    {
+      "id": "c09_07940",
+      "speaker": "Roger",
+      "en": "I will walk the path I've chosen! If you're going to get in my way, be ready to pay the price!",
+      "display_variant": "en",
+      "display_text": "「I will walk the path I've chosen! If\nyou're going to get in my way, be ready\nto pay the price!」"
+    },
+    {
+      "id": "c09_079a0",
+      "speaker": "Vera",
+      "en": "I see... so that's the power of the Big.",
+      "display_variant": "en",
+      "display_text": "「I see... so that's the power of the Big.」"
+    },
+    {
+      "id": "c09_079e0",
+      "speaker": "Vera",
+      "en": "No. 340, return to Kizz Munt's side at once. We're moving the plan forward.",
+      "display_variant": "en",
+      "display_text": "「No. 340, return to Kizz Munt's side at\nonce. We're moving the plan forward.」"
+    },
+    {
+      "id": "c09_07a40",
+      "speaker": "Angel",
+      "en": "...Understood.",
+      "display_variant": "en",
+      "display_text": "「...Understood.」"
+    },
+    {
+      "id": "c09_07a60",
+      "speaker": "Vera",
+      "en": "Don't forget, No. 340. Those born into the Union are fated to obey the Union.",
+      "display_variant": "en",
+      "display_text": "「Don't forget, No. 340. Those born into\nthe Union are fated to obey the Union.」"
+    },
+    {
+      "id": "c09_07ac0",
+      "speaker": "Vera",
+      "en": "All that awaits those who forget that is death.",
+      "display_variant": "en",
+      "display_text": "「All that awaits those who forget that\nis death.」"
+    },
+    {
+      "id": "c09_07af0",
+      "speaker": "Roger",
+      "en": "Thank you very much, Mr. Thurston. You really saved us.",
+      "display_variant": "en",
+      "display_text": "「Thank you very much, Mr. Thurston. You\nreally saved us.」"
+    },
+    {
+      "id": "c09_07b50",
+      "speaker": "Axel",
+      "en": "It just so happened the parts I had on hand were usable, that's all.",
+      "display_variant": "en",
+      "display_text": "「It just so happened the parts I had on\nhand were usable, that's all.」"
+    },
+    {
+      "id": "c09_07ba0",
+      "speaker": "Axel",
+      "en": "Besides, it's I who should be thanking you.",
+      "display_variant": "en",
+      "display_text": "「Besides, it's I who should be thanking\nyou.」"
+    },
+    {
+      "id": "c09_07be0",
+      "speaker": "Axel",
+      "en": "After all, you protected the house that belongs to me and my grandson.",
+      "display_variant": "en",
+      "display_text": "「After all, you protected the house that\nbelongs to me and my grandson.」"
+    },
+    {
+      "id": "c09_07c20",
+      "speaker": "Roger",
+      "en": "Memories... So that's what fills that house.",
+      "display_variant": "en",
+      "display_text": "「Memories... So that's what fills that\nhouse.」"
+    },
+    {
+      "id": "c09_07c60",
+      "speaker": "Axel",
+      "en": "Once you get old, those become a fortune of their own. Though someone as young as you might not understand that yet...",
+      "display_variant": "fit",
+      "display_text": "「Once you're old, that becomes a\nfortune--something you're too young yet\nto understand...」"
+    },
+    {
+      "id": "c09_07cd0",
+      "speaker": "Roger",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c09_07cf0",
+      "speaker": "Axel",
+      "en": "From here on, you can make as many memories as you like, and pile them up...",
+      "display_variant": "en",
+      "display_text": "「From here on, you can make as many\nmemories as you like, and pile them up...」"
+    },
+    {
+      "id": "c09_07d40",
+      "speaker": "Axel",
+      "en": "Youth itself is the future.",
+      "display_variant": "en",
+      "display_text": "「Youth itself is the future.」"
+    },
+    {
+      "id": "c09_07d80",
+      "speaker": "Roger",
+      "en": "Those words... I'll take them gratefully.",
+      "display_variant": "en",
+      "display_text": "「Those words... I'll take them gratefully.」"
+    },
+    {
+      "id": "c09_07db0",
+      "speaker": "Axel",
+      "en": "...That said, as long as this body keeps moving, I still think I've got plenty of life left in me.",
+      "display_variant": "en",
+      "display_text": "「...That said, as long as this body keeps\nmoving, I still think I've got plenty of\nlife left in me.」"
+    },
+    {
+      "id": "c09_07e10",
+      "speaker": "Norman",
+      "en": "Quite right.",
+      "display_variant": "en",
+      "display_text": "「Quite right.」"
+    },
+    {
+      "id": "c09_07e30",
+      "speaker": "Garrison",
+      "en": "Just as you say.",
+      "display_variant": "en",
+      "display_text": "「Just as you say.」"
+    },
+    {
+      "id": "c09_07e60",
+      "speaker": "Banjo",
+      "en": "...This time, I take my hat off to their careers.",
+      "display_variant": "en",
+      "display_text": "「...This time, I take my hat off to their\ncareers.」"
+    },
+    {
+      "id": "c09_07e90",
+      "speaker": "Dominic",
+      "en": "Colonel Dewey, Anemone... My stay in this city looks like it's going to be a long one.",
+      "display_variant": "en",
+      "display_text": "（Colonel Dewey, Anemone... My stay in\nthis city looks like it's going to be a\nlong one.）"
+    },
+    {
+      "id": "c09_07ee0",
+      "speaker": "Dominic",
+      "en": "The man who raised that Renton... Axel Thurston. He's a bigger man than I expected.",
+      "display_variant": "en",
+      "display_text": "（The man who raised that Renton... Axel\nThurston. He's a bigger man than I\nexpected.）"
+    },
+    {
+      "id": "c09_07f40",
+      "speaker": "Axel",
+      "en": "Hey, Renton... I wonder if a day will come when I get to tell you a story like this too...",
+      "display_variant": "en",
+      "display_text": "（Hey, Renton... I wonder if a day will\ncome when I get to tell you a story like\nthis too...）"
+    },
+    {
+      "id": "c09_07fa0",
+      "speaker": "Axel",
+      "en": "I'll wait patiently. To someone young like you, this Bellforest probably looks like it has nothing in it at all...",
+      "display_variant": "en",
+      "display_text": "（I'll wait patiently. To someone young\nlike you, this Bellforest probably looks\nlike it has nothing in it at all...）"
+    },
+    {
+      "id": "c09_08010",
+      "speaker": "Roger",
+      "en": "This is the end, Schwarzwald!",
+      "display_variant": "en",
+      "display_text": "「This is the end, Schwarzwald!」"
+    },
+    {
+      "id": "c09_08040",
+      "speaker": "Schwarzwald",
+      "en": "This isn't the end... no, I cannot end here!",
+      "display_variant": "en",
+      "display_text": "「This isn't the end... no, I cannot end\nhere!」"
+    },
+    {
+      "id": "c09_08080",
+      "speaker": "Banjo",
+      "en": "Then tell us. What that 'truth' of yours actually means.",
+      "display_variant": "en",
+      "display_text": "「Then tell us. What that 'truth' of\nyours actually means.」"
+    },
+    {
+      "id": "c09_080d0",
+      "speaker": "Schwarzwald",
+      "en": "I exist alongside this Big Duo in order to make the truth known. But I have no intention of revealing its full scope.",
+      "display_variant": "en",
+      "display_text": "「I exist alongside this Big Duo in order\nto make the truth known. But I have no\nintention of revealing its full scope.」"
+    },
+    {
+      "id": "c09_08140",
+      "speaker": "Banjo",
+      "en": "What!?",
+      "display_variant": "en",
+      "display_text": "「What!?」"
+    },
+    {
+      "id": "c09_08160",
+      "speaker": "Roger",
+      "en": "You just keep saying whatever you please...!",
+      "display_variant": "en",
+      "display_text": "「You just keep saying whatever you\nplease...!」"
+    },
+    {
+      "id": "c09_08190",
+      "speaker": "Schwarzwald",
+      "en": "Because what I must do is instill fear in people.",
+      "display_variant": "en",
+      "display_text": "「Because what I must do is instill fear\nin people.」"
+    },
+    {
+      "id": "c09_081e0",
+      "speaker": "Roger",
+      "en": "Schwarzwald...",
+      "display_variant": "en",
+      "display_text": "「Schwarzwald...」"
+    },
+    {
+      "id": "c09_08200",
+      "speaker": "Schwarzwald",
+      "en": "Fear... it is something necessary for creatures as weak as we are!",
+      "display_variant": "en",
+      "display_text": "「Fear... it is something necessary for\ncreatures as weak as we are!」"
+    },
+    {
+      "id": "c09_08250",
+      "speaker": "Schwarzwald",
+      "en": "When people stop fearing, the human race wanders into a dead end...",
+      "display_variant": "en",
+      "display_text": "「When people stop fearing, the human\nrace wanders into a dead end...」"
+    },
+    {
+      "id": "c09_082a0",
+      "speaker": "Schwarzwald",
+      "en": "and becomes nothing more than a pitiful thing, waiting for its own extinction without even a shred of feeling.",
+      "display_variant": "en",
+      "display_text": "「and becomes nothing more than a pitiful\nthing, waiting for its own extinction\nwithout even a shred of feeling.」"
+    },
+    {
+      "id": "c09_082f0",
+      "speaker": "Schwarzwald",
+      "en": "And then people will come to know it. The days of humanity's end, as depicted in the novel written by a young Gordon Rosewater...",
+      "display_variant": "compact",
+      "display_text": "「Then people will know it: the days of\nhumanity's end, as told in the novel a\nyoung Gordon Rosewater wrote.」"
+    },
+    {
+      "id": "c09_08360",
+      "speaker": "Schwarzwald",
+      "en": "And then, in order to start everything over, the Executor awakens...",
+      "display_variant": "en",
+      "display_text": "「And then, in order to start everything\nover, the Executor awakens...」"
+    },
+    {
+      "id": "c09_083b0",
+      "speaker": "Roger",
+      "en": "The Executor...?",
+      "display_variant": "en",
+      "display_text": "「The Executor...?」"
+    },
+    {
+      "id": "c09_083d0",
+      "speaker": "Schwarzwald",
+      "en": "Fear...! And face it! That is exactly what is needed to make people truly human!",
+      "display_variant": "en",
+      "display_text": "「Fear...! And face it! That is exactly\nwhat is needed to make people truly\nhuman!」"
+    },
+    {
+      "id": "c09_08440",
+      "speaker": "Banjo",
+      "en": "In the end, we never did learn what he means by 'truth'...",
+      "display_variant": "en",
+      "display_text": "「In the end, we never did learn what he\nmeans by 'truth'...」"
+    },
+    {
+      "id": "c09_08480",
+      "speaker": "Roger",
+      "en": "But this much is clear.",
+      "display_variant": "en",
+      "display_text": "「But this much is clear.」"
+    },
+    {
+      "id": "c09_084b0",
+      "speaker": "Roger",
+      "en": "At the very least, I have no intention of accepting whatever 'truth' that man speaks of.",
+      "display_variant": "en",
+      "display_text": "「At the very least, I have no intention\nof accepting whatever 'truth' that man\nspeaks of.」"
+    },
+    {
+      "id": "c09_08500",
+      "speaker": "Schwarzwald",
+      "en": "Child of the Sun! That arrogance of yours, fearing nothing at all, is the most contemptible thing about you!",
+      "display_variant": "en",
+      "display_text": "「Child of the Sun! That arrogance of\nyours, fearing nothing at all, is the most\ncontemptible thing about you!」"
+    },
+    {
+      "id": "c09_08560",
+      "speaker": "Banjo",
+      "en": "This is just my own policy, you see. Even if you say that, I can't very well stop now.",
+      "display_variant": "en",
+      "display_text": "「This is just my own policy, you see.\nEven if you say that, I can't very well\nstop now.」"
+    },
+    {
+      "id": "c09_085c0",
+      "speaker": "Schwarzwald",
+      "en": "Then let me teach you! The truth of this world... the terror of the eternal darkness!",
+      "display_variant": "en",
+      "display_text": "「Then let me teach you! The truth of\nthis world... the terror of the eternal\ndarkness!」"
+    },
+    {
+      "id": "c09_08620",
+      "speaker": "Banjo",
+      "en": "I'm sick of riddles. If you're a newspaper reporter too, then sum up what you want to say clearly and concisely!",
+      "display_variant": "en",
+      "display_text": "「I'm sick of riddles. If you're a\nnewspaper reporter too, then sum up what\nyou want to say clearly and concisely!」"
+    },
+    {
+      "id": "c09_08690",
+      "speaker": "Schwarzwald",
+      "en": "Roger Smith...! You claim to seek the truth, yet all you're doing is running from that darkness!",
+      "display_variant": "en",
+      "display_text": "「Roger Smith...! You claim to seek the\ntruth, yet all you're doing is running\nfrom that darkness!」"
+    },
+    {
+      "id": "c09_08700",
+      "speaker": "Roger",
+      "en": "I alone decide what the truth I seek means. I don't need you sticking your nose in.",
+      "display_variant": "en",
+      "display_text": "「I alone decide what the truth I seek\nmeans. I don't need you sticking your\nnose in.」"
+    },
+    {
+      "id": "c09_08760",
+      "speaker": "Schwarzwald",
+      "en": "That's exactly what I mean by running away! The power of the Big is too much for a man like you to handle!",
+      "display_variant": "en",
+      "display_text": "「That's exactly what I mean by running\naway! The power of the Big is too much\nfor a man like you to handle!」"
+    },
+    {
+      "id": "c09_087c0",
+      "speaker": "Roger",
+      "en": "I said I don't need you sticking your nose in, Schwarzwald!",
+      "display_variant": "en",
+      "display_text": "「I said I don't need you sticking your\nnose in, Schwarzwald!」"
+    },
+    {
+      "id": "c09_08800",
+      "speaker": "Roger",
+      "en": "I don't know what you think happened between me and Big O in the past, but I'm living in the present!",
+      "display_variant": "en",
+      "display_text": "「I don't know what you think happened\nbetween me and Big O in the past, but\nI'm living in the present!」"
+    },
+    {
+      "id": "c09_08860",
+      "speaker": "Roger",
+      "en": "If someone comes to threaten that, I have no intention of refusing to use my strength! Especially not for someone I can't even reason with!",
+      "display_variant": "compact",
+      "display_text": "「If someone threatens that, I won't\nrefuse to use my strength -- especially\nnot someone I can't reason with!」"
+    },
+    {
+      "id": "c09_08920",
+      "speaker": "Roger",
+      "en": "...This happened a little while after I parted ways with you all in Japan.",
+      "display_variant": "en",
+      "display_text": "「...This happened a little while after I\nparted ways with you all in Japan.」"
+    },
+    {
+      "id": "c09_08960",
+      "speaker": "Kamille",
+      "en": "That was around when $c was split into two, right?",
+      "display_variant": "en",
+      "display_text": "「That was around when $c was split\ninto two, right?」"
+    },
+    {
+      "id": "c09_08990",
+      "speaker": "Roger",
+      "en": "I was continuing my carefree travels with Norman and Dorothy.",
+      "display_variant": "en",
+      "display_text": "「I was continuing my carefree travels\nwith Norman and Dorothy.」"
+    },
+    {
+      "id": "c09_089e0",
+      "speaker": "Roger",
+      "en": "And then we headed south down the Gallia continent and arrived in Bellforest.",
+      "display_variant": "en",
+      "display_text": "「And then we headed south down the\nGallia continent and arrived in Bellforest.」"
+    },
+    {
+      "id": "c09_08a40",
+      "speaker": "Shinn",
+      "en": "Bellforest... The city where we ran into the Seven Swell phenomenon.",
+      "display_variant": "en",
+      "display_text": "「Bellforest... The city where we ran into\nthe Seven Swell phenomenon.」"
+    },
+    {
+      "id": "c09_08a90",
+      "speaker": "Roger",
+      "en": "That's right. It's also the place where young Renton was born and raised, and where he met Miss Eureka.",
+      "display_variant": "en",
+      "display_text": "「That's right. It's also the place where\nyoung Renton was born and raised, and\nwhere he met Miss Eureka.」"
+    },
+    {
+      "id": "c09_08af0",
+      "speaker": "Renton",
+      "en": "What business could you possibly have had in a city with absolutely nothing in it?",
+      "display_variant": "en",
+      "display_text": "「What business could you possibly have\nhad in a city with absolutely nothing in\nit?」"
+    },
+    {
+      "id": "c09_08b40",
+      "speaker": "Roger",
+      "en": "'Nothing in it' isn't quite the right way to put it. At the very least, it's not a phrase that should come from you.",
+      "display_variant": "en",
+      "display_text": "「'Nothing in it' isn't quite the right way\nto put it. At the very least, it's not a\nphrase that should come from you.」"
+    },
+    {
+      "id": "c09_08ba0",
+      "speaker": "Renton",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c09_08bc0",
+      "speaker": "Banjo",
+      "en": "Well then, let me tell you about the passionate men Roger and I encountered there.",
+      "display_variant": "en",
+      "display_text": "「Well then, let me tell you about the\npassionate men Roger and I encountered\nthere.」"
+    },
+    {
+      "id": "c09_08c50",
+      "speaker": "Dominic",
+      "en": "Bellforest...",
+      "display_variant": "en",
+      "display_text": "（Bellforest...）"
+    },
+    {
+      "id": "c09_08c70",
+      "speaker": "Dominic",
+      "en": "Remote as it is, it's no exaggeration to say the transformation of our world began in this city...",
+      "display_variant": "en",
+      "display_text": "（Remote as it is, it's no exaggeration to\nsay the transformation of our world began\nin this city...）"
+    },
+    {
+      "id": "c09_08ce0",
+      "speaker": "Dominic",
+      "en": "It was through the fighting in this city that type ZERO dramatically improved its performance.",
+      "display_variant": "en",
+      "display_text": "（It was through the fighting in this\ncity that type ZERO dramatically improved\nits performance.）"
+    },
+    {
+      "id": "c09_08d40",
+      "speaker": "Dominic",
+      "en": "What's especially noteworthy is that this is also the city where the Seven Swell phenomenon was confirmed for the first time since the Summer of Love...",
+      "display_variant": "compact",
+      "display_text": "（Notably, this city also saw the first\nSeven Swell phenomenon since the Summer\nof Love...）"
+    },
+    {
+      "id": "c09_08dc0",
+      "speaker": "Dominic",
+      "en": "The many phenomena that seemed like coincidence...",
+      "display_variant": "en",
+      "display_text": "（The many phenomena that seemed like\ncoincidence...）"
+    },
+    {
+      "id": "c09_08df0",
+      "speaker": "Dominic",
+      "en": "But given the fact that boy... Renton, is the son of Adroc Thurston...",
+      "display_variant": "en",
+      "display_text": "（But given the fact that boy... Renton,\nis the son of Adroc Thurston...）"
+    },
+    {
+      "id": "c09_08e60",
+      "speaker": "Dominic",
+      "en": "It can be said that everything has begun to take on the appearance of inevitability.",
+      "display_variant": "en",
+      "display_text": "（It can be said that everything has\nbegun to take on the appearance of\ninevitability.）"
+    },
+    {
+      "id": "c09_08ea0",
+      "speaker": "Dominic",
+      "en": "I have to find out. The role given to that boy... to Renton Thurston...",
+      "display_variant": "en",
+      "display_text": "（I have to find out. The role given to\nthat boy... to Renton Thurston...）"
+    },
+    {
+      "id": "c09_08f00",
+      "speaker": "Dominic",
+      "en": "Whatever it is that was entrusted to that boy... for that reason as well...",
+      "display_variant": "en",
+      "display_text": "（Whatever it is that was entrusted to\nthat boy... for that reason as well...）"
+    },
+    {
+      "id": "c09_08f40",
+      "speaker": "Axel",
+      "en": "Would you be the one who came looking for me?",
+      "display_variant": "en",
+      "display_text": "「Would you be the one who came looking\nfor me?」"
+    },
+    {
+      "id": "c09_08f80",
+      "speaker": "Dominic",
+      "en": "How do you do, Mr. Axel. I'm Dominic Sorel.",
+      "display_variant": "en",
+      "display_text": "「How do you do, Mr. Axel. I'm Dominic\nSorel.」"
+    },
+    {
+      "id": "c09_08fd0",
+      "speaker": "Dominic",
+      "en": "Young Renton was a great help to me.",
+      "display_variant": "en",
+      "display_text": "「Young Renton was a great help to me.」"
+    },
+    {
+      "id": "c09_09010",
+      "speaker": "Axel",
+      "en": "Well now... so you're an acquaintance of his.",
+      "display_variant": "en",
+      "display_text": "「Well now... so you're an acquaintance of\nhis.」"
+    },
+    {
+      "id": "c09_09040",
+      "speaker": "Dominic",
+      "en": "He asked me, if I ever went near Bellforest, to please look in on you, Mr. Thurston...",
+      "display_variant": "en",
+      "display_text": "「He asked me, if I ever went near\nBellforest, to please look in on you, Mr.\nThurston...」"
+    },
+    {
+      "id": "c09_090c0",
+      "speaker": "Axel",
+      "en": "Is that so. Well, well... I'm sorry you went to the trouble.",
+      "display_variant": "en",
+      "display_text": "「Is that so. Well, well... I'm sorry you\nwent to the trouble.」"
+    },
+    {
+      "id": "c09_09100",
+      "speaker": "Axel",
+      "en": "It's nothing much, but if you don't mind, please stay at my place. No need to hold back.",
+      "display_variant": "en",
+      "display_text": "「It's nothing much, but if you don't\nmind, please stay at my place. No need to\nhold back.」"
+    },
+    {
+      "id": "c09_09180",
+      "speaker": "Dominic",
+      "en": "This was the man I had to meet... Axel Thurston... him, of all people...",
+      "display_variant": "en",
+      "display_text": "（This was the man I had to meet... Axel\nThurston... him, of all people...）"
+    },
+    {
+      "id": "c09_09230",
+      "speaker": "Axel",
+      "en": "...I see, so young Dominic here travels all over the world.",
+      "display_variant": "en",
+      "display_text": "「...I see, so young Dominic here travels\nall over the world.」"
+    },
+    {
+      "id": "c09_09280",
+      "speaker": "Dominic",
+      "en": "Yes... I belong to the army's surveying unit, and I go out to various places to map this multiverse.",
+      "display_variant": "en",
+      "display_text": "「Yes... I belong to the army's surveying\nunit, and I go out to various places to\nmap this multiverse.」"
+    },
+    {
+      "id": "c09_092e0",
+      "speaker": "Dominic",
+      "en": "But this is a world where even the terrain changes. Even my superiors tell me it's fine to handle the assignment loosely.",
+      "display_variant": "en",
+      "display_text": "「But this is a world where even the\nterrain changes. Even my superiors tell me\nit's fine to handle the assignment loosely.」"
+    },
+    {
+      "id": "c09_09350",
+      "speaker": "Axel",
+      "en": "Is that so. Well then, make yourself at home.",
+      "display_variant": "en",
+      "display_text": "「Is that so. Well then, make yourself at\nhome.」"
+    },
+    {
+      "id": "c09_09390",
+      "speaker": "Axel",
+      "en": "So, in the course of that travel, you met Renton too?",
+      "display_variant": "en",
+      "display_text": "「So, in the course of that travel, you\nmet Renton too?」"
+    },
+    {
+      "id": "c09_093d0",
+      "speaker": "Dominic",
+      "en": "Yes. He's still young, but he's a solid, dependable boy.",
+      "display_variant": "en",
+      "display_text": "「Yes. He's still young, but he's a solid,\ndependable boy.」"
+    },
+    {
+      "id": "c09_09410",
+      "speaker": "Axel",
+      "en": "He's still nothing but a chick. I doubt he's changed that much in the few months since he left this house.",
+      "display_variant": "en",
+      "display_text": "「He's still nothing but a chick. I doubt\nhe's changed that much in the few months\nsince he left this house.」"
+    },
+    {
+      "id": "c09_09480",
+      "speaker": "Dominic",
+      "en": "Are you waiting here for his return, Mr. Thurston?",
+      "display_variant": "en",
+      "display_text": "「Are you waiting here for his return,\nMr. Thurston?」"
+    },
+    {
+      "id": "c09_094d0",
+      "speaker": "Axel",
+      "en": "It's not quite that, but I don't have anywhere else to go, either.",
+      "display_variant": "en",
+      "display_text": "「It's not quite that, but I don't have\nanywhere else to go, either.」"
+    },
+    {
+      "id": "c09_09520",
+      "speaker": "Axel",
+      "en": "I just do my work here as a mechanic.",
+      "display_variant": "en",
+      "display_text": "「I just do my work here as a mechanic.」"
+    },
+    {
+      "id": "c09_09570",
+      "speaker": "Dominic",
+      "en": "I see...",
+      "display_variant": "en",
+      "display_text": "「I see...」"
+    },
+    {
+      "id": "c09_09590",
+      "speaker": "Dominic",
+      "en": "Just as the rumors say, Mr. Thurston is conservative... or to put it more bluntly, he seems to be a stubborn old man.",
+      "display_variant": "fit",
+      "display_text": "（Just as rumored, Mr. Thurston is\nconservative... or more bluntly, he seems\nto be a stubborn old man.）"
+    },
+    {
+      "id": "c09_095f0",
+      "speaker": "Dominic",
+      "en": "Asking him directly about Renton or Adroc doesn't seem like a wise move.",
+      "display_variant": "en",
+      "display_text": "（Asking him directly about Renton or\nAdroc doesn't seem like a wise move.）"
+    },
+    {
+      "id": "c09_09640",
+      "speaker": "Norman",
+      "en": "Would this be Garage Thurston?",
+      "display_variant": "en",
+      "display_text": "「Would this be Garage Thurston?」"
+    },
+    {
+      "id": "c09_09680",
+      "speaker": "Axel",
+      "en": "That's right, but are you here for a repair job?",
+      "display_variant": "en",
+      "display_text": "「That's right, but are you here for a\nrepair job?」"
+    },
+    {
+      "id": "c09_096b0",
+      "speaker": "Norman",
+      "en": "Yes. My name is Norman Burg, and I serve as a certain person's butler.",
+      "display_variant": "en",
+      "display_text": "「Yes. My name is Norman Burg, and I\nserve as a certain person's butler.」"
+    },
+    {
+      "id": "c09_09710",
+      "speaker": "Dorothy",
+      "en": "R. Dorothy Wayneright. I've come to bring you along.",
+      "display_variant": "en",
+      "display_text": "「R. Dorothy Wayneright. I've come to\nbring you along.」"
+    },
+    {
+      "id": "c09_09760",
+      "speaker": "Axel",
+      "en": "What an impatient young lady. Still, though...",
+      "display_variant": "en",
+      "display_text": "「What an impatient young lady. Still,\nthough...」"
+    },
+    {
+      "id": "c09_097a0",
+      "speaker": "Dorothy",
+      "en": "Something wrong...?",
+      "display_variant": "en",
+      "display_text": "「Something wrong...?」"
+    },
+    {
+      "id": "c09_097c0",
+      "speaker": "Axel",
+      "en": "I'd like to think I've picked up my share of manners along with my years, but let me say just one thing.",
+      "display_variant": "en",
+      "display_text": "「I'd like to think I've picked up my\nshare of manners along with my years,\nbut let me say just one thing.」"
+    },
+    {
+      "id": "c09_09820",
+      "speaker": "Axel",
+      "en": "As a fellow craftsman, let me pay my respects to whoever created you, young lady.",
+      "display_variant": "en",
+      "display_text": "「As a fellow craftsman, let me pay my\nrespects to whoever created you, young\nlady.」"
+    },
+    {
+      "id": "c09_09870",
+      "speaker": "Dorothy",
+      "en": "...Thank you. I think he would have been glad to hear those words.",
+      "display_variant": "en",
+      "display_text": "「...Thank you. I think he would have\nbeen glad to hear those words.」"
+    },
+    {
+      "id": "c09_098c0",
+      "speaker": "Axel",
+      "en": "So... since you've come to fetch me, I take it this is a repair request after all?",
+      "display_variant": "en",
+      "display_text": "「So... since you've come to fetch me, I\ntake it this is a repair request after\nall?」"
+    },
+    {
+      "id": "c09_09910",
+      "speaker": "Norman",
+      "en": "Yes. But bringing the mech itself here is, unfortunately, rather difficult...",
+      "display_variant": "en",
+      "display_text": "「Yes. But bringing the mech itself here\nis, unfortunately, rather difficult...」"
+    },
+    {
+      "id": "c09_09980",
+      "speaker": "Axel",
+      "en": "I see. So that's why you've come to guide me there instead.",
+      "display_variant": "en",
+      "display_text": "「I see. So that's why you've come to\nguide me there instead.」"
+    },
+    {
+      "id": "c09_099d0",
+      "speaker": "Norman",
+      "en": "Would you be willing to take on the job?",
+      "display_variant": "en",
+      "display_text": "「Would you be willing to take on the\njob?」"
+    },
+    {
+      "id": "c09_09a00",
+      "speaker": "Norman",
+      "en": "I can handle general maintenance myself, but this time there happen to be parts I simply can't get hold of...",
+      "display_variant": "en",
+      "display_text": "「I can handle general maintenance myself,\nbut this time there happen to be parts I\nsimply can't get hold of...」"
+    },
+    {
+      "id": "c09_09a70",
+      "speaker": "Axel",
+      "en": "Understood. There's also the respect I owe that young lady of yours. Let's make this a special house call.",
+      "display_variant": "en",
+      "display_text": "「Understood. There's also the respect I\nowe that young lady of yours. Let's make\nthis a special house call.」"
+    },
+    {
+      "id": "c09_09ae0",
+      "speaker": "Norman",
+      "en": "Thank you very much.",
+      "display_variant": "en",
+      "display_text": "「Thank you very much.」"
+    },
+    {
+      "id": "c09_09b10",
+      "speaker": "Dorothy",
+      "en": "I think Big O will be glad too.",
+      "display_variant": "en",
+      "display_text": "「I think Big O will be glad too.」"
+    },
+    {
+      "id": "c09_09b40",
+      "speaker": "Dominic",
+      "en": "Big O, did she say...? Then these two... are they connected to the Negotiator I've heard rumors about...?",
+      "display_variant": "en",
+      "display_text": "（Big O, did she say...? Then these two...\nare they connected to the Negotiator I've\nheard rumors about...?）"
+    },
+    {
+      "id": "c09_09ba0",
+      "speaker": "Axel",
+      "en": "Sorry, young Dominic. It seems I have to go out for a while.",
+      "display_variant": "en",
+      "display_text": "「Sorry, young Dominic. It seems I have\nto go out for a while.」"
+    },
+    {
+      "id": "c09_09bf0",
+      "speaker": "Dominic",
+      "en": "That's fine, but...",
+      "display_variant": "en",
+      "display_text": "「That's fine, but...」"
+    },
+    {
+      "id": "c09_09c20",
+      "speaker": "Axel",
+      "en": "It's just a lazy old man living alone here, but make yourself at home as though it were your own.",
+      "display_variant": "en",
+      "display_text": "「It's just a lazy old man living alone\nhere, but make yourself at home as\nthough it were your own.」"
+    },
+    {
+      "id": "c09_09c80",
+      "speaker": "Dominic",
+      "en": "Understood. Then I'll look after the place while you're out.",
+      "display_variant": "en",
+      "display_text": "「Understood. Then I'll look after the\nplace while you're out.」"
+    },
+    {
+      "id": "c09_09cc0",
+      "speaker": "Dominic",
+      "en": "Alone in this house, huh... This is a chance too good to pass up...",
+      "display_variant": "en",
+      "display_text": "（Alone in this house, huh... This is a\nchance too good to pass up...）"
+    },
+    {
+      "id": "c09_09d50",
+      "speaker": "Dominic",
+      "en": "...No good... Even after searching the whole house, I can't find anything worth noting.",
+      "display_variant": "en",
+      "display_text": "「...No good... Even after searching the\nwhole house, I can't find anything worth\nnoting.」"
+    },
+    {
+      "id": "c09_09db0",
+      "speaker": "Dominic",
+      "en": "That old man... is he trying to completely forget about his own son Adroc, and his grandson Renton...?",
+      "display_variant": "en",
+      "display_text": "「That old man... is he trying to\ncompletely forget about his own son\nAdroc, and his grandson Renton...?」"
+    },
+    {
+      "id": "c09_09e20",
+      "speaker": "???",
+      "en": "Is that so?",
+      "display_variant": "en",
+      "display_text": "「Is that so?」"
+    },
+    {
+      "id": "c09_09e40",
+      "speaker": "Dominic",
+      "en": "Waaugh!",
+      "display_variant": "en",
+      "display_text": "「Waaugh!」"
+    },
+    {
+      "id": "c09_09e60",
+      "speaker": "Angel",
+      "en": "Oh my? You're awfully jumpy for a burglar.",
+      "display_variant": "en",
+      "display_text": "「Oh my? You're awfully jumpy for a\nburglar.」"
+    },
+    {
+      "id": "c09_09ea0",
+      "speaker": "Dominic",
+      "en": "W-who are you!? How did you get in here!? What do you want!?",
+      "display_variant": "en",
+      "display_text": "「W-who are you!? How did you get in\nhere!? What do you want!?」"
+    },
+    {
+      "id": "c09_09f00",
+      "speaker": "Banjo",
+      "en": "Bombarding a lady with questions like that -- that's rather poor manners.",
+      "display_variant": "en",
+      "display_text": "「Bombarding a lady with questions like\nthat -- that's rather poor manners.」"
+    },
+    {
+      "id": "c09_09f50",
+      "speaker": "Dominic",
+      "en": "The Storm...! Banjo Haran!",
+      "display_variant": "en",
+      "display_text": "「The Storm...! Banjo Haran!」"
+    },
+    {
+      "id": "c09_09f80",
+      "speaker": "Banjo",
+      "en": "You seem to know my name, Special Duty Captain Dominic Sorel. In that case, I suppose introductions are unnecessary for either of us.",
+      "display_variant": "compact",
+      "display_text": "「You know my name, Special Duty Captain\nDominic Sorel. Then introductions are\nunnecessary for either of us.」"
+    },
+    {
+      "id": "c09_09ff0",
+      "speaker": "Angel",
+      "en": "Well then, Captain. Let me answer your questions.",
+      "display_variant": "en",
+      "display_text": "「Well then, Captain. Let me answer your\nquestions.」"
+    },
+    {
+      "id": "c09_0a030",
+      "speaker": "Angel",
+      "en": "My name is Angel. I rang the bell at the front door, but no one answered, so I let myself in.",
+      "display_variant": "en",
+      "display_text": "「My name is Angel. I rang the bell at\nthe front door, but no one answered, so I\nlet myself in.」"
+    },
+    {
+      "id": "c09_0a0b0",
+      "speaker": "Angel",
+      "en": "I've come to see Mr. Axel Thurston, who I understand lives here.",
+      "display_variant": "en",
+      "display_text": "「I've come to see Mr. Axel Thurston,\nwho I understand lives here.」"
+    },
+    {
+      "id": "c09_0a110",
+      "speaker": "Banjo",
+      "en": "I met her in Bellforest, actually...",
+      "display_variant": "en",
+      "display_text": "「I met her in Bellforest, actually...」"
+    },
+    {
+      "id": "c09_0a150",
+      "speaker": "Banjo",
+      "en": "I imagine she and I... and you as well, came here for the same purpose.",
+      "display_variant": "en",
+      "display_text": "「I imagine she and I... and you as well,\ncame here for the same purpose.」"
+    },
+    {
+      "id": "c09_0a1a0",
+      "speaker": "Dominic",
+      "en": "Banjo Haran... A mysterious figure whose movements even military intelligence can't trace...",
+      "display_variant": "en",
+      "display_text": "「Banjo Haran... A mysterious figure whose\nmovements even military intelligence can't\ntrace...」"
+    },
+    {
+      "id": "c09_0a1f0",
+      "speaker": "Dominic",
+      "en": "The purpose behind his actions is unknown. However, he's designated an S-class target as an activist opposed to the New Earth Federation government.",
+      "display_variant": "compact",
+      "display_text": "「His purpose is unknown, but he's an\nS-class target as an activist opposed to\nthe New Earth Federation.」"
+    },
+    {
+      "id": "c09_0a260",
+      "speaker": "Banjo",
+      "en": "I don't have any intention of denying the New Earth Federation as a whole. Though the corruption in parts of it does make me want to hold my nose.",
+      "display_variant": "fit",
+      "display_text": "「I don't mean to deny the New Earth\nFederation entirely. Though its corruption\nmakes me want to hold my nose.」"
+    },
+    {
+      "id": "c09_0a2d0",
+      "speaker": "Banjo",
+      "en": "It'd gall me to leave you misunderstanding, though... As a memento of our meeting, let me tell you about my purpose.",
+      "display_variant": "fit",
+      "display_text": "「It'd gall me to leave you\nmisunderstanding... As a memento of our\nmeeting, let me explain my purpose.」"
+    },
+    {
+      "id": "c09_0a330",
+      "speaker": "Dominic",
+      "en": "What...!?",
+      "display_variant": "en",
+      "display_text": "「What...!?」"
+    },
+    {
+      "id": "c09_0a350",
+      "speaker": "Banjo",
+      "en": "My purpose... is to crush the ambitions of evil, for the sake of the world and its people.",
+      "display_variant": "en",
+      "display_text": "「My purpose... is to crush the ambitions\nof evil, for the sake of the world and\nits people.」"
+    },
+    {
+      "id": "c09_0a3a0",
+      "speaker": "Dominic",
+      "en": "Is he just an airhead...? But...",
+      "display_variant": "en",
+      "display_text": "（Is he just an airhead...? But...）"
+    },
+    {
+      "id": "c09_0a3d0",
+      "speaker": "Banjo",
+      "en": "Do you understand now?",
+      "display_variant": "en",
+      "display_text": "「Do you understand now?」"
+    },
+    {
+      "id": "c09_0a400",
+      "speaker": "Dominic",
+      "en": "He seems to mean it...!",
+      "display_variant": "en",
+      "display_text": "（He seems to mean it...!）"
+    },
+    {
+      "id": "c09_0a420",
+      "speaker": "Banjo",
+      "en": "Now then, it's my turn to ask the questions.",
+      "display_variant": "en",
+      "display_text": "「Now then, it's my turn to ask the\nquestions.」"
+    },
+    {
+      "id": "c09_0a450",
+      "speaker": "Banjo",
+      "en": "I'd like you to tell me everything you know about the Ageha Plan.",
+      "display_variant": "en",
+      "display_text": "「I'd like you to tell me everything you\nknow about the Ageha Plan.」"
+    },
+    {
+      "id": "c09_0a4a0",
+      "speaker": "Dominic",
+      "en": "!",
+      "display_variant": "en",
+      "display_text": "「!」"
+    },
+    {
+      "id": "c09_0a4b0",
+      "speaker": "Banjo",
+      "en": "I hear the military is pursuing something called the Coralian, based on what Adroc Thurston is said to have left behind.",
+      "display_variant": "fit",
+      "display_text": "「I hear the military is chasing something\ncalled the Coralian, based on what Adroc\nThurston reportedly left behind.」"
+    },
+    {
+      "id": "c09_0a520",
+      "speaker": "Banjo",
+      "en": "And apparently, the Coralian threatens the very existence of this world.",
+      "display_variant": "en",
+      "display_text": "「And apparently, the Coralian threatens\nthe very existence of this world.」"
+    },
+    {
+      "id": "c09_0a570",
+      "speaker": "Banjo",
+      "en": "Though even I couldn't quite grasp what it actually is.",
+      "display_variant": "en",
+      "display_text": "「Though even I couldn't quite grasp what\nit actually is.」"
+    },
+    {
+      "id": "c09_0a5b0",
+      "speaker": "Dominic",
+      "en": "W-what are you talking about!? I haven't the faintest idea!",
+      "display_variant": "en",
+      "display_text": "「W-what are you talking about!? I\nhaven't the faintest idea!」"
+    },
+    {
+      "id": "c09_0a5f0",
+      "speaker": "Banjo",
+      "en": "Relax, Captain Dominic. I have no intention of getting rough with you.",
+      "display_variant": "en",
+      "display_text": "「Relax, Captain Dominic. I have no\nintention of getting rough with you.」"
+    },
+    {
+      "id": "c09_0a640",
+      "speaker": "Banjo",
+      "en": "So instead, I want to appeal to your conscience.",
+      "display_variant": "en",
+      "display_text": "「So instead, I want to appeal to your\nconscience.」"
+    },
+    {
+      "id": "c09_0a670",
+      "speaker": "Banjo",
+      "en": "Isn't keeping information about the Coralian hidden something that does this world no good?",
+      "display_variant": "en",
+      "display_text": "「Isn't keeping information about the\nCoralian hidden something that does this\nworld no good?」"
+    },
+    {
+      "id": "c09_0a6e0",
+      "speaker": "Dominic",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c09_0a700",
+      "speaker": "Banjo",
+      "en": "This is just a hunch of mine, but it seems like the situation is too big to be decided by the judgment of just a few people.",
+      "display_variant": "fit",
+      "display_text": "「This is just a hunch, but the situation\nseems too big to be decided by just a\nfew people's judgment.」"
+    },
+    {
+      "id": "c09_0a760",
+      "speaker": "Banjo",
+      "en": "So shouldn't the information be made public promptly, and humanity's collective wisdom brought together to deal with it...?",
+      "display_variant": "fit",
+      "display_text": "「Shouldn't the info be made public\npromptly, and humanity's wisdom brought\ntogether to deal with it...?」"
+    },
+    {
+      "id": "c09_0a7c0",
+      "speaker": "Dominic",
+      "en": "Shut up...! There are people who understand the situation without needing to hear it from the likes of you!",
+      "display_variant": "en",
+      "display_text": "「Shut up...! There are people who\nunderstand the situation without needing\nto hear it from the likes of you!」"
+    },
+    {
+      "id": "c09_0a820",
+      "speaker": "Banjo",
+      "en": "Colonel Dewey Novak, is it.",
+      "display_variant": "en",
+      "display_text": "「Colonel Dewey Novak, is it.」"
+    },
+    {
+      "id": "c09_0a850",
+      "speaker": "Dominic",
+      "en": "If you already understand that much, then don't stick your nose in any further...!",
+      "display_variant": "en",
+      "display_text": "「If you already understand that much,\nthen don't stick your nose in any\nfurther...!」"
+    },
+    {
+      "id": "c09_0a8a0",
+      "speaker": "Dominic",
+      "en": "Colonel Dewey is acting to save both humanity and the world!",
+      "display_variant": "en",
+      "display_text": "「Colonel Dewey is acting to save both\nhumanity and the world!」"
+    },
+    {
+      "id": "c09_0a8f0",
+      "speaker": "???",
+      "en": "How foolish...!",
+      "display_variant": "en",
+      "display_text": "「How foolish...!」"
+    },
+    {
+      "id": "c09_0a910",
+      "speaker": "Angel",
+      "en": "You're...!",
+      "display_variant": "en",
+      "display_text": "「You're...!」"
+    },
+    {
+      "id": "c09_0a930",
+      "speaker": "Schwarzwald",
+      "en": "To know the truth, and yet keep it for yourself alone, is a great sin.",
+      "display_variant": "en",
+      "display_text": "「To know the truth, and yet keep it for\nyourself alone, is a great sin.」"
+    },
+    {
+      "id": "c09_0a980",
+      "speaker": "Dominic",
+      "en": "W-what is this man!? A mummy!?",
+      "display_variant": "en",
+      "display_text": "「W-what is this man!? A mummy!?」"
+    },
+    {
+      "id": "c09_0a9c0",
+      "speaker": "Banjo",
+      "en": "Michael Seebach... Or should I say, Schwarzwald.",
+      "display_variant": "en",
+      "display_text": "「Michael Seebach... Or should I say,\nSchwarzwald.」"
+    },
+    {
+      "id": "c09_0aa10",
+      "speaker": "Schwarzwald",
+      "en": "You seem to know who I am.",
+      "display_variant": "en",
+      "display_text": "「You seem to know who I am.」"
+    },
+    {
+      "id": "c09_0aa40",
+      "speaker": "Banjo",
+      "en": "Not that I ever had the slightest wish to meet you.",
+      "display_variant": "en",
+      "display_text": "「Not that I ever had the slightest wish\nto meet you.」"
+    },
+    {
+      "id": "c09_0aa80",
+      "speaker": "Schwarzwald",
+      "en": "It seems you're just as arrogant a man as the one I once knew.",
+      "display_variant": "en",
+      "display_text": "「It seems you're just as arrogant a man\nas the one I once knew.」"
+    },
+    {
+      "id": "c09_0aad0",
+      "speaker": "Banjo",
+      "en": "Thank you for the overly generous compliment.",
+      "display_variant": "en",
+      "display_text": "「Thank you for the overly generous\ncompliment.」"
+    },
+    {
+      "id": "c09_0ab00",
+      "speaker": "Schwarzwald",
+      "en": "You arrogant, insolent man... Turning your eyes from the truth is a great sin.",
+      "display_variant": "en",
+      "display_text": "「You arrogant, insolent man... Turning\nyour eyes from the truth is a great sin.」"
+    },
+    {
+      "id": "c09_0ab50",
+      "speaker": "Schwarzwald",
+      "en": "That is why I convey the truth... the terror of darkness. That is my mission!",
+      "display_variant": "en",
+      "display_text": "「That is why I convey the truth... the\nterror of darkness. That is my mission!」"
+    },
+    {
+      "id": "c09_0aba0",
+      "speaker": "Banjo",
+      "en": "!",
+      "display_variant": "en",
+      "display_text": "「!」"
+    },
+    {
+      "id": "c09_0abb0",
+      "speaker": "Renton",
+      "en": "...Gramps...",
+      "display_variant": "en",
+      "display_text": "「...Gramps...」"
+    },
+    {
+      "id": "c09_0abd0",
+      "speaker": "Garrison",
+      "en": "Master Renton... Mr. Thurston is waiting for you back in that city.",
+      "display_variant": "en",
+      "display_text": "「Master Renton... Mr. Thurston is waiting\nfor you back in that city.」"
+    },
+    {
+      "id": "c09_0ac20",
+      "speaker": "Norman",
+      "en": "Though he also said this -- that he'll wait for you for as long as it takes.",
+      "display_variant": "en",
+      "display_text": "「Though he also said this -- that he'll\nwait for you for as long as it takes.」"
+    },
+    {
+      "id": "c09_0ac70",
+      "speaker": "Renton",
+      "en": "Thank you. I... intend to see this through to the very end before I go back to that city.",
+      "display_variant": "en",
+      "display_text": "「Thank you. I... intend to see this\nthrough to the very end before I go back\nto that city.」"
+    },
+    {
+      "id": "c09_0acd0",
+      "speaker": "Renton",
+      "en": "Of course, when I do, it'll be together with Eureka...",
+      "display_variant": "en",
+      "display_text": "「Of course, when I do, it'll be together\nwith Eureka...」"
+    },
+    {
+      "id": "c09_0ad10",
+      "speaker": "Kira",
+      "en": "So you've traveled to all sorts of places across this multiverse, Mr. Roger.",
+      "display_variant": "en",
+      "display_text": "「So you've traveled to all sorts of\nplaces across this multiverse, Mr. Roger.」"
+    },
+    {
+      "id": "c09_0ad60",
+      "speaker": "Roger",
+      "en": "It was a journey in search of something... In other words, the same as you, young Kira Yamato.",
+      "display_variant": "en",
+      "display_text": "「It was a journey in search of\nsomething... In other words, the same as\nyou, young Kira Yamato.」"
+    },
+    {
+      "id": "c09_0adb0",
+      "speaker": "Roger",
+      "en": "You could say the many encounters I had along the way are what shaped who I am now.",
+      "display_variant": "en",
+      "display_text": "「You could say the many encounters I\nhad along the way are what shaped who I\nam now.」"
+    },
+    {
+      "id": "c09_0ae00",
+      "speaker": "Kira",
+      "en": "I understand... because it's the same for me.",
+      "display_variant": "en",
+      "display_text": "「I understand... because it's the same\nfor me.」"
+    },
+    {
+      "id": "c09_0ae30",
+      "speaker": "Loran",
+      "en": "Please, tell us more, Mr. Roger. I want to know about this world... and about the people who live in it.",
+      "display_variant": "en",
+      "display_text": "「Please, tell us more, Mr. Roger. I want\nto know about this world... and about the\npeople who live in it.」"
+    },
+    {
+      "id": "c09_0aea0",
+      "speaker": "Amuro",
+      "en": "Yeah. We've been so busy fighting, we never had time to think about this world.",
+      "display_variant": "en",
+      "display_text": "「Yeah. We've been so busy fighting, we\nnever had time to think about this world.」"
+    },
+    {
+      "id": "c09_0af00",
+      "speaker": "Roger",
+      "en": "Understood. It'll make for a decent way to pass the time, and a good opportunity besides.",
+      "display_variant": "en",
+      "display_text": "「Understood. It'll make for a decent way\nto pass the time, and a good opportunity\nbesides.」"
+    },
+    {
+      "id": "c09_0af50",
+      "speaker": "Kappei",
+      "en": "Been waiting for this! Give us something flashy to kick off the space-time restoration!",
+      "display_variant": "en",
+      "display_text": "「Been waiting for this! Give us\nsomething flashy to kick off the\nspace-time restoration!」"
+    },
+    {
+      "id": "c09_0afa0",
+      "speaker": "Roger",
+      "en": "Let's see... Then let me tell you about some men I met right in the middle of this world.",
+      "display_variant": "en",
+      "display_text": "「Let's see... Then let me tell you about\nsome men I met right in the middle of\nthis world.」"
+    }
+  ]
+}

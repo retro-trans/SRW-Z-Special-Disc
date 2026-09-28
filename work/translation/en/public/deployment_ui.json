@@ -1,0 +1,673 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "id": "menu/96ca0",
+      "offset": 617632,
+      "source_sha256": "187432ecd2df790fa2e655a4a6939c7cc4915c9096bb16e97598f2ab19cdcd7a",
+      "text": "Check equipped parts."
+    },
+    {
+      "id": "menu/96cc0",
+      "offset": 617664,
+      "source_sha256": "7e53453404894a9aaf28433439aa95063b4535f86d3378cab16dbeba4c03af31",
+      "text": "Find Spirit Commands, special skills and abilities."
+    },
+    {
+      "id": "menu/96cf0",
+      "offset": 617712,
+      "source_sha256": "6a306fc6dc6087ba8b43fd3c94f43d3b7034a37bed606af6c66a1e343f1e3e5f",
+      "text": "View abilities from the pilot list."
+    },
+    {
+      "id": "menu/96d20",
+      "offset": 617760,
+      "source_sha256": "a0217f2d12c87681b15b1423c1a249ab22c02d87fbd05ad492b7c9a460c2499f",
+      "text": "Improve pilot stats and learn skills."
+    },
+    {
+      "id": "menu/96d50",
+      "offset": 617808,
+      "source_sha256": "36ca7d24afb32513346b49bc5822077bd52bf1a77e83e782c812516b1573cd80",
+      "text": "Assign a different pilot to a unit."
+    },
+    {
+      "id": "menu/96d80",
+      "offset": 617856,
+      "source_sha256": "5ba418abe248206acda448a01326a5edf48e2f231a3842368562a540a8cd9482",
+      "text": "End the intermission."
+    },
+    {
+      "id": "menu/96db0",
+      "offset": 617904,
+      "source_sha256": "f729774a6eb8c1c8cd7f4654367bb30965b753284b9843549b37bc320933811e",
+      "text": "Change squad members."
+    },
+    {
+      "id": "menu/96dd0",
+      "offset": 617936,
+      "source_sha256": "40b9465f8a620ab0fb037afa0e66cd54fc36e190adb7c8d18c208560118b80b5",
+      "text": "Buy and sell power parts."
+    },
+    {
+      "id": "menu/96df0",
+      "offset": 617968,
+      "source_sha256": "20574362c8ef63f9d21447e043ad5afca219ad07f5be97907af532ac04b6eb26",
+      "text": "Change game settings."
+    },
+    {
+      "id": "menu/96e10",
+      "offset": 618000,
+      "source_sha256": "3248b55526a690cc864606ab6f5c657260dcd153c3fdaa373a5332fb0fe94e29",
+      "text": "Save or load data."
+    },
+    {
+      "id": "menu/96e30",
+      "offset": 618032,
+      "source_sha256": "24f6b4532befa0d88313806b7cb8011073d254c5a27f659b4a2382752fd7c067",
+      "text": "Open unit commands."
+    },
+    {
+      "id": "menu/96e50",
+      "offset": 618064,
+      "source_sha256": "5f5cf466df9d2b5bed04e2fa6ae3e676209a02d74628f5604646838262769894",
+      "text": "Open pilot commands."
+    },
+    {
+      "id": "menu/96e70",
+      "offset": 618096,
+      "source_sha256": "d557db30536ad97c32a6bcb53a711c7588ca7ae8633f0e95d5d55a1a25e7de23",
+      "text": "End the SETUP mission."
+    },
+    {
+      "id": "menu/96ea0",
+      "offset": 618144,
+      "source_sha256": "71901c318d970d9e73e8a15306e891e0098ec098bceed821a82b023202ef2564",
+      "text": "Units cannot be upgraded in EX Hard Mode."
+    },
+    {
+      "id": "menu/96ed0",
+      "offset": 618192,
+      "source_sha256": "ec61cd34d97d498c3c8f4405ba9c5270b2fe7f8e6edda3f9754dbd8b1e4e9383",
+      "text": "Pilots cannot be trained in EX Hard Mode."
+    },
+    {
+      "id": "menu/96f00",
+      "offset": 618240,
+      "source_sha256": "37cd48eb3cb3778d389832722aac90076c904f05cd2d7d8c3a339b0111c41221",
+      "text": "Basic Order"
+    },
+    {
+      "id": "menu/96f20",
+      "offset": 618272,
+      "source_sha256": "8763b8658da55b459cb01e2562fe6d60af92b84c36af5ab5e7652b5ad73d4608",
+      "text": "Balance Order"
+    },
+    {
+      "id": "menu/96f38",
+      "offset": 618296,
+      "source_sha256": "2405d5e8b966138ea604321acc231f2ddd3499c37ee50785fa2f7460eed14597",
+      "text": "Keyword"
+    },
+    {
+      "id": "menu/96f48",
+      "offset": 618312,
+      "source_sha256": "f44c98904ae7b195739501f704053239b0277e095aff2e73dc828260381d8f33",
+      "text": "Pilot"
+    },
+    {
+      "id": "menu/96f58",
+      "offset": 618328,
+      "source_sha256": "96de21714207427b6414a413d11d93142268492e1e238b780348429fe07efbea",
+      "text": "Unit"
+    },
+    {
+      "id": "menu/96f60",
+      "offset": 618336,
+      "source_sha256": "2a5dd8ac5a502874edf9b60fd1f12840ee7aa81d37cae57d9f97da3c459cd8c5",
+      "text": "Random"
+    },
+    {
+      "id": "menu/96f70",
+      "offset": 618352,
+      "source_sha256": "c9b4a3e1149eaea8840de57478b668c8414c167891b24f859557028b9ccc7778",
+      "text": "Arrange all squads using the preset plan,\nincluding pilot reassignments."
+    },
+    {
+      "id": "menu/96fc0",
+      "offset": 618432,
+      "source_sha256": "472c6f983116cce8d757e61ed998db2c0613cdb1bd40787e2c737ad698915168",
+      "text": "Keep the selected squads and reorganize\nthe others into balanced squads."
+    },
+    {
+      "id": "menu/97000",
+      "offset": 618496,
+      "source_sha256": "9f5a5825b0ab3620399853d8655b5be34428706dc09839ba9d8ed2c102d3b158",
+      "text": "Name squads using keywords linked to members."
+    },
+    {
+      "id": "menu/97030",
+      "offset": 618544,
+      "source_sha256": "390cb42dbfabdae730bd85efb25958ed418325f7542bc57a6940d536788cd23c",
+      "text": "Name squads after their leaders."
+    },
+    {
+      "id": "menu/97050",
+      "offset": 618576,
+      "source_sha256": "f1698bf002d99af17b52dd5b5d3ed000723651d7d3b53a1c45c8c9baf73e06aa",
+      "text": "Name squads after their leaders' units."
+    },
+    {
+      "id": "menu/97080",
+      "offset": 618624,
+      "source_sha256": "181e8a8740ace219e73ff96aabb2b0a1078c46420b5547b52833c60fd78a43ae",
+      "text": "Auto-select a naming method for each squad."
+    },
+    {
+      "id": "menu/970c0",
+      "offset": 618688,
+      "source_sha256": "60306323c799caf41db3ab33384dfe1a91e8511ecb43fcbd0e5d10033229446b",
+      "text": "Use the name of a pilot in the squad."
+    },
+    {
+      "id": "menu/970f0",
+      "offset": 618736,
+      "source_sha256": "40f43acfd44a2ec61dfb4b6f6c2eac2a99a006a3f4af7248dcb508a933235b2e",
+      "text": "Use the name of a unit in the squad."
+    },
+    {
+      "id": "menu/97120",
+      "offset": 618784,
+      "source_sha256": "13671c1f863eb88818ee2e266ab8575302965184c9530af60a89c9315521ab05",
+      "text": "Automatically choose from the methods above."
+    },
+    {
+      "id": "menu/97248",
+      "offset": 619080,
+      "source_sha256": "f1fc75c75ff20c875632ca825210800989c22b2b8a6ef780bd968bd439678325",
+      "text": "Selected Squad"
+    },
+    {
+      "id": "menu/97260",
+      "offset": 619104,
+      "source_sha256": "9c1dc17d0a0606f27dcdf674effc625c8b6643513ab7709a501207bc15fd9aa1",
+      "text": "Rename squads using one of the methods above."
+    },
+    {
+      "id": "menu/97290",
+      "offset": 619152,
+      "source_sha256": "08d59c70129824e0f2c00629f962253a91627d895fcad813dddc897046213fcc",
+      "text": "Select a naming method."
+    },
+    {
+      "id": "menu/972b0",
+      "offset": 619184,
+      "source_sha256": "95d2b8cf575e9d8d204b6cf86cc87332aa488ff7ed0bd2b8543bd9d2564fc5db",
+      "text": "<Continue battle music after animations.>"
+    },
+    {
+      "id": "menu/972f0",
+      "offset": 619248,
+      "source_sha256": "c753f69ef4b63a2215ec3db8dc8478488d22125f97c8e1c96a99f619ce5714ae",
+      "text": "<Restore map music after battle animations.>"
+    },
+    {
+      "id": "menu/97330",
+      "offset": 619312,
+      "source_sha256": "ad531f17363261fafe500d480b97517f418a2fea743137616c2b22eed18e606d",
+      "text": "<Use the team music during battle animations.>"
+    },
+    {
+      "id": "menu/97370",
+      "offset": 619376,
+      "source_sha256": "d17bf7842d2aae237aa0362a2d7f423bdc2ed8fc63205a4180f4b7a2ece618b5",
+      "text": "<Play unit music during battle animations.>"
+    },
+    {
+      "id": "menu/973b0",
+      "offset": 619440,
+      "source_sha256": "cd5b50a0bb312768d6a3423c182db2366f08c4c94236d48399521d6d9634a2e5",
+      "text": "<Choose detailed settings for battle music.>"
+    },
+    {
+      "id": "menu/973f0",
+      "offset": 619504,
+      "source_sha256": "d93aab4e676d8c8bf162a87e508efcc7d93a4df83d1c4315e9ffb2b530ba71a9",
+      "text": "<Set quick commands.>"
+    },
+    {
+      "id": "menu/97420",
+      "offset": 619552,
+      "source_sha256": "32e0d345883cfe2ed0f554ab79663bd225d4c63893298c8381823946f2fd98cc",
+      "text": "<Remember the sort and sub-info positions.>"
+    },
+    {
+      "id": "menu/97450",
+      "offset": 619600,
+      "source_sha256": "395262984921c9a4c88847c68386797dda2135fb6d62009a971f7ea8a29be0b1",
+      "text": "<Do not retain sort and sub-info positions.>"
+    },
+    {
+      "id": "menu/97480",
+      "offset": 619648,
+      "source_sha256": "aca544dc355d4f1e812a768afb640b74d186c697c31c3466ffc4a8352ee0345d",
+      "text": "<Enable controller vibration during play.>"
+    },
+    {
+      "id": "menu/974c0",
+      "offset": 619712,
+      "source_sha256": "33d3a3a7977fb6ef6a50a29ffd95227ea91122dbcb03b9a4f7178d0d7d929cd0",
+      "text": "<Disable controller vibration.>"
+    },
+    {
+      "id": "menu/974f0",
+      "offset": 619760,
+      "source_sha256": "7dfce287a69be57fae8124f1beae0669ac5117b0130e33354910a67a826546a1",
+      "text": "<Show the map grid.>"
+    },
+    {
+      "id": "menu/97520",
+      "offset": 619808,
+      "source_sha256": "7d37fe2c60f65d8b96ab8783274bb0a5a5cb9c1ec502af38044eec5db6f10d6a",
+      "text": "<Hide the map grid.>"
+    },
+    {
+      "id": "menu/97550",
+      "offset": 619856,
+      "source_sha256": "9c652c4f68eca093d9bf4eb2340f5412115568770434e5e605dd7cceac5bd071",
+      "text": "<Move the cursor along the screen directions.>"
+    },
+    {
+      "id": "menu/97590",
+      "offset": 619920,
+      "source_sha256": "2e88c6283f02e7c712809ad4e6a38d7783e840cca0045cd91ea6519f1e382faa",
+      "text": "<Move the cursor along the map grid.>"
+    },
+    {
+      "id": "menu/975c0",
+      "offset": 619968,
+      "source_sha256": "9bb86b39f1345f439b6bc5d5400a75d5e626e7c44d9ef3c7bb4d68b0c7b6cede",
+      "text": "<Scroll to the cursor's destination.>"
+    },
+    {
+      "id": "menu/97600",
+      "offset": 620032,
+      "source_sha256": "21bf8f2d0c259661aa6ab7c6710b3d3c214035de42e9c982782377519f288215",
+      "text": "<Jump directly to the cursor destination.>"
+    },
+    {
+      "id": "menu/97640",
+      "offset": 620096,
+      "source_sha256": "0b8d0c186a1ddb150a80ae3d5463b3d5371f453cd1cd7d39bc8de8c43898e386",
+      "text": "<Set unit movement speed to slow.>"
+    },
+    {
+      "id": "menu/97670",
+      "offset": 620144,
+      "source_sha256": "a0ed25e5378cec98fb0223a3ade7139bba2a9dee49ef7fe49e88e4fe6eec2eca",
+      "text": "<Set unit movement speed to normal.>"
+    },
+    {
+      "id": "menu/976a0",
+      "offset": 620192,
+      "source_sha256": "5467d7872e99793e36a5442bc4b011c7a549030b69e88857710f41d9c2617c1b",
+      "text": "<Set unit movement speed to fast.>"
+    },
+    {
+      "id": "menu/976d0",
+      "offset": 620240,
+      "source_sha256": "c49786d86bd0ca2b58b122588ecfaea3fdff8fbae0ee50d31e50816f0022ff23",
+      "text": "<Rename the team.>"
+    },
+    {
+      "id": "menu/976f0",
+      "offset": 620272,
+      "source_sha256": "82d64a1a3cec4c71075aaf9e5fbc5363573e96efd196521db3c4cd42a04aa7d7",
+      "text": "<Use Support Defense when a unit is available.>"
+    },
+    {
+      "id": "menu/97720",
+      "offset": 620320,
+      "source_sha256": "29b833cca03249ef5e5c76d4f9dcbc16510a3c34ac7dd8a94809684007995ebb",
+      "text": "<Do not automatically use Support Defense.>"
+    },
+    {
+      "id": "menu/97750",
+      "offset": 620368,
+      "source_sha256": "656fb14749b019703c7b8ceb335d5c6599dd37e97ca6a0c53790d8bef84b8784",
+      "text": "Tri Formation"
+    },
+    {
+      "id": "menu/97770",
+      "offset": 620400,
+      "source_sha256": "41876af92bf86c0294ae1b2fb795bc0d263b66c421d1e5ab1858497ff74f9ed7",
+      "text": "Center Formation"
+    },
+    {
+      "id": "menu/97790",
+      "offset": 620432,
+      "source_sha256": "218718d3deb7722b2a17748a65bc18cde54d41630de32265254d67a9a5d21a67",
+      "text": "Wide Formation"
+    },
+    {
+      "id": "menu/977b0",
+      "offset": 620464,
+      "source_sha256": "1bf92b5fdbef7cd52f125b22fbdfa850d77ffdd14962852336fd342530dd4093",
+      "text": "Tri"
+    },
+    {
+      "id": "menu/977b8",
+      "offset": 620472,
+      "source_sha256": "c612fcad62f8e96d75f35316a8cafd0055969172040f99826b78594399088426",
+      "text": "Center"
+    },
+    {
+      "id": "menu/977c8",
+      "offset": 620488,
+      "source_sha256": "717daf3558a7ebbb4b6eb851786f1de51717ac03def00dc693cbe409babf9307",
+      "text": "Wide"
+    },
+    {
+      "id": "menu/977d0",
+      "offset": 620496,
+      "source_sha256": "941f9ce20f4ad501567268c9abb09384b83844a1c7d25a20c74a4a1b53cdcccc",
+      "text": "<Formation> Choose formation and order."
+    },
+    {
+      "id": "menu/97810",
+      "offset": 620560,
+      "source_sha256": "ba78b1e7cac9b44e0218cb975df5f5c46afa24653dd4327e54bdea662fca6691",
+      "text": "<Group Formation> Set all squad formations."
+    },
+    {
+      "id": "menu/97850",
+      "offset": 620624,
+      "source_sha256": "dd5158c1a04f9cd5772226da287cb647804ddeddc919385404e4bf72630874ce",
+      "text": "<Ship Deployment> Select ships to deploy."
+    },
+    {
+      "id": "menu/97880",
+      "offset": 620672,
+      "source_sha256": "f66a1d73bd886e82d960736e89c3b8639c62e609f945e28ce8e5857224c6279f",
+      "text": "<Ship Deployment> Select a ship to move."
+    },
+    {
+      "id": "menu/978b0",
+      "offset": 620720,
+      "source_sha256": "9e47e1d3b1e2cb5ed9908ca71d3b98998cecfe7e0c66fb6270efb3f208875d61",
+      "text": "<Ship Deploy> Select a ship or position to swap."
+    },
+    {
+      "id": "menu/978f0",
+      "offset": 620784,
+      "source_sha256": "6acf08bf578ba75ada53e76217bc378152b4b77acd2cea443bc95a679bfd8836",
+      "text": "<Deploy> Prepare for deployment."
+    },
+    {
+      "id": "menu/97920",
+      "offset": 620832,
+      "source_sha256": "98615ae2244a6db80d51a0614cbef115eb37fbfe6505ed9c280cd2a7e08bcc0a",
+      "text": "<Deploy Units> Select a squad to move."
+    },
+    {
+      "id": "menu/97950",
+      "offset": 620880,
+      "source_sha256": "35f9d40951ceed7bc6f62c9c79b8e2b15ecadef246fdc9a78f0728924e7efed4",
+      "text": "<Deploy> Select a squad or position to swap."
+    },
+    {
+      "id": "menu/97990",
+      "offset": 620944,
+      "source_sha256": "44da5cb0a6ba36c80d5929ac45d31d7c3f404d3a1c70c57000811e7c2036c9f5",
+      "text": "<Forced Deployment> Check the map."
+    },
+    {
+      "id": "menu/979c0",
+      "offset": 620992,
+      "source_sha256": "681a5fcf53c9ffb75619e16beb08686ced0e8606fe37d55d56a3344278b0c361",
+      "text": "No squads are ready to deploy,\nso deployment selection is unavailable.\nSelect \"Squad Setup\" to form a deployable squad."
+    },
+    {
+      "id": "menu/97a40",
+      "offset": 621120,
+      "source_sha256": "4d567bf6c312d15eb79e57d4bb74e9c3f777a7ce541f34023312224983fcb969",
+      "text": "~[Allied Forces] Select Unit~"
+    },
+    {
+      "id": "menu/97a60",
+      "offset": 621152,
+      "source_sha256": "c1e235b5f28eba39319ac884211ecdc7ed1f96c0f9d3c2160931f7c51a0a816e",
+      "text": "~[Third Force] Select Unit~"
+    },
+    {
+      "id": "menu/97a80",
+      "offset": 621184,
+      "source_sha256": "e98470161470e26c5e75c320032f2d05a99349112bb01a746d204c7aa736a46b",
+      "text": "~[Fourth Force] Select Unit~"
+    },
+    {
+      "id": "menu/97aa0",
+      "offset": 621216,
+      "source_sha256": "07ad1b9e691034d0fe60580aec5ce364801fe011c9f4d292783109355a2a2e45",
+      "text": "~[Enemy Forces] Select Unit~"
+    },
+    {
+      "id": "menu/97ac0",
+      "offset": 621248,
+      "source_sha256": "de3df4bd98259884d77ad994ee8a6d503e594ac7ef8b9ac0cbb1de9a5a3a9428",
+      "text": "~[Allied Forces] Select Squad~"
+    },
+    {
+      "id": "menu/97ae0",
+      "offset": 621280,
+      "source_sha256": "af546a4a504b94d6da8b9a635252f331fe174027650842bffb2f97711b1030f4",
+      "text": "~[Third Force] Select Squad~"
+    },
+    {
+      "id": "menu/97b00",
+      "offset": 621312,
+      "source_sha256": "1a3fbbaeb80c3db764cd02f5d4e9a6ee8b075e01f3de79598b014d6cd8ae24db",
+      "text": "~[Fourth Force] Select Squad~"
+    },
+    {
+      "id": "menu/97b20",
+      "offset": 621344,
+      "source_sha256": "81dece57732ea990da9a2effc616845eb22b7b36c8203b38892f9f7f01b50214",
+      "text": "~[Enemy Forces] Select Squad~"
+    },
+    {
+      "id": "menu/97b40",
+      "offset": 621376,
+      "source_sha256": "1a0d004ee2f9e7098227ebe779bddefe37c346403a43b17f2b4d8ee39f077716",
+      "text": "~\"    :Tri\" Select Squad~"
+    },
+    {
+      "id": "menu/97b70",
+      "offset": 621424,
+      "source_sha256": "703fa672f1163ba9537f23a858151cd69c9e913566c03346c2a896f35452a37e",
+      "text": "~\"   :Center\" Select Squad~"
+    },
+    {
+      "id": "menu/97ba0",
+      "offset": 621472,
+      "source_sha256": "4f52e289fe0dd434c29ba38d2b1598b8d20e5435c9cf46d4d49dd463de7f51ae",
+      "text": "~\"    :Wide\" Select Squad~"
+    },
+    {
+      "id": "menu/97bd0",
+      "offset": 621520,
+      "source_sha256": "498cf68544442acded81687739d0af4df9dfd13c4d55bf8bfc545b8f8d2bba6f",
+      "text": "~[Individual Kills] Check Unit~"
+    },
+    {
+      "id": "menu/97bf0",
+      "offset": 621552,
+      "source_sha256": "29b59430bd089d157e58efc86601af5312b72c7f8edbc1a2cd1c49130b01dc6c",
+      "text": "~[Downed Units] Check Unit~"
+    },
+    {
+      "id": "menu/97c10",
+      "offset": 621584,
+      "source_sha256": "efe190055216c96f810e29b48e8b7ab7bdd51289b1260b9d6c36b2783f1b2f26",
+      "text": "~\"Launch List\" Select Squad~"
+    },
+    {
+      "id": "menu/97c30",
+      "offset": 621616,
+      "source_sha256": "d3b1e99f2464c6cf7eb45f9515fa30dcb37d60afff1e21201711acfd84f9947f",
+      "text": "~\"Launch List\" Select Unit~"
+    },
+    {
+      "id": "menu/97c50",
+      "offset": 621648,
+      "source_sha256": "2e2b3fcc9c460d2bc502764846e9d07021a3d5715b55581b1284731b637a3fd2",
+      "text": "<Change game system settings.>"
+    },
+    {
+      "id": "menu/97c80",
+      "offset": 621696,
+      "source_sha256": "40c6f2cdd88fc96a98d3456fcd44bfe92a935e7cbfe336ce4d10fbcfb0e0f21e",
+      "text": "<Browse the game data library.>"
+    },
+    {
+      "id": "menu/97cb0",
+      "offset": 621744,
+      "source_sha256": "504bd615246be4159c62511f81d148c6e5b86da025829c1f878efdfe275f9cdc",
+      "text": "System Settings"
+    },
+    {
+      "id": "menu/97cc0",
+      "offset": 621760,
+      "source_sha256": "5eb9c3686c1d136522712ab4b229d4a69314f49c69ea30b43a10cab1f4c79a30",
+      "text": "Library"
+    },
+    {
+      "id": "menu/97cd0",
+      "offset": 621776,
+      "source_sha256": "adc11ace561be9b7fa8cf7d659fd2e4cb478af9738e5a558b271df2f26b4f517",
+      "text": "View data on robots that appear in the game."
+    },
+    {
+      "id": "menu/97d10",
+      "offset": 621840,
+      "source_sha256": "bbf9dddc3e2f853bf0a3dd6df910cdaad541addd5cc26aa05f8ccd9cc1de7c43",
+      "text": "View data on characters that appear in the game."
+    },
+    {
+      "id": "menu/97d50",
+      "offset": 621904,
+      "source_sha256": "c8b1f15e026ef7db76218b21019f077545a0fdc5af0e40a81fe8e6dde74bb5ff",
+      "text": "Read definitions of special terms used in the game."
+    },
+    {
+      "id": "menu/97d90",
+      "offset": 621968,
+      "source_sha256": "92598d75c0e66a23d37ae5d175f6bb5763d0c39e8bc63e6e5363fb95e9397116",
+      "text": "Listen to music used in the game."
+    },
+    {
+      "id": "menu/97dc0",
+      "offset": 622016,
+      "source_sha256": "cb662f01079d773c144395b77354981bf0d4c837ae2af18a6f58fec04fc6e87a",
+      "text": "Review the scenarios and routes you have played."
+    },
+    {
+      "id": "menu/97df0",
+      "offset": 622064,
+      "source_sha256": "2899cf24f68ea77904691dd709ef1c82c4b3b7b72ce22f794790ac34b4a4d47d",
+      "text": "Read gameplay tips and useful information."
+    },
+    {
+      "id": "stage/13/a3b0",
+      "offset": 41904,
+      "source_sha256": "d904ac6e0c476ac7c8dc7a2375ae1ae0ff253e129d948a8776ca427d35cba328",
+      "text": "QF Group 6"
+    },
+    {
+      "id": "stage/13/a3c0",
+      "offset": 41920,
+      "source_sha256": "a139d72d9b58019b127a0f861cff494262f611e74287a785678af371d3a07c22",
+      "text": "Round 1 Losers"
+    },
+    {
+      "id": "stage/13/a3d0",
+      "offset": 41936,
+      "source_sha256": "25a5bdcf2d6748392c4cee67eff5f10fd1ad5e1897bd7e9c1d362d9f1ebeda95",
+      "text": "QF Group 1"
+    },
+    {
+      "id": "stage/13/a3e0",
+      "offset": 41952,
+      "source_sha256": "becc70d390c980c9de74c625b658b2ad9278eb36c26a302c3da267d6613c95ab",
+      "text": "QF Group 7"
+    },
+    {
+      "id": "stage/13/a3f0",
+      "offset": 41968,
+      "source_sha256": "36cdee9e1862916f29f0b90b1e708c74ece83ae082fea1ef7a6e42d30b1293d4",
+      "text": "QF Group 2"
+    },
+    {
+      "id": "stage/13/a400",
+      "offset": 41984,
+      "source_sha256": "bff2ddacef2e66da81e863d43658c6793d6b868019ee75bb16545387fbd82916",
+      "text": "QF Group 8"
+    },
+    {
+      "id": "stage/13/a410",
+      "offset": 42000,
+      "source_sha256": "574edd78ed420ff55aeef21120041d1782516f45077d13a4fe084705d49ed7c3",
+      "text": "QF Group 3"
+    },
+    {
+      "id": "stage/13/a420",
+      "offset": 42016,
+      "source_sha256": "a8d63b06b1308faddbb479d425389f96ed1a8e89b8dae46cadd33a7b0d4c822d",
+      "text": "QF Group 4"
+    },
+    {
+      "id": "stage/13/a430",
+      "offset": 42032,
+      "source_sha256": "841f16d530214c0ef59b63ef672e3067f6b26282a977356e0f4e1e0eb4948861",
+      "text": "QF Group 5"
+    },
+    {
+      "id": "stage/13/a440",
+      "offset": 42048,
+      "source_sha256": "acb060884ba59617d263f8d4599a80f53bc3ace66d80b870921705e908f8e4a9",
+      "text": "Argama"
+    },
+    {
+      "id": "stage/13/a450",
+      "offset": 42064,
+      "source_sha256": "dfc583568756f7088b7bae34a187cec9aed77a38b96d6e1a70abd30446c01e69",
+      "text": "Minerva"
+    },
+    {
+      "id": "stage/13/a460",
+      "offset": 42080,
+      "source_sha256": "049a771bc1560820dc45c999e743e3ab95acda3fc036bfc174d1333f9f002250",
+      "text": "King Beal"
+    },
+    {
+      "id": "heading",
+      "text": "Squads"
+    },
+    {
+      "id": "graphic/new",
+      "text": "New Squad"
+    },
+    {
+      "id": "graphic/reserve",
+      "text": "To Reserve"
+    },
+    {
+      "id": "graphic/squads",
+      "text": "To Squads"
+    },
+    {
+      "id": "graphic/deployed",
+      "text": "Deployed"
+    }
+  ]
+}

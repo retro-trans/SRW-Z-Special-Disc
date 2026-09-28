@@ -1,0 +1,3498 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c23_0a410",
+      "speaker": "Joseph",
+      "en": "The Moonlight Butterfly!? Is White Doll going out of control?!",
+      "display_variant": "en",
+      "display_text": "「The Moonlight Butterfly!? Is White Doll\ngoing out of control?!」"
+    },
+    {
+      "id": "c23_0a460",
+      "speaker": "Sid",
+      "en": "Th-that's... the power they say destroyed the world!",
+      "display_variant": "en",
+      "display_text": "「Th-that's... the power they say\ndestroyed the world!」"
+    },
+    {
+      "id": "c23_0a4a0",
+      "speaker": "Loran",
+      "en": "Miss, Miashei! Please!",
+      "display_variant": "en",
+      "display_text": "「Miss, Miashei! Please!」"
+    },
+    {
+      "id": "c23_0a4e0",
+      "speaker": "Sochie",
+      "en": "I know! Let's go, Miashei!",
+      "display_variant": "en",
+      "display_text": "「I know! Let's go, Miashei!」"
+    },
+    {
+      "id": "c23_0a510",
+      "speaker": "Miashei",
+      "en": "R-right!",
+      "display_variant": "en",
+      "display_text": "「R-right!」"
+    },
+    {
+      "id": "c23_0a530",
+      "speaker": "Miashei",
+      "en": "Got you, White Doll!",
+      "display_variant": "en",
+      "display_text": "「Got you, White Doll!」"
+    },
+    {
+      "id": "c23_0a560",
+      "speaker": "Sochie",
+      "en": "Go, Loran!",
+      "display_variant": "en",
+      "display_text": "「Go, Loran!」"
+    },
+    {
+      "id": "c23_0a580",
+      "speaker": "Loran",
+      "en": "Right!",
+      "display_variant": "en",
+      "display_text": "「Right!」"
+    },
+    {
+      "id": "c23_0a5a0",
+      "speaker": "Loran",
+      "en": "Stop! Please stop, White Doll!!",
+      "display_variant": "en",
+      "display_text": "「Stop! Please stop, White Doll!!」"
+    },
+    {
+      "id": "c23_0a5e0",
+      "speaker": "Sid",
+      "en": "It stopped...!",
+      "display_variant": "en",
+      "display_text": "「It stopped...!」"
+    },
+    {
+      "id": "c23_0a600",
+      "speaker": "Joseph",
+      "en": "It accepted Loran's control...",
+      "display_variant": "en",
+      "display_text": "「It accepted Loran's control...」"
+    },
+    {
+      "id": "c23_0a640",
+      "speaker": "Loran",
+      "en": "White Doll... what on earth happened to you...?",
+      "display_variant": "en",
+      "display_text": "「White Doll... what on earth happened to\nyou...?」"
+    },
+    {
+      "id": "c23_0a680",
+      "speaker": "Dianna",
+      "en": "Loran, can you hear me?",
+      "display_variant": "en",
+      "display_text": "「Loran, can you hear me?」"
+    },
+    {
+      "id": "c23_0a6b0",
+      "speaker": "Loran",
+      "en": "Y-yes. What is it, Lady Dianna?",
+      "display_variant": "en",
+      "display_text": "「Y-yes. What is it, Lady Dianna?」"
+    },
+    {
+      "id": "c23_0a6f0",
+      "speaker": "Dianna",
+      "en": "Come here at once. Something terrible is happening all over the world.",
+      "display_variant": "en",
+      "display_text": "「Come here at once. Something terrible\nis happening all over the world.」"
+    },
+    {
+      "id": "c23_0a740",
+      "speaker": "Sochie",
+      "en": "Something terrible...?!",
+      "display_variant": "en",
+      "display_text": "「Something terrible...?!」"
+    },
+    {
+      "id": "c23_0a760",
+      "speaker": "Loran",
+      "en": "A new enemy... is coming...?",
+      "display_variant": "en",
+      "display_text": "「A new enemy... is coming...?」"
+    },
+    {
+      "id": "c23_0a790",
+      "speaker": "Bello",
+      "en": "What's King Gainer doing...?",
+      "display_variant": "en",
+      "display_text": "「What's King Gainer doing...?」"
+    },
+    {
+      "id": "c23_0a7c0",
+      "speaker": "Adette",
+      "en": "Looks like it's searching for something...",
+      "display_variant": "en",
+      "display_text": "「Looks like it's searching for\nsomething...」"
+    },
+    {
+      "id": "c23_0a7f0",
+      "speaker": "Sara",
+      "en": "We have to stop it, no matter what! If we let it get away, Duke Medaiyu will be heartbroken!",
+      "display_variant": "en",
+      "display_text": "「We have to stop it, no matter what! If\nwe let it get away, Duke Medaiyu will be\nheartbroken!」"
+    },
+    {
+      "id": "c23_0a840",
+      "speaker": "Gauli",
+      "en": "We'll hold King Gainer down! Gainer, get to the cockpit while we do!",
+      "display_variant": "en",
+      "display_text": "「We'll hold King Gainer down! Gainer, get\nto the cockpit while we do!」"
+    },
+    {
+      "id": "c23_0a8a0",
+      "speaker": "Gainer",
+      "en": "Right! I'm counting on you!",
+      "display_variant": "en",
+      "display_text": "「Right! I'm counting on you!」"
+    },
+    {
+      "id": "c23_0a8d0",
+      "speaker": "Adette",
+      "en": "Hey! Quit thrashing around!",
+      "display_variant": "en",
+      "display_text": "「Hey! Quit thrashing around!」"
+    },
+    {
+      "id": "c23_0a900",
+      "speaker": "Bello",
+      "en": "Hurry, Gainer!",
+      "display_variant": "en",
+      "display_text": "「Hurry, Gainer!」"
+    },
+    {
+      "id": "c23_0a920",
+      "speaker": "Sara",
+      "en": "You have to stop King Gainer!",
+      "display_variant": "en",
+      "display_text": "「You have to stop King Gainer!」"
+    },
+    {
+      "id": "c23_0a950",
+      "speaker": "Gainer",
+      "en": "I'll try!",
+      "display_variant": "en",
+      "display_text": "「I'll try!」"
+    },
+    {
+      "id": "c23_0a970",
+      "speaker": "Gainer",
+      "en": "Stop, King Gainer! Stop, now!!",
+      "display_variant": "en",
+      "display_text": "「Stop, King Gainer! Stop, now!!」"
+    },
+    {
+      "id": "c23_0a9b0",
+      "speaker": "Gauli",
+      "en": "Did it stop...?",
+      "display_variant": "en",
+      "display_text": "「Did it stop...?」"
+    },
+    {
+      "id": "c23_0a9d0",
+      "speaker": "Bello",
+      "en": "Whew... for a minute there, I didn't know what was gonna happen.",
+      "display_variant": "en",
+      "display_text": "「Whew... for a minute there, I didn't\nknow what was gonna happen.」"
+    },
+    {
+      "id": "c23_0aa10",
+      "speaker": "Adette",
+      "en": "It's too soon to relax. If we don't find out what caused it, it might go berserk again.",
+      "display_variant": "en",
+      "display_text": "「It's too soon to relax. If we don't\nfind out what caused it, it might go\nberserk again.」"
+    },
+    {
+      "id": "c23_0aa70",
+      "speaker": "Gainer",
+      "en": "King Gainer... what happened to you?",
+      "display_variant": "en",
+      "display_text": "「King Gainer... what happened to you?」"
+    },
+    {
+      "id": "c23_0aab0",
+      "speaker": "Sara",
+      "en": "Gainer...",
+      "display_variant": "en",
+      "display_text": "「Gainer...」"
+    },
+    {
+      "id": "c23_0aad0",
+      "speaker": "Gainer",
+      "en": "Was someone... calling out to you...?",
+      "display_variant": "en",
+      "display_text": "「Was someone... calling out to you...?」"
+    },
+    {
+      "id": "c23_0ab00",
+      "speaker": "Cynthia",
+      "en": "Can you hear me, Gainer!? The whole world's in an uproar!",
+      "display_variant": "en",
+      "display_text": "「Can you hear me, Gainer!? The whole\nworld's in an uproar!」"
+    },
+    {
+      "id": "c23_0ab50",
+      "speaker": "Gainer",
+      "en": "An uproar...!?",
+      "display_variant": "en",
+      "display_text": "「An uproar...!?」"
+    },
+    {
+      "id": "c23_0ab70",
+      "speaker": "Sara",
+      "en": "What happened, Cynthia!?",
+      "display_variant": "en",
+      "display_text": "「What happened, Cynthia!?」"
+    },
+    {
+      "id": "c23_0aba0",
+      "speaker": "Cynthia",
+      "en": "Just get back here! Every UN channel is going crazy over it!",
+      "display_variant": "en",
+      "display_text": "「Just get back here! Every UN channel is\ngoing crazy over it!」"
+    },
+    {
+      "id": "c23_0abf0",
+      "speaker": "Gainer",
+      "en": "What in the world happened...",
+      "display_variant": "en",
+      "display_text": "「What in the world happened...」"
+    },
+    {
+      "id": "c23_0ac20",
+      "speaker": "Gainer",
+      "en": "Don't tell me... King Gainer going berserk is connected to it too...?",
+      "display_variant": "en",
+      "display_text": "「Don't tell me... King Gainer going\nberserk is connected to it too...?」"
+    },
+    {
+      "id": "c23_0acb0",
+      "speaker": "Jiron",
+      "en": "...Is this the spot, Gainer?",
+      "display_variant": "en",
+      "display_text": "「...Is this the spot, Gainer?」"
+    },
+    {
+      "id": "c23_0ace0",
+      "speaker": "Gainer",
+      "en": "Yeah... thanks, Jiron. For flying us all the way to Siberia in the Iron Gear.",
+      "display_variant": "en",
+      "display_text": "「Yeah... thanks, Jiron. For flying us all\nthe way to Siberia in the Iron Gear.」"
+    },
+    {
+      "id": "c23_0ad40",
+      "speaker": "Jiron",
+      "en": "No trouble at all. We were hired to help with your Exodus in the first place, after all.",
+      "display_variant": "en",
+      "display_text": "「No trouble at all. We were hired to\nhelp with your Exodus in the first place,\nafter all.」"
+    },
+    {
+      "id": "c23_0ada0",
+      "speaker": "Bello",
+      "en": "Never thought it'd turn into a grand adventure across the whole world.",
+      "display_variant": "en",
+      "display_text": "「Never thought it'd turn into a grand\nadventure across the whole world.」"
+    },
+    {
+      "id": "c23_0ade0",
+      "speaker": "Sara",
+      "en": "Never imagined it, back when we started the Exodus.",
+      "display_variant": "en",
+      "display_text": "「Never imagined it, back when we started\nthe Exodus.」"
+    },
+    {
+      "id": "c23_0ae20",
+      "speaker": "Jiron",
+      "en": "Still, our fight isn't over yet.",
+      "display_variant": "en",
+      "display_text": "「Still, our fight isn't over yet.」"
+    },
+    {
+      "id": "c23_0ae60",
+      "speaker": "Jiron",
+      "en": "The world's settled down, with all sorts of other worlds still tangled up in it. I'm sure it'll keep being rough from here on.",
+      "display_variant": "en",
+      "display_text": "「The world's settled down, with all sorts\nof other worlds still tangled up in it. I'm\nsure it'll keep being rough from here on.」"
+    },
+    {
+      "id": "c23_0aec0",
+      "speaker": "Cynthia",
+      "en": "That's fine by me. It might be a total mess, but I actually kinda like this world.",
+      "display_variant": "en",
+      "display_text": "「That's fine by me. It might be a total\nmess, but I actually kinda like this world.」"
+    },
+    {
+      "id": "c23_0af20",
+      "speaker": "Jiron",
+      "en": "This world was probably made from the will of people who felt that way.",
+      "display_variant": "en",
+      "display_text": "「This world was probably made from the\nwill of people who felt that way.」"
+    },
+    {
+      "id": "c23_0af70",
+      "speaker": "Gauli",
+      "en": "We'll start a new life as the People of Wulgusk.",
+      "display_variant": "en",
+      "display_text": "「We'll start a new life as the People of\nWulgusk.」"
+    },
+    {
+      "id": "c23_0afc0",
+      "speaker": "Rag",
+      "en": "Are you going back to being a schoolteacher, Adette?",
+      "display_variant": "en",
+      "display_text": "「Are you going back to being a\nschoolteacher, Adette?」"
+    },
+    {
+      "id": "c23_0b000",
+      "speaker": "Adette",
+      "en": "Guess so. Though dealing with a bunch of brats might turn out more stressful than fighting.",
+      "display_variant": "en",
+      "display_text": "「Guess so. Though dealing with a bunch\nof brats might turn out more stressful\nthan fighting.」"
+    },
+    {
+      "id": "c23_0b060",
+      "speaker": "Blume",
+      "en": "Hey, that's fine. The schoolmarm look suits you.",
+      "display_variant": "en",
+      "display_text": "「Hey, that's fine. The schoolmarm look\nsuits you.」"
+    },
+    {
+      "id": "c23_0b0a0",
+      "speaker": "Adette",
+      "en": "Thanks. ...So, are you two going back to being couriers in Zora?",
+      "display_variant": "en",
+      "display_text": "「Thanks. ...So, are you two going back\nto being couriers in Zora?」"
+    },
+    {
+      "id": "c23_0b0f0",
+      "speaker": "Elchi",
+      "en": "We thought it over a lot, but in the end, it comes down to going back to where we started.",
+      "display_variant": "en",
+      "display_text": "「We thought it over a lot, but in the\nend, it comes down to going back to\nwhere we started.」"
+    },
+    {
+      "id": "c23_0b130",
+      "speaker": "Dike",
+      "en": "Guess that means going back to being broke again...",
+      "display_variant": "en",
+      "display_text": "「Guess that means going back to being\nbroke again...」"
+    },
+    {
+      "id": "c23_0b160",
+      "speaker": "Rag",
+      "en": "If I'd known things would turn out this way, I should've just stayed and served Lord Arthur alongside Birin and Maria...",
+      "display_variant": "en",
+      "display_text": "「If I'd known things would turn out this\nway, I should've just stayed and served\nLord Arthur alongside Birin and Maria...」"
+    },
+    {
+      "id": "c23_0b1d0",
+      "speaker": "Ana",
+      "en": "Chill... even after you go back to Zora, please don't forget about us.",
+      "display_variant": "en",
+      "display_text": "「Chill... even after you go back to Zora,\nplease don't forget about us.」"
+    },
+    {
+      "id": "c23_0b220",
+      "speaker": "Chill",
+      "en": "Take care, Princess Ana, Lynx. Come visit Zora sometime.",
+      "display_variant": "en",
+      "display_text": "「Take care, Princess Ana, Lynx. Come\nvisit Zora sometime.」"
+    },
+    {
+      "id": "c23_0b270",
+      "speaker": "Ana",
+      "en": "Yes! Once Father gives me permission, I'll come right away.",
+      "display_variant": "en",
+      "display_text": "「Yes! Once Father gives me permission,\nI'll come right away.」"
+    },
+    {
+      "id": "c23_0b2c0",
+      "speaker": "Jiron",
+      "en": "Well then, let's go, everyone.",
+      "display_variant": "en",
+      "display_text": "「Well then, let's go, everyone.」"
+    },
+    {
+      "id": "c23_0b2f0",
+      "speaker": "Gainer",
+      "en": "Jiron... I have a favor to ask...",
+      "display_variant": "en",
+      "display_text": "「Jiron... I have a favor to ask...」"
+    },
+    {
+      "id": "c23_0b320",
+      "speaker": "Jiron",
+      "en": "I know, I know -- it's about Gain, right?",
+      "display_variant": "en",
+      "display_text": "「I know, I know -- it's about Gain,\nright?」"
+    },
+    {
+      "id": "c23_0b350",
+      "speaker": "Gainer",
+      "en": "Yeah...",
+      "display_variant": "en",
+      "display_text": "「Yeah...」"
+    },
+    {
+      "id": "c23_0b370",
+      "speaker": "Jiron",
+      "en": "If I run into him somewhere, I'll pass it along -- that you're mad he left without even saying goodbye.",
+      "display_variant": "en",
+      "display_text": "「If I run into him somewhere, I'll pass\nit along -- that you're mad he left\nwithout even saying goodbye.」"
+    },
+    {
+      "id": "c23_0b3e0",
+      "speaker": "Gainer",
+      "en": "That's not exactly it, but...",
+      "display_variant": "en",
+      "display_text": "「That's not exactly it, but...」"
+    },
+    {
+      "id": "c23_0b410",
+      "speaker": "Jiron",
+      "en": "Not exactly?",
+      "display_variant": "en",
+      "display_text": "「Not exactly?」"
+    },
+    {
+      "id": "c23_0b430",
+      "speaker": "Gainer",
+      "en": "It's just that I still haven't paid him back in full.",
+      "display_variant": "en",
+      "display_text": "「It's just that I still haven't paid him\nback in full.」"
+    },
+    {
+      "id": "c23_0b470",
+      "speaker": "Jiron",
+      "en": "Got it, Gainer! Let's meet again sometime too!",
+      "display_variant": "en",
+      "display_text": "「Got it, Gainer! Let's meet again\nsometime too!」"
+    },
+    {
+      "id": "c23_0b4b0",
+      "speaker": "Gainer",
+      "en": "Yeah!",
+      "display_variant": "en",
+      "display_text": "「Yeah!」"
+    },
+    {
+      "id": "c23_0b4d0",
+      "speaker": "Gainer",
+      "en": "I wonder if Loran and Garrod and the others made it back to Ameria okay...",
+      "display_variant": "en",
+      "display_text": "（I wonder if Loran and Garrod and the\nothers made it back to Ameria okay...）"
+    },
+    {
+      "id": "c23_0b520",
+      "speaker": "Gainer",
+      "en": "And $n too...",
+      "display_variant": "en",
+      "display_text": "（And $n too...）"
+    },
+    {
+      "id": "c23_0b580",
+      "speaker": "Garrod",
+      "en": "...Are you really sure about this, Loran? Burying White Doll like this.",
+      "display_variant": "en",
+      "display_text": "「...Are you really sure about this,\nLoran? Burying White Doll like this.」"
+    },
+    {
+      "id": "c23_0b5d0",
+      "speaker": "Loran",
+      "en": "I thought it over a lot, but I think this is the best way.",
+      "display_variant": "en",
+      "display_text": "「I thought it over a lot, but I think\nthis is the best way.」"
+    },
+    {
+      "id": "c23_0b610",
+      "speaker": "Pala",
+      "en": "Is it because the Moonlight Butterfly is dangerous?",
+      "display_variant": "en",
+      "display_text": "「Is it because the Moonlight Butterfly is\ndangerous?」"
+    },
+    {
+      "id": "c23_0b640",
+      "speaker": "Loran",
+      "en": "No, that's not it. White Doll's done its part, so I'm just letting it rest.",
+      "display_variant": "en",
+      "display_text": "「No, that's not it. White Doll's done its\npart, so I'm just letting it rest.」"
+    },
+    {
+      "id": "c23_0b6a0",
+      "speaker": "Sochie",
+      "en": "It'll turn back into a stone statue and become Vicinity's guardian deity again, right?",
+      "display_variant": "en",
+      "display_text": "「It'll turn back into a stone statue and\nbecome Vicinity's guardian deity again,\nright?」"
+    },
+    {
+      "id": "c23_0b6e0",
+      "speaker": "Tiffa",
+      "en": "I think that's what's best for White Doll too.",
+      "display_variant": "en",
+      "display_text": "「I think that's what's best for White\nDoll too.」"
+    },
+    {
+      "id": "c23_0b720",
+      "speaker": "Toniya",
+      "en": "More importantly, was it really okay, Sochie? Turning down Captain Gavane's proposal?",
+      "display_variant": "en",
+      "display_text": "「More importantly, was it really okay,\nSochie? Turning down Captain Gavane's\nproposal?」"
+    },
+    {
+      "id": "c23_0b770",
+      "speaker": "Sochie",
+      "en": "That's not what happened.",
+      "display_variant": "en",
+      "display_text": "「That's not what happened.」"
+    },
+    {
+      "id": "c23_0b7a0",
+      "speaker": "Witz",
+      "en": "Seriously!? So you're getting married!?",
+      "display_variant": "en",
+      "display_text": "「Seriously!? So you're getting married!?」"
+    },
+    {
+      "id": "c23_0b7e0",
+      "speaker": "Sochie",
+      "en": "I'll hold off on an answer for now. Because I don't want to decide about the future just yet.",
+      "display_variant": "en",
+      "display_text": "「I'll hold off on an answer for now.\nBecause I don't want to decide about the\nfuture just yet.」"
+    },
+    {
+      "id": "c23_0b840",
+      "speaker": "Roybea",
+      "en": "Well, that's a relief. Guess that means I've still got a chance.",
+      "display_variant": "en",
+      "display_text": "「Well, that's a relief. Guess that means\nI've still got a chance.」"
+    },
+    {
+      "id": "c23_0b890",
+      "speaker": "Miashei",
+      "en": "Weren't you after Sara?",
+      "display_variant": "en",
+      "display_text": "「Weren't you after Sara?」"
+    },
+    {
+      "id": "c23_0b8d0",
+      "speaker": "Roybea",
+      "en": "I've completely given up on that one. Even I have to admit defeat sometimes.",
+      "display_variant": "en",
+      "display_text": "「I've completely given up on that one.\nEven I have to admit defeat sometimes.」"
+    },
+    {
+      "id": "c23_0b910",
+      "speaker": "Tex",
+      "en": "She intends to work alongside Jamil as part of the New Earth Federation government being rebuilt.",
+      "display_variant": "en",
+      "display_text": "「She intends to work alongside Jamil as\npart of the New Earth Federation\ngovernment being rebuilt.」"
+    },
+    {
+      "id": "c23_0b970",
+      "speaker": "Roybea",
+      "en": "...So that's how it is.",
+      "display_variant": "en",
+      "display_text": "「...So that's how it is.」"
+    },
+    {
+      "id": "c23_0b990",
+      "speaker": "Witz",
+      "en": "...Look... cheer up. Moping around ain't like you.",
+      "display_variant": "en",
+      "display_text": "「...Look... cheer up. Moping around ain't\nlike you.」"
+    },
+    {
+      "id": "c23_0b9e0",
+      "speaker": "Roybea",
+      "en": "Easy for you to say. Well... you and Toniya be happy together, for a long time.",
+      "display_variant": "en",
+      "display_text": "「Easy for you to say. Well... you and\nToniya be happy together, for a long\ntime.」"
+    },
+    {
+      "id": "c23_0ba20",
+      "speaker": "Toniya",
+      "en": "Oh, stop it, Roybea!",
+      "display_variant": "en",
+      "display_text": "「Oh, stop it, Roybea!」"
+    },
+    {
+      "id": "c23_0ba50",
+      "speaker": "Witz",
+      "en": "Y-you idiot! What are you saying in front of everyone!",
+      "display_variant": "en",
+      "display_text": "「Y-you idiot! What are you saying in\nfront of everyone!」"
+    },
+    {
+      "id": "c23_0ba90",
+      "speaker": "Loran",
+      "en": "Captain Jamil and the others found a new path, then.",
+      "display_variant": "en",
+      "display_text": "「Captain Jamil and the others found a\nnew path, then.」"
+    },
+    {
+      "id": "c23_0bad0",
+      "speaker": "Garrod",
+      "en": "Now that we've been entrusted with the Freeden, we'll be fighting to live from here on.",
+      "display_variant": "en",
+      "display_text": "「Now that we've been entrusted with the\nFreeden, we'll be fighting to live from\nhere on.」"
+    },
+    {
+      "id": "c23_0bb20",
+      "speaker": "Garrod",
+      "en": "Whatever happens, though, I plan on staying with Tiffa forever.",
+      "display_variant": "en",
+      "display_text": "「Whatever happens, though, I plan on\nstaying with Tiffa forever.」"
+    },
+    {
+      "id": "c23_0bb70",
+      "speaker": "Tiffa",
+      "en": "Yeah...",
+      "display_variant": "en",
+      "display_text": "「Yeah...」"
+    },
+    {
+      "id": "c23_0bb90",
+      "speaker": "Dianna",
+      "en": "Everyone aboard the Freeden, please take care on your journey.",
+      "display_variant": "en",
+      "display_text": "「Everyone aboard the Freeden, please\ntake care on your journey.」"
+    },
+    {
+      "id": "c23_0bbd0",
+      "speaker": "Tex",
+      "en": "How is life as an Earthling treating you, Your Excellency Dianna?",
+      "display_variant": "en",
+      "display_text": "「How is life as an Earthling treating\nyou, Your Excellency Dianna?」"
+    },
+    {
+      "id": "c23_0bc10",
+      "speaker": "Dianna",
+      "en": "I'm enjoying it. All thanks to Kihel, who's staying on the Moon in my place.",
+      "display_variant": "en",
+      "display_text": "「I'm enjoying it. All thanks to Kihel,\nwho's staying on the Moon in my place.」"
+    },
+    {
+      "id": "c23_0bc80",
+      "speaker": "Sochie",
+      "en": "It's all right, Lady Dianna. Sister chose to go to the Moon of her own will, after all.",
+      "display_variant": "en",
+      "display_text": "「It's all right, Lady Dianna. Sister chose\nto go to the Moon of her own will, after\nall.」"
+    },
+    {
+      "id": "c23_0bce0",
+      "speaker": "Loran",
+      "en": "Captain Harry is there with Lady Kihel. There's nothing to worry about.",
+      "display_variant": "en",
+      "display_text": "「Captain Harry is there with Lady Kihel.\nThere's nothing to worry about.」"
+    },
+    {
+      "id": "c23_0bd40",
+      "speaker": "Dianna",
+      "en": "In the meantime, I'll study about the Earth all over again.",
+      "display_variant": "en",
+      "display_text": "「In the meantime, I'll study about the\nEarth all over again.」"
+    },
+    {
+      "id": "c23_0bd80",
+      "speaker": "Dianna",
+      "en": "And once I have, I intend to see the Moonrace's return to Earth through by peaceful means this time.",
+      "display_variant": "en",
+      "display_text": "「And once I have, I intend to see the\nMoonrace's return to Earth through by\npeaceful means this time.」"
+    },
+    {
+      "id": "c23_0bde0",
+      "speaker": "Garrod",
+      "en": "Jamil and Lancerow, who's become a leader of the revolutionary army, will help too. I'm sure it'll work out.",
+      "display_variant": "en",
+      "display_text": "「Jamil and Lancerow, who's become a\nleader of the revolutionary army, will help\ntoo. I'm sure it'll work out.」"
+    },
+    {
+      "id": "c23_0be50",
+      "speaker": "Tex",
+      "en": "Most problems get solved in your own mind over the course of one cup of coffee. All that's left is whether you can actually carry it out.",
+      "display_variant": "compact",
+      "display_text": "「Most problems get solved in your mind\nover one cup of coffee. All that is left\nis whether you can carry it out.」"
+    },
+    {
+      "id": "c23_0bec0",
+      "speaker": "Dianna",
+      "en": "Whatever hardships we face, I believe people who've come through trials like these will find a way to overcome them.",
+      "display_variant": "en",
+      "display_text": "「Whatever hardships we face, I believe\npeople who've come through trials like\nthese will find a way to overcome them.」"
+    },
+    {
+      "id": "c23_0bf40",
+      "speaker": "Garrod",
+      "en": "See you, Loran. You looked out for us in a lot of ways.",
+      "display_variant": "en",
+      "display_text": "「See you, Loran. You looked out for us\nin a lot of ways.」"
+    },
+    {
+      "id": "c23_0bf80",
+      "speaker": "Loran",
+      "en": "Thank you, Garrod. ...We'll see each other again, right?",
+      "display_variant": "en",
+      "display_text": "「Thank you, Garrod. ...We'll see each\nother again, right?」"
+    },
+    {
+      "id": "c23_0bfc0",
+      "speaker": "Garrod",
+      "en": "Of course. This multiverse keeps going on, after all.",
+      "display_variant": "en",
+      "display_text": "「Of course. This multiverse keeps going\non, after all.」"
+    },
+    {
+      "id": "c23_0c000",
+      "speaker": "Loran",
+      "en": "But somewhere in my heart, I believe it -- that I'll see Apollo and Renton and the others again too, wherever they've gone since that day...",
+      "display_variant": "fit",
+      "display_text": "「Somewhere in my heart, I believe I'll\nsee Apollo, Renton, and the others again,\nwherever they've gone since that day...」"
+    },
+    {
+      "id": "c23_0c080",
+      "speaker": "Garrod",
+      "en": "Yeah... I'm sure they'll come back too.",
+      "display_variant": "en",
+      "display_text": "「Yeah... I'm sure they'll come back too.」"
+    },
+    {
+      "id": "c23_0c0c0",
+      "speaker": "Loran",
+      "en": "$n... I believe that I'll get to see you again too...",
+      "display_variant": "en",
+      "display_text": "（$n... I believe that I'll get to see\nyou again too...）"
+    },
+    {
+      "id": "c23_0c150",
+      "speaker": "Orson",
+      "en": "So in the end, this is the ending you and I chose, huh.",
+      "display_variant": "en",
+      "display_text": "「So in the end, this is the ending you\nand I chose, huh.」"
+    },
+    {
+      "id": "c23_0c1a0",
+      "speaker": "Kei",
+      "en": "Guess so. Turns out I ended up liking this world more than I expected.",
+      "display_variant": "en",
+      "display_text": "「Guess so. Turns out I ended up liking\nthis world more than I expected.」"
+    },
+    {
+      "id": "c23_0c1e0",
+      "speaker": "Orson",
+      "en": "So you're saying that in a multiverse, you can take your pick of beautiful women from all sorts of worlds?",
+      "display_variant": "en",
+      "display_text": "「So you're saying that in a multiverse,\nyou can take your pick of beautiful\nwomen from all sorts of worlds?」"
+    },
+    {
+      "id": "c23_0c230",
+      "speaker": "Kei",
+      "en": "That's right! -- is what I'd like to say, but right now I've got my hands full with Mimsy and the baby in her belly.",
+      "display_variant": "en",
+      "display_text": "「That's right! -- is what I'd like to\nsay, but right now I've got my hands full\nwith Mimsy and the baby in her belly.」"
+    },
+    {
+      "id": "c23_0c290",
+      "speaker": "Orson",
+      "en": "Time to pay the piper, Kei.",
+      "display_variant": "en",
+      "display_text": "「Time to pay the piper, Kei.」"
+    },
+    {
+      "id": "c23_0c2c0",
+      "speaker": "Kei",
+      "en": "Same goes for you. Call me Father-in-law from now on, Orson.",
+      "display_variant": "en",
+      "display_text": "「Same goes for you. Call me\nFather-in-law from now on, Orson.」"
+    },
+    {
+      "id": "c23_0c310",
+      "speaker": "Mome",
+      "en": "Lord Kei, Lord Orson, what are you two doing out here!?",
+      "display_variant": "en",
+      "display_text": "「Lord Kei, Lord Orson, what are you two\ndoing out here!?」"
+    },
+    {
+      "id": "c23_0c350",
+      "speaker": "Jabby",
+      "en": "We're getting the market set up. You two, come help out.",
+      "display_variant": "en",
+      "display_text": "「We're getting the market set up. You\ntwo, come help out.」"
+    },
+    {
+      "id": "c23_0c3a0",
+      "speaker": "Kei",
+      "en": "Yeah, yeah. I get it, I get it.",
+      "display_variant": "en",
+      "display_text": "「Yeah, yeah. I get it, I get it.」"
+    },
+    {
+      "id": "c23_0c3d0",
+      "speaker": "Athena",
+      "en": "If you don't want to make Mimsy angry in her condition, you'd better hurry.",
+      "display_variant": "en",
+      "display_text": "「If you don't want to make Mimsy angry\nin her condition, you'd better hurry.」"
+    },
+    {
+      "id": "c23_0c420",
+      "speaker": "Kei",
+      "en": "Got it! Well then... time to start our new fight, I suppose!",
+      "display_variant": "en",
+      "display_text": "「Got it! Well then... time to start our\nnew fight, I suppose!」"
+    },
+    {
+      "id": "c23_0c4b0",
+      "speaker": "Silvia",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c23_0c4d0",
+      "speaker": "Reika",
+      "en": "...Were you looking up at the sky again?",
+      "display_variant": "en",
+      "display_text": "「...Were you looking up at the sky\nagain?」"
+    },
+    {
+      "id": "c23_0c4f0",
+      "speaker": "Silvia",
+      "en": "Yeah...",
+      "display_variant": "en",
+      "display_text": "「Yeah...」"
+    },
+    {
+      "id": "c23_0c510",
+      "speaker": "Silvia",
+      "en": "When I look at the sun, I feel like Apollo and my brother are about to come down out of it...",
+      "display_variant": "en",
+      "display_text": "「When I look at the sun, I feel like\nApollo and my brother are about to come\ndown out of it...」"
+    },
+    {
+      "id": "c23_0c570",
+      "speaker": "Reika",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c23_0c580",
+      "speaker": "Pierre",
+      "en": "The spacetime restoration succeeded, and the multiverse has stabilized... The world's been saved.",
+      "display_variant": "en",
+      "display_text": "「The spacetime restoration succeeded,\nand the multiverse has stabilized... The\nworld's been saved.」"
+    },
+    {
+      "id": "c23_0c5d0",
+      "speaker": "Jun",
+      "en": "But Apollo, Sirius... and Commander Fudo never came back...",
+      "display_variant": "en",
+      "display_text": "「But Apollo, Sirius... and Commander Fudo\nnever came back...」"
+    },
+    {
+      "id": "c23_0c630",
+      "speaker": "Tsugumi",
+      "en": "They all... did it to hold the world together...",
+      "display_variant": "en",
+      "display_text": "「They all... did it to hold the world\ntogether...」"
+    },
+    {
+      "id": "c23_0c660",
+      "speaker": "Pierre",
+      "en": "But they're not dead. Those guys are alive somewhere, for sure.",
+      "display_variant": "en",
+      "display_text": "「But they're not dead. Those guys are\nalive somewhere, for sure.」"
+    },
+    {
+      "id": "c23_0c6b0",
+      "speaker": "Silvia",
+      "en": "I guess we really do have to wait 12,000 years before we can see them again...",
+      "display_variant": "en",
+      "display_text": "「I guess we really do have to wait\n12,000 years before we can see them\nagain...」"
+    },
+    {
+      "id": "c23_0c700",
+      "speaker": "Rena",
+      "en": "Is that so?",
+      "display_variant": "en",
+      "display_text": "「Is that so?」"
+    },
+    {
+      "id": "c23_0c720",
+      "speaker": "Silvia",
+      "en": "Rena...",
+      "display_variant": "en",
+      "display_text": "「Rena...」"
+    },
+    {
+      "id": "c23_0c740",
+      "speaker": "Rena",
+      "en": "Distance and time are nothing but illusions born from doubt in people's hearts...",
+      "display_variant": "en",
+      "display_text": "「Distance and time are nothing but\nillusions born from doubt in people's\nhearts...」"
+    },
+    {
+      "id": "c23_0c780",
+      "speaker": "Rena",
+      "en": "That's what the Commander used to say, wasn't it.",
+      "display_variant": "en",
+      "display_text": "「That's what the Commander used to say,\nwasn't it.」"
+    },
+    {
+      "id": "c23_0c7b0",
+      "speaker": "Reika",
+      "en": "An illusion born from doubt...",
+      "display_variant": "en",
+      "display_text": "「An illusion born from doubt...」"
+    },
+    {
+      "id": "c23_0c7d0",
+      "speaker": "Silvia",
+      "en": "I understand, Rena. I... won't doubt anymore.",
+      "display_variant": "en",
+      "display_text": "「I understand, Rena. I... won't doubt\nanymore.」"
+    },
+    {
+      "id": "c23_0c810",
+      "speaker": "Silvia",
+      "en": "I believe that Apollo and my brother will come back, leaping across those 12,000 years.",
+      "display_variant": "en",
+      "display_text": "「I believe that Apollo and my brother\nwill come back, leaping across those\n12,000 years.」"
+    },
+    {
+      "id": "c23_0c870",
+      "speaker": "Fudo",
+      "en": "That's the spirit.",
+      "display_variant": "en",
+      "display_text": "「That's the spirit.」"
+    },
+    {
+      "id": "c23_0c890",
+      "speaker": "Tsugumi",
+      "en": "Commander!",
+      "display_variant": "en",
+      "display_text": "「Commander!」"
+    },
+    {
+      "id": "c23_0c8b0",
+      "speaker": "Jun",
+      "en": "When did you get back!?",
+      "display_variant": "en",
+      "display_text": "「When did you get back!?」"
+    },
+    {
+      "id": "c23_0c8d0",
+      "speaker": "Fudo",
+      "en": "Just now. And I'm not the only one who's come back, either.",
+      "display_variant": "en",
+      "display_text": "「Just now. And I'm not the only one\nwho's come back, either.」"
+    },
+    {
+      "id": "c23_0c910",
+      "speaker": "Sirius",
+      "en": "Sorry to keep you all waiting. And Silvia...",
+      "display_variant": "en",
+      "display_text": "「Sorry to keep you all waiting. And\nSilvia...」"
+    },
+    {
+      "id": "c23_0c950",
+      "speaker": "Silvia",
+      "en": "Brother!",
+      "display_variant": "en",
+      "display_text": "「Brother!」"
+    },
+    {
+      "id": "c23_0c970",
+      "speaker": "Apollo",
+      "en": "Man, I'm starving. Let's eat first, Silvia.",
+      "display_variant": "en",
+      "display_text": "「Man, I'm starving. Let's eat first,\nSilvia.」"
+    },
+    {
+      "id": "c23_0c9c0",
+      "speaker": "Silvia",
+      "en": "Oh, honestly! You haven't changed one bit!",
+      "display_variant": "en",
+      "display_text": "「Oh, honestly! You haven't changed one\nbit!」"
+    },
+    {
+      "id": "c23_0ca00",
+      "speaker": "Apollo",
+      "en": "$n... We made it back too. You're okay too, right...?",
+      "display_variant": "en",
+      "display_text": "（$n... We made it back too. You're okay\ntoo, right...?）"
+    },
+    {
+      "id": "c23_0ca90",
+      "speaker": "Dorothy",
+      "en": "Phone for you, Roger.",
+      "display_variant": "en",
+      "display_text": "「Phone for you, Roger.」"
+    },
+    {
+      "id": "c23_0cab0",
+      "speaker": "Roger",
+      "en": "My guess is it's a job, our first in a while. Looks like we're in for a busy time.",
+      "display_variant": "en",
+      "display_text": "「My guess is it's a job, our first in a\nwhile. Looks like we're in for a busy\ntime.」"
+    },
+    {
+      "id": "c23_0caf0",
+      "speaker": "Dorothy",
+      "en": "Let's hope so.",
+      "display_variant": "en",
+      "display_text": "「Let's hope so.」"
+    },
+    {
+      "id": "c23_0cb10",
+      "speaker": "Roger",
+      "en": "No matter what happens to the world, my way of life doesn't change.",
+      "display_variant": "en",
+      "display_text": "「No matter what happens to the world,\nmy way of life doesn't change.」"
+    },
+    {
+      "id": "c23_0cb50",
+      "speaker": "Roger",
+      "en": "I do the work this city of Paradigm needs done.",
+      "display_variant": "en",
+      "display_text": "「I do the work this city of Paradigm\nneeds done.」"
+    },
+    {
+      "id": "c23_0cba0",
+      "speaker": "Angel",
+      "en": "Fine, I get it, but how about answering the phone first?",
+      "display_variant": "en",
+      "display_text": "「Fine, I get it, but how about answering\nthe phone first?」"
+    },
+    {
+      "id": "c23_0cc20",
+      "speaker": "Maurice",
+      "en": "...Grandpa.",
+      "display_variant": "en",
+      "display_text": "「...Grandpa.」"
+    },
+    {
+      "id": "c23_0cc40",
+      "speaker": "Axel",
+      "en": "Hm?",
+      "display_variant": "en",
+      "display_text": "「Hm?」"
+    },
+    {
+      "id": "c23_0cc60",
+      "speaker": "Maurice",
+      "en": "Mom and Renton... aren't they coming back?",
+      "display_variant": "en",
+      "display_text": "「Mom and Renton... aren't they coming\nback?」"
+    },
+    {
+      "id": "c23_0cc90",
+      "speaker": "Maetel",
+      "en": "Mom and Renton...",
+      "display_variant": "en",
+      "display_text": "「Mom and Renton...」"
+    },
+    {
+      "id": "c23_0ccb0",
+      "speaker": "Linck",
+      "en": "Aren't they?",
+      "display_variant": "en",
+      "display_text": "「Aren't they?」"
+    },
+    {
+      "id": "c23_0ccd0",
+      "speaker": "Axel",
+      "en": "They'll definitely come back. That's why Holland left you kids with me.",
+      "display_variant": "en",
+      "display_text": "「They'll definitely come back. That's why\nHolland left you kids with me.」"
+    },
+    {
+      "id": "c23_0cd20",
+      "speaker": "Axel",
+      "en": "All my family ends up leaving this town. My son, Diane, all of them... But Renton... Renton alone will come back.",
+      "display_variant": "en",
+      "display_text": "「All my family ends up leaving this town.\nMy son, Diane, all of them... But Renton...\nRenton alone will come back.」"
+    },
+    {
+      "id": "c23_0cda0",
+      "speaker": "Axel",
+      "en": "Besides, I've got great-grandchildren who matter to me now. My grandson Renton's precious children...",
+      "display_variant": "en",
+      "display_text": "「Besides, I've got great-grandchildren\nwho matter to me now. My grandson\nRenton's precious children...」"
+    },
+    {
+      "id": "c23_0ce00",
+      "speaker": "Linck",
+      "en": "Grandpa...",
+      "display_variant": "en",
+      "display_text": "「Grandpa...」"
+    },
+    {
+      "id": "c23_0ce20",
+      "speaker": "Axel",
+      "en": "Well then... how about we go get some Big Burg?",
+      "display_variant": "en",
+      "display_text": "「Well then... how about we go get some\nBig Burg?」"
+    },
+    {
+      "id": "c23_0ce50",
+      "speaker": "Maurice",
+      "en": "Big Burg?",
+      "display_variant": "en",
+      "display_text": "「Big Burg?」"
+    },
+    {
+      "id": "c23_0ce70",
+      "speaker": "Axel",
+      "en": "It's the huge hamburger Renton always loved. Eating it is a Thurston family tradition, for whenever we want to reaffirm our family bond.",
+      "display_variant": "compact",
+      "display_text": "「It is the huge hamburger Renton always\nloved. Eating it is a Thurston family\ntradition, for reaffirming our family bond.」"
+    },
+    {
+      "id": "c23_0cef0",
+      "speaker": "Maetel",
+      "en": "Okay!",
+      "display_variant": "en",
+      "display_text": "「Okay!」"
+    },
+    {
+      "id": "c23_0cf10",
+      "speaker": "Renton",
+      "en": "Hold on a second, Gramps.",
+      "display_variant": "en",
+      "display_text": "「Hold on a second, Gramps.」"
+    },
+    {
+      "id": "c23_0cf40",
+      "speaker": "Eureka",
+      "en": "We're coming too.",
+      "display_variant": "en",
+      "display_text": "「We're coming too.」"
+    },
+    {
+      "id": "c23_0cf60",
+      "speaker": "Axel",
+      "en": "You two...!",
+      "display_variant": "en",
+      "display_text": "「You two...!」"
+    },
+    {
+      "id": "c23_0cf80",
+      "speaker": "Renton",
+      "en": "I'm home, Gramps. We... we're back.",
+      "display_variant": "en",
+      "display_text": "「I'm home, Gramps. We... we're back.」"
+    },
+    {
+      "id": "c23_0cfc0",
+      "speaker": "Renton",
+      "en": "Back to Bellforest, where our precious family was waiting.",
+      "display_variant": "en",
+      "display_text": "「Back to Bellforest, where our precious\nfamily was waiting.」"
+    },
+    {
+      "id": "c23_0d000",
+      "speaker": "Eureka",
+      "en": "We're home, everyone...",
+      "display_variant": "en",
+      "display_text": "「We're home, everyone...」"
+    },
+    {
+      "id": "c23_0d020",
+      "speaker": "Renton",
+      "en": "$n... I'm back in this awful town, but it's the one that matters to me most...",
+      "display_variant": "en",
+      "display_text": "（$n... I'm back in this awful town, but\nit's the one that matters to me most...）"
+    },
+    {
+      "id": "c23_0d0c0",
+      "speaker": "Jamie",
+      "en": "...Marin.",
+      "display_variant": "en",
+      "display_text": "「...Marin.」"
+    },
+    {
+      "id": "c23_0d0e0",
+      "speaker": "Marin",
+      "en": "Thank you, Jamie. I won't forget your kindness.",
+      "display_variant": "en",
+      "display_text": "「Thank you, Jamie. I won't forget your\nkindness.」"
+    },
+    {
+      "id": "c23_0d120",
+      "speaker": "Marin",
+      "en": "No... not just you. I'm leaving Earth today, but I'll never forget this planet.",
+      "display_variant": "en",
+      "display_text": "「No... not just you. I'm leaving Earth\ntoday, but I'll never forget this planet.」"
+    },
+    {
+      "id": "c23_0d190",
+      "speaker": "Oliver",
+      "en": "Hey, Marin... you don't have to hold back, you know.",
+      "display_variant": "en",
+      "display_text": "「Hey, Marin... you don't have to hold\nback, you know.」"
+    },
+    {
+      "id": "c23_0d1c0",
+      "speaker": "Raita",
+      "en": "We're coming along too -- on the journey to find a second home for the S-1 aliens.",
+      "display_variant": "en",
+      "display_text": "「We're coming along too -- on the\njourney to find a second home for the\nS-1 aliens.」"
+    },
+    {
+      "id": "c23_0d210",
+      "speaker": "Marin",
+      "en": "Thanks, Raita, Oliver. But you two have a duty as the Blue Fixer -- observing the dimensional boundary.",
+      "display_variant": "en",
+      "display_text": "「Thanks, Raita, Oliver. But you two have\na duty as the Blue Fixer -- observing\nthe dimensional boundary.」"
+    },
+    {
+      "id": "c23_0d280",
+      "speaker": "Marin",
+      "en": "I'm counting on you, so a tragedy like the spacetime shift never happens again.",
+      "display_variant": "en",
+      "display_text": "「I'm counting on you, so a tragedy like\nthe spacetime shift never happens again.」"
+    },
+    {
+      "id": "c23_0d2c0",
+      "speaker": "Raita",
+      "en": "Got it. ...But if you run into trouble, you call us right away, you hear?",
+      "display_variant": "en",
+      "display_text": "「Got it. ...But if you run into trouble,\nyou call us right away, you hear?」"
+    },
+    {
+      "id": "c23_0d300",
+      "speaker": "Kiraken",
+      "en": "Don't worry, Raita. We'll be traveling right alongside Marin and the others.",
+      "display_variant": "en",
+      "display_text": "「Don't worry, Raita. We'll be traveling\nright alongside Marin and the others.」"
+    },
+    {
+      "id": "c23_0d350",
+      "speaker": "Julie",
+      "en": "Combining Eldar and S-1 technology with Trinity Energy, we've finished a warp drive good enough to get us back to Earth, at least.",
+      "display_variant": "fit",
+      "display_text": "「Combining Eldar and S-1 tech with\nTrinity Energy, we've built a warp drive\nthat can get us back to Earth, at least.」"
+    },
+    {
+      "id": "c23_0d3d0",
+      "speaker": "Toshiya",
+      "en": "That's how it is, Rie. God Sigma and the rest of us are heading out.",
+      "display_variant": "en",
+      "display_text": "「That's how it is, Rie. God Sigma and\nthe rest of us are heading out.」"
+    },
+    {
+      "id": "c23_0d410",
+      "speaker": "Rie",
+      "en": "Understood, Toshiya. Leave everything here to us while you're away.",
+      "display_variant": "en",
+      "display_text": "「Understood, Toshiya. Leave everything\nhere to us while you're away.」"
+    },
+    {
+      "id": "c23_0d450",
+      "speaker": "Taichiro",
+      "en": "Teral went back to Eldar too, to save his own planet with what he gained fighting here on Earth.",
+      "display_variant": "en",
+      "display_text": "「Teral went back to Eldar too, to save\nhis own planet with what he gained\nfighting here on Earth.」"
+    },
+    {
+      "id": "c23_0d4b0",
+      "speaker": "Toshiya",
+      "en": "Teral will pull it off. He'll definitely bring down that Trinity Energy that turned into a devil's power.",
+      "display_variant": "en",
+      "display_text": "「Teral will pull it off. He'll definitely\nbring down that Trinity Energy that\nturned into a devil's power.」"
+    },
+    {
+      "id": "c23_0d520",
+      "speaker": "Toshiya",
+      "en": "That's why we're going too -- to build a better future.",
+      "display_variant": "en",
+      "display_text": "「That's why we're going too -- to build\na better future.」"
+    },
+    {
+      "id": "c23_0d560",
+      "speaker": "Aphrodia",
+      "en": "Let's go, Marin... Our fight starts all over again from here.",
+      "display_variant": "en",
+      "display_text": "「Let's go, Marin... Our fight starts all\nover again from here.」"
+    },
+    {
+      "id": "c23_0d5b0",
+      "speaker": "Marin",
+      "en": "Yeah... A new journey to save tomorrow.",
+      "display_variant": "en",
+      "display_text": "「Yeah... A new journey to save tomorrow.」"
+    },
+    {
+      "id": "c23_0d5f0",
+      "speaker": "Toshiya",
+      "en": "$n... we're heading out. We'll meet again somewhere, won't we...",
+      "display_variant": "en",
+      "display_text": "（$n... we're heading out. We'll meet\nagain somewhere, won't we...）"
+    },
+    {
+      "id": "c23_0d660",
+      "speaker": "Kappei",
+      "en": "Marin and the others... I bet they're about to set off right about now...",
+      "display_variant": "en",
+      "display_text": "（Marin and the others... I bet they're\nabout to set off right about now...）"
+    },
+    {
+      "id": "c23_0d6a0",
+      "speaker": "Kappei",
+      "en": "Do your best out there... I'm rooting for you too.",
+      "display_variant": "en",
+      "display_text": "（Do your best out there... I'm rooting\nfor you too.）"
+    },
+    {
+      "id": "c23_0d6e0",
+      "speaker": "Chiyonishiki",
+      "en": "Woof!",
+      "display_variant": "en",
+      "display_text": "「Woof!」"
+    },
+    {
+      "id": "c23_0d700",
+      "speaker": "Kappei",
+      "en": "Oh...! Here they come, Kazuki and the others!",
+      "display_variant": "en",
+      "display_text": "「Oh...! Here they come, Kazuki and the\nothers!」"
+    },
+    {
+      "id": "c23_0d730",
+      "speaker": "Kazuki",
+      "en": "Sorry to keep you waiting, Kappei! Today's the day we settle this for good!",
+      "display_variant": "en",
+      "display_text": "「Sorry to keep you waiting, Kappei!\nToday's the day we settle this for good!」"
+    },
+    {
+      "id": "c23_0d770",
+      "speaker": "Kappei",
+      "en": "You've got some nerve, picking a fight with the great Jin Kappei of $c!",
+      "display_variant": "en",
+      "display_text": "「You've got some nerve, picking a fight\nwith the great Jin Kappei of $c!」"
+    },
+    {
+      "id": "c23_0d7c0",
+      "speaker": "Kazuki",
+      "en": "What are you talking about!",
+      "display_variant": "en",
+      "display_text": "「What are you talking about!」"
+    },
+    {
+      "id": "c23_0d7e0",
+      "speaker": "Kazuki",
+      "en": "$c disbanded, and both Zambot and King Beal got sunk to the bottom of the sea, didn't they!",
+      "display_variant": "en",
+      "display_text": "「$c disbanded, and both Zambot and\nKing Beal got sunk to the bottom of the\nsea, didn't they!」"
+    },
+    {
+      "id": "c23_0d840",
+      "speaker": "Kappei",
+      "en": "Even so, I've still got the $c spirit burning in my heart!",
+      "display_variant": "en",
+      "display_text": "「Even so, I've still got the $c spirit\nburning in my heart!」"
+    },
+    {
+      "id": "c23_0d880",
+      "speaker": "Uchuta",
+      "en": "Those two never get tired of this, do they...",
+      "display_variant": "en",
+      "display_text": "「Those two never get tired of this, do\nthey...」"
+    },
+    {
+      "id": "c23_0d8c0",
+      "speaker": "Keiko",
+      "en": "Oh, let them be. For Kappei, this is his real fight.",
+      "display_variant": "en",
+      "display_text": "「Oh, let them be. For Kappei, this is his\nreal fight.」"
+    },
+    {
+      "id": "c23_0d910",
+      "speaker": "Uchuta",
+      "en": "Speaking of real fights, I wonder where Banjo went off to...",
+      "display_variant": "en",
+      "display_text": "「Speaking of real fights, I wonder where\nBanjo went off to...」"
+    },
+    {
+      "id": "c23_0d960",
+      "speaker": "Keiko",
+      "en": "According to Toppo, Banjo said something about heading off to Mars for a bit...",
+      "display_variant": "en",
+      "display_text": "「According to Toppo, Banjo said\nsomething about heading off to Mars for\na bit...」"
+    },
+    {
+      "id": "c23_0d9b0",
+      "speaker": "Heizaemon",
+      "en": "I see... So Banjo's fight still isn't over.",
+      "display_variant": "en",
+      "display_text": "「I see... So Banjo's fight still isn't\nover.」"
+    },
+    {
+      "id": "c23_0da00",
+      "speaker": "Sandman",
+      "en": "Yes... Until that's settled, I suppose he'll remain an eternal traveler.",
+      "display_variant": "en",
+      "display_text": "「Yes... Until that's settled, I suppose\nhe'll remain an eternal traveler.」"
+    },
+    {
+      "id": "c23_0da50",
+      "speaker": "Gengoro",
+      "en": "Sandman. Has your own journey come to an end, then?",
+      "display_variant": "en",
+      "display_text": "「Sandman. Has your own journey come to\nan end, then?」"
+    },
+    {
+      "id": "c23_0da90",
+      "speaker": "Sandman",
+      "en": "I don't know. But if the day comes when dark clouds cover this beautiful planet again, I will rise.",
+      "display_variant": "en",
+      "display_text": "「I don't know. But if the day comes\nwhen dark clouds cover this beautiful\nplanet again, I will rise.」"
+    },
+    {
+      "id": "c23_0daf0",
+      "speaker": "Sandman",
+      "en": "Yes... alongside beautiful, valiant warriors.",
+      "display_variant": "en",
+      "display_text": "「Yes... alongside beautiful, valiant\nwarriors.」"
+    },
+    {
+      "id": "c23_0db20",
+      "speaker": "Raven",
+      "en": "Eiji... someday, I too will take off this mask and tell you the truth.",
+      "display_variant": "en",
+      "display_text": "（Eiji... someday, I too will take off this\nmask and tell you the truth.）"
+    },
+    {
+      "id": "c23_0db70",
+      "speaker": "Eiji",
+      "en": "Don't lose, Kappei! Show 'em that $c spirit!",
+      "display_variant": "en",
+      "display_text": "「Don't lose, Kappei! Show 'em that $c\nspirit!」"
+    },
+    {
+      "id": "c23_0dbb0",
+      "speaker": "Touga",
+      "en": "Hey, Eiji. Let's get in on the fight too.",
+      "display_variant": "en",
+      "display_text": "「Hey, Eiji. Let's get in on the fight\ntoo.」"
+    },
+    {
+      "id": "c23_0dbf0",
+      "speaker": "Kappei",
+      "en": "Whoa, hold on, Touga! We're dead serious here!",
+      "display_variant": "en",
+      "display_text": "「Whoa, hold on, Touga! We're dead serious\nhere!」"
+    },
+    {
+      "id": "c23_0dc30",
+      "speaker": "Luna",
+      "en": "What are you talking about!? This is just playing around!",
+      "display_variant": "en",
+      "display_text": "「What are you talking about!? This is\njust playing around!」"
+    },
+    {
+      "id": "c23_0dc70",
+      "speaker": "Kappei",
+      "en": "Playing around, sure, but serious playing around! Don't get in the way!",
+      "display_variant": "en",
+      "display_text": "「Playing around, sure, but serious playing\naround! Don't get in the way!」"
+    },
+    {
+      "id": "c23_0dcb0",
+      "speaker": "Mizuki",
+      "en": "Yeah, yeah. Do your best, Kappei.",
+      "display_variant": "en",
+      "display_text": "「Yeah, yeah. Do your best, Kappei.」"
+    },
+    {
+      "id": "c23_0dce0",
+      "speaker": "Leele",
+      "en": "Just don't get hurt, okay?",
+      "display_variant": "en",
+      "display_text": "「Just don't get hurt, okay?」"
+    },
+    {
+      "id": "c23_0dd00",
+      "speaker": "Kazuki",
+      "en": "Here I come, Kappei!",
+      "display_variant": "en",
+      "display_text": "「Here I come, Kappei!」"
+    },
+    {
+      "id": "c23_0dd20",
+      "speaker": "Kappei",
+      "en": "Bring it, Kazuki!",
+      "display_variant": "en",
+      "display_text": "「Bring it, Kazuki!」"
+    },
+    {
+      "id": "c23_0dd40",
+      "speaker": "Aki",
+      "en": "Do your best, Kappei! You too, Kazuki!",
+      "display_variant": "en",
+      "display_text": "「Do your best, Kappei! You too, Kazuki!」"
+    },
+    {
+      "id": "c23_0dd70",
+      "speaker": "Michi",
+      "en": "Once you've settled things, let's have lunch. We... made some rice balls.",
+      "display_variant": "en",
+      "display_text": "「Once you've settled things, let's have\nlunch. We... made some rice balls.」"
+    },
+    {
+      "id": "c23_0ddd0",
+      "speaker": "Kappei",
+      "en": "Now that's great! Let me eat before the fight!",
+      "display_variant": "en",
+      "display_text": "「Now that's great! Let me eat before\nthe fight!」"
+    },
+    {
+      "id": "c23_0de10",
+      "speaker": "Aki",
+      "en": "Oh, honestly! Kappei!",
+      "display_variant": "en",
+      "display_text": "「Oh, honestly! Kappei!」"
+    },
+    {
+      "id": "c23_0de30",
+      "speaker": "Eina",
+      "en": "It's fine, isn't it? If rice balls bring peace, that solves everything.",
+      "display_variant": "en",
+      "display_text": "「It's fine, isn't it? If rice balls bring\npeace, that solves everything.」"
+    },
+    {
+      "id": "c23_0de80",
+      "speaker": "Kappei",
+      "en": "Heh... guess so! Well then, dig in!",
+      "display_variant": "en",
+      "display_text": "「Heh... guess so! Well then, dig in!」"
+    },
+    {
+      "id": "c23_0deb0",
+      "speaker": "Touga",
+      "en": "Wait, Kappei. We're eating too.",
+      "display_variant": "en",
+      "display_text": "「Wait, Kappei. We're eating too.」"
+    },
+    {
+      "id": "c23_0dee0",
+      "speaker": "Eiji",
+      "en": "I'm not joining the fight, but I'll take a rice ball!",
+      "display_variant": "en",
+      "display_text": "「I'm not joining the fight, but I'll take\na rice ball!」"
+    },
+    {
+      "id": "c23_0df20",
+      "speaker": "Sandman",
+      "en": "Indeed, warriors. Savor it to your heart's content -- the splendor of the peace you've won.",
+      "display_variant": "en",
+      "display_text": "「Indeed, warriors. Savor it to your\nheart's content -- the splendor of the\npeace you've won.」"
+    },
+    {
+      "id": "c23_0df80",
+      "speaker": "Kappei",
+      "en": "That's right... I'll never forget the day we all ate rice balls together...",
+      "display_variant": "en",
+      "display_text": "（That's right... I'll never forget the day\nwe all ate rice balls together...）"
+    },
+    {
+      "id": "c23_0dfd0",
+      "speaker": "Kappei",
+      "en": "So, sis $n... We'll be waiting...",
+      "display_variant": "en",
+      "display_text": "（So, sis $n... We'll be waiting...）"
+    },
+    {
+      "id": "c23_0e050",
+      "speaker": "Lacus",
+      "en": "...Once again, many more names have been carved into this memorial...",
+      "display_variant": "en",
+      "display_text": "「...Once again, many more names have\nbeen carved into this memorial...」"
+    },
+    {
+      "id": "c23_0e0a0",
+      "speaker": "Cagalli",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c23_0e0c0",
+      "speaker": "Athrun",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c23_0e0e0",
+      "speaker": "Kira",
+      "en": "We... ended up repeating the same mistake... Even two years ago, we swore to peace, just like we did this time...",
+      "display_variant": "en",
+      "display_text": "「We... ended up repeating the same\nmistake... Even two years ago, we swore\nto peace, just like we did this time...」"
+    },
+    {
+      "id": "c23_0e150",
+      "speaker": "Shinn",
+      "en": "So... what will you do now, Kira?",
+      "display_variant": "en",
+      "display_text": "「So... what will you do now, Kira?」"
+    },
+    {
+      "id": "c23_0e180",
+      "speaker": "Kira",
+      "en": "...I'm thinking of going to PLANT together with Lacus.",
+      "display_variant": "en",
+      "display_text": "「...I'm thinking of going to PLANT\ntogether with Lacus.」"
+    },
+    {
+      "id": "c23_0e1c0",
+      "speaker": "Lunamaria",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c23_0e1e0",
+      "speaker": "Kira",
+      "en": "Until now, we've watched the world from somewhere that was neither Earth nor PLANT...",
+      "display_variant": "en",
+      "display_text": "「Until now, we've watched the world from\nsomewhere that was neither Earth nor\nPLANT...」"
+    },
+    {
+      "id": "c23_0e230",
+      "speaker": "Kira",
+      "en": "But I was there for Chairman Durandal's final moments.",
+      "display_variant": "en",
+      "display_text": "「But I was there for Chairman Durandal's\nfinal moments.」"
+    },
+    {
+      "id": "c23_0e270",
+      "speaker": "Kira",
+      "en": "That's why I have a responsibility. I think it's the same for Lacus, who fought the Chairman too.",
+      "display_variant": "en",
+      "display_text": "「That's why I have a responsibility. I\nthink it's the same for Lacus, who fought\nthe Chairman too.」"
+    },
+    {
+      "id": "c23_0e2d0",
+      "speaker": "Lacus",
+      "en": "Yes... In truth, I should have returned to PLANT after the fighting two years ago.",
+      "display_variant": "en",
+      "display_text": "「Yes... In truth, I should have returned\nto PLANT after the fighting two years\nago.」"
+    },
+    {
+      "id": "c23_0e330",
+      "speaker": "Lacus",
+      "en": "This time, I intend to face the role I'm meant to fulfill.",
+      "display_variant": "en",
+      "display_text": "「This time, I intend to face the role\nI'm meant to fulfill.」"
+    },
+    {
+      "id": "c23_0e380",
+      "speaker": "Kira",
+      "en": "Lt. Quattro and Captain Jamil are trying to fulfill their responsibility to the world too. So let's go, us as well.",
+      "display_variant": "en",
+      "display_text": "「Lt. Quattro and Captain Jamil are\ntrying to fulfill their responsibility to\nthe world too. So let's go, us as well.」"
+    },
+    {
+      "id": "c23_0e3f0",
+      "speaker": "Lacus",
+      "en": "That is, if the people of PLANT can forgive what I've done...",
+      "display_variant": "en",
+      "display_text": "「That is, if the people of PLANT can\nforgive what I've done...」"
+    },
+    {
+      "id": "c23_0e440",
+      "speaker": "Shinn",
+      "en": "Let's go, Lacus Clyne. ...Let's keep talking with everyone until they understand.",
+      "display_variant": "en",
+      "display_text": "「Let's go, Lacus Clyne. ...Let's keep\ntalking with everyone until they\nunderstand.」"
+    },
+    {
+      "id": "c23_0e4a0",
+      "speaker": "Lacus",
+      "en": "Yes...",
+      "display_variant": "en",
+      "display_text": "「Yes...」"
+    },
+    {
+      "id": "c23_0e4c0",
+      "speaker": "Cagalli",
+      "en": "Lacus... I'll do what I can in Orb. You do your best in PLANT.",
+      "display_variant": "en",
+      "display_text": "「Lacus... I'll do what I can in Orb. You\ndo your best in PLANT.」"
+    },
+    {
+      "id": "c23_0e510",
+      "speaker": "Lacus",
+      "en": "Thank you, Cagalli. For the sake of this world... let's each give it our all.",
+      "display_variant": "en",
+      "display_text": "「Thank you, Cagalli. For the sake of this\nworld... let's each give it our all.」"
+    },
+    {
+      "id": "c23_0e570",
+      "speaker": "Shinn",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c23_0e580",
+      "speaker": "Athrun",
+      "en": "Not going to say it? 'Pretty words are the Athha family's specialty'... or something like that.",
+      "display_variant": "en",
+      "display_text": "「Not going to say it? 'Pretty words are\nthe Athha family's specialty'... or\nsomething like that.」"
+    },
+    {
+      "id": "c23_0e5c0",
+      "speaker": "Shinn",
+      "en": "If she actually follows through, I've got no complaints.",
+      "display_variant": "en",
+      "display_text": "「If she actually follows through, I've\ngot no complaints.」"
+    },
+    {
+      "id": "c23_0e5f0",
+      "speaker": "Shinn",
+      "en": "I want a future for Orb -- for the world -- too, after all.",
+      "display_variant": "en",
+      "display_text": "「I want a future for Orb -- for the\nworld -- too, after all.」"
+    },
+    {
+      "id": "c23_0e630",
+      "speaker": "Athrun",
+      "en": "Same here, Shinn.",
+      "display_variant": "en",
+      "display_text": "「Same here, Shinn.」"
+    },
+    {
+      "id": "c23_0e650",
+      "speaker": "Lunamaria",
+      "en": "Let's go, Shinn. We can't let ourselves fall behind Lady Lacus either.",
+      "display_variant": "en",
+      "display_text": "「Let's go, Shinn. We can't let ourselves\nfall behind Lady Lacus either.」"
+    },
+    {
+      "id": "c23_0e6a0",
+      "speaker": "Shinn",
+      "en": "Yeah... That's our new fight.",
+      "display_variant": "en",
+      "display_text": "「Yeah... That's our new fight.」"
+    },
+    {
+      "id": "c23_0e6d0",
+      "speaker": "Shinn",
+      "en": "Watch me, Rey. I'm... going to give it a try.",
+      "display_variant": "en",
+      "display_text": "（Watch me, Rey. I'm... going to give it a\ntry.）"
+    },
+    {
+      "id": "c23_0e710",
+      "speaker": "Shinn",
+      "en": "So the days I spent fighting with $c won't have been for nothing...",
+      "display_variant": "en",
+      "display_text": "（So the days I spent fighting with $c\nwon't have been for nothing...）"
+    },
+    {
+      "id": "c23_0e750",
+      "speaker": "Shinn",
+      "en": "So, $n... I want to see you again too...",
+      "display_variant": "en",
+      "display_text": "（So, $n... I want to see you again\ntoo...）"
+    },
+    {
+      "id": "c23_0e7d0",
+      "speaker": "Daisuke",
+      "en": "Koji, everyone... I'm off.",
+      "display_variant": "en",
+      "display_text": "「Koji, everyone... I'm off.」"
+    },
+    {
+      "id": "c23_0e800",
+      "speaker": "Koji",
+      "en": "Call us once you get to planet Fleed, Daisuke.",
+      "display_variant": "en",
+      "display_text": "「Call us once you get to planet Fleed,\nDaisuke.」"
+    },
+    {
+      "id": "c23_0e840",
+      "speaker": "Daisuke",
+      "en": "A lot's happened, but the multiverse goes on. ...Our friendship is the same. It'll never change.",
+      "display_variant": "en",
+      "display_text": "「A lot's happened, but the multiverse\ngoes on. ...Our friendship is the same.\nIt'll never change.」"
+    },
+    {
+      "id": "c23_0e8b0",
+      "speaker": "Maria",
+      "en": "Sayaka... no making a move on Koji while I'm gone, okay?",
+      "display_variant": "en",
+      "display_text": "「Sayaka... no making a move on Koji while\nI'm gone, okay?」"
+    },
+    {
+      "id": "c23_0e900",
+      "speaker": "Sayaka",
+      "en": "I know, I know. Let's keep it fair and square, Maria.",
+      "display_variant": "en",
+      "display_text": "「I know, I know. Let's keep it fair and\nsquare, Maria.」"
+    },
+    {
+      "id": "c23_0e950",
+      "speaker": "Tetsuya",
+      "en": "Looks like this fight's going to keep going for a while yet.",
+      "display_variant": "en",
+      "display_text": "「Looks like this fight's going to keep\ngoing for a while yet.」"
+    },
+    {
+      "id": "c23_0e980",
+      "speaker": "Jun",
+      "en": "Oh, let them. Looks like they're actually enjoying it.",
+      "display_variant": "en",
+      "display_text": "「Oh, let them. Looks like they're\nactually enjoying it.」"
+    },
+    {
+      "id": "c23_0e9c0",
+      "speaker": "Boss",
+      "en": "...Almost makes me jealous.",
+      "display_variant": "en",
+      "display_text": "「...Almost makes me jealous.」"
+    },
+    {
+      "id": "c23_0e9e0",
+      "speaker": "Hikaru",
+      "en": "Well then, everyone... I'll be going.",
+      "display_variant": "en",
+      "display_text": "「Well then, everyone... I'll be going.」"
+    },
+    {
+      "id": "c23_0ea10",
+      "speaker": "Sayaka",
+      "en": "Take care, Hikaru, you too.",
+      "display_variant": "en",
+      "display_text": "「Take care, Hikaru, you too.」"
+    },
+    {
+      "id": "c23_0ea40",
+      "speaker": "Maria",
+      "en": "It'll be fine. The world's settled down now, after all.",
+      "display_variant": "en",
+      "display_text": "「It'll be fine. The world's settled down\nnow, after all.」"
+    },
+    {
+      "id": "c23_0ea80",
+      "speaker": "Koji",
+      "en": "Still, there's plenty of chaos left. Things are going to be rough for Earth from here too.",
+      "display_variant": "en",
+      "display_text": "「Still, there's plenty of chaos left.\nThings are going to be rough for Earth\nfrom here too.」"
+    },
+    {
+      "id": "c23_0ead0",
+      "speaker": "Daisuke",
+      "en": "Lt. Quattro and Captain Jamil and the others will surely pull it off. That's what I believe.",
+      "display_variant": "en",
+      "display_text": "「Lt. Quattro and Captain Jamil and the\nothers will surely pull it off. That's what\nI believe.」"
+    },
+    {
+      "id": "c23_0eb30",
+      "speaker": "Tetsuya",
+      "en": "Yeah. That man's made up his mind too.",
+      "display_variant": "en",
+      "display_text": "「Yeah. That man's made up his mind too.」"
+    },
+    {
+      "id": "c23_0eb60",
+      "speaker": "Koji",
+      "en": "We can't let ourselves lose either! Let's both do our best, Daisuke!",
+      "display_variant": "en",
+      "display_text": "「We can't let ourselves lose either!\nLet's both do our best, Daisuke!」"
+    },
+    {
+      "id": "c23_0ebb0",
+      "speaker": "Daisuke",
+      "en": "Yeah...!",
+      "display_variant": "en",
+      "display_text": "「Yeah...!」"
+    },
+    {
+      "id": "c23_0ec10",
+      "speaker": "Amuro",
+      "en": "...Kamille, are you ready?",
+      "display_variant": "en",
+      "display_text": "「...Kamille, are you ready?」"
+    },
+    {
+      "id": "c23_0ec40",
+      "speaker": "Kamille",
+      "en": "Yes. The Zeta and the other mobile suits have already been loaded aboard.",
+      "display_variant": "en",
+      "display_text": "「Yes. The Zeta and the other mobile\nsuits have already been loaded aboard.」"
+    },
+    {
+      "id": "c23_0ec90",
+      "speaker": "Amuro",
+      "en": "Now that the Titans have been punished, the AEUG will be folded into the New Earth Federation's chain of command.",
+      "display_variant": "en",
+      "display_text": "「Now that the Titans have been\npunished, the AEUG will be folded into the\nNew Earth Federation's chain of command.」"
+    },
+    {
+      "id": "c23_0ed00",
+      "speaker": "Emma",
+      "en": "The fight between the Titans and the AEUG was originally an internal Federation dispute, after all, so I suppose that's only natural.",
+      "display_variant": "compact",
+      "display_text": "「The Titans-AEUG fight was originally an\ninternal Federation dispute, so I suppose\nthat is only natural.」"
+    },
+    {
+      "id": "c23_0ed70",
+      "speaker": "Katz",
+      "en": "Feels kind of strange, doesn't it -- us becoming part of the Federation forces too.",
+      "display_variant": "en",
+      "display_text": "「Feels kind of strange, doesn't it -- us\nbecoming part of the Federation forces\ntoo.」"
+    },
+    {
+      "id": "c23_0edc0",
+      "speaker": "Fa",
+      "en": "...Honestly, I'm... torn about becoming part of the military.",
+      "display_variant": "en",
+      "display_text": "「...Honestly, I'm... torn about becoming\npart of the military.」"
+    },
+    {
+      "id": "c23_0ee00",
+      "speaker": "Kamille",
+      "en": "You can take your time deciding. It's your own choice to make, after all.",
+      "display_variant": "en",
+      "display_text": "「You can take your time deciding. It's\nyour own choice to make, after all.」"
+    },
+    {
+      "id": "c23_0ee60",
+      "speaker": "Fa",
+      "en": "Yeah...",
+      "display_variant": "en",
+      "display_text": "「Yeah...」"
+    },
+    {
+      "id": "c23_0ee80",
+      "speaker": "Kamille",
+      "en": "Shinn and the others are probably walking toward the future on their own two feet too, right about now.",
+      "display_variant": "en",
+      "display_text": "「Shinn and the others are probably\nwalking toward the future on their own\ntwo feet too, right about now.」"
+    },
+    {
+      "id": "c23_0eed0",
+      "speaker": "Kamille",
+      "en": "Just like Lt. Quattro did.",
+      "display_variant": "en",
+      "display_text": "「Just like Lt. Quattro did.」"
+    },
+    {
+      "id": "c23_0ef00",
+      "speaker": "Amuro",
+      "en": "A fight as Quattro Bajeena, not Char Aznable... That's what he chose.",
+      "display_variant": "en",
+      "display_text": "「A fight as Quattro Bajeena, not Char\nAznable... That's what he chose.」"
+    },
+    {
+      "id": "c23_0ef70",
+      "speaker": "Kamille",
+      "en": "But was that all right? Lt. Quattro wanted you to go into politics too, Lt. Amuro...",
+      "display_variant": "en",
+      "display_text": "「But was that all right? Lt. Quattro\nwanted you to go into politics too, Lt.\nAmuro...」"
+    },
+    {
+      "id": "c23_0efe0",
+      "speaker": "Amuro",
+      "en": "I'll go on being a pilot a while longer. A man of my caliber, that's about all I can manage.",
+      "display_variant": "en",
+      "display_text": "「I'll go on being a pilot a while longer.\nA man of my caliber, that's about all I\ncan manage.」"
+    },
+    {
+      "id": "c23_0f030",
+      "speaker": "Kamille",
+      "en": "That's...",
+      "display_variant": "en",
+      "display_text": "「That's...」"
+    },
+    {
+      "id": "c23_0f050",
+      "speaker": "Amuro",
+      "en": "But if the day comes when even a man like me is needed, I'll think about it. Same as that man did.",
+      "display_variant": "en",
+      "display_text": "「But if the day comes when even a man\nlike me is needed, I'll think about it.\nSame as that man did.」"
+    },
+    {
+      "id": "c23_0f0b0",
+      "speaker": "Kamille",
+      "en": "Yes...!",
+      "display_variant": "en",
+      "display_text": "「Yes...!」"
+    },
+    {
+      "id": "c23_0f0d0",
+      "speaker": "Amuro",
+      "en": "$n... where are you...",
+      "display_variant": "en",
+      "display_text": "（$n... where are you...）"
+    },
+    {
+      "id": "c23_0f0f0",
+      "speaker": "Kamille",
+      "en": "The world has stabilized. I wanted to celebrate that together with you...",
+      "display_variant": "en",
+      "display_text": "（The world has stabilized. I wanted to\ncelebrate that together with you...）"
+    },
+    {
+      "id": "c23_0f160",
+      "speaker": "Toby",
+      "en": "...Hey, Chief... Are we... never gonna get back to our own world...?",
+      "display_variant": "en",
+      "display_text": "「...Hey, Chief... Are we... never gonna\nget back to our own world...?」"
+    },
+    {
+      "id": "c23_0f1b0",
+      "speaker": "Denzel",
+      "en": "The dimensional boundary's stabilized thanks to the spacetime restoration. There shouldn't be any more shifts.",
+      "display_variant": "en",
+      "display_text": "「The dimensional boundary's stabilized\nthanks to the spacetime restoration.\nThere shouldn't be any more shifts.」"
+    },
+    {
+      "id": "c23_0f200",
+      "speaker": "Toby",
+      "en": "We... got tricked by that Asakim guy, ended up fighting a Virgola from another world...",
+      "display_variant": "en",
+      "display_text": "「We... got tricked by that Asakim guy,\nended up fighting a Virgola from another\nworld...」"
+    },
+    {
+      "id": "c23_0f260",
+      "speaker": "Toby",
+      "en": "And in the end, not being able to go home -- isn't that just too unlucky?",
+      "display_variant": "en",
+      "display_text": "「And in the end, not being able to go\nhome -- isn't that just too unlucky?」"
+    },
+    {
+      "id": "c23_0f2b0",
+      "speaker": "Denzel",
+      "en": "Complaining won't get us anywhere. Anyway, the Virgola's been repaired. We've got no choice but to make it in this world.",
+      "display_variant": "fit",
+      "display_text": "「Complaining won't help. Anyway, the\nVirgola's repaired. We've got no choice\nbut to make it in this world.」"
+    },
+    {
+      "id": "c23_0f320",
+      "speaker": "Toby",
+      "en": "Make it, how...? Doing what?",
+      "display_variant": "en",
+      "display_text": "「Make it, how...? Doing what?」"
+    },
+    {
+      "id": "c23_0f340",
+      "speaker": "Denzel",
+      "en": "Well, that's...",
+      "display_variant": "en",
+      "display_text": "「Well, that's...」"
+    },
+    {
+      "id": "c23_0f360",
+      "speaker": "$n",
+      "en": "Um...",
+      "display_variant": "en",
+      "display_text": "「Um...」"
+    },
+    {
+      "id": "c23_0f370",
+      "speaker": "Toby",
+      "en": "You're...!?",
+      "display_variant": "en",
+      "display_text": "「You're...!?」"
+    },
+    {
+      "id": "c23_0f390",
+      "speaker": "Denzel",
+      "en": "That voice... you're the pilot of that winged Virgola...",
+      "display_variant": "en",
+      "display_text": "「That voice... you're the pilot of that\nwinged Virgola...」"
+    },
+    {
+      "id": "c23_0f3d0",
+      "speaker": "$n",
+      "en": "...If you're willing, would you form a team with me?",
+      "display_variant": "en",
+      "display_text": "「...If you're willing, would you form a\nteam with me?」"
+    },
+    {
+      "id": "c23_0f410",
+      "speaker": "Toby",
+      "en": "Team...?",
+      "display_variant": "en",
+      "display_text": "「Team...?」"
+    },
+    {
+      "id": "c23_0f430",
+      "speaker": "$n",
+      "en": "A team that was my pride... the reason I had for living.",
+      "display_variant": "en",
+      "display_text": "「A team that was my pride... the reason\nI had for living.」"
+    },
+    {
+      "id": "c23_0f470",
+      "speaker": "$n",
+      "en": "Please lend me your strength, for a new fight in this world.",
+      "display_variant": "en",
+      "display_text": "「Please lend me your strength, for a\nnew fight in this world.」"
+    },
+    {
+      "id": "c23_0f4c0",
+      "speaker": "Denzel",
+      "en": "Your pride, you say...",
+      "display_variant": "en",
+      "display_text": "「Your pride, you say...」"
+    },
+    {
+      "id": "c23_0f4f0",
+      "speaker": "$n",
+      "en": "Yes... Its name is Glory Star.",
+      "display_variant": "en",
+      "display_text": "「Yes... Its name is Glory Star.」"
+    },
+    {
+      "id": "c23_0f530",
+      "speaker": "Daisuke",
+      "en": "Thanks to the spacetime restoration, the multiverse's dimensional boundaries have stabilized, and the world goes on.",
+      "display_variant": "en",
+      "display_text": "「Thanks to the spacetime restoration,\nthe multiverse's dimensional boundaries\nhave stabilized, and the world goes on.」"
+    },
+    {
+      "id": "c23_0f580",
+      "speaker": "Daisuke",
+      "en": "But no matter what kind of world it becomes, our friendship won't change.",
+      "display_variant": "en",
+      "display_text": "「But no matter what kind of world it\nbecomes, our friendship won't change.」"
+    },
+    {
+      "id": "c23_0f5d0",
+      "speaker": "Kappei",
+      "en": "That's right... I'll never forget the day we all ate rice balls together...",
+      "display_variant": "en",
+      "display_text": "（That's right... I'll never forget the day\nwe all ate rice balls together...）"
+    },
+    {
+      "id": "c23_0f630",
+      "speaker": "Renton",
+      "en": "$n... I'm back in this awful town, but it's the one that matters to me most...",
+      "display_variant": "en",
+      "display_text": "（$n... I'm back in this awful town, but\nit's the one that matters to me most...）"
+    },
+    {
+      "id": "c23_0f680",
+      "speaker": "Garrod",
+      "en": "And our fight too.",
+      "display_variant": "en",
+      "display_text": "「And our fight too.」"
+    },
+    {
+      "id": "c23_0f6b0",
+      "speaker": "Loran",
+      "en": "Yeah.",
+      "display_variant": "en",
+      "display_text": "「Yeah.」"
+    },
+    {
+      "id": "c23_0f6c0",
+      "speaker": "Gainer",
+      "en": "Gain... $n, Mel... I believe I'll get to see you all again too...",
+      "display_variant": "en",
+      "display_text": "（Gain... $n, Mel... I believe I'll get to\nsee you all again too...）"
+    },
+    {
+      "id": "c23_0f720",
+      "speaker": "Holland",
+      "en": "...You sure this middle-of-nowhere spot is fine, repairman?",
+      "display_variant": "en",
+      "display_text": "「...You sure this middle-of-nowhere spot\nis fine, repairman?」"
+    },
+    {
+      "id": "c23_0f760",
+      "speaker": "$n",
+      "en": "Yeah. Thanks for the ride, Holland.",
+      "display_variant": "en",
+      "display_text": "「Yeah. Thanks for the ride, Holland.」"
+    },
+    {
+      "id": "c23_0f7a0",
+      "speaker": "Gain",
+      "en": "You're a stubborn one, though. Here I thought you'd gotten caught up in the spacetime restoration's shift, and you turn out just fine after all.",
+      "display_variant": "fit",
+      "display_text": "「You're a stubborn one. Thought you'd\ngotten caught in the spacetime\nrestoration's shift, but you're just fine.」"
+    },
+    {
+      "id": "c23_0f810",
+      "speaker": "$n",
+      "en": "Well... you know how tough I am.",
+      "display_variant": "en",
+      "display_text": "「Well... you know how tough I am.」"
+    },
+    {
+      "id": "c23_0f840",
+      "speaker": "$n",
+      "en": "Though it's not like everything turned out okay.",
+      "display_variant": "en",
+      "display_text": "「Though it's not like everything turned\nout okay.」"
+    },
+    {
+      "id": "c23_0f880",
+      "speaker": "Holland",
+      "en": "So you're setting out on a journey to find Mel, now that she's gone missing.",
+      "display_variant": "en",
+      "display_text": "「So you're setting out on a journey to\nfind Mel, now that she's gone missing.」"
+    },
+    {
+      "id": "c23_0f8d0",
+      "speaker": "$n",
+      "en": "Yeah. A wandering repairman, starting over again.",
+      "display_variant": "en",
+      "display_text": "「Yeah. A wandering repairman, starting\nover again.」"
+    },
+    {
+      "id": "c23_0f900",
+      "speaker": "Gain",
+      "en": "If I find any lead on Mel, I'll get in touch. Take care of yourself, $n.",
+      "display_variant": "en",
+      "display_text": "「If I find any lead on Mel, I'll get in\ntouch. Take care of yourself, $n.」"
+    },
+    {
+      "id": "c23_0f950",
+      "speaker": "$n",
+      "en": "You too, Gain. Next time, let's drink to our reunion.",
+      "display_variant": "en",
+      "display_text": "「You too, Gain. Next time, let's drink to\nour reunion.」"
+    },
+    {
+      "id": "c23_0f990",
+      "speaker": "Holland",
+      "en": "Before that, there's my kid's debut party.",
+      "display_variant": "en",
+      "display_text": "「Before that, there's my kid's debut\nparty.」"
+    },
+    {
+      "id": "c23_0f9c0",
+      "speaker": "$n",
+      "en": "Oh boy... I can already picture you being a doting fool of a father. Good luck, charisma of the young.",
+      "display_variant": "en",
+      "display_text": "「Oh boy... I can already picture you\nbeing a doting fool of a father. Good\nluck, charisma of the young.」"
+    },
+    {
+      "id": "c23_0fa10",
+      "speaker": "Gain",
+      "en": "Holland... take me a bit further east, would you.",
+      "display_variant": "en",
+      "display_text": "「Holland... take me a bit further east,\nwould you.」"
+    },
+    {
+      "id": "c23_0fa40",
+      "speaker": "Holland",
+      "en": "Okay. We're just wandering around chasing Trapar anyway.",
+      "display_variant": "en",
+      "display_text": "「Okay. We're just wandering around\nchasing Trapar anyway.」"
+    },
+    {
+      "id": "c23_0fa90",
+      "speaker": "Holland",
+      "en": "See you, $n.",
+      "display_variant": "en",
+      "display_text": "「See you, $n.」"
+    },
+    {
+      "id": "c23_0fab0",
+      "speaker": "Gain",
+      "en": "Hang in there, The Heat.",
+      "display_variant": "en",
+      "display_text": "「Hang in there, The Heat.」"
+    },
+    {
+      "id": "c23_0fad0",
+      "speaker": "$n",
+      "en": "Yeah!",
+      "display_variant": "en",
+      "display_text": "「Yeah!」"
+    },
+    {
+      "id": "c23_0fae0",
+      "speaker": "$n",
+      "en": "Well then, Gunleon... Where should I even start...",
+      "display_variant": "en",
+      "display_text": "「Well then, Gunleon... Where should I\neven start...」"
+    },
+    {
+      "id": "c23_0fb20",
+      "speaker": "Breaker",
+      "en": "Um... could you be Mister The Heat, by any chance?",
+      "display_variant": "en",
+      "display_text": "「Um... could you be Mister The Heat, by\nany chance?」"
+    },
+    {
+      "id": "c23_0fb60",
+      "speaker": "$n",
+      "en": "And you must be the guy who sold Mel that camera!",
+      "display_variant": "en",
+      "display_text": "「And you must be the guy who sold Mel\nthat camera!」"
+    },
+    {
+      "id": "c23_0fba0",
+      "speaker": "Breaker",
+      "en": "'Sold,' you say...! You're the one who threw me out, remember!",
+      "display_variant": "en",
+      "display_text": "「'Sold,' you say...! You're the one who\nthrew me out, remember!」"
+    },
+    {
+      "id": "c23_0fbf0",
+      "speaker": "$n",
+      "en": "Oh... right, that's right. Sorry, sorry. Let me pay you what I owe.",
+      "display_variant": "en",
+      "display_text": "「Oh... right, that's right. Sorry, sorry.\nLet me pay you what I owe.」"
+    },
+    {
+      "id": "c23_0fc40",
+      "speaker": "Breaker",
+      "en": "Nah, it's fine. Seems like that camera came in handy anyway.",
+      "display_variant": "en",
+      "display_text": "「Nah, it's fine. Seems like that camera\ncame in handy anyway.」"
+    },
+    {
+      "id": "c23_0fc90",
+      "speaker": "Breaker",
+      "en": "So, mister... if you're interested, I've got a great find stamped with the Siberian Railway seal. Want to buy it?",
+      "display_variant": "en",
+      "display_text": "「So, mister... if you're interested, I've\ngot a great find stamped with the\nSiberian Railway seal. Want to buy it?」"
+    },
+    {
+      "id": "c23_0fcf0",
+      "speaker": "$n",
+      "en": "Huh? Isn't 'Siberia' spelled 'CIVELIA'?",
+      "display_variant": "en",
+      "display_text": "「Huh? Isn't 'Siberia' spelled 'CIVELIA'?」"
+    },
+    {
+      "id": "c23_0fd30",
+      "speaker": "???",
+      "en": "Same as ever, I see...",
+      "display_variant": "en",
+      "display_text": "「Same as ever, I see...」"
+    },
+    {
+      "id": "c23_0fd50",
+      "speaker": "$n",
+      "en": "Y-you're... Mel!?",
+      "display_variant": "en",
+      "display_text": "「Y-you're... Mel!?」"
+    },
+    {
+      "id": "c23_0fd70",
+      "speaker": "Mel",
+      "en": "Ehehe... looks like the Sphere came out of my body when the spacetime restoration happened.",
+      "display_variant": "en",
+      "display_text": "「Ehehe... looks like the Sphere came out\nof my body when the spacetime\nrestoration happened.」"
+    },
+    {
+      "id": "c23_0fdc0",
+      "speaker": "Mel",
+      "en": "Thanks to that, I grew up four years' worth all at once.",
+      "display_variant": "en",
+      "display_text": "「Thanks to that, I grew up four years'\nworth all at once.」"
+    },
+    {
+      "id": "c23_0fdf0",
+      "speaker": "$n",
+      "en": "Y-you...",
+      "display_variant": "en",
+      "display_text": "「Y-you...」"
+    },
+    {
+      "id": "c23_0fe00",
+      "speaker": "$n",
+      "en": "You haven't changed a bit, except for your hair!!",
+      "display_variant": "en",
+      "display_text": "「You haven't changed a bit, except for\nyour hair!!」"
+    },
+    {
+      "id": "c23_0fe30",
+      "speaker": "Mel",
+      "en": "But it's a promise, Darling. That once my hair grew down to my shoulders, we'd get married.",
+      "display_variant": "en",
+      "display_text": "「But it's a promise, Darling. That once\nmy hair grew down to my shoulders, we'd\nget married.」"
+    },
+    {
+      "id": "c23_0fe90",
+      "speaker": "$n",
+      "en": "Out of one mess, straight into another...! What do I do...!?",
+      "display_variant": "en",
+      "display_text": "（Out of one mess, straight into\nanother...! What do I do...!?）"
+    },
+    {
+      "id": "c23_0fed0",
+      "speaker": "Mel",
+      "en": "Come on, Darling!",
+      "display_variant": "en",
+      "display_text": "「Come on, Darling!」"
+    },
+    {
+      "id": "c23_0fef0",
+      "speaker": "$n",
+      "en": "Well... it'll work out... No -- I'll make it work out. Whatever it takes.",
+      "display_variant": "en",
+      "display_text": "「Well... it'll work out... No -- I'll make\nit work out. Whatever it takes.」"
+    },
+    {
+      "id": "c23_0ff30",
+      "speaker": "$n",
+      "en": "That's the way The Heat lives, after all.",
+      "display_variant": "en",
+      "display_text": "「That's the way The Heat lives, after\nall.」"
+    },
+    {
+      "id": "c23_0ff60",
+      "speaker": "Loran",
+      "en": "This is goodbye, White Doll... A lot's happened since the night of my coming-of-age ceremony, up until today...",
+      "display_variant": "en",
+      "display_text": "「This is goodbye, White Doll... A lot's\nhappened since the night of my\ncoming-of-age ceremony, up until today...」"
+    },
+    {
+      "id": "c23_0ffc0",
+      "speaker": "Loran",
+      "en": "Thanks to how hard you fought, peaceful days have come back around again.",
+      "display_variant": "en",
+      "display_text": "「Thanks to how hard you fought,\npeaceful days have come back around\nagain.」"
+    },
+    {
+      "id": "c23_10010",
+      "speaker": "Joseph",
+      "en": "About ready, Loran? We're burying White Doll.",
+      "display_variant": "en",
+      "display_text": "「About ready, Loran? We're burying White\nDoll.」"
+    },
+    {
+      "id": "c23_10060",
+      "speaker": "Loran",
+      "en": "Yeah... White Doll's going to become a stone statue on this mountain again.",
+      "display_variant": "en",
+      "display_text": "「Yeah... White Doll's going to become a\nstone statue on this mountain again.」"
+    },
+    {
+      "id": "c23_100b0",
+      "speaker": "Sid",
+      "en": "This one's power is special, after all. We can't go treating it like any other mechanical doll.",
+      "display_variant": "en",
+      "display_text": "「This one's power is special, after all.\nWe can't go treating it like any other\nmechanical doll.」"
+    },
+    {
+      "id": "c23_10110",
+      "speaker": "Loran",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c23_10130",
+      "speaker": "Joseph",
+      "en": "What's wrong? Is the goodbye getting hard?",
+      "display_variant": "en",
+      "display_text": "「What's wrong? Is the goodbye getting\nhard?」"
+    },
+    {
+      "id": "c23_10170",
+      "speaker": "Loran",
+      "en": "That's part of it, but...",
+      "display_variant": "en",
+      "display_text": "「That's part of it, but...」"
+    },
+    {
+      "id": "c23_10190",
+      "speaker": "Loran",
+      "en": "I was just wondering what White Doll was thinking about, sleeping here all that unimaginably long time...",
+      "display_variant": "en",
+      "display_text": "「I was just wondering what White Doll\nwas thinking about, sleeping here all that\nunimaginably long time...」"
+    },
+    {
+      "id": "c23_10200",
+      "speaker": "Joseph",
+      "en": "You're such a sentimental guy. A mobile suit's a machine. It doesn't have feelings.",
+      "display_variant": "en",
+      "display_text": "「You're such a sentimental guy. A mobile\nsuit's a machine. It doesn't have feelings.」"
+    },
+    {
+      "id": "c23_10250",
+      "speaker": "Joseph",
+      "en": "It woke up because its automatic defense system reacted to the Dianna Counter's attack.",
+      "display_variant": "en",
+      "display_text": "「It woke up because its automatic\ndefense system reacted to the Dianna\nCounter's attack.」"
+    },
+    {
+      "id": "c23_102c0",
+      "speaker": "Loran",
+      "en": "But the fighting's over now. Nothing's going to disturb White Doll's sleep anymore, right?",
+      "display_variant": "en",
+      "display_text": "「But the fighting's over now. Nothing's\ngoing to disturb White Doll's sleep\nanymore, right?」"
+    },
+    {
+      "id": "c23_10330",
+      "speaker": "Joseph",
+      "en": "Let's hope so...",
+      "display_variant": "en",
+      "display_text": "「Let's hope so...」"
+    },
+    {
+      "id": "c23_10350",
+      "speaker": "Sid",
+      "en": "Miss Sochie, Miashei! Get the work started!",
+      "display_variant": "en",
+      "display_text": "「Miss Sochie, Miashei! Get the work\nstarted!」"
+    },
+    {
+      "id": "c23_10390",
+      "speaker": "Miashei",
+      "en": "Got it! Leave the digging to the Kapool!",
+      "display_variant": "en",
+      "display_text": "「Got it! Leave the digging to the\nKapool!」"
+    },
+    {
+      "id": "c23_103d0",
+      "speaker": "Sochie",
+      "en": "Loran... it's dangerous standing there like that.",
+      "display_variant": "en",
+      "display_text": "「Loran... it's dangerous standing there\nlike that.」"
+    },
+    {
+      "id": "c23_10410",
+      "speaker": "Loran",
+      "en": "Right, Miss.",
+      "display_variant": "en",
+      "display_text": "「Right, Miss.」"
+    },
+    {
+      "id": "c23_10430",
+      "speaker": "Loran",
+      "en": "White Doll reacted to something...?",
+      "display_variant": "en",
+      "display_text": "「White Doll reacted to something...?」"
+    },
+    {
+      "id": "c23_10460",
+      "speaker": "Sochie",
+      "en": "What do you mean!? You shut the engine off, didn't you!",
+      "display_variant": "en",
+      "display_text": "「What do you mean!? You shut the engine\noff, didn't you!」"
+    },
+    {
+      "id": "c23_104a0",
+      "speaker": "Loran",
+      "en": "It started up on its own! This... this is the same as that night!",
+      "display_variant": "en",
+      "display_text": "「It started up on its own! This... this\nis the same as that night!」"
+    },
+    {
+      "id": "c23_104f0",
+      "speaker": "Sochie",
+      "en": "So it's found another enemy!?",
+      "display_variant": "en",
+      "display_text": "「So it's found another enemy!?」"
+    },
+    {
+      "id": "c23_10520",
+      "speaker": "Loran",
+      "en": "I don't know! But if this keeps up...",
+      "display_variant": "en",
+      "display_text": "「I don't know! But if this keeps up...」"
+    },
+    {
+      "id": "c23_105a0",
+      "speaker": "Gainer",
+      "en": "Thank you very much, Duke Medaiyu. I'm returning the Overman I borrowed.",
+      "display_variant": "en",
+      "display_text": "「Thank you very much, Duke Medaiyu. I'm\nreturning the Overman I borrowed.」"
+    },
+    {
+      "id": "c23_10600",
+      "speaker": "Medaiyu",
+      "en": "Well done, Gainer Sanga. As for the matter of the Exodus, it's not my place to say anything...",
+      "display_variant": "en",
+      "display_text": "「Well done, Gainer Sanga. As for the\nmatter of the Exodus, it's not my place\nto say anything...」"
+    },
+    {
+      "id": "c23_10670",
+      "speaker": "Medaiyu",
+      "en": "But I will commend you for saving the world with the use of my Overman.",
+      "display_variant": "en",
+      "display_text": "「But I will commend you for saving the\nworld with the use of my Overman.」"
+    },
+    {
+      "id": "c23_106c0",
+      "speaker": "Gainer",
+      "en": "I just... did everything I could, together with my friends.",
+      "display_variant": "en",
+      "display_text": "「I just... did everything I could,\ntogether with my friends.」"
+    },
+    {
+      "id": "c23_10710",
+      "speaker": "Medaiyu",
+      "en": "There's no need for modesty. I'm also grateful to you and Adette Kistler for protecting Ana.",
+      "display_variant": "en",
+      "display_text": "「There's no need for modesty. I'm also\ngrateful to you and Adette Kistler for\nprotecting Ana.」"
+    },
+    {
+      "id": "c23_10780",
+      "speaker": "Sara",
+      "en": "Um... why does Miss Adette's name come up there?",
+      "display_variant": "en",
+      "display_text": "「Um... why does Miss Adette's name come\nup there?」"
+    },
+    {
+      "id": "c23_107d0",
+      "speaker": "Ana",
+      "en": "Please don't worry about it. That's just between us.",
+      "display_variant": "en",
+      "display_text": "「Please don't worry about it. That's\njust between us.」"
+    },
+    {
+      "id": "c23_10810",
+      "speaker": "Gainer",
+      "en": "So... Duke Medaiyu, what do you intend to do with King -- I mean, with that Overman?",
+      "display_variant": "en",
+      "display_text": "「So... Duke Medaiyu, what do you intend\nto do with King -- I mean, with that\nOverman?」"
+    },
+    {
+      "id": "c23_10880",
+      "speaker": "Medaiyu",
+      "en": "Well... In truth, I'd like to show it to the public as the savior of the world, but...",
+      "display_variant": "en",
+      "display_text": "「Well... In truth, I'd like to show it to\nthe public as the savior of the world,\nbut...」"
+    },
+    {
+      "id": "c23_108e0",
+      "speaker": "Medaiyu",
+      "en": "I've been told, since my ancestors' time, that it must never be shown to anyone.",
+      "display_variant": "en",
+      "display_text": "「I've been told, since my ancestors'\ntime, that it must never be shown to\nanyone.」"
+    },
+    {
+      "id": "c23_10930",
+      "speaker": "Sara",
+      "en": "Has that Overman been in Wulgusk since long ago?",
+      "display_variant": "en",
+      "display_text": "「Has that Overman been in Wulgusk since\nlong ago?」"
+    },
+    {
+      "id": "c23_10980",
+      "speaker": "Medaiyu",
+      "en": "I don't know the details myself, but it's said that a distant ancestor of mine obtained it on the land of Yapan.",
+      "display_variant": "en",
+      "display_text": "「I don't know the details myself, but\nit's said that a distant ancestor of mine\nobtained it on the land of Yapan.」"
+    },
+    {
+      "id": "c23_109f0",
+      "speaker": "Medaiyu",
+      "en": "But apparently it was once lost from our hands, during the Great Upheaval.",
+      "display_variant": "en",
+      "display_text": "「But apparently it was once lost from\nour hands, during the Great Upheaval.」"
+    },
+    {
+      "id": "c23_10a30",
+      "speaker": "Bello",
+      "en": "The Great Upheaval... the so-called Black History, huh.",
+      "display_variant": "en",
+      "display_text": "「The Great Upheaval... the so-called\nBlack History, huh.」"
+    },
+    {
+      "id": "c23_10a60",
+      "speaker": "Medaiyu",
+      "en": "After that, they say every effort was made, and it was eventually brought back into our hands, but from that time on it was forbidden to leave the family's keeping.",
+      "display_variant": "fit",
+      "display_text": "「After that, every effort brought it\nback, but from then on, it was never to\nleave the family again.」"
+    },
+    {
+      "id": "c23_10ad0",
+      "speaker": "Gainer",
+      "en": "I-I'm sorry...! I had no idea there was such a history behind it, and I went and took it out without permission...",
+      "display_variant": "en",
+      "display_text": "「I-I'm sorry...! I had no idea there was\nsuch a history behind it, and I went and\ntook it out without permission...」"
+    },
+    {
+      "id": "c23_10b30",
+      "speaker": "Medaiyu",
+      "en": "It's fine. The world has been reborn as a multiverse. Breaking free of old customs is probably necessary too.",
+      "display_variant": "en",
+      "display_text": "「It's fine. The world has been reborn as\na multiverse. Breaking free of old customs\nis probably necessary too.」"
+    },
+    {
+      "id": "c23_10ba0",
+      "speaker": "Medaiyu",
+      "en": "For my part, I'd wanted to see my prized collection actually move, at least once.",
+      "display_variant": "en",
+      "display_text": "「For my part, I'd wanted to see my\nprized collection actually move, at least\nonce.」"
+    },
+    {
+      "id": "c23_10c00",
+      "speaker": "Gainer",
+      "en": "Hearing you say that puts my mind a little more at ease.",
+      "display_variant": "en",
+      "display_text": "「Hearing you say that puts my mind a\nlittle more at ease.」"
+    },
+    {
+      "id": "c23_10c40",
+      "speaker": "Gauli",
+      "en": "Excuse me, Duke Medaiyu! An emergency has occurred!",
+      "display_variant": "en",
+      "display_text": "「Excuse me, Duke Medaiyu! An emergency\nhas occurred!」"
+    },
+    {
+      "id": "c23_10c80",
+      "speaker": "Medaiyu",
+      "en": "What is it!?",
+      "display_variant": "en",
+      "display_text": "「What is it!?」"
+    },
+    {
+      "id": "c23_10ca0",
+      "speaker": "Adette",
+      "en": "King Gainer started moving on its own and flew off outside the dome!",
+      "display_variant": "en",
+      "display_text": "「King Gainer started moving on its own\nand flew off outside the dome!」"
+    },
+    {
+      "id": "c23_10cf0",
+      "speaker": "Medaiyu",
+      "en": "What!?",
+      "display_variant": "en",
+      "display_text": "「What!?」"
+    },
+    {
+      "id": "c23_10d10",
+      "speaker": "Sara",
+      "en": "What's going on, Gainer...!?",
+      "display_variant": "en",
+      "display_text": "「What's going on, Gainer...!?」"
+    },
+    {
+      "id": "c23_10d40",
+      "speaker": "Gainer",
+      "en": "I don't know either...!",
+      "display_variant": "en",
+      "display_text": "「I don't know either...!」"
+    },
+    {
+      "id": "c23_10d70",
+      "speaker": "Gainer",
+      "en": "But we can't just leave it be! Let's go, everyone!",
+      "display_variant": "en",
+      "display_text": "「But we can't just leave it be! Let's go,\neveryone!」"
+    },
+    {
+      "id": "c23_10df0",
+      "speaker": "Newscaster",
+      "en": "...To everyone watching this site. We bring you live coverage from the scene.",
+      "display_variant": "en",
+      "display_text": "「...To everyone watching this site. We\nbring you live coverage from the scene.」"
+    },
+    {
+      "id": "c23_10e40",
+      "speaker": "Newscaster",
+      "en": "The indiscriminate drone attacks that occurred simultaneously across the world are currently silent.",
+      "display_variant": "en",
+      "display_text": "「The indiscriminate drone attacks that\noccurred simultaneously across the world\nare currently silent.」"
+    },
+    {
+      "id": "c23_10eb0",
+      "speaker": "Newscaster",
+      "en": "The affected locations ranged widely, from urban areas to small settlements, and the duration of each attack was quite brief, but...",
+      "display_variant": "compact",
+      "display_text": "「The affected locations ranged from\nurban areas to small settlements, and\neach attack was quite brief, but...」"
+    },
+    {
+      "id": "c23_10f30",
+      "speaker": "Newscaster",
+      "en": "This series of incidents, reviving memories of the great war, is expected to have a major impact on civilian life.",
+      "display_variant": "en",
+      "display_text": "「This series of incidents, reviving\nmemories of the great war, is expected to\nhave a major impact on civilian life.」"
+    },
+    {
+      "id": "c23_10fb0",
+      "speaker": "Newscaster",
+      "en": "The masterminds and motive behind the incidents remain unknown, and the whereabouts of the drones that withdrew still cannot be determined.",
+      "display_variant": "compact",
+      "display_text": "「The masterminds and motive remain\nunknown, and the withdrawn drones'\nwhereabouts still cannot be determined.」"
+    },
+    {
+      "id": "c23_11030",
+      "speaker": "Newscaster",
+      "en": "No statement claiming responsibility has been issued, and confusion continues among citizens demanding an explanation of the situation.",
+      "display_variant": "compact",
+      "display_text": "「No statement of responsibility has been\nissued, and confusion continues among\ncitizens demanding answers.」"
+    },
+    {
+      "id": "c23_110b0",
+      "speaker": "Newscaster",
+      "en": "In response to this situation, the New Earth Federation government and the various nations centered around PLANT have just issued a joint statement.",
+      "display_variant": "compact",
+      "display_text": "「In response, the New Earth Federation\nand the nations centered around PLANT\nhave just issued a joint statement.」"
+    },
+    {
+      "id": "c23_11130",
+      "speaker": "Newscaster",
+      "en": "Please have a look.",
+      "display_variant": "en",
+      "display_text": "「Please have a look.」"
+    },
+    {
+      "id": "c23_11170",
+      "speaker": "Fitzgerald",
+      "en": "To all who live in this multiverse. I am William Wallace Fitzgerald, President of the New Earth Federation.",
+      "display_variant": "en",
+      "display_text": "「To all who live in this multiverse. I am\nWilliam Wallace Fitzgerald, President of\nthe New Earth Federation.」"
+    },
+    {
+      "id": "c23_111f0",
+      "speaker": "Fitzgerald",
+      "en": "Even as the establishment of an international body, joined by every nation that makes up this multiverse, moves forward...",
+      "display_variant": "fit",
+      "display_text": "「Even as nations across this multiverse\nmove to establish an international body...」"
+    },
+    {
+      "id": "c23_11250",
+      "speaker": "Fitzgerald",
+      "en": "I am issuing this statement as the representative of those nations.",
+      "display_variant": "en",
+      "display_text": "「I am issuing this statement as the\nrepresentative of those nations.」"
+    },
+    {
+      "id": "c23_112b0",
+      "speaker": "Fitzgerald",
+      "en": "The purposeless acts of terror that occurred simultaneously across the world are currently under investigation.",
+      "display_variant": "en",
+      "display_text": "「The purposeless acts of terror that\noccurred simultaneously across the world\nare currently under investigation.」"
+    },
+    {
+      "id": "c23_11320",
+      "speaker": "Fitzgerald",
+      "en": "The organization and motive behind them remain unknown, but we ask that everyone respond with a level head.",
+      "display_variant": "en",
+      "display_text": "「The organization and motive behind them\nremain unknown, but we ask that everyone\nrespond with a level head.」"
+    },
+    {
+      "id": "c23_113b0",
+      "speaker": "Fitzgerald",
+      "en": "As you know, thanks to the success of the spacetime restoration, this multiverse has regained its stability.",
+      "display_variant": "en",
+      "display_text": "「As you know, thanks to the success of\nthe spacetime restoration, this multiverse\nhas regained its stability.」"
+    },
+    {
+      "id": "c23_11420",
+      "speaker": "Fitzgerald",
+      "en": "However, as we saw in the fighting up until recently, it's entirely conceivable that people will appear who seek to exploit this opportunity for their own gain.",
+      "display_variant": "compact",
+      "display_text": "「However, as we saw in the recent\nfighting, people may well appear seeking\nto exploit this for their own gain.」"
+    },
+    {
+      "id": "c23_114b0",
+      "speaker": "Fitzgerald",
+      "en": "Abandoning reason and judgment out of fear and confusion will only give such people an opening to exploit.",
+      "display_variant": "en",
+      "display_text": "「Abandoning reason and judgment out of\nfear and confusion will only give such\npeople an opening to exploit.」"
+    },
+    {
+      "id": "c23_11520",
+      "speaker": "Fitzgerald",
+      "en": "So that we do not repeat the tragedies of the past, we ask that everyone please wait calmly for further announcements from the government.",
+      "display_variant": "compact",
+      "display_text": "「So we do not repeat past tragedies,\nplease wait calmly for further\nannouncements from the government.」"
+    },
+    {
+      "id": "c23_115a0",
+      "speaker": "Fitzgerald",
+      "en": "As soon as the investigation clarifies the situation, information will be delivered to you through the UN.",
+      "display_variant": "en",
+      "display_text": "「As soon as the investigation clarifies\nthe situation, information will be delivered\nto you through the UN.」"
+    },
+    {
+      "id": "c23_11610",
+      "speaker": "Fitzgerald",
+      "en": "I promise you all, as the representative of every nation, that all nations will cooperate to resolve this situation.",
+      "display_variant": "en",
+      "display_text": "「I promise you all, as the representative\nof every nation, that all nations will\ncooperate to resolve this situation.」"
+    },
+    {
+      "id": "c23_116b0",
+      "speaker": "Sochie",
+      "en": "This is awful... the city's a wreck.",
+      "display_variant": "en",
+      "display_text": "「This is awful... the city's a wreck.」"
+    },
+    {
+      "id": "c23_116e0",
+      "speaker": "Joseph",
+      "en": "You can see how things look everywhere on the UN feed, but it looks like machines from all the different organizations we fought were used in the attacks.",
+      "display_variant": "fit",
+      "display_text": "「You can see it everywhere on the UN\nfeed, but machines from every group we\nfought were used in the attacks.」"
+    },
+    {
+      "id": "c23_11750",
+      "speaker": "Miashei",
+      "en": "And all of those were drones, right!? Just who went and prepared something like that!?",
+      "display_variant": "en",
+      "display_text": "「And all of those were drones, right!?\nJust who went and prepared something like\nthat!?」"
+    },
+    {
+      "id": "c23_117b0",
+      "speaker": "Dianna",
+      "en": "It seems each nation has begun its investigation, but behind the scenes of a war that engulfed the entire world...",
+      "display_variant": "en",
+      "display_text": "「It seems each nation has begun its\ninvestigation, but behind the scenes of a\nwar that engulfed the entire world...」"
+    },
+    {
+      "id": "c23_11810",
+      "speaker": "Dianna",
+      "en": "That so much military strength was prepared is astonishing indeed.",
+      "display_variant": "en",
+      "display_text": "「That so much military strength was\nprepared is astonishing indeed.」"
+    },
+    {
+      "id": "c23_11860",
+      "speaker": "Loran",
+      "en": "Is White Doll reacting to something and starting to move connected to this incident somehow...?",
+      "display_variant": "en",
+      "display_text": "（Is White Doll reacting to something and\nstarting to move connected to this\nincident somehow...?）"
+    },
+    {
+      "id": "c23_118c0",
+      "speaker": "Loran",
+      "en": "But to go as far as using the Moonlight Butterfly... even for an automatic defense system, that's going too far...",
+      "display_variant": "fit",
+      "display_text": "（But to use the Moonlight Butterfly...\nthat's too far, even for an auto-defense\nsystem...）"
+    },
+    {
+      "id": "c23_11920",
+      "speaker": "Sochie",
+      "en": "Lady Dianna! There's an incoming transmission from Captain Jamil!",
+      "display_variant": "en",
+      "display_text": "「Lady Dianna! There's an incoming\ntransmission from Captain Jamil!」"
+    },
+    {
+      "id": "c23_11960",
+      "speaker": "Dianna",
+      "en": "Thank you, Sochie. Please put it through to the monitor.",
+      "display_variant": "en",
+      "display_text": "「Thank you, Sochie. Please put it\nthrough to the monitor.」"
+    },
+    {
+      "id": "c23_119b0",
+      "speaker": "Jamil",
+      "en": "It's been a while, Lady Dianna.",
+      "display_variant": "en",
+      "display_text": "「It's been a while, Lady Dianna.」"
+    },
+    {
+      "id": "c23_119e0",
+      "speaker": "Dianna",
+      "en": "These days, I'm living as Kihel Heim, an Earthling girl. There's no need to stand on ceremony.",
+      "display_variant": "en",
+      "display_text": "「These days, I'm living as Kihel Heim, an\nEarthling girl. There's no need to stand\non ceremony.」"
+    },
+    {
+      "id": "c23_11a50",
+      "speaker": "Dianna",
+      "en": "The fact that you've contacted me like this, I take it, means it's related to the incidents occurring across the entire world...",
+      "display_variant": "fit",
+      "display_text": "「Your contacting me like this, I take it,\nmeans it's tied to the incidents happening\nworldwide...」"
+    },
+    {
+      "id": "c23_11ac0",
+      "speaker": "Jamil",
+      "en": "As you've guessed. I imagine you've seen President Fitzgerald's statement...",
+      "display_variant": "en",
+      "display_text": "「As you've guessed. I imagine you've\nseen President Fitzgerald's statement...」"
+    },
+    {
+      "id": "c23_11b30",
+      "speaker": "Jamil",
+      "en": "It's been decided that an independent task force, transcending national borders, will be formed to investigate the situation and pursue the enemy.",
+      "display_variant": "fit",
+      "display_text": "「It's been decided an independent task\nforce, crossing borders, will investigate\nand pursue the enemy.」"
+    },
+    {
+      "id": "c23_11b90",
+      "speaker": "Sochie",
+      "en": "That's... could it be...!",
+      "display_variant": "en",
+      "display_text": "「That's... could it be...!」"
+    },
+    {
+      "id": "c23_11bc0",
+      "speaker": "Jamil",
+      "en": "Just as you expect. The members of $c have been called up.",
+      "display_variant": "en",
+      "display_text": "「Just as you expect. The members of\n$c have been called up.」"
+    },
+    {
+      "id": "c23_11c00",
+      "speaker": "Loran",
+      "en": "Everyone's going to gather together again, then.",
+      "display_variant": "en",
+      "display_text": "「Everyone's going to gather together\nagain, then.」"
+    },
+    {
+      "id": "c23_11c30",
+      "speaker": "Jamil",
+      "en": "Loran... join up with us, you and the others, along with the Turn A. Of course, participation is left to each person's own will, but...",
+      "display_variant": "compact",
+      "display_text": "「Loran... join us, you and the others,\nalong with the Turn A. Participation is up\nto each person's own will, but...」"
+    },
+    {
+      "id": "c23_11ca0",
+      "speaker": "Loran",
+      "en": "I'll go.",
+      "display_variant": "en",
+      "display_text": "「I'll go.」"
+    },
+    {
+      "id": "c23_11cc0",
+      "speaker": "Dianna",
+      "en": "Loran...",
+      "display_variant": "en",
+      "display_text": "「Loran...」"
+    },
+    {
+      "id": "c23_11ce0",
+      "speaker": "Loran",
+      "en": "This is a world that so many people fought to protect. If there's someone out there trying to destroy it, I'll fight them.",
+      "display_variant": "fit",
+      "display_text": "「This is a world many fought to protect.\nIf someone's trying to destroy it, I'll\nfight them.」"
+    },
+    {
+      "id": "c23_11d50",
+      "speaker": "Jamil",
+      "en": "Thank you. I'm grateful for your cooperation.",
+      "display_variant": "en",
+      "display_text": "「Thank you. I'm grateful for your\ncooperation.」"
+    },
+    {
+      "id": "c23_11d80",
+      "speaker": "Miashei",
+      "en": "Of course, we're coming too.",
+      "display_variant": "en",
+      "display_text": "「Of course, we're coming too.」"
+    },
+    {
+      "id": "c23_11db0",
+      "speaker": "Sochie",
+      "en": "Right! We can't forgive whoever's doing something this awful!",
+      "display_variant": "en",
+      "display_text": "「Right! We can't forgive whoever's doing\nsomething this awful!」"
+    },
+    {
+      "id": "c23_11e00",
+      "speaker": "Jamil",
+      "en": "I welcome your participation wholeheartedly. Members of the new Federation forces, ZAFT, Orb, and the Freeden are all set to gather on our end.",
+      "display_variant": "compact",
+      "display_text": "「I welcome it wholeheartedly. Members of\nthe new Federation, ZAFT, Orb, and the\nFreeden are all set to gather on our end.」"
+    },
+    {
+      "id": "c23_11e80",
+      "speaker": "Loran",
+      "en": "Garrod and the others are coming too, then.",
+      "display_variant": "en",
+      "display_text": "「Garrod and the others are coming too,\nthen.」"
+    },
+    {
+      "id": "c23_11eb0",
+      "speaker": "Jamil",
+      "en": "At the same time, over on the Gallia Continent, members from Japan, Zora, and Siberia will be gathering.",
+      "display_variant": "en",
+      "display_text": "「At the same time, over on the Gallia\nContinent, members from Japan, Zora, and\nSiberia will be gathering.」"
+    },
+    {
+      "id": "c23_11f10",
+      "speaker": "Dianna",
+      "en": "Captain Jamil, we don't know who the enemy is, but there's no such thing as too much strength.",
+      "display_variant": "en",
+      "display_text": "「Captain Jamil, we don't know who the\nenemy is, but there's no such thing as\ntoo much strength.」"
+    },
+    {
+      "id": "c23_11f70",
+      "speaker": "Dianna",
+      "en": "I'll order the Moonrace to join $c, and I'll be heading your way myself as well.",
+      "display_variant": "en",
+      "display_text": "「I'll order the Moonrace to join $c, and\nI'll be heading your way myself as well.」"
+    },
+    {
+      "id": "c23_11fc0",
+      "speaker": "Jamil",
+      "en": "Thank you very much, Lady Dianna.",
+      "display_variant": "en",
+      "display_text": "「Thank you very much, Lady Dianna.」"
+    },
+    {
+      "id": "c23_11ff0",
+      "speaker": "Dianna",
+      "en": "It's just as Loran Cehack said.",
+      "display_variant": "en",
+      "display_text": "「It's just as Loran Cehack said.」"
+    },
+    {
+      "id": "c23_12030",
+      "speaker": "Dianna",
+      "en": "This is a world that so many people believed in the future for, and protected with their lives.",
+      "display_variant": "en",
+      "display_text": "「This is a world that so many people\nbelieved in the future for, and protected\nwith their lives.」"
+    },
+    {
+      "id": "c23_12080",
+      "speaker": "Dianna",
+      "en": "As one who lives in this world, I too will fight anyone who tramples on people's happiness and peace.",
+      "display_variant": "en",
+      "display_text": "「As one who lives in this world, I too\nwill fight anyone who tramples on people's\nhappiness and peace.」"
+    },
+    {
+      "id": "c23_120e0",
+      "speaker": "Sara",
+      "en": "This is terrible... the city's been torn to pieces.",
+      "display_variant": "en",
+      "display_text": "「This is terrible... the city's been torn\nto pieces.」"
+    },
+    {
+      "id": "c23_12110",
+      "speaker": "Bello",
+      "en": "What the hell was that! You're telling me machines from all those different organizations we fought attacked the city!?",
+      "display_variant": "fit",
+      "display_text": "「What the hell was that! Machines from\nall those groups we fought attacked the\ncity!?」"
+    },
+    {
+      "id": "c23_12170",
+      "speaker": "Gauli",
+      "en": "I hear every last one of them was a drone. Just who could have prepared such a thing...",
+      "display_variant": "en",
+      "display_text": "「I hear every last one of them was a\ndrone. Just who could have prepared such\na thing...」"
+    },
+    {
+      "id": "c23_121d0",
+      "speaker": "Cynthia",
+      "en": "But isn't that weird? Up until just recently, the whole world was at war.",
+      "display_variant": "en",
+      "display_text": "「But isn't that weird? Up until just\nrecently, the whole world was at war.」"
+    },
+    {
+      "id": "c23_12220",
+      "speaker": "Cynthia",
+      "en": "I don't know who's behind it, but if they wanted to conquer the world or whatever, wouldn't they have made their move back then?",
+      "display_variant": "fit",
+      "display_text": "「I don't know who's behind it, but if\nthey wanted to conquer the world, why\nnot act back then?」"
+    },
+    {
+      "id": "c23_12290",
+      "speaker": "Sara",
+      "en": "True...",
+      "display_variant": "en",
+      "display_text": "「True...」"
+    },
+    {
+      "id": "c23_122b0",
+      "speaker": "Adette",
+      "en": "Besides, there's no way anyone could've prepared that much military strength behind the scenes of that whole war, however you look at it.",
+      "display_variant": "fit",
+      "display_text": "「Besides, no one could've prepared that\nmuch military strength behind that war's\nscenes, however you look at it.」"
+    },
+    {
+      "id": "c23_12310",
+      "speaker": "Gainer",
+      "en": "A mystery enemy... Don't tell me, was it them calling out to King Gainer...?",
+      "display_variant": "en",
+      "display_text": "（A mystery enemy... Don't tell me, was\nit them calling out to King Gainer...?）"
+    },
+    {
+      "id": "c23_12370",
+      "speaker": "Medaiyu",
+      "en": "Gainer, there's a transmission coming in for you.",
+      "display_variant": "en",
+      "display_text": "「Gainer, there's a transmission coming in\nfor you.」"
+    },
+    {
+      "id": "c23_123b0",
+      "speaker": "Ana",
+      "en": "I'll put it through to the monitor.",
+      "display_variant": "en",
+      "display_text": "「I'll put it through to the monitor.」"
+    },
+    {
+      "id": "c23_123d0",
+      "speaker": "Gainer",
+      "en": "Thank you.",
+      "display_variant": "en",
+      "display_text": "「Thank you.」"
+    },
+    {
+      "id": "c23_12400",
+      "speaker": "Koji",
+      "en": "Been a while, Gainer. You weren't up on Yapan's ceiling, so I figured I'd try reaching you over here.",
+      "display_variant": "en",
+      "display_text": "「Been a while, Gainer. You weren't up on\nYapan's ceiling, so I figured I'd try\nreaching you over here.」"
+    },
+    {
+      "id": "c23_12470",
+      "speaker": "Gainer",
+      "en": "Koji! Was Yapan all right!?",
+      "display_variant": "en",
+      "display_text": "「Koji! Was Yapan all right!?」"
+    },
+    {
+      "id": "c23_124b0",
+      "speaker": "Koji",
+      "en": "Luckily, Japan wasn't hit by their attack. Glad to hear you're all okay over there too.",
+      "display_variant": "en",
+      "display_text": "「Luckily, Japan wasn't hit by their\nattack. Glad to hear you're all okay over\nthere too.」"
+    },
+    {
+      "id": "c23_12500",
+      "speaker": "Koji",
+      "en": "But the situation's just as you'd know it. The whole world's in an uproar.",
+      "display_variant": "en",
+      "display_text": "「But the situation's just as you'd know\nit. The whole world's in an uproar.」"
+    },
+    {
+      "id": "c23_12550",
+      "speaker": "Koji",
+      "en": "Because of it, Daisuke and Marin and the others postponed their departure too.",
+      "display_variant": "en",
+      "display_text": "「Because of it, Daisuke and Marin and\nthe others postponed their departure too.」"
+    },
+    {
+      "id": "c23_12590",
+      "speaker": "Gainer",
+      "en": "Postponed their departure... could it be...?",
+      "display_variant": "en",
+      "display_text": "「Postponed their departure... could it\nbe...?」"
+    },
+    {
+      "id": "c23_125c0",
+      "speaker": "Koji",
+      "en": "Yeah...! Whoever it is, we're not letting them have their way with a world we just fought to protect.",
+      "display_variant": "en",
+      "display_text": "「Yeah...! Whoever it is, we're not letting\nthem have their way with a world we just\nfought to protect.」"
+    },
+    {
+      "id": "c23_12610",
+      "speaker": "Koji",
+      "en": "On the government's side too, apparently they're forming an independent task force, crossing national borders, to investigate the situation and pursue the enemy.",
+      "display_variant": "fit",
+      "display_text": "「The government too is forming a\ncross-border task force to investigate\nand pursue the enemy.」"
+    },
+    {
+      "id": "c23_12670",
+      "speaker": "Sara",
+      "en": "And Koji, Daisuke, and the others are joining too, then.",
+      "display_variant": "en",
+      "display_text": "「And Koji, Daisuke, and the others are\njoining too, then.」"
+    },
+    {
+      "id": "c23_126b0",
+      "speaker": "Koji",
+      "en": "Not just us. You guys too.",
+      "display_variant": "en",
+      "display_text": "「Not just us. You guys too.」"
+    },
+    {
+      "id": "c23_126e0",
+      "speaker": "Gainer",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c23_12700",
+      "speaker": "Koji",
+      "en": "In short, it's $c getting back together.",
+      "display_variant": "en",
+      "display_text": "「In short, it's $c getting back\ntogether.」"
+    },
+    {
+      "id": "c23_12720",
+      "speaker": "Gainer",
+      "en": "That same group's gathering again, then.",
+      "display_variant": "en",
+      "display_text": "「That same group's gathering again, then.」"
+    },
+    {
+      "id": "c23_12750",
+      "speaker": "Koji",
+      "en": "The enemy's a mystery, after all. There's no such thing as too much strength.",
+      "display_variant": "en",
+      "display_text": "「The enemy's a mystery, after all.\nThere's no such thing as too much\nstrength.」"
+    },
+    {
+      "id": "c23_12790",
+      "speaker": "Koji",
+      "en": "Over in North Ameria, I hear members centered around the new Federation forces and ZAFT are gathering.",
+      "display_variant": "en",
+      "display_text": "「Over in North Ameria, I hear members\ncentered around the new Federation forces\nand ZAFT are gathering.」"
+    },
+    {
+      "id": "c23_127f0",
+      "speaker": "Koji",
+      "en": "So... it's entirely up to you whether you join, but would you lend us your strength too?",
+      "display_variant": "en",
+      "display_text": "「So... it's entirely up to you whether\nyou join, but would you lend us your\nstrength too?」"
+    },
+    {
+      "id": "c23_12840",
+      "speaker": "Adette",
+      "en": "What's with the formalities? Don't be so distant.",
+      "display_variant": "en",
+      "display_text": "「What's with the formalities? Don't be\nso distant.」"
+    },
+    {
+      "id": "c23_12870",
+      "speaker": "Gauli",
+      "en": "To see what is right and not do it is a lack of courage.",
+      "display_variant": "en",
+      "display_text": "「To see what is right and not do it is\na lack of courage.」"
+    },
+    {
+      "id": "c23_128a0",
+      "speaker": "Sara",
+      "en": "We're plenty angry at this mystery enemy too, you know.",
+      "display_variant": "en",
+      "display_text": "「We're plenty angry at this mystery\nenemy too, you know.」"
+    },
+    {
+      "id": "c23_128e0",
+      "speaker": "Gainer",
+      "en": "We'll fight too. For the sake of this world everyone lives in.",
+      "display_variant": "en",
+      "display_text": "「We'll fight too. For the sake of this\nworld everyone lives in.」"
+    },
+    {
+      "id": "c23_12920",
+      "speaker": "Koji",
+      "en": "Thanks. Well... I figured you guys would say that.",
+      "display_variant": "en",
+      "display_text": "「Thanks. Well... I figured you guys would\nsay that.」"
+    },
+    {
+      "id": "c23_12970",
+      "speaker": "Koji",
+      "en": "We're gathering in eastern Gallia. The main members are Japan's Super Robot corps and the folks from Zora.",
+      "display_variant": "en",
+      "display_text": "「We're gathering in eastern Gallia. The\nmain members are Japan's Super Robot\ncorps and the folks from Zora.」"
+    },
+    {
+      "id": "c23_129e0",
+      "speaker": "Gainer",
+      "en": "Understood. We'll head for the rendezvous point too.",
+      "display_variant": "en",
+      "display_text": "「Understood. We'll head for the\nrendezvous point too.」"
+    },
+    {
+      "id": "c23_12a20",
+      "speaker": "Koji",
+      "en": "This is a world everyone protected with their lives. We can't ever forgive whoever's tearing it apart.",
+      "display_variant": "en",
+      "display_text": "「This is a world everyone protected with\ntheir lives. We can't ever forgive\nwhoever's tearing it apart.」"
+    },
+    {
+      "id": "c23_12a80",
+      "speaker": "Koji",
+      "en": "Let's do this. For the sake of everyone's world.",
+      "display_variant": "en",
+      "display_text": "「Let's do this. For the sake of\neveryone's world.」"
+    },
+    {
+      "id": "c23_12ab0",
+      "speaker": "Gainer",
+      "en": "Right...!",
+      "display_variant": "en",
+      "display_text": "「Right...!」"
+    },
+    {
+      "id": "c23_12ae0",
+      "speaker": "Banjo",
+      "en": "...I've been looking for you.",
+      "display_variant": "en",
+      "display_text": "「...I've been looking for you.」"
+    },
+    {
+      "id": "c23_12b00",
+      "speaker": "Guin",
+      "en": "It's you two... Feels like it's been quite a while.",
+      "display_variant": "en",
+      "display_text": "「It's you two... Feels like it's been\nquite a while.」"
+    },
+    {
+      "id": "c23_12b40",
+      "speaker": "Roger",
+      "en": "It was quite a job getting this far. Miss Lily Borjarno told me you'd set off on a journey of wandering.",
+      "display_variant": "en",
+      "display_text": "「It was quite a job getting this far.\nMiss Lily Borjarno told me you'd set off\non a journey of wandering.」"
+    },
+    {
+      "id": "c23_12bb0",
+      "speaker": "Roger",
+      "en": "Without the cooperation of Commander Fudo of the DEAVA, it would've taken even longer to find you.",
+      "display_variant": "en",
+      "display_text": "「Without the cooperation of Commander\nFudo of the DEAVA, it would've taken\neven longer to find you.」"
+    },
+    {
+      "id": "c23_12c10",
+      "speaker": "Guin",
+      "en": "So, what business could you have with an empty-handed man like me now?",
+      "display_variant": "en",
+      "display_text": "「So, what business could you have with\nan empty-handed man like me now?」"
+    },
+    {
+      "id": "c23_12c50",
+      "speaker": "Guin",
+      "en": "Are you here to blame me for what happened in Paradigm City?",
+      "display_variant": "en",
+      "display_text": "「Are you here to blame me for what\nhappened in Paradigm City?」"
+    },
+    {
+      "id": "c23_12c90",
+      "speaker": "Roger",
+      "en": "Metropolis...",
+      "display_variant": "en",
+      "display_text": "「Metropolis...」"
+    },
+    {
+      "id": "c23_12cb0",
+      "speaker": "Guin",
+      "en": "...!",
+      "display_variant": "en",
+      "display_text": "「...!」"
+    },
+    {
+      "id": "c23_12cc0",
+      "speaker": "Roger",
+      "en": "The book depicting the end of the world, written by Gordon Rosewater...",
+      "display_variant": "en",
+      "display_text": "「The book depicting the end of the\nworld, written by Gordon Rosewater...」"
+    },
+    {
+      "id": "c23_12d10",
+      "speaker": "Roger",
+      "en": "I want to hear what was written on its final page.",
+      "display_variant": "en",
+      "display_text": "「I want to hear what was written on its\nfinal page.」"
+    },
+    {
+      "id": "c23_12d60",
+      "speaker": "Guin",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c23_12d80",
+      "speaker": "Banjo",
+      "en": "Rebirth after destruction... We want to know the truth of it.",
+      "display_variant": "en",
+      "display_text": "「Rebirth after destruction... We want to\nknow the truth of it.」"
+    }
+  ]
+}

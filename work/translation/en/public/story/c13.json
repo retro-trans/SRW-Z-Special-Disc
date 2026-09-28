@@ -1,0 +1,1958 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c13_05790",
+      "speaker": "Sandman",
+      "en": "Everyone in $c, sortie!",
+      "display_variant": "en",
+      "display_text": "「Everyone in $c, sortie!」"
+    },
+    {
+      "id": "c13_057c0",
+      "speaker": "Chuil",
+      "en": "Please do your best, everyone in $c!",
+      "display_variant": "en",
+      "display_text": "「Please do your best, everyone in $c!」"
+    },
+    {
+      "id": "c13_057f0",
+      "speaker": "Anya",
+      "en": "We can't fight alongside you, but...",
+      "display_variant": "en",
+      "display_text": "「We can't fight alongside you, but...」"
+    },
+    {
+      "id": "c13_05830",
+      "speaker": "Brigitta",
+      "en": "I'll cheer you on with everything I've got!",
+      "display_variant": "en",
+      "display_text": "「I'll cheer you on with everything I've\ngot!」"
+    },
+    {
+      "id": "c13_05860",
+      "speaker": "Koji",
+      "en": "If we lose after this, I couldn't call myself a man.",
+      "display_variant": "en",
+      "display_text": "「If we lose after this, I couldn't call\nmyself a man.」"
+    },
+    {
+      "id": "c13_05890",
+      "speaker": "Maria",
+      "en": "Let's do our best, Koji!",
+      "display_variant": "en",
+      "display_text": "「Let's do our best, Koji!」"
+    },
+    {
+      "id": "c13_058b0",
+      "speaker": "Toshiya",
+      "en": "Hold on a second! Maria's my partner today!",
+      "display_variant": "en",
+      "display_text": "「Hold on a second! Maria's my partner\ntoday!」"
+    },
+    {
+      "id": "c13_05900",
+      "speaker": "Sochie",
+      "en": "Let's go, Katz! We'll shine in battle, and ride that momentum to win the table tennis tournament too!",
+      "display_variant": "fit",
+      "display_text": "「Let's go, Katz! We'll shine in battle,\nthen ride that momentum to win the table\ntennis tourney too!」"
+    },
+    {
+      "id": "c13_05960",
+      "speaker": "Katz",
+      "en": "Loran's got it rough... Having to deal with such a strong-willed young lady all this time...",
+      "display_variant": "en",
+      "display_text": "（Loran's got it rough... Having to deal\nwith such a strong-willed young lady all\nthis time...）"
+    },
+    {
+      "id": "c13_059c0",
+      "speaker": "Touga",
+      "en": "Lunamaria, I'll need your support for this.",
+      "display_variant": "en",
+      "display_text": "「Lunamaria, I'll need your support for\nthis.」"
+    },
+    {
+      "id": "c13_059f0",
+      "speaker": "Eiji",
+      "en": "Hold on, Touga. Lunamaria's my partner.",
+      "display_variant": "en",
+      "display_text": "「Hold on, Touga. Lunamaria's my partner.」"
+    },
+    {
+      "id": "c13_05a30",
+      "speaker": "Eiji",
+      "en": "Even you, the pilot of God Gravion, don't get to butt in here.",
+      "display_variant": "en",
+      "display_text": "「Even you, the pilot of God Gravion,\ndon't get to butt in here.」"
+    },
+    {
+      "id": "c13_05a80",
+      "speaker": "Lunamaria",
+      "en": "Roger, Eiji! Let's do our best!",
+      "display_variant": "en",
+      "display_text": "「Roger, Eiji! Let's do our best!」"
+    },
+    {
+      "id": "c13_05ab0",
+      "speaker": "Touga",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c13_05ac0",
+      "speaker": "Meyrin",
+      "en": "Ah... he's a little frustrated.",
+      "display_variant": "en",
+      "display_text": "（Ah... he's a little frustrated.）"
+    },
+    {
+      "id": "c13_05af0",
+      "speaker": "Luna",
+      "en": "Aww, too bad. If Captain Bright and I had won as a pair, I could've been the commander on the Argama.",
+      "display_variant": "fit",
+      "display_text": "「Aww, too bad. Had Captain Bright and I\nwon as a pair, I could've commanded the\nArgama.」"
+    },
+    {
+      "id": "c13_05b50",
+      "speaker": "Shinn",
+      "en": "Come on, even you wouldn't go that far...",
+      "display_variant": "en",
+      "display_text": "「Come on, even you wouldn't go that\nfar...」"
+    },
+    {
+      "id": "c13_05b80",
+      "speaker": "Athrun",
+      "en": "This might feel different from usual, but focus, Shinn.",
+      "display_variant": "en",
+      "display_text": "「This might feel different from usual,\nbut focus, Shinn.」"
+    },
+    {
+      "id": "c13_05bd0",
+      "speaker": "Shinn",
+      "en": "If you're that worried, why don't you back us up instead? You guys got knocked out in the first round, after all.",
+      "display_variant": "fit",
+      "display_text": "「If you're that worried, back us up\ninstead. You got knocked out in the first\nround, after all.」"
+    },
+    {
+      "id": "c13_05c30",
+      "speaker": "Athrun",
+      "en": "Ngh...",
+      "display_variant": "en",
+      "display_text": "「Ngh...」"
+    },
+    {
+      "id": "c13_05c50",
+      "speaker": "Talia",
+      "en": "I'm sorry, Athrun. Being paired with me is exactly why Shinn gets to talk big like that.",
+      "display_variant": "en",
+      "display_text": "「I'm sorry, Athrun. Being paired with me\nis exactly why Shinn gets to talk big like\nthat.」"
+    },
+    {
+      "id": "c13_05cb0",
+      "speaker": "Athrun",
+      "en": "N-no... don't worry about it.",
+      "display_variant": "en",
+      "display_text": "「N-no... don't worry about it.」"
+    },
+    {
+      "id": "c13_05ce0",
+      "speaker": "Heizaemon",
+      "en": "This'll be good experience too. Now then... how should we fight...?",
+      "display_variant": "en",
+      "display_text": "「This'll be good experience too. Now\nthen... how should we fight...?」"
+    },
+    {
+      "id": "c13_05d20",
+      "speaker": "Sandman",
+      "en": "Gentlemen, it seems Zeravire's core is that new unit there.",
+      "display_variant": "en",
+      "display_text": "「Gentlemen, it seems Zeravire's core is\nthat new unit there.」"
+    },
+    {
+      "id": "c13_05d60",
+      "speaker": "Sandman",
+      "en": "This beautiful Gurabi Hot Spring must never fall into the hands of evil...!",
+      "display_variant": "en",
+      "display_text": "「This beautiful Gurabi Hot Spring must\nnever fall into the hands of evil...!」"
+    },
+    {
+      "id": "c13_05db0",
+      "speaker": "Sandman",
+      "en": "Warriors of $c, dance beautifully to protect this paradise!",
+      "display_variant": "en",
+      "display_text": "「Warriors of $c, dance beautifully to\nprotect this paradise!」"
+    },
+    {
+      "id": "c13_05df0",
+      "speaker": "Sandman",
+      "en": "Victory... Nothing is more beautiful.",
+      "display_variant": "en",
+      "display_text": "「Victory... Nothing is more beautiful.」"
+    },
+    {
+      "id": "c13_05e20",
+      "speaker": "Toshiya",
+      "en": "Whew... worked up a good sweat.",
+      "display_variant": "en",
+      "display_text": "「Whew... worked up a good sweat.」"
+    },
+    {
+      "id": "c13_05e40",
+      "speaker": "Lunamaria",
+      "en": "Well then, let's hop back in the hot spring...",
+      "display_variant": "en",
+      "display_text": "「Well then, let's hop back in the hot\nspring...」"
+    },
+    {
+      "id": "c13_05e70",
+      "speaker": "Eiji",
+      "en": "And after that, it's a table tennis showdown! You'd better start praying, Sandman!",
+      "display_variant": "en",
+      "display_text": "「And after that, it's a table tennis\nshowdown! You'd better start praying,\nSandman!」"
+    },
+    {
+      "id": "c13_05ec0",
+      "speaker": "Sandman",
+      "en": "Heh...",
+      "display_variant": "en",
+      "display_text": "「Heh...」"
+    },
+    {
+      "id": "c13_05ee0",
+      "speaker": "Miashei",
+      "en": "Let's do our best, Rey! Both the battle and the table tennis!!",
+      "display_variant": "en",
+      "display_text": "「Let's do our best, Rey! Both the battle\nand the table tennis!!」"
+    },
+    {
+      "id": "c13_05f20",
+      "speaker": "Rey",
+      "en": "The two are not the same thing. Combat and recreation cannot be considered on equal footing.",
+      "display_variant": "en",
+      "display_text": "「The two are not the same thing. Combat\nand recreation cannot be considered on\nequal footing.」"
+    },
+    {
+      "id": "c13_05f70",
+      "speaker": "Miashei",
+      "en": "Well, that's true, but...",
+      "display_variant": "en",
+      "display_text": "「Well, that's true, but...」"
+    },
+    {
+      "id": "c13_05f90",
+      "speaker": "Rey",
+      "en": "But since we're doing this, we must win at both. I'll need your cooperation, Miashei.",
+      "display_variant": "en",
+      "display_text": "「But since we're doing this, we must win\nat both. I'll need your cooperation,\nMiashei.」"
+    },
+    {
+      "id": "c13_05ff0",
+      "speaker": "Miashei",
+      "en": "Is he joking...!? Or is he serious...!? I can't even tell...!",
+      "display_variant": "en",
+      "display_text": "（Is he joking...!? Or is he serious...!? I\ncan't even tell...!）"
+    },
+    {
+      "id": "c13_06040",
+      "speaker": "Sochie",
+      "en": "Don't dawdle, Katz! Get our teamwork together properly!",
+      "display_variant": "en",
+      "display_text": "「Don't dawdle, Katz! Get our teamwork\ntogether properly!」"
+    },
+    {
+      "id": "c13_06090",
+      "speaker": "Katz",
+      "en": "I'm not your servant...! I won't take orders barked at me like that!",
+      "display_variant": "en",
+      "display_text": "「I'm not your servant...! I won't take\norders barked at me like that!」"
+    },
+    {
+      "id": "c13_060f0",
+      "speaker": "Sochie",
+      "en": "What are you talking about!? We won the first round because of me, didn't we!?",
+      "display_variant": "en",
+      "display_text": "「What are you talking about!? We won\nthe first round because of me, didn't\nwe!?」"
+    },
+    {
+      "id": "c13_06150",
+      "speaker": "Katz",
+      "en": "This isn't the time to be talking about table tennis!",
+      "display_variant": "en",
+      "display_text": "「This isn't the time to be talking about\ntable tennis!」"
+    },
+    {
+      "id": "c13_06190",
+      "speaker": "Sochie",
+      "en": "But if we sharpen our formation now, we can win next time too. Am I wrong?",
+      "display_variant": "en",
+      "display_text": "「But if we sharpen our formation now,\nwe can win next time too. Am I wrong?」"
+    },
+    {
+      "id": "c13_06210",
+      "speaker": "Katz",
+      "en": "N-no...",
+      "display_variant": "en",
+      "display_text": "「N-no...」"
+    },
+    {
+      "id": "c13_06230",
+      "speaker": "Sochie",
+      "en": "Then move the way I tell you to. I know you can do it, Katz.",
+      "display_variant": "en",
+      "display_text": "「Then move the way I tell you to. I\nknow you can do it, Katz.」"
+    },
+    {
+      "id": "c13_06280",
+      "speaker": "Katz",
+      "en": "Y-yeah...",
+      "display_variant": "en",
+      "display_text": "「Y-yeah...」"
+    },
+    {
+      "id": "c13_062a0",
+      "speaker": "Katz",
+      "en": "That smile of hers... I guess that's the best reward Loran gets too, huh...",
+      "display_variant": "en",
+      "display_text": "（That smile of hers... I guess that's the\nbest reward Loran gets too, huh...）"
+    },
+    {
+      "id": "c13_062f0",
+      "speaker": "Emma",
+      "en": "Applying table tennis teamwork to combat -- that's not something an ordinary person would think of.",
+      "display_variant": "fit",
+      "display_text": "「Applying table tennis teamwork to\ncombat -- not something an ordinary\nperson would think of.」"
+    },
+    {
+      "id": "c13_06350",
+      "speaker": "Amuro",
+      "en": "But it makes sense. I suppose that's what you'd expect from Sandman.",
+      "display_variant": "en",
+      "display_text": "「But it makes sense. I suppose that's\nwhat you'd expect from Sandman.」"
+    },
+    {
+      "id": "c13_063a0",
+      "speaker": "Amuro",
+      "en": "Besides, every unit's movements are sharp. Must be the effect of the rest.",
+      "display_variant": "en",
+      "display_text": "「Besides, every unit's movements are\nsharp. Must be the effect of the rest.」"
+    },
+    {
+      "id": "c13_063e0",
+      "speaker": "Emma",
+      "en": "So it was all part of his calculations. He really is unfathomable.",
+      "display_variant": "en",
+      "display_text": "「So it was all part of his calculations.\nHe really is unfathomable.」"
+    },
+    {
+      "id": "c13_06420",
+      "speaker": "Amuro",
+      "en": "All the more reason I'd like to win this tournament -- so I can challenge him myself.",
+      "display_variant": "en",
+      "display_text": "「All the more reason I'd like to win this\ntournament -- so I can challenge him\nmyself.」"
+    },
+    {
+      "id": "c13_06470",
+      "speaker": "Beltorchika",
+      "en": "Aww... If I'd been paired with Amuro, I'd have made sure he won for sure...",
+      "display_variant": "en",
+      "display_text": "「Aww... If I'd been paired with Amuro,\nI'd have made sure he won for sure...」"
+    },
+    {
+      "id": "c13_064d0",
+      "speaker": "Astonaige",
+      "en": "...Sorry about that. For being a partner not worth getting fired up over.",
+      "display_variant": "en",
+      "display_text": "「...Sorry about that. For being a partner\nnot worth getting fired up over.」"
+    },
+    {
+      "id": "c13_06520",
+      "speaker": "Reccoa",
+      "en": "Let's do our best, Shinn. I'm counting on you.",
+      "display_variant": "en",
+      "display_text": "「Let's do our best, Shinn. I'm counting\non you.」"
+    },
+    {
+      "id": "c13_06560",
+      "speaker": "Shinn",
+      "en": "Even if you say that, I've... never even played table tennis before...",
+      "display_variant": "en",
+      "display_text": "「Even if you say that, I've... never even\nplayed table tennis before...」"
+    },
+    {
+      "id": "c13_065a0",
+      "speaker": "Reccoa",
+      "en": "That's not what I meant. I mean the fighting.",
+      "display_variant": "en",
+      "display_text": "「That's not what I meant. I mean the\nfighting.」"
+    },
+    {
+      "id": "c13_065d0",
+      "speaker": "Shinn",
+      "en": "Y-yes...! I was... a little slack there!",
+      "display_variant": "en",
+      "display_text": "「Y-yes...! I was... a little slack there!」"
+    },
+    {
+      "id": "c13_06610",
+      "speaker": "Reccoa",
+      "en": "What's wrong? You seem off -- did the hot spring get to your head, maybe...?",
+      "display_variant": "en",
+      "display_text": "「What's wrong? You seem off -- did the\nhot spring get to your head, maybe...?」"
+    },
+    {
+      "id": "c13_06660",
+      "speaker": "Shinn",
+      "en": "I'm fine! I'll do this properly!",
+      "display_variant": "en",
+      "display_text": "「I'm fine! I'll do this properly!」"
+    },
+    {
+      "id": "c13_066a0",
+      "speaker": "Reccoa",
+      "en": "Heh heh... I'm counting on you, Shinn.",
+      "display_variant": "en",
+      "display_text": "「Heh heh... I'm counting on you, Shinn.」"
+    },
+    {
+      "id": "c13_066c0",
+      "speaker": "Shinn",
+      "en": "We're not usually around each other much, so talking with Reccoa makes me kind of nervous...",
+      "display_variant": "en",
+      "display_text": "（We're not usually around each other\nmuch, so talking with Reccoa makes me\nkind of nervous...）"
+    },
+    {
+      "id": "c13_06720",
+      "speaker": "Shinn",
+      "en": "But man, she really is mature... I wonder if that rumor about her and Lt. Quattro being a couple is true...",
+      "display_variant": "fit",
+      "display_text": "（But man, she really is mature... I\nwonder if that rumor about her and Lt.\nQuattro dating is true...）"
+    },
+    {
+      "id": "c13_06780",
+      "speaker": "Toshiya",
+      "en": "Count on it, Maria! Win big out there, and let's take the table tennis title too!",
+      "display_variant": "en",
+      "display_text": "「Count on it, Maria! Win big out there,\nand let's take the table tennis title too!」"
+    },
+    {
+      "id": "c13_067d0",
+      "speaker": "Maria",
+      "en": "Leave it to me! I'm not losing until I face off against Sayaka, no matter what!",
+      "display_variant": "en",
+      "display_text": "「Leave it to me! I'm not losing until I\nface off against Sayaka, no matter what!」"
+    },
+    {
+      "id": "c13_06820",
+      "speaker": "Julie",
+      "en": "Heh... A clash of feminine pride between Maria and Sayaka, huh. This one's gonna be worth watching.",
+      "display_variant": "fit",
+      "display_text": "「Heh... A clash of feminine pride between\nMaria and Sayaka. This one's gonna be\nworth watching.」"
+    },
+    {
+      "id": "c13_06880",
+      "speaker": "Kiraken",
+      "en": "Lucky fella, ain't he... Koji's got all the girls after him.",
+      "display_variant": "en",
+      "display_text": "「Lucky fella, ain't he... Koji's got all\nthe girls after him.」"
+    },
+    {
+      "id": "c13_068b0",
+      "speaker": "Toshiya",
+      "en": "Same here. I'd love to have that kind of luxury problem myself.",
+      "display_variant": "en",
+      "display_text": "「Same here. I'd love to have that kind\nof luxury problem myself.」"
+    },
+    {
+      "id": "c13_06900",
+      "speaker": "Julie",
+      "en": "You sure about that, Toshiya? Keep talking like that and you'll get dragged into trouble too.",
+      "display_variant": "en",
+      "display_text": "（You sure about that, Toshiya? Keep\ntalking like that and you'll get dragged\ninto trouble too.）"
+    },
+    {
+      "id": "c13_06960",
+      "speaker": "Kappei",
+      "en": "Heh -- so what if it's Zeravire! Let's just go smash 'em already, Sis Jun!",
+      "display_variant": "en",
+      "display_text": "「Heh -- so what if it's Zeravire! Let's\njust go smash 'em already, Sis Jun!」"
+    },
+    {
+      "id": "c13_069c0",
+      "speaker": "Jun",
+      "en": "No, Kappei. If you charge in recklessly, you'll be playing right into their hands.",
+      "display_variant": "en",
+      "display_text": "「No, Kappei. If you charge in recklessly,\nyou'll be playing right into their hands.」"
+    },
+    {
+      "id": "c13_06a00",
+      "speaker": "Jun",
+      "en": "I've wanted to say this for a while, but your fighting relies way too much on momentum.",
+      "display_variant": "en",
+      "display_text": "「I've wanted to say this for a while,\nbut your fighting relies way too much on\nmomentum.」"
+    },
+    {
+      "id": "c13_06a50",
+      "speaker": "Kappei",
+      "en": "Th-that's... um...",
+      "display_variant": "en",
+      "display_text": "「Th-that's... um...」"
+    },
+    {
+      "id": "c13_06a70",
+      "speaker": "Uchuta",
+      "en": "That's it, Jun...! Tell him some more!",
+      "display_variant": "en",
+      "display_text": "（That's it, Jun...! Tell him some more!）"
+    },
+    {
+      "id": "c13_06ab0",
+      "speaker": "Keiko",
+      "en": "Even Kappei's no match for Jun's intensity.",
+      "display_variant": "en",
+      "display_text": "（Even Kappei's no match for Jun's\nintensity.）"
+    },
+    {
+      "id": "c13_06af0",
+      "speaker": "Jun",
+      "en": "No making excuses. If you don't face your own flaws honestly, you'll never become a fine warrior.",
+      "display_variant": "fit",
+      "display_text": "「No excuses. If you don't face your own\nflaws honestly, you'll never become a fine\nwarrior.」"
+    },
+    {
+      "id": "c13_06b60",
+      "speaker": "Kappei",
+      "en": "Y-yes! Understood!",
+      "display_variant": "en",
+      "display_text": "「Y-yes! Understood!」"
+    },
+    {
+      "id": "c13_06b90",
+      "speaker": "Keiko",
+      "en": "Heh heh... I guess Jun really would make a good match for Tetsuya.",
+      "display_variant": "en",
+      "display_text": "（Heh heh... I guess Jun really would make\na good match for Tetsuya.）"
+    },
+    {
+      "id": "c13_06be0",
+      "speaker": "Sayaka",
+      "en": "Let's do this, Captain Lowen. We'll beat Zeravire and win at table tennis too, all right?",
+      "display_variant": "en",
+      "display_text": "「Let's do this, Captain Lowen. We'll beat\nZeravire and win at table tennis too, all\nright?」"
+    },
+    {
+      "id": "c13_06c40",
+      "speaker": "Lowen",
+      "en": "Y-yes! I swear to General Edel that I'll fight with everything I have!",
+      "display_variant": "en",
+      "display_text": "「Y-yes! I swear to General Edel that\nI'll fight with everything I have!」"
+    },
+    {
+      "id": "c13_06c90",
+      "speaker": "Sayaka",
+      "en": "Please don't be so nervous. Being like that in the middle of combat is dangerous.",
+      "display_variant": "en",
+      "display_text": "「Please don't be so nervous. Being like\nthat in the middle of combat is\ndangerous.」"
+    },
+    {
+      "id": "c13_06ce0",
+      "speaker": "Lowen",
+      "en": "M-my apologies! But when I'm... alone with a woman, I just can't seem to keep my composure...",
+      "display_variant": "fit",
+      "display_text": "「M-my apologies! But alone with a woman,\nI just can't seem to keep my composure...」"
+    },
+    {
+      "id": "c13_06d50",
+      "speaker": "Sayaka",
+      "en": "Geez... At this rate I'm starting to look like more of an enemy than Zeravire!",
+      "display_variant": "en",
+      "display_text": "「Geez... At this rate I'm starting to\nlook like more of an enemy than Zeravire!」"
+    },
+    {
+      "id": "c13_06da0",
+      "speaker": "Touga",
+      "en": "I'm making my move, Lunamaria. I need your support.",
+      "display_variant": "en",
+      "display_text": "「I'm making my move, Lunamaria. I need\nyour support.」"
+    },
+    {
+      "id": "c13_06de0",
+      "speaker": "Eiji",
+      "en": "Hold it, Touga! Like I said before, I'm the one calling the shots today.",
+      "display_variant": "en",
+      "display_text": "「Hold it, Touga! Like I said before, I'm\nthe one calling the shots today.」"
+    },
+    {
+      "id": "c13_06e30",
+      "speaker": "Touga",
+      "en": "But...",
+      "display_variant": "en",
+      "display_text": "「But...」"
+    },
+    {
+      "id": "c13_06e50",
+      "speaker": "Eiji",
+      "en": "No buts about it. Lunamaria's my partner, and you lost to us.",
+      "display_variant": "en",
+      "display_text": "「No buts about it. Lunamaria's my\npartner, and you lost to us.」"
+    },
+    {
+      "id": "c13_06eb0",
+      "speaker": "Touga",
+      "en": "...I... lost... Because I lost... do I have to do whatever Eiji says...?",
+      "display_variant": "en",
+      "display_text": "「...I... lost... Because I lost... do I have\nto do whatever Eiji says...?」"
+    },
+    {
+      "id": "c13_06f10",
+      "speaker": "Lunamaria",
+      "en": "H-hold on, Touga...! You don't have to take it that seriously!",
+      "display_variant": "en",
+      "display_text": "「H-hold on, Touga...! You don't have to\ntake it that seriously!」"
+    },
+    {
+      "id": "c13_06f60",
+      "speaker": "Eiji",
+      "en": "It's fine! He needs to learn the taste of defeat once in a while, that's all!",
+      "display_variant": "en",
+      "display_text": "「It's fine! He needs to learn the taste\nof defeat once in a while, that's all!」"
+    },
+    {
+      "id": "c13_06fb0",
+      "speaker": "Luna",
+      "en": "Ugh... getting carried away again...",
+      "display_variant": "en",
+      "display_text": "（Ugh... getting carried away again...）"
+    },
+    {
+      "id": "c13_06fe0",
+      "speaker": "Mizuki",
+      "en": "Go ahead and do your best, Eiji. Because if you actually win, what's waiting for you there is hell...",
+      "display_variant": "fit",
+      "display_text": "（Go ahead and do your best, Eiji. If you\nactually win, what's waiting for you is\nhell...）"
+    },
+    {
+      "id": "c13_07050",
+      "speaker": "Eiji",
+      "en": "Ha ha ha ha! I'm on fire today! Let's go, Lunamaria!!",
+      "display_variant": "en",
+      "display_text": "「Ha ha ha ha! I'm on fire today! Let's\ngo, Lunamaria!!」"
+    },
+    {
+      "id": "c13_070a0",
+      "speaker": "Lunamaria",
+      "en": "Roger! I'm not losing at table tennis or in battle!",
+      "display_variant": "en",
+      "display_text": "「Roger! I'm not losing at table tennis or\nin battle!」"
+    },
+    {
+      "id": "c13_07130",
+      "speaker": "Heizaemon",
+      "en": "An invitation to a villa?",
+      "display_variant": "en",
+      "display_text": "「An invitation to a villa?」"
+    },
+    {
+      "id": "c13_07150",
+      "speaker": "Raven",
+      "en": "A message from Sandman. He owns a villa resort along the route to Gibraltar Base.",
+      "display_variant": "en",
+      "display_text": "「A message from Sandman. He owns a\nvilla resort along the route to Gibraltar\nBase.」"
+    },
+    {
+      "id": "c13_071c0",
+      "speaker": "Raven",
+      "en": "He would like to invite everyone from $c there.",
+      "display_variant": "en",
+      "display_text": "「He would like to invite everyone from\n$c there.」"
+    },
+    {
+      "id": "c13_07200",
+      "speaker": "Hanae",
+      "en": "Quite the extravagance. Just what you'd expect from our mysterious billionaire.",
+      "display_variant": "en",
+      "display_text": "「Quite the extravagance. Just what you'd\nexpect from our mysterious billionaire.」"
+    },
+    {
+      "id": "c13_07240",
+      "speaker": "Raven",
+      "en": "Actually, it doubles as a retreat for the maids as well -- the Earthgertz members are already on their way to the villa.",
+      "display_variant": "fit",
+      "display_text": "「Also a maids' retreat -- Earthgertz\nmembers are already headed there.」"
+    },
+    {
+      "id": "c13_072b0",
+      "speaker": "Heizaemon",
+      "en": "There's still time before the meeting with Chairman Durandal. A bit of a breather now and then wouldn't hurt.",
+      "display_variant": "fit",
+      "display_text": "「There's still time before the Chairman\nDurandal meeting. A bit of a breather now\nand then wouldn't hurt.」"
+    },
+    {
+      "id": "c13_07310",
+      "speaker": "Ichitaro",
+      "en": "Captain Gladys and Captain Bright both say it's no problem.",
+      "display_variant": "en",
+      "display_text": "「Captain Gladys and Captain Bright both\nsay it's no problem.」"
+    },
+    {
+      "id": "c13_07350",
+      "speaker": "Gengoro",
+      "en": "Very well then, Raven. We'll take you up on your kind offer this time.",
+      "display_variant": "en",
+      "display_text": "「Very well then, Raven. We'll take you\nup on your kind offer this time.」"
+    },
+    {
+      "id": "c13_073a0",
+      "speaker": "Raven",
+      "en": "Understood. I'm sure Sandman will be pleased.",
+      "display_variant": "en",
+      "display_text": "「Understood. I'm sure Sandman will be\npleased.」"
+    },
+    {
+      "id": "c13_073e0",
+      "speaker": "Raven",
+      "en": "I have duties to attend to in Japan, so Tessera and the others will handle your guidance on site.",
+      "display_variant": "fit",
+      "display_text": "「I have duties in Japan, so Tessera and\nthe others will handle your guidance on\nsite.」"
+    },
+    {
+      "id": "c13_07440",
+      "speaker": "Umee",
+      "en": "Oh my... such a fine trip, and you're stuck minding the house, Raven dear?",
+      "display_variant": "en",
+      "display_text": "「Oh my... such a fine trip, and you're\nstuck minding the house, Raven dear?」"
+    },
+    {
+      "id": "c13_07490",
+      "speaker": "Raven",
+      "en": ".........................",
+      "display_variant": "en",
+      "display_text": "「.........................」"
+    },
+    {
+      "id": "c13_074c0",
+      "speaker": "Raven",
+      "en": "...Yeah...",
+      "display_variant": "en",
+      "display_text": "「...Yeah...」"
+    },
+    {
+      "id": "c13_074e0",
+      "speaker": "Ichitaro",
+      "en": "He really wanted to go, didn't he...",
+      "display_variant": "en",
+      "display_text": "（He really wanted to go, didn't he...）"
+    },
+    {
+      "id": "c13_07520",
+      "speaker": "Eiji",
+      "en": "Hey...",
+      "display_variant": "en",
+      "display_text": "「Hey...」"
+    },
+    {
+      "id": "c13_07540",
+      "speaker": "Touga",
+      "en": "What's up, Eiji?",
+      "display_variant": "en",
+      "display_text": "「What's up, Eiji?」"
+    },
+    {
+      "id": "c13_07560",
+      "speaker": "Eiji",
+      "en": "This is the villa resort Sandman specified, right?",
+      "display_variant": "en",
+      "display_text": "「This is the villa resort Sandman\nspecified, right?」"
+    },
+    {
+      "id": "c13_075a0",
+      "speaker": "Eina",
+      "en": "Yes, there's no mistake.",
+      "display_variant": "en",
+      "display_text": "「Yes, there's no mistake.」"
+    },
+    {
+      "id": "c13_075d0",
+      "speaker": "Koji",
+      "en": "This is... the western part of the Gallia Continent, right?",
+      "display_variant": "en",
+      "display_text": "「This is... the western part of the\nGallia Continent, right?」"
+    },
+    {
+      "id": "c13_07600",
+      "speaker": "Sayaka",
+      "en": "In terms of our world, that'd be northern Africa... around the Sahara Desert.",
+      "display_variant": "en",
+      "display_text": "「In terms of our world, that'd be\nnorthern Africa... around the Sahara\nDesert.」"
+    },
+    {
+      "id": "c13_07650",
+      "speaker": "Eiji",
+      "en": "How is this Africa!? However you look at it, this is a Japanese hot spring town!",
+      "display_variant": "en",
+      "display_text": "「How is this Africa!? However you look\nat it, this is a Japanese hot spring town!」"
+    },
+    {
+      "id": "c13_076a0",
+      "speaker": "Toshiya",
+      "en": "Was this Japanese hot spring swept over here by Break the World...?",
+      "display_variant": "en",
+      "display_text": "「Was this Japanese hot spring swept\nover here by Break the World...?」"
+    },
+    {
+      "id": "c13_076f0",
+      "speaker": "Julie",
+      "en": "No... This whole landscape -- mountains, rivers, all of it -- looks to be entirely man-made.",
+      "display_variant": "en",
+      "display_text": "「No... This whole landscape -- mountains,\nrivers, all of it -- looks to be entirely\nman-made.」"
+    },
+    {
+      "id": "c13_07740",
+      "speaker": "$n",
+      "en": "Then...!?",
+      "display_variant": "en",
+      "display_text": "「Then...!?」"
+    },
+    {
+      "id": "c13_07760",
+      "speaker": "Eiji",
+      "en": "You're saying Sandman built this whole hot spring himself...!?",
+      "display_variant": "en",
+      "display_text": "「You're saying Sandman built this whole\nhot spring himself...!?」"
+    },
+    {
+      "id": "c13_077a0",
+      "speaker": "Sandman",
+      "en": "It seems you've taken a liking to it.",
+      "display_variant": "en",
+      "display_text": "「It seems you've taken a liking to it.」"
+    },
+    {
+      "id": "c13_077d0",
+      "speaker": "Leele",
+      "en": "Uncl--",
+      "display_variant": "en",
+      "display_text": "「Uncl--」"
+    },
+    {
+      "id": "c13_077f0",
+      "speaker": "Leele",
+      "en": "M--",
+      "display_variant": "en",
+      "display_text": "「M--」"
+    },
+    {
+      "id": "c13_07800",
+      "speaker": "Sandman",
+      "en": "Welcome to Gurabi Hot Spring.",
+      "display_variant": "en",
+      "display_text": "「Welcome to Gurabi Hot Spring.」"
+    },
+    {
+      "id": "c13_07830",
+      "speaker": "Kazami",
+      "en": "Gravion Hot Spring...!?",
+      "display_variant": "en",
+      "display_text": "「Gravion Hot Spring...!?」"
+    },
+    {
+      "id": "c13_07850",
+      "speaker": "Sandman",
+      "en": "No, it's Gurabi Hot Spring.",
+      "display_variant": "en",
+      "display_text": "「No, it's Gurabi Hot Spring.」"
+    },
+    {
+      "id": "c13_07880",
+      "speaker": "$n",
+      "en": "He actually went out of his way to correct that...! Is he that particular about the name...!?",
+      "display_variant": "en",
+      "display_text": "（He actually went out of his way to\ncorrect that...! Is he that particular\nabout the name...!?）"
+    },
+    {
+      "id": "c13_078c0",
+      "speaker": "Sandman",
+      "en": "Indeed... This is paradise, brought down to earth.",
+      "display_variant": "en",
+      "display_text": "「Indeed... This is paradise, brought down\nto earth.」"
+    },
+    {
+      "id": "c13_07930",
+      "speaker": "Tetsuya",
+      "en": "...Still, I'd heard he was a billionaire, but Sandman never ceases to surprise.",
+      "display_variant": "en",
+      "display_text": "「...Still, I'd heard he was a billionaire,\nbut Sandman never ceases to surprise.」"
+    },
+    {
+      "id": "c13_07980",
+      "speaker": "Jun",
+      "en": "Who would've thought he'd turn an entire resort into a Japanese-style town.",
+      "display_variant": "en",
+      "display_text": "「Who would've thought he'd turn an\nentire resort into a Japanese-style town.」"
+    },
+    {
+      "id": "c13_079c0",
+      "speaker": "Julie",
+      "en": "Guess money really can do anything.",
+      "display_variant": "en",
+      "display_text": "「Guess money really can do anything.」"
+    },
+    {
+      "id": "c13_079f0",
+      "speaker": "Shinn",
+      "en": "Still, who spends money like this...?",
+      "display_variant": "en",
+      "display_text": "「Still, who spends money like this...?」"
+    },
+    {
+      "id": "c13_07a30",
+      "speaker": "$n",
+      "en": "Don't let it get to you, Shinn. This must be what Sandman calls his aesthetic.",
+      "display_variant": "en",
+      "display_text": "「Don't let it get to you, Shinn. This\nmust be what Sandman calls his aesthetic.」"
+    },
+    {
+      "id": "c13_07a90",
+      "speaker": "Beltorchika",
+      "en": "The mysterious billionaire... His true face is almost too eccentric to believe.",
+      "display_variant": "en",
+      "display_text": "「The mysterious billionaire... His true\nface is almost too eccentric to believe.」"
+    },
+    {
+      "id": "c13_07ae0",
+      "speaker": "Lunamaria",
+      "en": "Well... putting his taste aside, since we're here, let's enjoy a warrior's well-earned rest.",
+      "display_variant": "fit",
+      "display_text": "「Well... putting his taste aside, let's\nenjoy a warrior's well-earned rest while\nwe're here.」"
+    },
+    {
+      "id": "c13_07b40",
+      "speaker": "Kamille",
+      "en": "Yeah. Let's allow ourselves a bit of a change of pace.",
+      "display_variant": "en",
+      "display_text": "「Yeah. Let's allow ourselves a bit of a\nchange of pace.」"
+    },
+    {
+      "id": "c13_07b80",
+      "speaker": "Kiraken",
+      "en": "Stuffed myself full at dinner, and Captain Gengoro and the others are good'n drunk after a few rounds.",
+      "display_variant": "fit",
+      "display_text": "「Stuffed myself at dinner, and Captain\nGengoro and the others are drunk after a\nfew rounds too.」"
+    },
+    {
+      "id": "c13_07bf0",
+      "speaker": "Minako",
+      "en": "Polished my skin to perfection in the hot spring too -- this is the best!",
+      "display_variant": "en",
+      "display_text": "「Polished my skin to perfection in the\nhot spring too -- this is the best!」"
+    },
+    {
+      "id": "c13_07c30",
+      "speaker": "Guin",
+      "en": "I'd heard tales of these so-called Yapan hot springs, but I never imagined they'd be this soothing.",
+      "display_variant": "fit",
+      "display_text": "「I'd heard tales of these Yapan hot\nsprings, but never imagined they'd be this\nsoothing.」"
+    },
+    {
+      "id": "c13_07ca0",
+      "speaker": "Loran",
+      "en": "This is nice, isn't it -- everyone soaking together in one big bath.",
+      "display_variant": "en",
+      "display_text": "「This is nice, isn't it -- everyone\nsoaking together in one big bath.」"
+    },
+    {
+      "id": "c13_07cf0",
+      "speaker": "Kamille",
+      "en": "I wonder what's next...? Gathering everyone at a place like this.",
+      "display_variant": "en",
+      "display_text": "「I wonder what's next...? Gathering\neveryone at a place like this.」"
+    },
+    {
+      "id": "c13_07d40",
+      "speaker": "Eiji",
+      "en": "Speaking of hot springs, karaoke's a given, right? I'll show you my pride and joy -- my singing voice.",
+      "display_variant": "fit",
+      "display_text": "「Hot springs mean karaoke, right? I'll\nshow you my pride and joy -- my singing\nvoice.」"
+    },
+    {
+      "id": "c13_07d90",
+      "speaker": "Shinn",
+      "en": "Eiji singing, huh. With that voice, I doubt there's much to look forward to.",
+      "display_variant": "en",
+      "display_text": "「Eiji singing, huh. With that voice, I\ndoubt there's much to look forward to.」"
+    },
+    {
+      "id": "c13_07dd0",
+      "speaker": "Eiji",
+      "en": "You said it, you jerk! Don't go crying in shock when you hear it.",
+      "display_variant": "en",
+      "display_text": "「You said it, you jerk! Don't go crying\nin shock when you hear it.」"
+    },
+    {
+      "id": "c13_07e10",
+      "speaker": "Luna",
+      "en": "Hey, Touga. Let's do a duet together!",
+      "display_variant": "en",
+      "display_text": "「Hey, Touga. Let's do a duet together!」"
+    },
+    {
+      "id": "c13_07e50",
+      "speaker": "Touga",
+      "en": "By the way, what's karaoke?",
+      "display_variant": "en",
+      "display_text": "「By the way, what's karaoke?」"
+    },
+    {
+      "id": "c13_07e80",
+      "speaker": "Shinn",
+      "en": "Just how out of touch with the world are you...",
+      "display_variant": "en",
+      "display_text": "「Just how out of touch with the world\nare you...」"
+    },
+    {
+      "id": "c13_07ec0",
+      "speaker": "Lunamaria",
+      "en": "A karaoke contest, then. I'm getting fired up too.",
+      "display_variant": "en",
+      "display_text": "「A karaoke contest, then. I'm getting\nfired up too.」"
+    },
+    {
+      "id": "c13_07f10",
+      "speaker": "Meyrin",
+      "en": "My sister really does love a competition...",
+      "display_variant": "en",
+      "display_text": "「My sister really does love a\ncompetition...」"
+    },
+    {
+      "id": "c13_07f50",
+      "speaker": "Tessera",
+      "en": "If I may, please wait...!",
+      "display_variant": "en",
+      "display_text": "「If I may, please wait...!」"
+    },
+    {
+      "id": "c13_07f70",
+      "speaker": "Kappei",
+      "en": "Hey, it's the maid ladies!",
+      "display_variant": "en",
+      "display_text": "「Hey, it's the maid ladies!」"
+    },
+    {
+      "id": "c13_07f90",
+      "speaker": "Marinia",
+      "en": "Even at rest, a warrior must never forget how to fight. ...Those are Lord Sandman's own words.",
+      "display_variant": "fit",
+      "display_text": "「Even at rest, a warrior must never\nforget how to fight. ...Lord Sandman's own\nwords.」"
+    },
+    {
+      "id": "c13_08000",
+      "speaker": "Chuil",
+      "en": "Payo! And with that, it's time for the fun duel event to begin!",
+      "display_variant": "en",
+      "display_text": "「Payo! And with that, it's time for the\nfun duel event to begin!」"
+    },
+    {
+      "id": "c13_08060",
+      "speaker": "Uchuta",
+      "en": "A 'fun duel'...?",
+      "display_variant": "en",
+      "display_text": "「A 'fun duel'...?」"
+    },
+    {
+      "id": "c13_08090",
+      "speaker": "Keiko",
+      "en": "That sounds like a total contradiction...",
+      "display_variant": "en",
+      "display_text": "「That sounds like a total contradiction...」"
+    },
+    {
+      "id": "c13_080c0",
+      "speaker": "Toria",
+      "en": "Now then, everyone! Does anyone know what this is in front of you!?",
+      "display_variant": "en",
+      "display_text": "「Now then, everyone! Does anyone know\nwhat this is in front of you!?」"
+    },
+    {
+      "id": "c13_08100",
+      "speaker": "Touga",
+      "en": "You mean this green table?",
+      "display_variant": "en",
+      "display_text": "「You mean this green table?」"
+    },
+    {
+      "id": "c13_08120",
+      "speaker": "Eiji",
+      "en": "Which means...",
+      "display_variant": "en",
+      "display_text": "「Which means...」"
+    },
+    {
+      "id": "c13_08140",
+      "speaker": "Tessera",
+      "en": "Ladies and gentlemen! We now begin the table tennis tournament -- the Sandman Cup!",
+      "display_variant": "en",
+      "display_text": "「Ladies and gentlemen! We now begin the\ntable tennis tournament -- the Sandman\nCup!」"
+    },
+    {
+      "id": "c13_081a0",
+      "speaker": "Gengoro",
+      "en": "...And that's how the table tennis tournament started?",
+      "display_variant": "en",
+      "display_text": "「...And that's how the table tennis\ntournament started?」"
+    },
+    {
+      "id": "c13_081d0",
+      "speaker": "Ichitaro",
+      "en": "That's right. It's a tournament of male-female pairs decided by lottery.",
+      "display_variant": "en",
+      "display_text": "「That's right. It's a tournament of\nmale-female pairs decided by lottery.」"
+    },
+    {
+      "id": "c13_08220",
+      "speaker": "Ichitaro",
+      "en": "The winning pair faces off against the host, Team Sandman, and if they win that match, a luxurious prize awaits.",
+      "display_variant": "fit",
+      "display_text": "「The winning pair faces the host, Team\nSandman, and if they win, a luxurious\nprize awaits.」"
+    },
+    {
+      "id": "c13_082a0",
+      "speaker": "Gengoro",
+      "en": "A prize prepared by Sandman, huh... That sounds like something to look forward to.",
+      "display_variant": "en",
+      "display_text": "「A prize prepared by Sandman, huh...\nThat sounds like something to look\nforward to.」"
+    },
+    {
+      "id": "c13_082f0",
+      "speaker": "Ichitaro",
+      "en": "The first round's already finished, and the eight teams advancing to the quarterfinals have been decided.",
+      "display_variant": "fit",
+      "display_text": "「The first round's over, and the eight\nteams advancing to the quarterfinals are\ndecided.」"
+    },
+    {
+      "id": "c13_08340",
+      "speaker": "Keiko",
+      "en": "Though Uchuta and I already lost as a pair.",
+      "display_variant": "en",
+      "display_text": "「Though Uchuta and I already lost as a\npair.」"
+    },
+    {
+      "id": "c13_08380",
+      "speaker": "Gengoro",
+      "en": "Ichitaro... how'd you do?",
+      "display_variant": "en",
+      "display_text": "「Ichitaro... how'd you do?」"
+    },
+    {
+      "id": "c13_083b0",
+      "speaker": "Ichitaro",
+      "en": "...I lost in straight sets.",
+      "display_variant": "en",
+      "display_text": "「...I lost in straight sets.」"
+    },
+    {
+      "id": "c13_083e0",
+      "speaker": "Mizuki",
+      "en": "You should hear this, Captain. Even though he got paired with me, Ichitaro made nothing but silly mistakes the whole time.",
+      "display_variant": "fit",
+      "display_text": "「Listen, Captain -- despite being paired\nwith me, Ichitaro made only silly mistakes.」"
+    },
+    {
+      "id": "c13_08460",
+      "speaker": "Ichitaro",
+      "en": "B-but, that's because! You'd just come from the bath, Mizuki, and I didn't know where to look...",
+      "display_variant": "fit",
+      "display_text": "「B-but, that's because! You'd just come\nfrom the bath, Mizuki -- I didn't know\nwhere to look...」"
+    },
+    {
+      "id": "c13_084c0",
+      "speaker": "Mizuki",
+      "en": "Where to look how?",
+      "display_variant": "en",
+      "display_text": "「Where to look how?」"
+    },
+    {
+      "id": "c13_084e0",
+      "speaker": "Ichitaro",
+      "en": "There's no way I can say that out loud!",
+      "display_variant": "en",
+      "display_text": "「There's no way I can say that out\nloud!」"
+    },
+    {
+      "id": "c13_08520",
+      "speaker": "Gengoro",
+      "en": "That's pathetic, Ichitaro! How's a King Beal gunner supposed to -- no, how's a fisherman's son supposed to handle himself with that kind of talk!!",
+      "display_variant": "compact",
+      "display_text": "「Pathetic, Ichitaro! No way a King Beal\ngunner -- or a fisherman's son -- acts\nlike that!!」"
+    },
+    {
+      "id": "c13_08590",
+      "speaker": "Gengoro",
+      "en": "If you're a man, push forward! Push through! Never forget to keep pushing!",
+      "display_variant": "en",
+      "display_text": "「If you're a man, push forward! Push\nthrough! Never forget to keep pushing!」"
+    },
+    {
+      "id": "c13_085d0",
+      "speaker": "Ichitaro",
+      "en": "Y-yes, sir!!",
+      "display_variant": "en",
+      "display_text": "「Y-yes, sir!!」"
+    },
+    {
+      "id": "c13_085f0",
+      "speaker": "Mizuki",
+      "en": "...Captain, I think you've had quite a bit to drink...",
+      "display_variant": "en",
+      "display_text": "「...Captain, I think you've had quite a\nbit to drink...」"
+    },
+    {
+      "id": "c13_08630",
+      "speaker": "Kamille",
+      "en": "Too bad, $n. We made it pretty far, but...",
+      "display_variant": "en",
+      "display_text": "「Too bad, $n. We made it pretty far,\nbut...」"
+    },
+    {
+      "id": "c13_08680",
+      "speaker": "$n",
+      "en": "Sorry~, Kamille. If only my serve had landed right there~, we might've actually won~.",
+      "display_variant": "en",
+      "display_text": "「Sorry~, Kamille. If only my serve had\nlanded right there~, we might've actually\nwon~.」"
+    },
+    {
+      "id": "c13_086f0",
+      "speaker": "Kamille",
+      "en": "No... I think we fought really well. That point just came down to Amuro outreading us.",
+      "display_variant": "en",
+      "display_text": "「No... I think we fought really well.\nThat point just came down to Amuro\noutreading us.」"
+    },
+    {
+      "id": "c13_08750",
+      "speaker": "$n",
+      "en": "'I can see it...!' That's just how he is, huh~...",
+      "display_variant": "en",
+      "display_text": "「'I can see it...!' That's just how he is,\nhuh~...」"
+    },
+    {
+      "id": "c13_08770",
+      "speaker": "$n",
+      "en": "Haah~... I guess ace pilots really are strong even at games like this~.",
+      "display_variant": "en",
+      "display_text": "「Haah~... I guess ace pilots really are\nstrong even at games like this~.」"
+    },
+    {
+      "id": "c13_087c0",
+      "speaker": "Lowen",
+      "en": "$n... your face is red.",
+      "display_variant": "en",
+      "display_text": "「$n... your face is red.」"
+    },
+    {
+      "id": "c13_087f0",
+      "speaker": "$n",
+      "en": "I'm already twenty, you know~, so I tried a little beer, ahaha~...",
+      "display_variant": "en",
+      "display_text": "「I'm already twenty, you know~, so I\ntried a little beer, ahaha~...」"
+    },
+    {
+      "id": "c13_08850",
+      "speaker": "$n",
+      "en": "I couldn't really tell what it tasted like, but cold beer sure is fun, huh, Chief...",
+      "display_variant": "en",
+      "display_text": "（I couldn't really tell what it tasted\nlike, but cold beer sure is fun, huh,\nChief...）"
+    },
+    {
+      "id": "c13_088a0",
+      "speaker": "Cecil",
+      "en": "I'm sorry, Lord Tetsuya... Even though I was your partner, I couldn't help you at all.",
+      "display_variant": "en",
+      "display_text": "「I'm sorry, Lord Tetsuya... Even though I\nwas your partner, I couldn't help you at\nall.」"
+    },
+    {
+      "id": "c13_088f0",
+      "speaker": "Tetsuya",
+      "en": "Don't worry about it, Cecil. We just have to admit our opponent was better, plain and simple.",
+      "display_variant": "fit",
+      "display_text": "「Don't worry, Cecil. We just have to\nadmit our opponent was better, plain and\nsimple.」"
+    },
+    {
+      "id": "c13_08940",
+      "speaker": "Tetsuya",
+      "en": "Still, moving your body matters. Make sure you keep up your training.",
+      "display_variant": "en",
+      "display_text": "「Still, moving your body matters. Make\nsure you keep up your training.」"
+    },
+    {
+      "id": "c13_08990",
+      "speaker": "Cecil",
+      "en": "Yes. I'll work hard at cleaning and laundry.",
+      "display_variant": "en",
+      "display_text": "「Yes. I'll work hard at cleaning and\nlaundry.」"
+    },
+    {
+      "id": "c13_089c0",
+      "speaker": "Koji",
+      "en": "You're being awfully gentle, Tetsuya! Where'd your usual demon coach act go!?",
+      "display_variant": "en",
+      "display_text": "「You're being awfully gentle, Tetsuya!\nWhere'd your usual demon coach act go!?」"
+    },
+    {
+      "id": "c13_08a10",
+      "speaker": "Tetsuya",
+      "en": "Heh... You're one to talk, Koji -- you fought hard enough for Leele's share too.",
+      "display_variant": "en",
+      "display_text": "「Heh... You're one to talk, Koji -- you\nfought hard enough for Leele's share too.」"
+    },
+    {
+      "id": "c13_08a50",
+      "speaker": "Leele",
+      "en": "Thank you very much, Koji. I... had a really wonderful time.",
+      "display_variant": "en",
+      "display_text": "「Thank you very much, Koji. I... had a\nreally wonderful time.」"
+    },
+    {
+      "id": "c13_08aa0",
+      "speaker": "Koji",
+      "en": "Heh heh... too bad we lost, but I worked up a good sweat!",
+      "display_variant": "en",
+      "display_text": "「Heh heh... too bad we lost, but I\nworked up a good sweat!」"
+    },
+    {
+      "id": "c13_08af0",
+      "speaker": "Tessera",
+      "en": "They've got a nice atmosphere going over there.",
+      "display_variant": "en",
+      "display_text": "「They've got a nice atmosphere going\nover there.」"
+    },
+    {
+      "id": "c13_08b20",
+      "speaker": "Chuil",
+      "en": "Yeah! Cecil and Lady Leele both have such nice smiles! And Lord Koji and Lord Tetsuya are wonderful too!",
+      "display_variant": "fit",
+      "display_text": "「Yeah! Cecil and Lady Leele both have\nsuch nice smiles! Lord Koji and Lord\nTetsuya are wonderful too!」"
+    },
+    {
+      "id": "c13_08b70",
+      "speaker": "Marinia",
+      "en": "By comparison, though...",
+      "display_variant": "en",
+      "display_text": "「By comparison, though...」"
+    },
+    {
+      "id": "c13_08b90",
+      "speaker": "Boss",
+      "en": "What!? What's your problem, you maid girls!?",
+      "display_variant": "en",
+      "display_text": "「What!? What's your problem, you maid\ngirls!?」"
+    },
+    {
+      "id": "c13_08bc0",
+      "speaker": "Mucha",
+      "en": "You that unhappy that we ended up as your partners!?",
+      "display_variant": "en",
+      "display_text": "「You that unhappy that we ended up as\nyour partners!?」"
+    },
+    {
+      "id": "c13_08c00",
+      "speaker": "Nuke",
+      "en": "Th-that's so mean...! This is discrimination!!",
+      "display_variant": "en",
+      "display_text": "「Th-that's so mean...! This is\ndiscrimination!!」"
+    },
+    {
+      "id": "c13_08c30",
+      "speaker": "Kihel",
+      "en": "I must say, I'm surprised... To think Lt. Quattro would join in on something like this.",
+      "display_variant": "en",
+      "display_text": "「I must say, I'm surprised... To think\nLt. Quattro would join in on something\nlike this.」"
+    },
+    {
+      "id": "c13_08c80",
+      "speaker": "Quattro",
+      "en": "Even I have a life outside the battlefield. ...Though it seems I can't handle a paddle quite the way I handle a mobile suit.",
+      "display_variant": "fit",
+      "display_text": "「I've a life outside battle too. ...Not\nquite like piloting a mobile suit.」"
+    },
+    {
+      "id": "c13_08cf0",
+      "speaker": "Loran",
+      "en": "Thank you for being my lady's partner, Lieutenant.",
+      "display_variant": "en",
+      "display_text": "「Thank you for being my lady's partner,\nLieutenant.」"
+    },
+    {
+      "id": "c13_08d40",
+      "speaker": "Minako",
+      "en": "Oh, Loran! Instead of worrying about Kihel, you should focus on our pair, you know!",
+      "display_variant": "en",
+      "display_text": "「Oh, Loran! Instead of worrying about\nKihel, you should focus on our pair, you\nknow!」"
+    },
+    {
+      "id": "c13_08da0",
+      "speaker": "Loran",
+      "en": "S-sorry, Minako! I've... never played something like this before...",
+      "display_variant": "en",
+      "display_text": "「S-sorry, Minako! I've... never played\nsomething like this before...」"
+    },
+    {
+      "id": "c13_08df0",
+      "speaker": "Kihel",
+      "en": "Heh heh... Loran Cehack might just have been born under a star that dooms him to be pushed around by young ladies.",
+      "display_variant": "fit",
+      "display_text": "（Heh heh... Loran Cehack might've been\nborn under a star dooming him to be\npushed around by young ladies.）"
+    },
+    {
+      "id": "c13_08e50",
+      "speaker": "Touga",
+      "en": "Too bad, Meyrin. Losing to Lunamaria like that.",
+      "display_variant": "en",
+      "display_text": "「Too bad, Meyrin. Losing to Lunamaria\nlike that.」"
+    },
+    {
+      "id": "c13_08e90",
+      "speaker": "Meyrin",
+      "en": "Can't be helped. My sister's good at sports too.",
+      "display_variant": "en",
+      "display_text": "「Can't be helped. My sister's good at\nsports too.」"
+    },
+    {
+      "id": "c13_08ed0",
+      "speaker": "Meyrin",
+      "en": "But aren't you frustrated, Touga? You lost to Eiji, after all.",
+      "display_variant": "en",
+      "display_text": "「But aren't you frustrated, Touga? You\nlost to Eiji, after all.」"
+    },
+    {
+      "id": "c13_08f20",
+      "speaker": "Touga",
+      "en": "Frustrated... why would I be?",
+      "display_variant": "en",
+      "display_text": "「Frustrated... why would I be?」"
+    },
+    {
+      "id": "c13_08f40",
+      "speaker": "Meyrin",
+      "en": "Eiji... after finally beating Touga, this must be pretty unsatisfying for him, huh.",
+      "display_variant": "en",
+      "display_text": "（Eiji... after finally beating Touga, this\nmust be pretty unsatisfying for him, huh.）"
+    },
+    {
+      "id": "c13_08f90",
+      "speaker": "Meyrin",
+      "en": "Aah... Touga's got such a nice voice, but he really is a little strange...",
+      "display_variant": "en",
+      "display_text": "（Aah... Touga's got such a nice voice,\nbut he really is a little strange...）"
+    },
+    {
+      "id": "c13_08fe0",
+      "speaker": "Touga",
+      "en": "You look pretty worn out too, Eina. Are you all right?",
+      "display_variant": "en",
+      "display_text": "「You look pretty worn out too, Eina. Are\nyou all right?」"
+    },
+    {
+      "id": "c13_09020",
+      "speaker": "Eina",
+      "en": "My body's fine, but my head feels like it's about to short-circuit.",
+      "display_variant": "en",
+      "display_text": "「My body's fine, but my head feels like\nit's about to short-circuit.」"
+    },
+    {
+      "id": "c13_09070",
+      "speaker": "Julie",
+      "en": "Too bad, Eina. If you'd been able to fully put my sports theory into practice, victory would've been guaranteed.",
+      "display_variant": "fit",
+      "display_text": "「Too bad, Eina. Had you fully applied my\nsports theory, victory would've been\nguaranteed.」"
+    },
+    {
+      "id": "c13_090e0",
+      "speaker": "Eina",
+      "en": "What you say is way too complicated for me, Julie!",
+      "display_variant": "en",
+      "display_text": "「What you say is way too complicated\nfor me, Julie!」"
+    },
+    {
+      "id": "c13_09130",
+      "speaker": "Kiraken",
+      "en": "...Lucky fellas... Touga and Julie both got such flashy partners...",
+      "display_variant": "en",
+      "display_text": "「...Lucky fellas... Touga and Julie both\ngot such flashy partners...」"
+    },
+    {
+      "id": "c13_09180",
+      "speaker": "Hanae",
+      "en": "What's that, Kiraken!? You got a problem with me as your partner!?",
+      "display_variant": "en",
+      "display_text": "「What's that, Kiraken!? You got a\nproblem with me as your partner!?」"
+    },
+    {
+      "id": "c13_091e0",
+      "speaker": "Hanae",
+      "en": "If it was just about power, we'd have been number one out of every team.",
+      "display_variant": "en",
+      "display_text": "「If it was just about power, we'd have\nbeen number one out of every team.」"
+    },
+    {
+      "id": "c13_09230",
+      "speaker": "Julie",
+      "en": "Which is exactly why every single shot went sailing out of the park like a home run... You can't win like that.",
+      "display_variant": "fit",
+      "display_text": "「That's why every shot went sailing out\nof the park like a home run... You can't\nwin like that.」"
+    },
+    {
+      "id": "c13_09280",
+      "speaker": "Kazami",
+      "en": "Too true. Though in my case, I'm downright envious of Hanae's power.",
+      "display_variant": "en",
+      "display_text": "「Too true. Though in my case, I'm\ndownright envious of Hanae's power.」"
+    },
+    {
+      "id": "c13_092d0",
+      "speaker": "Rie",
+      "en": "Good work out there, Doctor. I... had a lot of fun being your teammate.",
+      "display_variant": "en",
+      "display_text": "「Good work out there, Doctor. I... had a\nlot of fun being your teammate.」"
+    },
+    {
+      "id": "c13_09320",
+      "speaker": "Kazami",
+      "en": "My whole body's creaking like an old engine. I think I'll go soak in the hot spring once more.",
+      "display_variant": "fit",
+      "display_text": "「My whole body's creaking like an old\nengine. I'll go soak in the hot spring\nonce more.」"
+    },
+    {
+      "id": "c13_09380",
+      "speaker": "Rie",
+      "en": "Heh heh... I'll rub your shoulders for you afterward.",
+      "display_variant": "en",
+      "display_text": "「Heh heh... I'll rub your shoulders for\nyou afterward.」"
+    },
+    {
+      "id": "c13_093b0",
+      "speaker": "Sandman",
+      "en": "Everyone...! I regret the interruption to your well-earned rest, but an emergency has arisen!",
+      "display_variant": "fit",
+      "display_text": "「Everyone...! Sorry to interrupt your\nwell-earned rest, but an emergency has\narisen!」"
+    },
+    {
+      "id": "c13_09410",
+      "speaker": "Luna",
+      "en": "What's wrong, Sandman!?",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Sandman!?」"
+    },
+    {
+      "id": "c13_09440",
+      "speaker": "Sandman",
+      "en": "Zeravire has appeared in this area. It seems it was likely hiding within the magma of a nearby volcano.",
+      "display_variant": "fit",
+      "display_text": "「Zeravire has appeared nearby. It was\nlikely hiding within a nearby volcano's\nmagma.」"
+    },
+    {
+      "id": "c13_094b0",
+      "speaker": "Talia",
+      "en": "Understood. We'll move to intercept immediately.",
+      "display_variant": "en",
+      "display_text": "「Understood. We'll move to intercept\nimmediately.」"
+    },
+    {
+      "id": "c13_094f0",
+      "speaker": "Arthur",
+      "en": "B-but, Captain! Since everyone was off resting, we haven't got a sortie roster put together!",
+      "display_variant": "fit",
+      "display_text": "「B-but, Captain! Everyone was resting,\nso we haven't got a sortie roster\ntogether!」"
+    },
+    {
+      "id": "c13_09550",
+      "speaker": "Sandman",
+      "en": "...Tessera, what's the status of the Sandman Cup?",
+      "display_variant": "en",
+      "display_text": "「...Tessera, what's the status of the\nSandman Cup?」"
+    },
+    {
+      "id": "c13_09580",
+      "speaker": "Tessera",
+      "en": "Currently, the first round has ended and the eight teams advancing to the quarterfinals have been decided.",
+      "display_variant": "fit",
+      "display_text": "「The first round has ended, and the\neight teams advancing to the quarterfinals\nare decided.」"
+    },
+    {
+      "id": "c13_095d0",
+      "speaker": "Sandman",
+      "en": "Then have those teams sortie.",
+      "display_variant": "en",
+      "display_text": "「Then have those teams sortie.」"
+    },
+    {
+      "id": "c13_09600",
+      "speaker": "Arthur",
+      "en": "Wh-what!?",
+      "display_variant": "en",
+      "display_text": "「Wh-what!?」"
+    },
+    {
+      "id": "c13_09620",
+      "speaker": "Sandman",
+      "en": "They're teams that made it past the first round. Their teamwork shouldn't be an issue.",
+      "display_variant": "en",
+      "display_text": "「They're teams that made it past the\nfirst round. Their teamwork shouldn't be\nan issue.」"
+    },
+    {
+      "id": "c13_09670",
+      "speaker": "Bright",
+      "en": "All right...! Everyone who's already been eliminated will fall back and support them!",
+      "display_variant": "en",
+      "display_text": "「All right...! Everyone who's already been\neliminated will fall back and support them!」"
+    },
+    {
+      "id": "c13_096c0",
+      "speaker": "Sandman",
+      "en": "Then, if I may be so bold, allow me to take command for today...!",
+      "display_variant": "en",
+      "display_text": "「Then, if I may be so bold, allow me to\ntake command for today...!」"
+    },
+    {
+      "id": "c13_09710",
+      "speaker": "Eiji",
+      "en": "All right!!",
+      "display_variant": "en",
+      "display_text": "「All right!!」"
+    },
+    {
+      "id": "c13_09730",
+      "speaker": "Toria",
+      "en": "Game, set! The final goes to the Eiji and Lunamaria pair!",
+      "display_variant": "en",
+      "display_text": "「Game, set! The final goes to the Eiji\nand Lunamaria pair!」"
+    },
+    {
+      "id": "c13_09780",
+      "speaker": "Lunamaria",
+      "en": "We did it! A ZAFT Red never disappoints!",
+      "display_variant": "en",
+      "display_text": "「We did it! A ZAFT Red never\ndisappoints!」"
+    },
+    {
+      "id": "c13_097c0",
+      "speaker": "Meyrin",
+      "en": "Sis... table tennis wasn't even part of the Academy's curriculum...",
+      "display_variant": "en",
+      "display_text": "「Sis... table tennis wasn't even part of\nthe Academy's curriculum...」"
+    },
+    {
+      "id": "c13_09810",
+      "speaker": "Tessera",
+      "en": "Congratulations, Lord Eiji, Lady Lunamaria.",
+      "display_variant": "en",
+      "display_text": "「Congratulations, Lord Eiji, Lady\nLunamaria.」"
+    },
+    {
+      "id": "c13_09850",
+      "speaker": "Marinia",
+      "en": "As the champions, the two of you are granted the right to challenge Lord Sandman's team.",
+      "display_variant": "en",
+      "display_text": "「As the champions, the two of you are\ngranted the right to challenge Lord\nSandman's team.」"
+    },
+    {
+      "id": "c13_098b0",
+      "speaker": "Eiji",
+      "en": "Heh heh... the time's finally come to make Sandman eat his words!",
+      "display_variant": "en",
+      "display_text": "「Heh heh... the time's finally come to\nmake Sandman eat his words!」"
+    },
+    {
+      "id": "c13_09900",
+      "speaker": "Luna",
+      "en": "But I wonder who Sandman's partner is...?",
+      "display_variant": "en",
+      "display_text": "「But I wonder who Sandman's partner\nis...?」"
+    },
+    {
+      "id": "c13_09940",
+      "speaker": "Sandman",
+      "en": "Congratulations, Eiji, Lunamaria. First, allow me to salute your victory.",
+      "display_variant": "en",
+      "display_text": "「Congratulations, Eiji, Lunamaria. First,\nallow me to salute your victory.」"
+    },
+    {
+      "id": "c13_099a0",
+      "speaker": "Lunamaria",
+      "en": "There he is... the final boss...!",
+      "display_variant": "en",
+      "display_text": "（There he is... the final boss...!）"
+    },
+    {
+      "id": "c13_099d0",
+      "speaker": "Eiji",
+      "en": "Come on then, Sandman. I'll show you what I've got when I'm serious.",
+      "display_variant": "en",
+      "display_text": "「Come on then, Sandman. I'll show you\nwhat I've got when I'm serious.」"
+    },
+    {
+      "id": "c13_09a10",
+      "speaker": "Sandman",
+      "en": "Heh... Allow me to introduce my partner, then.",
+      "display_variant": "en",
+      "display_text": "「Heh... Allow me to introduce my partner,\nthen.」"
+    },
+    {
+      "id": "c13_09a50",
+      "speaker": "Umee",
+      "en": "Go easy on us, would you, Eiji, Lunamaria dear?",
+      "display_variant": "en",
+      "display_text": "「Go easy on us, would you, Eiji,\nLunamaria dear?」"
+    },
+    {
+      "id": "c13_09a90",
+      "speaker": "Kappei",
+      "en": "G-Granny!!",
+      "display_variant": "en",
+      "display_text": "「G-Granny!!」"
+    },
+    {
+      "id": "c13_09ab0",
+      "speaker": "Heizaemon",
+      "en": "What!? Sandman's partner is the old lady!?",
+      "display_variant": "en",
+      "display_text": "「What!? Sandman's partner is the old\nlady!?」"
+    },
+    {
+      "id": "c13_09af0",
+      "speaker": "Lunamaria",
+      "en": "Ma'am... have you ever played table tennis before?",
+      "display_variant": "en",
+      "display_text": "「Ma'am... have you ever played table\ntennis before?」"
+    },
+    {
+      "id": "c13_09b30",
+      "speaker": "Umee",
+      "en": "I do like pickled scallions, but table tennis, I really couldn't tell you.",
+      "display_variant": "en",
+      "display_text": "「I do like pickled scallions, but table\ntennis, I really couldn't tell you.」"
+    },
+    {
+      "id": "c13_09b70",
+      "speaker": "Sandman",
+      "en": "Rest assured, Umee. Leave these two young ones to me.",
+      "display_variant": "en",
+      "display_text": "「Rest assured, Umee. Leave these two\nyoung ones to me.」"
+    },
+    {
+      "id": "c13_09bd0",
+      "speaker": "Umee",
+      "en": "How reassuring. A handsome man really does talk different, don't he.",
+      "display_variant": "en",
+      "display_text": "「How reassuring. A handsome man really\ndoes talk different, don't he.」"
+    },
+    {
+      "id": "c13_09c10",
+      "speaker": "Eiji",
+      "en": "You're kidding me...! You're gonna take on the two of us all by yourself!?",
+      "display_variant": "en",
+      "display_text": "「You're kidding me...! You're gonna take\non the two of us all by yourself!?」"
+    },
+    {
+      "id": "c13_09c60",
+      "speaker": "Sandman",
+      "en": "Heh... Teaching arrogant young men who don't know their own limits about the towering wall called reality -- that, too, is an adult's duty...",
+      "display_variant": "compact",
+      "display_text": "「Heh... Teaching cocky young men the\ntowering wall of reality is an adult's\nduty too...」"
+    },
+    {
+      "id": "c13_09cd0",
+      "speaker": "Sandman",
+      "en": "I'll take you both on with this!",
+      "display_variant": "en",
+      "display_text": "「I'll take you both on with this!」"
+    },
+    {
+      "id": "c13_09d00",
+      "speaker": "Shinn",
+      "en": "A slipper!?",
+      "display_variant": "en",
+      "display_text": "「A slipper!?」"
+    },
+    {
+      "id": "c13_09d20",
+      "speaker": "$n",
+      "en": "Wh-what...!? He's using that as a racket!?",
+      "display_variant": "en",
+      "display_text": "「Wh-what...!? He's using that as a\nracket!?」"
+    },
+    {
+      "id": "c13_09d60",
+      "speaker": "Tessera",
+      "en": "Amazing...",
+      "display_variant": "en",
+      "display_text": "「Amazing...」"
+    },
+    {
+      "id": "c13_09d80",
+      "speaker": "Chuil",
+      "en": "Payo! Now that's Lord Sandman for you!",
+      "display_variant": "en",
+      "display_text": "「Payo! Now that's Lord Sandman for you!」"
+    },
+    {
+      "id": "c13_09db0",
+      "speaker": "$n",
+      "en": "Is that really how it works!?",
+      "display_variant": "en",
+      "display_text": "「Is that really how it works!?」"
+    },
+    {
+      "id": "c13_09dd0",
+      "speaker": "Eiji",
+      "en": "Don't underestimate us...! You'll be crying for mercy soon, Sandman! Let's go, Lunamaria!!",
+      "display_variant": "en",
+      "display_text": "「Don't underestimate us...! You'll be\ncrying for mercy soon, Sandman! Let's go,\nLunamaria!!」"
+    },
+    {
+      "id": "c13_09e30",
+      "speaker": "Lunamaria",
+      "en": "R-right...!",
+      "display_variant": "en",
+      "display_text": "「R-right...!」"
+    },
+    {
+      "id": "c13_09e50",
+      "speaker": "Sandman",
+      "en": "Fall beautifully, young ones.",
+      "display_variant": "en",
+      "display_text": "「Fall beautifully, young ones.」"
+    },
+    {
+      "id": "c13_09e80",
+      "speaker": "$n",
+      "en": "What happened after that was truly a nightmare.",
+      "display_variant": "en",
+      "display_text": "（What happened after that was truly a\nnightmare.）"
+    },
+    {
+      "id": "c13_09eb0",
+      "speaker": "$n",
+      "en": "Everyone present that day must have felt real terror at Mr. Sandman's merciless play...",
+      "display_variant": "en",
+      "display_text": "（Everyone present that day must have\nfelt real terror at Mr. Sandman's\nmerciless play...）"
+    },
+    {
+      "id": "c13_09f10",
+      "speaker": "Sandman",
+      "en": "First, the vanishing serve!!",
+      "display_variant": "en",
+      "display_text": "「First, the vanishing serve!!」"
+    },
+    {
+      "id": "c13_09f40",
+      "speaker": "Eiji",
+      "en": "Waugh--!!",
+      "display_variant": "en",
+      "display_text": "「Waugh--!!」"
+    },
+    {
+      "id": "c13_09f60",
+      "speaker": "Sandman",
+      "en": "Ha ha ha! Next, the vanishing smash!",
+      "display_variant": "en",
+      "display_text": "「Ha ha ha! Next, the vanishing smash!」"
+    },
+    {
+      "id": "c13_09f90",
+      "speaker": "Lunamaria",
+      "en": "Kyaah!",
+      "display_variant": "en",
+      "display_text": "「Kyaah!」"
+    },
+    {
+      "id": "c13_09fb0",
+      "speaker": "Sandman",
+      "en": "Ha ha ha ha ha, how about that! Next, a serve so sloooow a fly could land on it!",
+      "display_variant": "en",
+      "display_text": "「Ha ha ha ha ha, how about that! Next,\na serve so sloooow a fly could land on\nit!」"
+    },
+    {
+      "id": "c13_0a000",
+      "speaker": "Eiji",
+      "en": "D-daaaaaaaammit!!",
+      "display_variant": "en",
+      "display_text": "「D-daaaaaaaammit!!」"
+    },
+    {
+      "id": "c13_0a030",
+      "speaker": "Sandman",
+      "en": "Ha ha ha ha ha ha ha ha ha ha ha! Ha ha ha ha ha ha ha ha ha ha ha ha ha ha!",
+      "display_variant": "en",
+      "display_text": "「Ha ha ha ha ha ha ha ha ha ha ha! Ha\nha ha ha ha ha ha ha ha ha ha ha ha ha!」"
+    },
+    {
+      "id": "c13_0a0e0",
+      "speaker": "Raven",
+      "en": "Welcome back, Sandman.",
+      "display_variant": "en",
+      "display_text": "「Welcome back, Sandman.」"
+    },
+    {
+      "id": "c13_0a110",
+      "speaker": "Sandman",
+      "en": "Thank you for holding down the fort, Raven. $c has headed off to Gibraltar Base.",
+      "display_variant": "en",
+      "display_text": "「Thank you for holding down the fort,\nRaven. $c has headed off to Gibraltar\nBase.」"
+    },
+    {
+      "id": "c13_0a170",
+      "speaker": "Raven",
+      "en": "That look on your face... you seem refreshed.",
+      "display_variant": "en",
+      "display_text": "「That look on your face... you seem\nrefreshed.」"
+    },
+    {
+      "id": "c13_0a1b0",
+      "speaker": "Sandman",
+      "en": "Thanks to that, I've made up my mind -- to confess my past sins to them...",
+      "display_variant": "en",
+      "display_text": "「Thanks to that, I've made up my mind\n-- to confess my past sins to them...」"
+    },
+    {
+      "id": "c13_0a200",
+      "speaker": "Raven",
+      "en": "Sandman...",
+      "display_variant": "en",
+      "display_text": "「Sandman...」"
+    },
+    {
+      "id": "c13_0a220",
+      "speaker": "Sandman",
+      "en": "Here's a souvenir. Take it, Raven.",
+      "display_variant": "en",
+      "display_text": "「Here's a souvenir. Take it, Raven.」"
+    },
+    {
+      "id": "c13_0a260",
+      "speaker": "Raven",
+      "en": "This is... a VIP free pass, good at hot springs all over the world!",
+      "display_variant": "en",
+      "display_text": "「This is... a VIP free pass, good at hot\nsprings all over the world!」"
+    },
+    {
+      "id": "c13_0a2b0",
+      "speaker": "Sandman",
+      "en": "It was originally meant to be the Sandman Cup's prize, but in the end, it stayed in my hands.",
+      "display_variant": "fit",
+      "display_text": "「This was meant to be the Sandman Cup's\nprize, but in the end, it stayed with me.」"
+    },
+    {
+      "id": "c13_0a310",
+      "speaker": "Sandman",
+      "en": "Raven... someday, take off that mask and come to a hot spring with me.",
+      "display_variant": "en",
+      "display_text": "「Raven... someday, take off that mask\nand come to a hot spring with me.」"
+    },
+    {
+      "id": "c13_0a360",
+      "speaker": "Raven",
+      "en": "...Yes.",
+      "display_variant": "en",
+      "display_text": "「...Yes.」"
+    }
+  ]
+}

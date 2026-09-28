@@ -1,0 +1,852 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c07_02110",
+      "speaker": "Garrod",
+      "en": "Sorry, Gainer. Dragging you along like this.",
+      "display_variant": "en",
+      "display_text": "「Sorry, Gainer. Dragging you along like\nthis.」"
+    },
+    {
+      "id": "c07_02150",
+      "speaker": "Gainer",
+      "en": "Don't worry about it. Renton helped me out in that last battle, after all.",
+      "display_variant": "fit",
+      "display_text": "「Don't worry about it. Renton helped me\nout in the last battle, after all.」"
+    },
+    {
+      "id": "c07_021b0",
+      "speaker": "Gainer",
+      "en": "Besides, if it's the city of Katez, even I can show you around.",
+      "display_variant": "en",
+      "display_text": "「Besides, if it's the city of Katez, even\nI can show you around.」"
+    },
+    {
+      "id": "c07_021f0",
+      "speaker": "Sara",
+      "en": "But you're kind too, Garrod. Helping Renton run his errand like this.",
+      "display_variant": "en",
+      "display_text": "「But you're kind too, Garrod. Helping\nRenton run his errand like this.」"
+    },
+    {
+      "id": "c07_02250",
+      "speaker": "Garrod",
+      "en": "It's just something to kill time.",
+      "display_variant": "en",
+      "display_text": "「It's just something to kill time.」"
+    },
+    {
+      "id": "c07_02280",
+      "speaker": "Garrod",
+      "en": "Word is it's still gonna take time to connect $c's warship to Yapan's ceiling anyway.",
+      "display_variant": "fit",
+      "display_text": "「Word is it'll still take time to connect\n$c's warship to Yapan's ceiling anyway.」"
+    },
+    {
+      "id": "c07_022e0",
+      "speaker": "Sara",
+      "en": "This'll let us speed things up in one go, so the Exodus is practically a success already.",
+      "display_variant": "fit",
+      "display_text": "「This'll speed things up in one go, so\nthe Exodus is practically a success\nalready.」"
+    },
+    {
+      "id": "c07_02340",
+      "speaker": "Garrod",
+      "en": "So, since it's a good chance, I figured I'd show Tiffa the snowfields of Siberia.",
+      "display_variant": "fit",
+      "display_text": "「Since it's a good chance, I figured I'd\nshow Tiffa the snowfields of Siberia.」"
+    },
+    {
+      "id": "c07_023a0",
+      "speaker": "Tiffa",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c07_023c0",
+      "speaker": "Garrod",
+      "en": "What's wrong, Tiffa?",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Tiffa?」"
+    },
+    {
+      "id": "c07_023f0",
+      "speaker": "Tiffa",
+      "en": "I don't know... I just feel uneasy... like something bad is about to happen...",
+      "display_variant": "fit",
+      "display_text": "「I don't know... I just feel uneasy, like\nsomething bad's about to happen...」"
+    },
+    {
+      "id": "c07_02440",
+      "speaker": "Garrod",
+      "en": "Huh...",
+      "display_variant": "en",
+      "display_text": "「Huh...」"
+    },
+    {
+      "id": "c07_02460",
+      "speaker": "Eureka",
+      "en": "Renton... there's a transmission coming in from Hap.",
+      "display_variant": "en",
+      "display_text": "「Renton... there's a transmission coming\nin from Hap.」"
+    },
+    {
+      "id": "c07_024a0",
+      "speaker": "Eureka",
+      "en": "Renton?",
+      "display_variant": "en",
+      "display_text": "「Renton?」"
+    },
+    {
+      "id": "c07_024c0",
+      "speaker": "Garrod",
+      "en": "This is no time to be getting bashful!",
+      "display_variant": "en",
+      "display_text": "「This is no time to be getting bashful!」"
+    },
+    {
+      "id": "c07_024f0",
+      "speaker": "Gainer",
+      "en": "It suits you, Renton.",
+      "display_variant": "en",
+      "display_text": "「It suits you, Renton.」"
+    },
+    {
+      "id": "c07_02520",
+      "speaker": "Renton",
+      "en": "Yes! This is Renton! Go ahead with your instructions!",
+      "display_variant": "en",
+      "display_text": "「Yes! This is Renton! Go ahead with your\ninstructions!」"
+    },
+    {
+      "id": "c07_025b0",
+      "speaker": "Hanae",
+      "en": "Kira, Athrun, you two eat plenty of rice balls now.",
+      "display_variant": "en",
+      "display_text": "「Kira, Athrun, you two eat plenty of\nrice balls now.」"
+    },
+    {
+      "id": "c07_025f0",
+      "speaker": "Athrun",
+      "en": "Y-yes... I'm having some.",
+      "display_variant": "en",
+      "display_text": "「Y-yes... I'm having some.」"
+    },
+    {
+      "id": "c07_02620",
+      "speaker": "Umee",
+      "en": "Young folks shouldn't hold back. Here now... you can't fight a war on an empty stomach, you know.",
+      "display_variant": "fit",
+      "display_text": "「Young folks shouldn't hold back. You\ncan't fight a war on an empty stomach,\nyou know.」"
+    },
+    {
+      "id": "c07_02680",
+      "speaker": "Athrun",
+      "en": "Thank you very much.",
+      "display_variant": "en",
+      "display_text": "「Thank you very much.」"
+    },
+    {
+      "id": "c07_026b0",
+      "speaker": "Kira",
+      "en": "...A lot must have happened, to get here.",
+      "display_variant": "en",
+      "display_text": "「...A lot must have happened, to get\nhere.」"
+    },
+    {
+      "id": "c07_026f0",
+      "speaker": "Eiji",
+      "en": "Yeah, well. The world was turned upside down in an uproar, but we've been through about the same.",
+      "display_variant": "fit",
+      "display_text": "「Yeah, well. The world was turned upside\ndown, but we've been through about the\nsame.」"
+    },
+    {
+      "id": "c07_02740",
+      "speaker": "Shinn",
+      "en": "It's been nothing but fighting, day after day, but we made it this far.",
+      "display_variant": "fit",
+      "display_text": "「Nothing but fighting, day after day,\nbut we made it this far.」"
+    },
+    {
+      "id": "c07_02780",
+      "speaker": "Shinn",
+      "en": "We even fought among ourselves within $c, and fought against you too...",
+      "display_variant": "fit",
+      "display_text": "「We even fought among ourselves in $c,\nand fought against you too...」"
+    },
+    {
+      "id": "c07_027d0",
+      "speaker": "Kira",
+      "en": "No one could see tomorrow. Not me, not everyone in $c, not anyone in the whole world...",
+      "display_variant": "fit",
+      "display_text": "「No one could see tomorrow -- not me,\nnot everyone in $c, not anyone in the\nwhole world...」"
+    },
+    {
+      "id": "c07_02820",
+      "speaker": "Kamille",
+      "en": "To change that, we announced the truth to the world.",
+      "display_variant": "en",
+      "display_text": "「To change that, we announced the truth\nto the world.」"
+    },
+    {
+      "id": "c07_02870",
+      "speaker": "Amuro",
+      "en": "After that, it's up to each person how they take it.",
+      "display_variant": "en",
+      "display_text": "「After that, it's up to each person how\nthey take it.」"
+    },
+    {
+      "id": "c07_028a0",
+      "speaker": "Amuro",
+      "en": "And gathering those feelings together, let's carry out the space-time restoration.",
+      "display_variant": "fit",
+      "display_text": "「Gathering those feelings together, let's\ncarry out the space-time restoration.」"
+    },
+    {
+      "id": "c07_028e0",
+      "speaker": "Kappei",
+      "en": "Then what if everyone in the world wished for this world to just fall apart?",
+      "display_variant": "fit",
+      "display_text": "「Then what if everyone in the world\nwished this world would just fall apart?」"
+    },
+    {
+      "id": "c07_02930",
+      "speaker": "Kei",
+      "en": "Maybe then the space-time restoration would fail and every world would end up collapsing.",
+      "display_variant": "fit",
+      "display_text": "「Maybe then the space-time restoration\nwould fail, and every world would collapse.」"
+    },
+    {
+      "id": "c07_02980",
+      "speaker": "Jiron",
+      "en": "If that happens, everything we've done up till now will have been for nothing!",
+      "display_variant": "fit",
+      "display_text": "「If that happens, everything we've done\ntill now will be for nothing!」"
+    },
+    {
+      "id": "c07_029e0",
+      "speaker": "Kei",
+      "en": "If it comes to that, it comes to that. It's not us who decides the world... it's the will of every single person.",
+      "display_variant": "fit",
+      "display_text": "「If it comes to that, so be it. It's not\nus who decides the world -- it's the will\nof every single person.」"
+    },
+    {
+      "id": "c07_02a40",
+      "speaker": "Koji",
+      "en": "At this point, that's the only way to look at it.",
+      "display_variant": "en",
+      "display_text": "「At this point, that's the only way to\nlook at it.」"
+    },
+    {
+      "id": "c07_02a70",
+      "speaker": "Ryouma",
+      "en": "We did what we had to do. All that's left is for us, too, as one person among the world, to wish for the future.",
+      "display_variant": "fit",
+      "display_text": "「We did what we had to do. All that's\nleft is for us too, as one person in the\nworld, to wish for the future.」"
+    },
+    {
+      "id": "c07_02ad0",
+      "speaker": "Garrod",
+      "en": "Well... that's about all there is to it.",
+      "display_variant": "en",
+      "display_text": "「Well... that's about all there is to it.」"
+    },
+    {
+      "id": "c07_02af0",
+      "speaker": "Renton",
+      "en": "But I believe it. That everyone's wishing for the future.",
+      "display_variant": "en",
+      "display_text": "「But I believe it. That everyone's\nwishing for the future.」"
+    },
+    {
+      "id": "c07_02b40",
+      "speaker": "Kira",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c07_02b50",
+      "speaker": "Renton",
+      "en": "Wh-what is it...? Did I... say something weird?",
+      "display_variant": "en",
+      "display_text": "「Wh-what is it...? Did I... say something\nweird?」"
+    },
+    {
+      "id": "c07_02b90",
+      "speaker": "Kira",
+      "en": "No... I was just thinking... you're strong.",
+      "display_variant": "en",
+      "display_text": "「No... I was just thinking... you're\nstrong.」"
+    },
+    {
+      "id": "c07_02bc0",
+      "speaker": "Renton",
+      "en": "Th-that's not true! You're the one who's stuck to the path you believed in, Kira!",
+      "display_variant": "fit",
+      "display_text": "「That's not true! You're the one who\nstuck to your own path, Kira!」"
+    },
+    {
+      "id": "c07_02c30",
+      "speaker": "Kira",
+      "en": "I was... full of doubt the whole way.",
+      "display_variant": "en",
+      "display_text": "「I was... full of doubt the whole way.」"
+    },
+    {
+      "id": "c07_02c60",
+      "speaker": "Renton",
+      "en": "If that's the case, then me and everyone in $c are the same.",
+      "display_variant": "en",
+      "display_text": "「If that's the case, then me and\neveryone in $c are the same.」"
+    },
+    {
+      "id": "c07_02ca0",
+      "speaker": "Renton",
+      "en": "...Wait, I think we already had this conversation earlier.",
+      "display_variant": "en",
+      "display_text": "「...Wait, I think we already had this\nconversation earlier.」"
+    },
+    {
+      "id": "c07_02cd0",
+      "speaker": "Toshiya",
+      "en": "Let's cut it out with that kind of talk already.",
+      "display_variant": "en",
+      "display_text": "「Let's cut it out with that kind of talk\nalready.」"
+    },
+    {
+      "id": "c07_02d00",
+      "speaker": "Marin",
+      "en": "We've had our share of little misunderstandings with each other, but we've become one.",
+      "display_variant": "fit",
+      "display_text": "「We've had our share of little\nmisunderstandings, but we've become one.」"
+    },
+    {
+      "id": "c07_02d50",
+      "speaker": "Banjo",
+      "en": "Exactly. Apologizing for past mistakes matters, but for now, let's think about the future together.",
+      "display_variant": "fit",
+      "display_text": "「Exactly. Apologizing for past mistakes\nmatters, but let's now think about the\nfuture together.」"
+    },
+    {
+      "id": "c07_02db0",
+      "speaker": "Shinn",
+      "en": "The future... huh.",
+      "display_variant": "en",
+      "display_text": "「The future... huh.」"
+    },
+    {
+      "id": "c07_02dd0",
+      "speaker": "Kira",
+      "en": "Yeah...",
+      "display_variant": "en",
+      "display_text": "「Yeah...」"
+    },
+    {
+      "id": "c07_02de0",
+      "speaker": "Renton",
+      "en": "Yeah, that's right. We took the long way around, but now we're walking the same path.",
+      "display_variant": "fit",
+      "display_text": "「Yeah. We took the long way around, but\nnow we're walking the same path.」"
+    },
+    {
+      "id": "c07_02e40",
+      "speaker": "Garrod",
+      "en": "Well... in Renton's case, maybe it was a road he was charging straight down from the very start.",
+      "display_variant": "fit",
+      "display_text": "「Well... for Renton, maybe it was a road\nhe was charging straight down from the\nvery start.」"
+    },
+    {
+      "id": "c07_02ea0",
+      "speaker": "Renton",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c07_02ec0",
+      "speaker": "Gainer",
+      "en": "He means Eureka. Becoming a source of strength for her was the start of your fight, after all.",
+      "display_variant": "fit",
+      "display_text": "「He means Eureka. Being a source of\nstrength for her was the start of your\nfight, after all.」"
+    },
+    {
+      "id": "c07_02f20",
+      "speaker": "Renton",
+      "en": "Yes...!",
+      "display_variant": "en",
+      "display_text": "「Yes...!」"
+    },
+    {
+      "id": "c07_02f40",
+      "speaker": "Kira",
+      "en": "The bond between you and Eureka... just watching it gives strength to us too.",
+      "display_variant": "fit",
+      "display_text": "「The bond between you and Eureka... just\nwatching it gives us strength too.」"
+    },
+    {
+      "id": "c07_02f90",
+      "speaker": "Kira",
+      "en": "That bond must have been nurtured over a long time.",
+      "display_variant": "en",
+      "display_text": "「That bond must have been nurtured over\na long time.」"
+    },
+    {
+      "id": "c07_02fc0",
+      "speaker": "Matthieu",
+      "en": "Actually, that's not quite how it went.",
+      "display_variant": "en",
+      "display_text": "「Actually, that's not quite how it went.」"
+    },
+    {
+      "id": "c07_02ff0",
+      "speaker": "Hap",
+      "en": "Sure, he's got a full-grown face on him now, but back at the start, he kept pulling off some outrageous blunders.",
+      "display_variant": "fit",
+      "display_text": "「Sure, he's got a grown-up face now,\nbut back at the start, he kept pulling\noff some outrageous blunders.」"
+    },
+    {
+      "id": "c07_03060",
+      "speaker": "Kira",
+      "en": "Is that so...?",
+      "display_variant": "en",
+      "display_text": "「Is that so...?」"
+    },
+    {
+      "id": "c07_03080",
+      "speaker": "Eiji",
+      "en": "Good opportunity. Should we tell them about Renton's magnificent debut battle?",
+      "display_variant": "fit",
+      "display_text": "「Good chance. Should we tell them about\nRenton's magnificent debut battle?」"
+    },
+    {
+      "id": "c07_030d0",
+      "speaker": "Touga",
+      "en": "You mean the story of the big confession in Siberia.",
+      "display_variant": "en",
+      "display_text": "「You mean the story of the big\nconfession in Siberia.」"
+    },
+    {
+      "id": "c07_03100",
+      "speaker": "Kira",
+      "en": "That sounds like quite a story.",
+      "display_variant": "en",
+      "display_text": "「That sounds like quite a story.」"
+    },
+    {
+      "id": "c07_03120",
+      "speaker": "Sara",
+      "en": "It's a story you don't need to know!",
+      "display_variant": "en",
+      "display_text": "「It's a story you don't need to know!」"
+    },
+    {
+      "id": "c07_03140",
+      "speaker": "Kira",
+      "en": "I see... but now that you say that, it makes me want to hear it even more.",
+      "display_variant": "fit",
+      "display_text": "「I see... but now that you say that, I\nwant to hear it even more.」"
+    },
+    {
+      "id": "c07_03190",
+      "speaker": "Sara",
+      "en": "No way! Not this one!",
+      "display_variant": "en",
+      "display_text": "「No way! Not this one!」"
+    },
+    {
+      "id": "c07_031c0",
+      "speaker": "Kira",
+      "en": "You're turning redder and redder.",
+      "display_variant": "en",
+      "display_text": "「You're turning redder and redder.」"
+    },
+    {
+      "id": "c07_031e0",
+      "speaker": "Sara",
+      "en": "Nngh... nnngh...!",
+      "display_variant": "en",
+      "display_text": "「Nngh... nnngh...!」"
+    },
+    {
+      "id": "c07_03200",
+      "speaker": "Gainer",
+      "en": "(Is he saying that on purpose...? Or is it just natural for him...)",
+      "display_variant": "en",
+      "display_text": "（(Is he saying that on purpose...? Or\nis it just natural for him...)）"
+    },
+    {
+      "id": "c07_03240",
+      "speaker": "Eiji",
+      "en": "(Uh oh... if he's a natural airhead like that... he might be my natural enemy...)",
+      "display_variant": "fit",
+      "display_text": "（(Uh oh... if he's a natural airhead like\nthat... he might be my natural enemy...)）"
+    },
+    {
+      "id": "c07_03280",
+      "speaker": "Adette",
+      "en": "I'll tell that story some other time. What's coming up next happened a bit after that... titled 'Renton's First Errand.'",
+      "display_variant": "fit",
+      "display_text": "「I'll tell that story another time. What's\nnext happened a bit after that... titled\n'Renton's First Errand.'」"
+    },
+    {
+      "id": "c07_03300",
+      "speaker": "Renton",
+      "en": "Ah... that one!?",
+      "display_variant": "en",
+      "display_text": "「Ah... that one!?」"
+    },
+    {
+      "id": "c07_03320",
+      "speaker": "Kira",
+      "en": "That sounds interesting too. Alright, go ahead.",
+      "display_variant": "en",
+      "display_text": "「That sounds interesting too. Alright, go\nahead.」"
+    },
+    {
+      "id": "c07_03360",
+      "speaker": "Matthieu",
+      "en": "Right on! Got a request, so let's spin a nice groovy number for you!",
+      "display_variant": "fit",
+      "display_text": "「Right on! Got a request, so let's spin\na groovy number for you!」"
+    },
+    {
+      "id": "c07_033c0",
+      "speaker": "Hap",
+      "en": "That's right... this was way before the Second Break...",
+      "display_variant": "en",
+      "display_text": "「That's right... this was way before the\nSecond Break...」"
+    },
+    {
+      "id": "c07_03400",
+      "speaker": "Hap",
+      "en": "It's a story from back when $c's group was going along with the Exodus of Yapan's ceiling, crossing Siberia...",
+      "display_variant": "fit",
+      "display_text": "「It's from back when $c's group was\ngoing along with Yapan's ceiling's Exodus,\ncrossing Siberia...」"
+    },
+    {
+      "id": "c07_034b0",
+      "speaker": "Renton",
+      "en": "...A job?",
+      "display_variant": "en",
+      "display_text": "「...A job?」"
+    },
+    {
+      "id": "c07_034d0",
+      "speaker": "Hap",
+      "en": "That's right. We also found out from the last battle that you can handle the Nirvash.",
+      "display_variant": "fit",
+      "display_text": "「That's right. We found out from the\nlast battle that you can handle the\nNirvash.」"
+    },
+    {
+      "id": "c07_03530",
+      "speaker": "Matthieu",
+      "en": "Sorry about that, Renton. Seems like we... underestimated you.",
+      "display_variant": "fit",
+      "display_text": "「Sorry about that, Renton. Seems we...\nunderestimated you.」"
+    },
+    {
+      "id": "c07_03580",
+      "speaker": "Renton",
+      "en": "N-no, it's not like that...! I just... got fired up seeing big bro Gainer and went at it without thinking...",
+      "display_variant": "fit",
+      "display_text": "「N-no, it's not like that...! I just got\nfired up seeing big bro Gainer and went\nat it without thinking...」"
+    },
+    {
+      "id": "c07_035e0",
+      "speaker": "Stoner",
+      "en": "That's exactly why we want to entrust you with a job. ...Doggy, bring the item.",
+      "display_variant": "fit",
+      "display_text": "「That's why we want to entrust you\nwith a job. ...Doggy, bring the item.」"
+    },
+    {
+      "id": "c07_03640",
+      "speaker": "Moondoggie",
+      "en": "Yeah...",
+      "display_variant": "en",
+      "display_text": "「Yeah...」"
+    },
+    {
+      "id": "c07_03660",
+      "speaker": "Renton",
+      "en": "Wh-what is this...?",
+      "display_variant": "en",
+      "display_text": "「Wh-what is this...?」"
+    },
+    {
+      "id": "c07_03680",
+      "speaker": "Stoner",
+      "en": "Careful! What are you doing!?",
+      "display_variant": "en",
+      "display_text": "「Careful! What are you doing!?」"
+    },
+    {
+      "id": "c07_036b0",
+      "speaker": "Renton",
+      "en": "Huh...!?",
+      "display_variant": "en",
+      "display_text": "「Huh...!?」"
+    },
+    {
+      "id": "c07_036d0",
+      "speaker": "Hap",
+      "en": "Unbelievable. Who touches that bare-handed, normally...?",
+      "display_variant": "en",
+      "display_text": "「Unbelievable. Who touches that\nbare-handed, normally...?」"
+    },
+    {
+      "id": "c07_03710",
+      "speaker": "Matthieu",
+      "en": "You do realize that's an extremely dangerous item, right?",
+      "display_variant": "en",
+      "display_text": "「You do realize that's an extremely\ndangerous item, right?」"
+    },
+    {
+      "id": "c07_03750",
+      "speaker": "Renton",
+      "en": "What's going on here!?",
+      "display_variant": "en",
+      "display_text": "「What's going on here!?」"
+    },
+    {
+      "id": "c07_03770",
+      "speaker": "Hap",
+      "en": "It looks like an ordinary delivery box. But with just this one thing, a whole city could...",
+      "display_variant": "fit",
+      "display_text": "「Looks like an ordinary delivery box. But\nwith just this one thing, a whole city\ncould...」"
+    },
+    {
+      "id": "c07_037c0",
+      "speaker": "Renton",
+      "en": "A whole city could...! Don't tell me... this is a bomb!?",
+      "display_variant": "en",
+      "display_text": "「A whole city could...! Don't tell me...\nthis is a bomb!?」"
+    },
+    {
+      "id": "c07_03800",
+      "speaker": "Hap",
+      "en": "Don't ask any more than that... You're better off not knowing.",
+      "display_variant": "en",
+      "display_text": "「Don't ask any more than that... You're\nbetter off not knowing.」"
+    },
+    {
+      "id": "c07_03840",
+      "speaker": "Hap",
+      "en": "This is a request from someone hiding up in Yapan's ceiling.",
+      "display_variant": "en",
+      "display_text": "「This is a request from someone hiding\nup in Yapan's ceiling.」"
+    },
+    {
+      "id": "c07_03890",
+      "speaker": "Hap",
+      "en": "Due to some grown-up circumstances, we've ended up having to deliver this to a certain person.",
+      "display_variant": "fit",
+      "display_text": "「Due to some grown-up circumstances,\nwe've ended up delivering this to a\ncertain person.」"
+    },
+    {
+      "id": "c07_038f0",
+      "speaker": "Renton",
+      "en": "But...",
+      "display_variant": "en",
+      "display_text": "「But...」"
+    },
+    {
+      "id": "c07_03910",
+      "speaker": "Hap",
+      "en": "I get it, you're reluctant. If I could help it, I wouldn't want to ask you to do something like this either...",
+      "display_variant": "fit",
+      "display_text": "「I get it, you're reluctant. If I could\nhelp it, I wouldn't ask you to do\nsomething like this either...」"
+    },
+    {
+      "id": "c07_03970",
+      "speaker": "Hap",
+      "en": "But moving the Gekko-Goh would draw way too much attention. We'd have to explain ourselves to the folks in $c too.",
+      "display_variant": "fit",
+      "display_text": "「But moving the Gekko-Goh would draw\nway too much attention. We'd have to\nexplain to the folks in $c too.」"
+    },
+    {
+      "id": "c07_039d0",
+      "speaker": "Hap",
+      "en": "That's why we've got no choice but to ask you, since you don't stand out. There's no other way but for you to help us...",
+      "display_variant": "fit",
+      "display_text": "「That's why we've got no choice but to\nask you, since you don't stand out. No\nother way but for you to help...」"
+    },
+    {
+      "id": "c07_03a30",
+      "speaker": "Renton",
+      "en": "I'll do it...! Actually, please let me do it!",
+      "display_variant": "en",
+      "display_text": "「I'll do it...! Actually, please let me do\nit!」"
+    },
+    {
+      "id": "c07_03a70",
+      "speaker": "Hap",
+      "en": "Huh? For real!? You're such a great guy!",
+      "display_variant": "en",
+      "display_text": "「Huh? For real!? You're such a great\nguy!」"
+    },
+    {
+      "id": "c07_03aa0",
+      "speaker": "Matthieu",
+      "en": "Alright... then get changed right away and head out.",
+      "display_variant": "en",
+      "display_text": "「Alright... then get changed right away\nand head out.」"
+    },
+    {
+      "id": "c07_03ae0",
+      "speaker": "Renton",
+      "en": "Huh... change into what...?",
+      "display_variant": "en",
+      "display_text": "「Huh... change into what...?」"
+    },
+    {
+      "id": "c07_03b10",
+      "speaker": "Matthieu",
+      "en": "It's a type of urban camouflage. It'll let you disappear from the enemy's sight.",
+      "display_variant": "fit",
+      "display_text": "「It's urban camouflage. It'll let you\ndisappear from the enemy's sight.」"
+    },
+    {
+      "id": "c07_03b60",
+      "speaker": "Renton",
+      "en": "O-okay...",
+      "display_variant": "en",
+      "display_text": "「O-okay...」"
+    },
+    {
+      "id": "c07_03b80",
+      "speaker": "Hap",
+      "en": "I'm entrusting the Nirvash to you. Detailed instructions will be sent straight to your receiver once you're on site. ...Count on you.",
+      "display_variant": "fit",
+      "display_text": "「I'm entrusting you with the Nirvash.\nDetails go to your receiver once you're\non site. Count on you.」"
+    },
+    {
+      "id": "c07_03be0",
+      "speaker": "Renton",
+      "en": "Yes! I'm... heading out!",
+      "display_variant": "en",
+      "display_text": "「Yes! I'm... heading out!」"
+    },
+    {
+      "id": "c07_03c10",
+      "speaker": "Gidget",
+      "en": "He's gone...",
+      "display_variant": "en",
+      "display_text": "「He's gone...」"
+    },
+    {
+      "id": "c07_03c30",
+      "speaker": "Stoner",
+      "en": "Ain't it nice. A young man who doesn't know how to doubt anything.",
+      "display_variant": "en",
+      "display_text": "「Ain't it nice. A young man who doesn't\nknow how to doubt anything.」"
+    },
+    {
+      "id": "c07_03c70",
+      "speaker": "Hap",
+      "en": "Now then, everyone... it's time for Gekkostate's traditional event...",
+      "display_variant": "en",
+      "display_text": "「Now then, everyone... it's time for\nGekkostate's traditional event...」"
+    },
+    {
+      "id": "c07_03cb0",
+      "speaker": "Hap",
+      "en": "The rookie's first errand... we're gonna show you every last secret behind it. Let the top-secret prank operation begin.",
+      "display_variant": "fit",
+      "display_text": "「The rookie's first errand... we'll show\nyou every last secret behind it. Let the\ntop-secret prank op begin.」"
+    },
+    {
+      "id": "c07_03d20",
+      "speaker": "Matthieu",
+      "en": "Doggy... don't screw up the filming this time.",
+      "display_variant": "en",
+      "display_text": "「Doggy... don't screw up the filming this\ntime.」"
+    },
+    {
+      "id": "c07_03d50",
+      "speaker": "Moondoggie",
+      "en": "I get it. I'll do it right this time.",
+      "display_variant": "en",
+      "display_text": "「I get it. I'll do it right this time.」"
+    },
+    {
+      "id": "c07_03d90",
+      "speaker": "Matthieu",
+      "en": "Last time's prank got ruined because you, the cameraman, got spotted by Renton before the operation even started.",
+      "display_variant": "fit",
+      "display_text": "「Last time's prank got ruined because\nyou, the cameraman, got spotted by\nRenton before the op even started.」"
+    },
+    {
+      "id": "c07_03e00",
+      "speaker": "Moondoggie",
+      "en": "S-sorry about that...",
+      "display_variant": "en",
+      "display_text": "「S-sorry about that...」"
+    },
+    {
+      "id": "c07_03e30",
+      "speaker": "Gidget",
+      "en": "But Renton's kind of funny, isn't he. He got all touched, thinking Doggy came along because he was worried about him, when Doggy was actually just there to film him screwing up...",
+      "display_variant": "fit",
+      "display_text": "「Renton's funny, though -- touched that\nDoggy came worried, when Doggy was\nreally just filming his screw-ups.」"
+    },
+    {
+      "id": "c07_03ec0",
+      "speaker": "Gidget",
+      "en": "He even started calling Doggy 'big bro' because of it.",
+      "display_variant": "en",
+      "display_text": "「He even started calling Doggy 'big bro'\nbecause of it.」"
+    },
+    {
+      "id": "c07_03f10",
+      "speaker": "Moondoggie",
+      "en": "That's a real pain, all that!",
+      "display_variant": "en",
+      "display_text": "「That's a real pain, all that!」"
+    },
+    {
+      "id": "c07_03f40",
+      "speaker": "Hap",
+      "en": "Well, it's fine, isn't it. Renton's found himself a new big brother in Gainer now too.",
+      "display_variant": "fit",
+      "display_text": "「Well, it's fine. Renton's found himself a\nnew big brother in Gainer now too.」"
+    },
+    {
+      "id": "c07_03fa0",
+      "speaker": "Moondoggie",
+      "en": "Ah, yeah...",
+      "display_variant": "en",
+      "display_text": "「Ah, yeah...」"
+    },
+    {
+      "id": "c07_03fc0",
+      "speaker": "Stoner",
+      "en": "Alright, get going, Doggy. Make sure you send us that top-secret treasure footage in full.",
+      "display_variant": "fit",
+      "display_text": "「Alright, get going, Doggy. Send us that\ntop-secret treasure footage in full.」"
+    },
+    {
+      "id": "c07_04010",
+      "speaker": "Gidget",
+      "en": "I'll go call over everyone in $c who looks like they've got time to kill.",
+      "display_variant": "fit",
+      "display_text": "「I'll go call everyone in $c who looks\nlike they've got time to kill.」"
+    },
+    {
+      "id": "c07_04060",
+      "speaker": "Hap",
+      "en": "Don't let Ken-Goh catch you. If he finds out we're messing with the rookie, we're in for a lecture.",
+      "display_variant": "fit",
+      "display_text": "「Don't let Ken-Goh catch you. If he\nlearns we're messing with the rookie,\nwe're in for a lecture.」"
+    },
+    {
+      "id": "c07_040c0",
+      "speaker": "Matthieu",
+      "en": "Alright, we're counting on you, Renton. Show us the ultimate cure for boredom.",
+      "display_variant": "fit",
+      "display_text": "「Alright, count on you, Renton. Show us\nthe ultimate cure for boredom.」"
+    }
+  ]
+}

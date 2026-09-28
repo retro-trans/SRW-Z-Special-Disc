@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c53_03310",
+      "speaker": "Holland",
+      "en": "Here they come! You all ready!?",
+      "display_variant": "en",
+      "display_text": "「Here they come! You all ready!?」"
+    },
+    {
+      "id": "c53_03340",
+      "speaker": "Holland",
+      "en": "(These guys aren't fighting because they want to, either...)",
+      "display_variant": "en",
+      "display_text": "（(These guys aren't fighting because\nthey want to, either...)）"
+    },
+    {
+      "id": "c53_03380",
+      "speaker": "Holland",
+      "en": "(But there's nothing to do but go through with it...!)",
+      "display_variant": "en",
+      "display_text": "（(But there's nothing to do but go\nthrough with it...!)）"
+    },
+    {
+      "id": "c53_033b0",
+      "speaker": "Holland",
+      "en": "The Coralian Antibody's after the town behind us! Don't you dare let it through!",
+      "display_variant": "en",
+      "display_text": "「The Coralian Antibody's after the town\nbehind us! Don't you dare let it through!」"
+    },
+    {
+      "id": "c53_03410",
+      "speaker": "Holland",
+      "en": "If it gets past that line, it's over!",
+      "display_variant": "en",
+      "display_text": "「If it gets past that line, it's over!」"
+    },
+    {
+      "id": "c53_03450",
+      "speaker": "Holland",
+      "en": "This is going to be close-quarters fighting! Since we can't use any wide-area weapons, knock them down one at a time!",
+      "display_variant": "en",
+      "display_text": "「This is going to be close-quarters\nfighting! Since we can't use any wide-area\nweapons, knock them down one at a time!」"
+    },
+    {
+      "id": "c53_034c0",
+      "speaker": "Holland",
+      "en": "Hold out five minutes and the Coralian will self-destruct! Just hang in there until then!!",
+      "display_variant": "en",
+      "display_text": "「Hold out five minutes and the Coralian\nwill self-destruct! Just hang in there\nuntil then!!」"
+    },
+    {
+      "id": "c53_03520",
+      "speaker": "Holland",
+      "en": "So it's finally hit its activity limit...",
+      "display_variant": "en",
+      "display_text": "「So it's finally hit its activity limit...」"
+    },
+    {
+      "id": "c53_03550",
+      "speaker": "Hap",
+      "en": "We managed to protect the town. Let's just be glad of that for now.",
+      "display_variant": "en",
+      "display_text": "「We managed to protect the town. Let's\njust be glad of that for now.」"
+    },
+    {
+      "id": "c53_03590",
+      "speaker": "Holland",
+      "en": "Yeah... you're right.",
+      "display_variant": "en",
+      "display_text": "「Yeah... you're right.」"
+    },
+    {
+      "id": "c53_035b0",
+      "speaker": "Holland",
+      "en": "(To keep this from happening again and again, I've got no choice but to stop him...)",
+      "display_variant": "en",
+      "display_text": "（(To keep this from happening again\nand again, I've got no choice but to stop\nhim...)）"
+    },
+    {
+      "id": "c53_03600",
+      "speaker": "Holland",
+      "en": "(Dewey... I'm going to walk the path I believe in. Even if you stand in my way...)",
+      "display_variant": "en",
+      "display_text": "（(Dewey... I'm going to walk the path I\nbelieve in. Even if you stand in my\nway...)）"
+    },
+    {
+      "id": "c53_03660",
+      "speaker": "Holland",
+      "en": "Damn it! I can't stop it!!",
+      "display_variant": "en",
+      "display_text": "「Damn it! I can't stop it!!」"
+    },
+    {
+      "id": "c53_03690",
+      "speaker": "Renton",
+      "en": "Th-this way, the people in the town are gonna...!",
+      "display_variant": "en",
+      "display_text": "「Th-this way, the people in the town\nare gonna...!」"
+    },
+    {
+      "id": "c53_036c0",
+      "speaker": "Eureka",
+      "en": ".........",
+      "display_variant": "en",
+      "display_text": "「.........」"
+    },
+    {
+      "id": "c53_036e0",
+      "speaker": "Holland",
+      "en": "Tch! So it's bottomless until it finally hits its activity limit!",
+      "display_variant": "en",
+      "display_text": "「Tch! So it's bottomless until it finally\nhits its activity limit!」"
+    },
+    {
+      "id": "c53_03730",
+      "speaker": "Holland",
+      "en": "No more time to hesitate! There's nothing to do but go through with it!",
+      "display_variant": "en",
+      "display_text": "「No more time to hesitate! There's\nnothing to do but go through with it!」"
+    },
+    {
+      "id": "c53_037d0",
+      "speaker": "Holland",
+      "en": "They fired the Orange!?",
+      "display_variant": "en",
+      "display_text": "「They fired the Orange!?」"
+    },
+    {
+      "id": "c53_03800",
+      "speaker": "Hap",
+      "en": "I don't know the details, but it's not far from here.",
+      "display_variant": "en",
+      "display_text": "「I don't know the details, but it's not\nfar from here.」"
+    },
+    {
+      "id": "c53_03850",
+      "speaker": "Renton",
+      "en": "If that's been used, does that mean a Coralian Antibody is going to appear...!",
+      "display_variant": "en",
+      "display_text": "「If that's been used, does that mean a\nCoralian Antibody is going to appear...!」"
+    },
+    {
+      "id": "c53_038a0",
+      "speaker": "Holland",
+      "en": "No time to waste thinking! Let's move!",
+      "display_variant": "en",
+      "display_text": "「No time to waste thinking! Let's move!」"
+    },
+    {
+      "id": "c53_038e0",
+      "speaker": "Talho",
+      "en": "Move -- where, exactly...!?",
+      "display_variant": "en",
+      "display_text": "「Move -- where, exactly...!?」"
+    },
+    {
+      "id": "c53_03910",
+      "speaker": "Holland",
+      "en": "Isn't it obvious!? To where the Coralian's appearing!",
+      "display_variant": "en",
+      "display_text": "「Isn't it obvious!? To where the\nCoralian's appearing!」"
+    },
+    {
+      "id": "c53_03950",
+      "speaker": "Eureka",
+      "en": "Are we going to fight, Holland...?",
+      "display_variant": "en",
+      "display_text": "「Are we going to fight, Holland...?」"
+    },
+    {
+      "id": "c53_03980",
+      "speaker": "Holland",
+      "en": "...It can't be helped. I can't just leave a Coralian Antibody attacking people alone...",
+      "display_variant": "en",
+      "display_text": "「...It can't be helped. I can't just leave\na Coralian Antibody attacking people\nalone...」"
+    },
+    {
+      "id": "c53_039e0",
+      "speaker": "Eureka",
+      "en": "Okay...",
+      "display_variant": "en",
+      "display_text": "「Okay...」"
+    },
+    {
+      "id": "c53_03a00",
+      "speaker": "Holland",
+      "en": "We're putting one warship and eight squads on the town's defense!",
+      "display_variant": "en",
+      "display_text": "「We're putting one warship and eight\nsquads on the town's defense!」"
+    },
+    {
+      "id": "c53_03a40",
+      "speaker": "Holland",
+      "en": "Five minutes! Hold them off until the Coralian Antibody hits its activity limit!",
+      "display_variant": "en",
+      "display_text": "「Five minutes! Hold them off until the\nCoralian Antibody hits its activity limit!」"
+    }
+  ]
+}

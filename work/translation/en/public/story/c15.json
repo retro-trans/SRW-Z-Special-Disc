@@ -1,0 +1,1517 @@
+{
+  "schema_version": 1,
+  "rows": [
+    {
+      "id": "c15_05590",
+      "speaker": "Loran",
+      "en": "The White Doll isn't picking up any radiation.",
+      "display_variant": "en",
+      "display_text": "（The White Doll isn't picking up any\nradiation.）"
+    },
+    {
+      "id": "c15_055d0",
+      "speaker": "Loran",
+      "en": "Even if this is Lost Mountain, it looks like there's nothing to worry about for now.",
+      "display_variant": "en",
+      "display_text": "（Even if this is Lost Mountain, it looks\nlike there's nothing to worry about for\nnow.）"
+    },
+    {
+      "id": "c15_05630",
+      "speaker": "$n",
+      "en": "Loran, are you all right!? Enemies incoming!",
+      "display_variant": "en",
+      "display_text": "「Loran, are you all right!? Enemies\nincoming!」"
+    },
+    {
+      "id": "c15_05660",
+      "speaker": "Loran",
+      "en": "Y-yes!",
+      "display_variant": "en",
+      "display_text": "「Y-yes!」"
+    },
+    {
+      "id": "c15_05680",
+      "speaker": "Breaker",
+      "en": "What the...! The second we look away, treasure raiders show up.",
+      "display_variant": "en",
+      "display_text": "「What the...! The second we look away,\ntreasure raiders show up.」"
+    },
+    {
+      "id": "c15_056d0",
+      "speaker": "Breaker",
+      "en": "Messing with our turf... you've got some nerve.",
+      "display_variant": "en",
+      "display_text": "「Messing with our turf... you've got\nsome nerve.」"
+    },
+    {
+      "id": "c15_05710",
+      "speaker": "Breaker",
+      "en": "I don't know who you lot are, but it's your bad luck that we came back.",
+      "display_variant": "en",
+      "display_text": "「I don't know who you lot are, but it's\nyour bad luck that we came back.」"
+    },
+    {
+      "id": "c15_05760",
+      "speaker": "Breaker",
+      "en": "Consider this payback! Strip them of everything they've got!",
+      "display_variant": "en",
+      "display_text": "「Consider this payback! Strip them of\neverything they've got!」"
+    },
+    {
+      "id": "c15_057b0",
+      "speaker": "Miashei",
+      "en": "The nerve, saying whatever you want!",
+      "display_variant": "en",
+      "display_text": "「The nerve, saying whatever you want!」"
+    },
+    {
+      "id": "c15_057d0",
+      "speaker": "Loran",
+      "en": "But we did come to the spot where they were digging, so I understand why they're angry.",
+      "display_variant": "en",
+      "display_text": "「But we did come to the spot where\nthey were digging, so I understand why\nthey're angry.」"
+    },
+    {
+      "id": "c15_05830",
+      "speaker": "$n",
+      "en": "Now that you mention it, you're right. I wonder if they'd understand if we explained the situation...",
+      "display_variant": "en",
+      "display_text": "「Now that you mention it, you're right. I\nwonder if they'd understand if we\nexplained the situation...」"
+    },
+    {
+      "id": "c15_05880",
+      "speaker": "Loran",
+      "en": "In any case, let's try calling out to them.",
+      "display_variant": "en",
+      "display_text": "「In any case, let's try calling out to\nthem.」"
+    },
+    {
+      "id": "c15_058b0",
+      "speaker": "Loran",
+      "en": "Please listen, Breaker! We have no intention of fighting you!",
+      "display_variant": "en",
+      "display_text": "「Please listen, Breaker! We have no\nintention of fighting you!」"
+    },
+    {
+      "id": "c15_05910",
+      "speaker": "Loran",
+      "en": "N-no good! He's not listening at all!",
+      "display_variant": "en",
+      "display_text": "「N-no good! He's not listening at all!」"
+    },
+    {
+      "id": "c15_05940",
+      "speaker": "Breaker",
+      "en": "What a fool. Even if you've got no fight in you, we've got plenty!",
+      "display_variant": "en",
+      "display_text": "「What a fool. Even if you've got no\nfight in you, we've got plenty!」"
+    },
+    {
+      "id": "c15_059a0",
+      "speaker": "Breaker",
+      "en": "Give it up, kid! You're already our prey!",
+      "display_variant": "en",
+      "display_text": "「Give it up, kid! You're already our\nprey!」"
+    },
+    {
+      "id": "c15_059f0",
+      "speaker": "Loran",
+      "en": "But...!",
+      "display_variant": "en",
+      "display_text": "「But...!」"
+    },
+    {
+      "id": "c15_05a10",
+      "speaker": "Gavane",
+      "en": "Enough, Loran! When trouble comes looking for you, you've got no choice but to swat it away!",
+      "display_variant": "en",
+      "display_text": "「Enough, Loran! When trouble comes\nlooking for you, you've got no choice but\nto swat it away!」"
+    },
+    {
+      "id": "c15_05a60",
+      "speaker": "Gavane",
+      "en": "Let's go, everyone! Horace is already clear. Now follow me!!",
+      "display_variant": "en",
+      "display_text": "「Let's go, everyone! Horace is already\nclear. Now follow me!!」"
+    },
+    {
+      "id": "c15_05ab0",
+      "speaker": "$n",
+      "en": "Y-yes, sir!",
+      "display_variant": "en",
+      "display_text": "「Y-yes, sir!」"
+    },
+    {
+      "id": "c15_05ad0",
+      "speaker": "Loran",
+      "en": "Captain Gavane seems awfully reliable today...",
+      "display_variant": "en",
+      "display_text": "（Captain Gavane seems awfully reliable\ntoday...）"
+    },
+    {
+      "id": "c15_05b10",
+      "speaker": "Breaker",
+      "en": "Th-this is bad...! Looks like we're the prey here!",
+      "display_variant": "en",
+      "display_text": "「Th-this is bad...! Looks like we're the\nprey here!」"
+    },
+    {
+      "id": "c15_05b60",
+      "speaker": "Joseph",
+      "en": "Loran! Look at the cargo on that Galapagos!!",
+      "display_variant": "en",
+      "display_text": "「Loran! Look at the cargo on that\nGalapagos!!」"
+    },
+    {
+      "id": "c15_05ba0",
+      "speaker": "Loran",
+      "en": "That mark on the crate...!",
+      "display_variant": "en",
+      "display_text": "「That mark on the crate...!」"
+    },
+    {
+      "id": "c15_05bd0",
+      "speaker": "$n",
+      "en": "Nuclear...! Does that Breaker have a nuclear weapon!?",
+      "display_variant": "en",
+      "display_text": "「Nuclear...! Does that Breaker have a\nnuclear weapon!?」"
+    },
+    {
+      "id": "c15_05c10",
+      "speaker": "Gavane",
+      "en": "A nuclear weapon...? What's that...?",
+      "display_variant": "en",
+      "display_text": "「A nuclear weapon...? What's that...?」"
+    },
+    {
+      "id": "c15_05c40",
+      "speaker": "Breaker",
+      "en": "Desperate times call for desperate measures! Guess I'll just have to use the treasure!",
+      "display_variant": "en",
+      "display_text": "「Desperate times call for desperate\nmeasures! Guess I'll just have to use the\ntreasure!」"
+    },
+    {
+      "id": "c15_05c90",
+      "speaker": "Loran",
+      "en": "Please stop! Do you even know what that is!?",
+      "display_variant": "en",
+      "display_text": "「Please stop! Do you even know what\nthat is!?」"
+    },
+    {
+      "id": "c15_05cf0",
+      "speaker": "Breaker",
+      "en": "I know it's a bomb, at least! I'll use this thing to finish you all off at once!",
+      "display_variant": "en",
+      "display_text": "「I know it's a bomb, at least! I'll use\nthis thing to finish you all off at once!」"
+    },
+    {
+      "id": "c15_05d50",
+      "speaker": "$n",
+      "en": "If you do that, you'll get blown away too!",
+      "display_variant": "en",
+      "display_text": "「If you do that, you'll get blown away\ntoo!」"
+    },
+    {
+      "id": "c15_05d90",
+      "speaker": "Breaker",
+      "en": "You think I'm scared of a bluff like that!? Get ready!",
+      "display_variant": "en",
+      "display_text": "「You think I'm scared of a bluff like\nthat!? Get ready!」"
+    },
+    {
+      "id": "c15_05dd0",
+      "speaker": "Miashei",
+      "en": "What's he even talking about...?",
+      "display_variant": "en",
+      "display_text": "「What's he even talking about...?」"
+    },
+    {
+      "id": "c15_05e00",
+      "speaker": "Sochie",
+      "en": "What's going on here, Loran!? Explain yourself!",
+      "display_variant": "en",
+      "display_text": "「What's going on here, Loran!? Explain\nyourself!」"
+    },
+    {
+      "id": "c15_05e40",
+      "speaker": "Loran",
+      "en": "Explanations later! Miss, please get as far away as you can!!",
+      "display_variant": "en",
+      "display_text": "「Explanations later! Miss, please get as\nfar away as you can!!」"
+    },
+    {
+      "id": "c15_05e90",
+      "speaker": "Sochie",
+      "en": "Huh...?",
+      "display_variant": "en",
+      "display_text": "「Huh...?」"
+    },
+    {
+      "id": "c15_05ea0",
+      "speaker": "Loran",
+      "en": "If the bomb he's holding goes off, it'll blow away this entire area!",
+      "display_variant": "en",
+      "display_text": "「If the bomb he's holding goes off, it'll\nblow away this entire area!」"
+    },
+    {
+      "id": "c15_05f00",
+      "speaker": "Breaker",
+      "en": "Ha ha ha! It's too late to surrender now!",
+      "display_variant": "en",
+      "display_text": "「Ha ha ha! It's too late to surrender\nnow!」"
+    },
+    {
+      "id": "c15_05f40",
+      "speaker": "Breaker",
+      "en": "Here I come!! Regret standing against me in the next world!!",
+      "display_variant": "en",
+      "display_text": "「Here I come!! Regret standing against\nme in the next world!!」"
+    },
+    {
+      "id": "c15_05f90",
+      "speaker": "Gavane",
+      "en": "Like I'll let you!!",
+      "display_variant": "en",
+      "display_text": "「Like I'll let you!!」"
+    },
+    {
+      "id": "c15_05fc0",
+      "speaker": "Joseph",
+      "en": "Captain Gavane!",
+      "display_variant": "en",
+      "display_text": "「Captain Gavane!」"
+    },
+    {
+      "id": "c15_05fe0",
+      "speaker": "Sochie",
+      "en": "What are you planning to do!?",
+      "display_variant": "en",
+      "display_text": "「What are you planning to do!?」"
+    },
+    {
+      "id": "c15_06010",
+      "speaker": "Gavane",
+      "en": "I'll hold him down! Everyone else, run while you can!!",
+      "display_variant": "en",
+      "display_text": "「I'll hold him down! Everyone else, run\nwhile you can!!」"
+    },
+    {
+      "id": "c15_06060",
+      "speaker": "Breaker",
+      "en": "Y-you...! Let go, let go of me!!",
+      "display_variant": "en",
+      "display_text": "「Y-you...! Let go, let go of me!!」"
+    },
+    {
+      "id": "c15_060a0",
+      "speaker": "Gavane",
+      "en": "Like I'd let that happen! I've got a duty to protect Sochie!",
+      "display_variant": "en",
+      "display_text": "「Like I'd let that happen! I've got a\nduty to protect Sochie!」"
+    },
+    {
+      "id": "c15_060e0",
+      "speaker": "$n",
+      "en": "That's reckless, Captain Gavane!",
+      "display_variant": "en",
+      "display_text": "「That's reckless, Captain Gavane!」"
+    },
+    {
+      "id": "c15_06100",
+      "speaker": "Loran",
+      "en": "If you do that, you'll get caught in the blast too, Captain!",
+      "display_variant": "en",
+      "display_text": "「If you do that, you'll get caught in\nthe blast too, Captain!」"
+    },
+    {
+      "id": "c15_06140",
+      "speaker": "Gavane",
+      "en": "I'll take his bomb before that happens! That way, everyone's safe, and I can finish the young master's request!",
+      "display_variant": "en",
+      "display_text": "「I'll take his bomb before that happens!\nThat way, everyone's safe, and I can\nfinish the young master's request!」"
+    },
+    {
+      "id": "c15_061b0",
+      "speaker": "Loran",
+      "en": "That's not the point! That's a forbidden power!",
+      "display_variant": "en",
+      "display_text": "「That's not the point! That's a\nforbidden power!」"
+    },
+    {
+      "id": "c15_06200",
+      "speaker": "Loran",
+      "en": "It'll spread poison for a hundred, two hundred years!",
+      "display_variant": "en",
+      "display_text": "「It'll spread poison for a hundred, two\nhundred years!」"
+    },
+    {
+      "id": "c15_06240",
+      "speaker": "Joseph",
+      "en": "No good, Loran! Let's run!!",
+      "display_variant": "en",
+      "display_text": "「No good, Loran! Let's run!!」"
+    },
+    {
+      "id": "c15_06270",
+      "speaker": "Breaker",
+      "en": "Guooohhh! Screw it, I'll do it!!",
+      "display_variant": "en",
+      "display_text": "「Guooohhh! Screw it, I'll do it!!」"
+    },
+    {
+      "id": "c15_062c0",
+      "speaker": "Sochie",
+      "en": "Captain Gavane!",
+      "display_variant": "en",
+      "display_text": "「Captain Gavane!」"
+    },
+    {
+      "id": "c15_062e0",
+      "speaker": "Loran",
+      "en": "The White Doll is reacting to something...!? Now, of all times!",
+      "display_variant": "en",
+      "display_text": "「The White Doll is reacting to\nsomething...!? Now, of all times!」"
+    },
+    {
+      "id": "c15_06330",
+      "speaker": "$n",
+      "en": "Something's coming up from underground!",
+      "display_variant": "en",
+      "display_text": "「Something's coming up from underground!」"
+    },
+    {
+      "id": "c15_06350",
+      "speaker": "Joseph",
+      "en": "What is that!?",
+      "display_variant": "en",
+      "display_text": "「What is that!?」"
+    },
+    {
+      "id": "c15_06370",
+      "speaker": "Loran",
+      "en": "The nuke's going to explode! Everyone, run!!",
+      "display_variant": "en",
+      "display_text": "「The nuke's going to explode! Everyone,\nrun!!」"
+    },
+    {
+      "id": "c15_063b0",
+      "speaker": "Gavane",
+      "en": "Did it... explode...?",
+      "display_variant": "en",
+      "display_text": "「Did it... explode...?」"
+    },
+    {
+      "id": "c15_063d0",
+      "speaker": "$n",
+      "en": "What's going on!? The radiation reading vanished in an instant!",
+      "display_variant": "en",
+      "display_text": "「What's going on!? The radiation reading\nvanished in an instant!」"
+    },
+    {
+      "id": "c15_06420",
+      "speaker": "Breaker",
+      "en": "Wh-what's with these faceless things!? Did they wreck my bomb?",
+      "display_variant": "en",
+      "display_text": "「Wh-what's with these faceless things!?\nDid they wreck my bomb?」"
+    },
+    {
+      "id": "c15_06480",
+      "speaker": "Loran",
+      "en": "That's... it's shaped just like the Overman we fought in Siberia, but...",
+      "display_variant": "en",
+      "display_text": "「That's... it's shaped just like the\nOverman we fought in Siberia, but...」"
+    },
+    {
+      "id": "c15_064d0",
+      "speaker": "Loran",
+      "en": "Wh-what is it...?",
+      "display_variant": "en",
+      "display_text": "「Wh-what is it...?」"
+    },
+    {
+      "id": "c15_064f0",
+      "speaker": "$n",
+      "en": "Is it looking toward Loran...?",
+      "display_variant": "en",
+      "display_text": "「Is it looking toward Loran...?」"
+    },
+    {
+      "id": "c15_06520",
+      "speaker": "Joseph",
+      "en": "Watch out, everyone! That faceless thing means to attack us!",
+      "display_variant": "en",
+      "display_text": "「Watch out, everyone! That faceless\nthing means to attack us!」"
+    },
+    {
+      "id": "c15_06580",
+      "speaker": "Breaker",
+      "en": "What the hell are these things!? I can't deal with this anymore!",
+      "display_variant": "en",
+      "display_text": "「What the hell are these things!? I\ncan't deal with this anymore!」"
+    },
+    {
+      "id": "c15_065d0",
+      "speaker": "Miashei",
+      "en": "What is even happening!? Explain it, Joseph!",
+      "display_variant": "en",
+      "display_text": "「What is even happening!? Explain it,\nJoseph!」"
+    },
+    {
+      "id": "c15_06610",
+      "speaker": "Joseph",
+      "en": "I don't know either! But if they came out of Lost Mountain, they're dangerous!",
+      "display_variant": "en",
+      "display_text": "「I don't know either! But if they came\nout of Lost Mountain, they're dangerous!」"
+    },
+    {
+      "id": "c15_06680",
+      "speaker": "Gavane",
+      "en": "Form up! This isn't an enemy we can beat by fighting scattered!",
+      "display_variant": "en",
+      "display_text": "「Form up! This isn't an enemy we can\nbeat by fighting scattered!」"
+    },
+    {
+      "id": "c15_066e0",
+      "speaker": "Loran",
+      "en": "No response, even when I call out... Is there no one piloting that Overman...?",
+      "display_variant": "en",
+      "display_text": "「No response, even when I call out... Is\nthere no one piloting that Overman...?」"
+    },
+    {
+      "id": "c15_06740",
+      "speaker": "Gavane",
+      "en": "Since they're the ones attacking, all we can do is meet them head-on!",
+      "display_variant": "en",
+      "display_text": "「Since they're the ones attacking, all we\ncan do is meet them head-on!」"
+    },
+    {
+      "id": "c15_06780",
+      "speaker": "$n",
+      "en": "I've requested reinforcements from $c...! They say they'll arrive in one minute!",
+      "display_variant": "en",
+      "display_text": "「I've requested reinforcements from\n$c...! They say they'll arrive in one\nminute!」"
+    },
+    {
+      "id": "c15_067d0",
+      "speaker": "Sochie",
+      "en": "So until then, we have to manage on our own...!",
+      "display_variant": "en",
+      "display_text": "「So until then, we have to manage on\nour own...!」"
+    },
+    {
+      "id": "c15_06820",
+      "speaker": "Loran",
+      "en": "So this Overman is a relic of the Black History too, after all...",
+      "display_variant": "en",
+      "display_text": "「So this Overman is a relic of the Black\nHistory too, after all...」"
+    },
+    {
+      "id": "c15_06860",
+      "speaker": "Lowen",
+      "en": "Are you all right, $n!",
+      "display_variant": "en",
+      "display_text": "「Are you all right, $n!」"
+    },
+    {
+      "id": "c15_06890",
+      "speaker": "$n",
+      "en": "Yes! Somehow!",
+      "display_variant": "en",
+      "display_text": "「Yes! Somehow!」"
+    },
+    {
+      "id": "c15_068b0",
+      "speaker": "Koji",
+      "en": "Are those things kin to the Overman we fought in Siberia?",
+      "display_variant": "en",
+      "display_text": "「Are those things kin to the Overman we\nfought in Siberia?」"
+    },
+    {
+      "id": "c15_068f0",
+      "speaker": "Loran",
+      "en": "But it doesn't seem to be Sibe Rail. And it doesn't look like anyone's piloting it, either.",
+      "display_variant": "en",
+      "display_text": "「But it doesn't seem to be Sibe Rail.\nAnd it doesn't look like anyone's piloting\nit, either.」"
+    },
+    {
+      "id": "c15_06950",
+      "speaker": "Eiji",
+      "en": "Then what the hell is it!?",
+      "display_variant": "en",
+      "display_text": "「Then what the hell is it!?」"
+    },
+    {
+      "id": "c15_06980",
+      "speaker": "Joseph",
+      "en": "It's the ghost of Lost Mountain! There's no other way to put it!",
+      "display_variant": "en",
+      "display_text": "「It's the ghost of Lost Mountain!\nThere's no other way to put it!」"
+    },
+    {
+      "id": "c15_069d0",
+      "speaker": "Guin",
+      "en": "The ghost of Lost Mountain... a phantom of the Black History...",
+      "display_variant": "en",
+      "display_text": "「The ghost of Lost Mountain... a phantom\nof the Black History...」"
+    },
+    {
+      "id": "c15_06a10",
+      "speaker": "Bright",
+      "en": "It can't be helped! All units, intercept the unidentified Overman!",
+      "display_variant": "en",
+      "display_text": "「It can't be helped! All units, intercept\nthe unidentified Overman!」"
+    },
+    {
+      "id": "c15_06a60",
+      "speaker": "Meyrin",
+      "en": "Confirmed all Overmen destroyed. No reinforcements incoming.",
+      "display_variant": "en",
+      "display_text": "「Confirmed all Overmen destroyed. No\nreinforcements incoming.」"
+    },
+    {
+      "id": "c15_06aa0",
+      "speaker": "Talia",
+      "en": "Just what was that...?",
+      "display_variant": "en",
+      "display_text": "「Just what was that...?」"
+    },
+    {
+      "id": "c15_06ad0",
+      "speaker": "Guin",
+      "en": "Joseph... did that Overman emerge from this hole?",
+      "display_variant": "en",
+      "display_text": "「Joseph... did that Overman emerge from\nthis hole?」"
+    },
+    {
+      "id": "c15_06b20",
+      "speaker": "Joseph",
+      "en": "Yeah, that's right. This is a forbidden place called Lost Mountain.",
+      "display_variant": "en",
+      "display_text": "「Yeah, that's right. This is a forbidden\nplace called Lost Mountain.」"
+    },
+    {
+      "id": "c15_06b70",
+      "speaker": "Joseph",
+      "en": "We ended up setting foot in a place like that.",
+      "display_variant": "en",
+      "display_text": "「We ended up setting foot in a place\nlike that.」"
+    },
+    {
+      "id": "c15_06bb0",
+      "speaker": "Quattro",
+      "en": "That Overman... it was clearly different from any we've fought before.",
+      "display_variant": "en",
+      "display_text": "「That Overman... it was clearly different\nfrom any we've fought before.」"
+    },
+    {
+      "id": "c15_06c00",
+      "speaker": "Kamille",
+      "en": "Yeah... an unmanned Overman attacking us like that...",
+      "display_variant": "en",
+      "display_text": "「Yeah... an unmanned Overman attacking\nus like that...」"
+    },
+    {
+      "id": "c15_06c50",
+      "speaker": "Guin",
+      "en": "But if I had that power...",
+      "display_variant": "en",
+      "display_text": "（But if I had that power...）"
+    },
+    {
+      "id": "c15_06c80",
+      "speaker": "Kihel",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c15_06ca0",
+      "speaker": "Guin",
+      "en": "What's wrong, Kihel Heim?",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Kihel Heim?」"
+    },
+    {
+      "id": "c15_06cd0",
+      "speaker": "Kihel",
+      "en": "Lord Guin... just as Joseph said, this is a forbidden place.",
+      "display_variant": "en",
+      "display_text": "「Lord Guin... just as Joseph said, this is\na forbidden place.」"
+    },
+    {
+      "id": "c15_06d10",
+      "speaker": "Kihel",
+      "en": "A black deeper than darkness... I believe that's a power people were never meant to hold.",
+      "display_variant": "en",
+      "display_text": "「A black deeper than darkness... I\nbelieve that's a power people were never\nmeant to hold.」"
+    },
+    {
+      "id": "c15_06d60",
+      "speaker": "Loran",
+      "en": "Lady Kihel...",
+      "display_variant": "en",
+      "display_text": "「Lady Kihel...」"
+    },
+    {
+      "id": "c15_06d80",
+      "speaker": "Kihel",
+      "en": "The Black History... a dark past sealed away in shadow...",
+      "display_variant": "en",
+      "display_text": "（The Black History... a dark past sealed\naway in shadow...）"
+    },
+    {
+      "id": "c15_06dc0",
+      "speaker": "Kihel",
+      "en": "For people to take hold of that power can only lead to ruin...",
+      "display_variant": "en",
+      "display_text": "（For people to take hold of that power\ncan only lead to ruin...）"
+    },
+    {
+      "id": "c15_06e00",
+      "speaker": "Gavane",
+      "en": "Aside from restoring Luzianna, I've found myself a new goal!",
+      "display_variant": "en",
+      "display_text": "「Aside from restoring Luzianna, I've\nfound myself a new goal!」"
+    },
+    {
+      "id": "c15_06e50",
+      "speaker": "Gavane",
+      "en": "For that, I can't afford to die! This fight... I'm going to survive it, together with Sochie!!",
+      "display_variant": "en",
+      "display_text": "「For that, I can't afford to die! This\nfight... I'm going to survive it, together\nwith Sochie!!」"
+    },
+    {
+      "id": "c15_06eb0",
+      "speaker": "Sochie",
+      "en": "He's not joking, is he... Captain Gavane...",
+      "display_variant": "en",
+      "display_text": "（He's not joking, is he... Captain\nGavane...）"
+    },
+    {
+      "id": "c15_06ee0",
+      "speaker": "Miashei",
+      "en": "What's wrong, Sochie! You'll get hit if you space out!",
+      "display_variant": "en",
+      "display_text": "「What's wrong, Sochie! You'll get hit if\nyou space out!」"
+    },
+    {
+      "id": "c15_06f30",
+      "speaker": "Sochie",
+      "en": "R-right!",
+      "display_variant": "en",
+      "display_text": "「R-right!」"
+    },
+    {
+      "id": "c15_06f50",
+      "speaker": "Sochie",
+      "en": "Captain Gavane is serious...! Whatever I decide to say, I have to give him a real answer!",
+      "display_variant": "en",
+      "display_text": "（Captain Gavane is serious...! Whatever I\ndecide to say, I have to give him a real\nanswer!）"
+    },
+    {
+      "id": "c15_06fb0",
+      "speaker": "Sochie",
+      "en": "So I can't afford to die either! I have to give it my all!!",
+      "display_variant": "en",
+      "display_text": "「So I can't afford to die either! I have\nto give it my all!!」"
+    },
+    {
+      "id": "c15_06ff0",
+      "speaker": "Loran",
+      "en": "The White Doll knows that Overman...!",
+      "display_variant": "en",
+      "display_text": "「The White Doll knows that Overman...!」"
+    },
+    {
+      "id": "c15_07030",
+      "speaker": "Loran",
+      "en": "What does that mean...? That unit... unlike the others, is it some special kind of Overman!?",
+      "display_variant": "en",
+      "display_text": "「What does that mean...? That unit...\nunlike the others, is it some special kind\nof Overman!?」"
+    },
+    {
+      "id": "c15_07090",
+      "speaker": "$n",
+      "en": "That Overman has no one piloting it...!? Is it on autopilot!?",
+      "display_variant": "en",
+      "display_text": "「That Overman has no one piloting it...!?\nIs it on autopilot!?」"
+    },
+    {
+      "id": "c15_070e0",
+      "speaker": "$n",
+      "en": "An Overman that awoke from the ruins neutralizes radiation and attacks us...",
+      "display_variant": "en",
+      "display_text": "「An Overman that awoke from the ruins\nneutralizes radiation and attacks us...」"
+    },
+    {
+      "id": "c15_07130",
+      "speaker": "$n",
+      "en": "Did all of this happen by pure chance...? Or...",
+      "display_variant": "en",
+      "display_text": "「Did all of this happen by pure\nchance...? Or...」"
+    },
+    {
+      "id": "c15_071b0",
+      "speaker": "Guin",
+      "en": "...A bandaged man?",
+      "display_variant": "en",
+      "display_text": "「...A bandaged man?」"
+    },
+    {
+      "id": "c15_071d0",
+      "speaker": "Sid",
+      "en": "While I was digging at a Mountain Cycle in southern Gallia, that man just suddenly appeared.",
+      "display_variant": "en",
+      "display_text": "「While I was digging at a Mountain Cycle\nin southern Gallia, that man just suddenly\nappeared.」"
+    },
+    {
+      "id": "c15_07240",
+      "speaker": "Sid",
+      "en": "Then, to me as I stood there stunned, he said this.",
+      "display_variant": "en",
+      "display_text": "「Then, to me as I stood there stunned,\nhe said this.」"
+    },
+    {
+      "id": "c15_07280",
+      "speaker": "Sid",
+      "en": "'If you seek the truth, seek the history buried in darkness.'",
+      "display_variant": "en",
+      "display_text": "「'If you seek the truth, seek the\nhistory buried in darkness.'」"
+    },
+    {
+      "id": "c15_072c0",
+      "speaker": "Guin",
+      "en": "History buried in darkness... the Black History, is it.",
+      "display_variant": "en",
+      "display_text": "「History buried in darkness... the Black\nHistory, is it.」"
+    },
+    {
+      "id": "c15_072f0",
+      "speaker": "Sid",
+      "en": "In the Mountain Cycles we prospectors dig up...",
+      "display_variant": "en",
+      "display_text": "「In the Mountain Cycles we prospectors\ndig up...」"
+    },
+    {
+      "id": "c15_07340",
+      "speaker": "Sid",
+      "en": "...lie relics of the age of great upheaval, what's called the Black History.",
+      "display_variant": "en",
+      "display_text": "「...lie relics of the age of great\nupheaval, what's called the Black History.」"
+    },
+    {
+      "id": "c15_07390",
+      "speaker": "Guin",
+      "en": "I don't know who that bandaged man is, but I agree with his words.",
+      "display_variant": "en",
+      "display_text": "「I don't know who that bandaged man is,\nbut I agree with his words.」"
+    },
+    {
+      "id": "c15_073e0",
+      "speaker": "Guin",
+      "en": "After all, I intend to obtain the power of the Black History and use it to reform society.",
+      "display_variant": "en",
+      "display_text": "「After all, I intend to obtain the power\nof the Black History and use it to reform\nsociety.」"
+    },
+    {
+      "id": "c15_07440",
+      "speaker": "Sid",
+      "en": "I see...",
+      "display_variant": "en",
+      "display_text": "「I see...」"
+    },
+    {
+      "id": "c15_07450",
+      "speaker": "Guin",
+      "en": "That's why I've sent you out as a survey team.",
+      "display_variant": "en",
+      "display_text": "「That's why I've sent you out as a\nsurvey team.」"
+    },
+    {
+      "id": "c15_07490",
+      "speaker": "Sid",
+      "en": "But the world is a vast place. Just searching around blindly won't turn up what you're after, young master.",
+      "display_variant": "en",
+      "display_text": "「But the world is a vast place. Just\nsearching around blindly won't turn up\nwhat you're after, young master.」"
+    },
+    {
+      "id": "c15_07500",
+      "speaker": "Guin",
+      "en": "I've been thinking about that too. I'm sorry, but for the time being, please continue the survey as it is.",
+      "display_variant": "en",
+      "display_text": "「I've been thinking about that too. I'm\nsorry, but for the time being, please\ncontinue the survey as it is.」"
+    },
+    {
+      "id": "c15_07570",
+      "speaker": "Sid",
+      "en": "Understood. Well then, please give my regards to Joseph.",
+      "display_variant": "en",
+      "display_text": "「Understood. Well then, please give my\nregards to Joseph.」"
+    },
+    {
+      "id": "c15_075c0",
+      "speaker": "Guin",
+      "en": "Relics of the Black History, is it...",
+      "display_variant": "en",
+      "display_text": "「Relics of the Black History, is it...」"
+    },
+    {
+      "id": "c15_075e0",
+      "speaker": "Michael",
+      "en": "Young master, I've brought Horace and Joseph.",
+      "display_variant": "en",
+      "display_text": "「Young master, I've brought Horace and\nJoseph.」"
+    },
+    {
+      "id": "c15_07620",
+      "speaker": "Guin",
+      "en": "Well done, Colonel Michael.",
+      "display_variant": "en",
+      "display_text": "「Well done, Colonel Michael.」"
+    },
+    {
+      "id": "c15_07650",
+      "speaker": "Joseph",
+      "en": "So, what do you need from me and Horace, young master?",
+      "display_variant": "en",
+      "display_text": "「So, what do you need from me and\nHorace, young master?」"
+    },
+    {
+      "id": "c15_07690",
+      "speaker": "Guin",
+      "en": "I was just speaking with Sid a moment ago.",
+      "display_variant": "en",
+      "display_text": "「I was just speaking with Sid a moment\nago.」"
+    },
+    {
+      "id": "c15_076c0",
+      "speaker": "Joseph",
+      "en": "How was he doing? Well... I doubt there's anything to worry about with Sid.",
+      "display_variant": "en",
+      "display_text": "「How was he doing? Well... I doubt\nthere's anything to worry about with Sid.」"
+    },
+    {
+      "id": "c15_07710",
+      "speaker": "Guin",
+      "en": "Sounds like quite a struggle, but he seemed to be doing well. He asked me to give you his regards.",
+      "display_variant": "en",
+      "display_text": "「Sounds like quite a struggle, but he\nseemed to be doing well. He asked me to\ngive you his regards.」"
+    },
+    {
+      "id": "c15_07780",
+      "speaker": "Guin",
+      "en": "Joseph... you've served as Sid's assistant, and there's something I'd like to ask of you.",
+      "display_variant": "en",
+      "display_text": "「Joseph... you've served as Sid's\nassistant, and there's something I'd like\nto ask of you.」"
+    },
+    {
+      "id": "c15_077d0",
+      "speaker": "Joseph",
+      "en": "Ask...?",
+      "display_variant": "en",
+      "display_text": "「Ask...?」"
+    },
+    {
+      "id": "c15_077f0",
+      "speaker": "Horace",
+      "en": "Does this concern me as well?",
+      "display_variant": "en",
+      "display_text": "「Does this concern me as well?」"
+    },
+    {
+      "id": "c15_07820",
+      "speaker": "Guin",
+      "en": "Yes, Horace. Your abilities will be needed too.",
+      "display_variant": "en",
+      "display_text": "「Yes, Horace. Your abilities will be\nneeded too.」"
+    },
+    {
+      "id": "c15_07870",
+      "speaker": "Guin",
+      "en": "Joseph, Horace... I'd like to ask the two of you to survey the Mountain Cycle in this area.",
+      "display_variant": "en",
+      "display_text": "「Joseph, Horace... I'd like to ask the\ntwo of you to survey the Mountain Cycle\nin this area.」"
+    },
+    {
+      "id": "c15_07910",
+      "speaker": "Sochie",
+      "en": "...So this is a Mountain Cycle.",
+      "display_variant": "en",
+      "display_text": "「...So this is a Mountain Cycle.」"
+    },
+    {
+      "id": "c15_07940",
+      "speaker": "Miashei",
+      "en": "Huh... it feels completely different from the Heim Mine in Vicinity.",
+      "display_variant": "en",
+      "display_text": "「Huh... it feels completely different from\nthe Heim Mine in Vicinity.」"
+    },
+    {
+      "id": "c15_07990",
+      "speaker": "Gavane",
+      "en": "There's a real presence to this place... solemn, I guess, or maybe imposing...",
+      "display_variant": "en",
+      "display_text": "「There's a real presence to this place...\nsolemn, I guess, or maybe imposing...」"
+    },
+    {
+      "id": "c15_079e0",
+      "speaker": "Horace",
+      "en": "Mountain Cycles exist all over the world, but they come in many different forms.",
+      "display_variant": "en",
+      "display_text": "「Mountain Cycles exist all over the\nworld, but they come in many different\nforms.」"
+    },
+    {
+      "id": "c15_07a30",
+      "speaker": "Horace",
+      "en": "As a member of the Dianna Counter, I've surveyed several myself, but this is my first time seeing this type.",
+      "display_variant": "en",
+      "display_text": "「As a member of the Dianna Counter,\nI've surveyed several myself, but this is\nmy first time seeing this type.」"
+    },
+    {
+      "id": "c15_07aa0",
+      "speaker": "$n",
+      "en": "It has a strange atmosphere. The word 'ruins' seems to suit it.",
+      "display_variant": "en",
+      "display_text": "「It has a strange atmosphere. The word\n'ruins' seems to suit it.」"
+    },
+    {
+      "id": "c15_07ae0",
+      "speaker": "Horace",
+      "en": "The common theory is that Mountain Cycles are places where relics of the great upheaval lie sleeping, but...",
+      "display_variant": "en",
+      "display_text": "「The common theory is that Mountain\nCycles are places where relics of the\ngreat upheaval lie sleeping, but...」"
+    },
+    {
+      "id": "c15_07b40",
+      "speaker": "Horace",
+      "en": "I believe there's a reason these excavation sites are concentrated in one place like this.",
+      "display_variant": "en",
+      "display_text": "「I believe there's a reason these\nexcavation sites are concentrated in one\nplace like this.」"
+    },
+    {
+      "id": "c15_07bb0",
+      "speaker": "$n",
+      "en": "And that would be...?",
+      "display_variant": "en",
+      "display_text": "「And that would be...?」"
+    },
+    {
+      "id": "c15_07bd0",
+      "speaker": "Horace",
+      "en": "Many of the relics don't seem to simply be sleeping in the earth -- I believe they were gathered here under some specific intent.",
+      "display_variant": "fit",
+      "display_text": "「Many relics don't seem to simply sleep\nin the earth -- I believe they were\ngathered here for a specific purpose.」"
+    },
+    {
+      "id": "c15_07c40",
+      "speaker": "Horace",
+      "en": "In other words, I suspect the Mountain Cycle itself is the remains of some facility that is itself a relic of the great upheaval.",
+      "display_variant": "fit",
+      "display_text": "「In other words, I suspect the Mountain\nCycle itself is the remains of a facility\n-- itself a relic of the great upheaval.」"
+    },
+    {
+      "id": "c15_07cc0",
+      "speaker": "Sochie",
+      "en": "Does it have anything to do with the fact that this is covered in snow, even though it's in western Gallia?",
+      "display_variant": "en",
+      "display_text": "「Does it have anything to do with the\nfact that this is covered in snow, even\nthough it's in western Gallia?」"
+    },
+    {
+      "id": "c15_07d10",
+      "speaker": "Horace",
+      "en": "I can't say for certain about that, but it's definitely an unnatural situation.",
+      "display_variant": "en",
+      "display_text": "「I can't say for certain about that, but\nit's definitely an unnatural situation.」"
+    },
+    {
+      "id": "c15_07d60",
+      "speaker": "Gavane",
+      "en": "Sorry about this, $n. Dragging you along for the young master's personal errand.",
+      "display_variant": "en",
+      "display_text": "「Sorry about this, $n. Dragging you\nalong for the young master's personal\nerrand.」"
+    },
+    {
+      "id": "c15_07dc0",
+      "speaker": "$n",
+      "en": "Please don't worry about it. I'm off duty right now anyway.",
+      "display_variant": "en",
+      "display_text": "「Please don't worry about it. I'm off\nduty right now anyway.」"
+    },
+    {
+      "id": "c15_07e00",
+      "speaker": "Miashei",
+      "en": "In $n's case, that free time all goes into training anyway.",
+      "display_variant": "en",
+      "display_text": "「In $n's case, that free time all goes\ninto training anyway.」"
+    },
+    {
+      "id": "c15_07e40",
+      "speaker": "Sochie",
+      "en": "That's why we dragged them along, even if we had to force it.",
+      "display_variant": "en",
+      "display_text": "「That's why we dragged them along, even\nif we had to force it.」"
+    },
+    {
+      "id": "c15_07e80",
+      "speaker": "$n",
+      "en": "Thank you, Sochie, Miashei. This should be a nice change of pace.",
+      "display_variant": "en",
+      "display_text": "「Thank you, Sochie, Miashei. This should\nbe a nice change of pace.」"
+    },
+    {
+      "id": "c15_07ed0",
+      "speaker": "Sochie",
+      "en": "But we definitely didn't come here just to play.",
+      "display_variant": "en",
+      "display_text": "「But we definitely didn't come here just\nto play.」"
+    },
+    {
+      "id": "c15_07f10",
+      "speaker": "Miashei",
+      "en": "That's true. If we find a unit like the White Doll, it'll add to $c's fighting strength.",
+      "display_variant": "en",
+      "display_text": "「That's true. If we find a unit like the\nWhite Doll, it'll add to $c's fighting\nstrength.」"
+    },
+    {
+      "id": "c15_07f70",
+      "speaker": "$n",
+      "en": "But this place... it looks like it's already been dug up...",
+      "display_variant": "en",
+      "display_text": "「But this place... it looks like it's\nalready been dug up...」"
+    },
+    {
+      "id": "c15_07fb0",
+      "speaker": "Horace",
+      "en": "Hmm... judging by the look of things, excavation seems to have taken place quite recently.",
+      "display_variant": "en",
+      "display_text": "「Hmm... judging by the look of things,\nexcavation seems to have taken place\nquite recently.」"
+    },
+    {
+      "id": "c15_08000",
+      "speaker": "Gavane",
+      "en": "Still, a mission's a mission. Let's begin surveying the area.",
+      "display_variant": "en",
+      "display_text": "「Still, a mission's a mission. Let's begin\nsurveying the area.」"
+    },
+    {
+      "id": "c15_08040",
+      "speaker": "Loran",
+      "en": "How's it going, Joseph? Think you'll find anything?",
+      "display_variant": "en",
+      "display_text": "「How's it going, Joseph? Think you'll find\nanything?」"
+    },
+    {
+      "id": "c15_08080",
+      "speaker": "Joseph",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c15_080a0",
+      "speaker": "Loran",
+      "en": "Joseph...?",
+      "display_variant": "en",
+      "display_text": "「Joseph...?」"
+    },
+    {
+      "id": "c15_080c0",
+      "speaker": "Joseph",
+      "en": "Loran... this isn't just an ordinary Mountain Cycle...",
+      "display_variant": "en",
+      "display_text": "「Loran... this isn't just an ordinary\nMountain Cycle...」"
+    },
+    {
+      "id": "c15_08110",
+      "speaker": "Loran",
+      "en": "What do you mean?",
+      "display_variant": "en",
+      "display_text": "「What do you mean?」"
+    },
+    {
+      "id": "c15_08130",
+      "speaker": "Joseph",
+      "en": "This might be Lost Mountain... the place they call the forbidden land.",
+      "display_variant": "en",
+      "display_text": "「This might be Lost Mountain... the place\nthey call the forbidden land.」"
+    },
+    {
+      "id": "c15_08180",
+      "speaker": "Loran",
+      "en": "The forbidden land...?",
+      "display_variant": "en",
+      "display_text": "「The forbidden land...?」"
+    },
+    {
+      "id": "c15_081a0",
+      "speaker": "Joseph",
+      "en": "Sid told me about it over and over... anyone who sets foot in Lost Mountain doesn't come back alive.",
+      "display_variant": "en",
+      "display_text": "「Sid told me about it over and over...\nanyone who sets foot in Lost Mountain\ndoesn't come back alive.」"
+    },
+    {
+      "id": "c15_08210",
+      "speaker": "Joseph",
+      "en": "In fact, a prospector Sid knew apparently lost his life after digging in Lost Mountain.",
+      "display_variant": "en",
+      "display_text": "「In fact, a prospector Sid knew\napparently lost his life after digging in\nLost Mountain.」"
+    },
+    {
+      "id": "c15_08280",
+      "speaker": "Loran",
+      "en": "But... how do you know this is that Lost Mountain?",
+      "display_variant": "en",
+      "display_text": "「But... how do you know this is that\nLost Mountain?」"
+    },
+    {
+      "id": "c15_082d0",
+      "speaker": "Joseph",
+      "en": "Look, this is the sign of it.",
+      "display_variant": "en",
+      "display_text": "「Look, this is the sign of it.」"
+    },
+    {
+      "id": "c15_082f8",
+      "speaker": "Loran",
+      "en": "!",
+      "display_variant": "en",
+      "display_text": "「!」"
+    },
+    {
+      "id": "c15_08310",
+      "speaker": "Joseph",
+      "en": "I was told never to set foot anywhere with this mark on it...",
+      "display_variant": "en",
+      "display_text": "「I was told never to set foot anywhere\nwith this mark on it...」"
+    },
+    {
+      "id": "c15_08360",
+      "speaker": "Loran",
+      "en": "This is... a nuclear symbol...!",
+      "display_variant": "en",
+      "display_text": "（This is... a nuclear symbol...!）"
+    },
+    {
+      "id": "c15_08390",
+      "speaker": "Gavane",
+      "en": "...The sun's gone and set on us.",
+      "display_variant": "en",
+      "display_text": "「...The sun's gone and set on us.」"
+    },
+    {
+      "id": "c15_083c0",
+      "speaker": "Sochie",
+      "en": "Should we head back for now? It's cold out here.",
+      "display_variant": "en",
+      "display_text": "「Should we head back for now? It's cold\nout here.」"
+    },
+    {
+      "id": "c15_083f0",
+      "speaker": "Gavane",
+      "en": "Here, put my jacket on, Sochie.",
+      "display_variant": "en",
+      "display_text": "「Here, put my jacket on, Sochie.」"
+    },
+    {
+      "id": "c15_08420",
+      "speaker": "Sochie",
+      "en": "Eh... but...",
+      "display_variant": "en",
+      "display_text": "「Eh... but...」"
+    },
+    {
+      "id": "c15_08440",
+      "speaker": "Gavane",
+      "en": "Feels kind of like I'm proposing... doesn't it?",
+      "display_variant": "en",
+      "display_text": "「Feels kind of like I'm proposing...\ndoesn't it?」"
+    },
+    {
+      "id": "c15_08470",
+      "speaker": "Sochie",
+      "en": "Eh... y-yes... That's awfully sudden.",
+      "display_variant": "en",
+      "display_text": "「Eh... y-yes... That's awfully sudden.」"
+    },
+    {
+      "id": "c15_084b0",
+      "speaker": "Gavane",
+      "en": "These days everything happens all of a sudden. Dimensional shifts, enemies showing up, falling in love, life coming to an end...",
+      "display_variant": "fit",
+      "display_text": "「These days everything happens all of a\nsudden. Dimensional shifts, enemies\nappearing, falling in love, life ending...」"
+    },
+    {
+      "id": "c15_08510",
+      "speaker": "Gavane",
+      "en": "So I don't want to have any regrets.",
+      "display_variant": "en",
+      "display_text": "「So I don't want to have any regrets.」"
+    },
+    {
+      "id": "c15_08540",
+      "speaker": "Sochie",
+      "en": "But, I...",
+      "display_variant": "en",
+      "display_text": "「But, I...」"
+    },
+    {
+      "id": "c15_08560",
+      "speaker": "Gavane",
+      "en": "You don't have to say anything. I haven't properly proposed yet, anyway.",
+      "display_variant": "en",
+      "display_text": "「You don't have to say anything. I\nhaven't properly proposed yet, anyway.」"
+    },
+    {
+      "id": "c15_085b0",
+      "speaker": "Gavane",
+      "en": "But once this fight is over...",
+      "display_variant": "en",
+      "display_text": "「But once this fight is over...」"
+    },
+    {
+      "id": "c15_085e0",
+      "speaker": "Sochie",
+      "en": "An explosion! Is someone attacking us!?",
+      "display_variant": "en",
+      "display_text": "「An explosion! Is someone attacking us!?」"
+    },
+    {
+      "id": "c15_08610",
+      "speaker": "Gavane",
+      "en": "Seems like we weren't the only ones after this Mountain Cycle!",
+      "display_variant": "en",
+      "display_text": "「Seems like we weren't the only ones\nafter this Mountain Cycle!」"
+    },
+    {
+      "id": "c15_08680",
+      "speaker": "Gavane",
+      "en": "We're linking up with Loran and the others! Follow me!",
+      "display_variant": "en",
+      "display_text": "「We're linking up with Loran and the\nothers! Follow me!」"
+    },
+    {
+      "id": "c15_086c0",
+      "speaker": "Sochie",
+      "en": "Y-yes, sir!",
+      "display_variant": "en",
+      "display_text": "「Y-yes, sir!」"
+    },
+    {
+      "id": "c15_086e0",
+      "speaker": "Sid",
+      "en": "You want me to head to Siberia?",
+      "display_variant": "en",
+      "display_text": "「You want me to head to Siberia?」"
+    },
+    {
+      "id": "c15_08710",
+      "speaker": "Guin",
+      "en": "Yes... Among all the relics of the Black History, the existence of the Overman is something noteworthy in particular.",
+      "display_variant": "en",
+      "display_text": "「Yes... Among all the relics of the Black\nHistory, the existence of the Overman is\nsomething noteworthy in particular.」"
+    },
+    {
+      "id": "c15_08770",
+      "speaker": "Guin",
+      "en": "For the sake of that investigation, I'd like you to head to Siberia.",
+      "display_variant": "en",
+      "display_text": "「For the sake of that investigation, I'd\nlike you to head to Siberia.」"
+    },
+    {
+      "id": "c15_087c0",
+      "speaker": "Sid",
+      "en": "But even if you say that, Siberia is a big place too...",
+      "display_variant": "en",
+      "display_text": "「But even if you say that, Siberia is a\nbig place too...」"
+    },
+    {
+      "id": "c15_08810",
+      "speaker": "Guin",
+      "en": "I'm well aware of that. Which is why I've already decided on the specific place for you to go.",
+      "display_variant": "en",
+      "display_text": "「I'm well aware of that. Which is why\nI've already decided on the specific place\nfor you to go.」"
+    },
+    {
+      "id": "c15_08880",
+      "speaker": "Sid",
+      "en": "And that would be?",
+      "display_variant": "en",
+      "display_text": "「And that would be?」"
+    },
+    {
+      "id": "c15_088a0",
+      "speaker": "Guin",
+      "en": "Wulgusk.",
+      "display_variant": "en",
+      "display_text": "「Wulgusk.」"
+    },
+    {
+      "id": "c15_088c0",
+      "speaker": "Sid",
+      "en": "The dome city where Gainer and the others lived?",
+      "display_variant": "en",
+      "display_text": "「The dome city where Gainer and the\nothers lived?」"
+    },
+    {
+      "id": "c15_08900",
+      "speaker": "Guin",
+      "en": "That's right. I'm also sending Colonel Michael and a Moonrace engineer there.",
+      "display_variant": "en",
+      "display_text": "「That's right. I'm also sending Colonel\nMichael and a Moonrace engineer there.」"
+    },
+    {
+      "id": "c15_08950",
+      "speaker": "Guin",
+      "en": "After you join up with them, please make your way to Wulgusk while surveying various sites along the route.",
+      "display_variant": "en",
+      "display_text": "「After you join up with them, please\nmake your way to Wulgusk while surveying\nvarious sites along the route.」"
+    },
+    {
+      "id": "c15_089b0",
+      "speaker": "Sid",
+      "en": "Understood.",
+      "display_variant": "en",
+      "display_text": "「Understood.」"
+    },
+    {
+      "id": "c15_089d0",
+      "speaker": "Guin",
+      "en": "Depending on the situation, you may end up meeting with the lord of Wulgusk as my envoy.",
+      "display_variant": "en",
+      "display_text": "「Depending on the situation, you may end\nup meeting with the lord of Wulgusk as\nmy envoy.」"
+    },
+    {
+      "id": "c15_08a30",
+      "speaker": "Guin",
+      "en": "The lord of Wulgusk, Duke Medaiyu, is a collector known as the 'Art Duke'...",
+      "display_variant": "en",
+      "display_text": "「The lord of Wulgusk, Duke Medaiyu, is a\ncollector known as the 'Art Duke'...」"
+    },
+    {
+      "id": "c15_08a80",
+      "speaker": "Guin",
+      "en": "I hear Gainer's Overman was one of his possessions too.",
+      "display_variant": "en",
+      "display_text": "「I hear Gainer's Overman was one of his\npossessions too.」"
+    },
+    {
+      "id": "c15_08ad0",
+      "speaker": "Sid",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c15_08ae0",
+      "speaker": "Guin",
+      "en": "Is something bothering you?",
+      "display_variant": "en",
+      "display_text": "「Is something bothering you?」"
+    },
+    {
+      "id": "c15_08b00",
+      "speaker": "Sid",
+      "en": "...As a prospector, I've surveyed all sorts of Mountain Cycles up until now, but...",
+      "display_variant": "en",
+      "display_text": "「...As a prospector, I've surveyed all\nsorts of Mountain Cycles up until now,\nbut...」"
+    },
+    {
+      "id": "c15_08b60",
+      "speaker": "Sid",
+      "en": "There are times I feel afraid of what I've been doing.",
+      "display_variant": "en",
+      "display_text": "「There are times I feel afraid of what\nI've been doing.」"
+    },
+    {
+      "id": "c15_08ba0",
+      "speaker": "Guin",
+      "en": "Do you mean the place called Lost Mountain?",
+      "display_variant": "en",
+      "display_text": "「Do you mean the place called Lost\nMountain?」"
+    },
+    {
+      "id": "c15_08be0",
+      "speaker": "Sid",
+      "en": "So you heard from Joseph... That's certainly part of the fear I feel, yes.",
+      "display_variant": "en",
+      "display_text": "「So you heard from Joseph... That's\ncertainly part of the fear I feel, yes.」"
+    },
+    {
+      "id": "c15_08c40",
+      "speaker": "Guin",
+      "en": "Part...?",
+      "display_variant": "en",
+      "display_text": "「Part...?」"
+    },
+    {
+      "id": "c15_08c60",
+      "speaker": "Sid",
+      "en": "We use relics from the past without even knowing their meaning...",
+      "display_variant": "en",
+      "display_text": "「We use relics from the past without\neven knowing their meaning...」"
+    },
+    {
+      "id": "c15_08ca0",
+      "speaker": "Sid",
+      "en": "Among them are surely forbidden things people should never touch, like Lost Mountain, and yet out of ignorance we just chase after power...",
+      "display_variant": "compact",
+      "display_text": "「Some, like Lost Mountain, are forbidden\nthings we should never touch, yet in our\nignorance we just chase power...」"
+    },
+    {
+      "id": "c15_08d20",
+      "speaker": "Guin",
+      "en": "...",
+      "display_variant": "en",
+      "display_text": "「...」"
+    },
+    {
+      "id": "c15_08d40",
+      "speaker": "Sid",
+      "en": "Someday, a day may come when we pay a heavy price for it.",
+      "display_variant": "en",
+      "display_text": "「Someday, a day may come when we pay\na heavy price for it.」"
+    },
+    {
+      "id": "c15_08d90",
+      "speaker": "Guin",
+      "en": "Are you trying to say I'm a fool?",
+      "display_variant": "en",
+      "display_text": "「Are you trying to say I'm a fool?」"
+    },
+    {
+      "id": "c15_08dc0",
+      "speaker": "Sid",
+      "en": "N-no, that's not what I meant, but...",
+      "display_variant": "en",
+      "display_text": "「N-no, that's not what I meant, but...」"
+    },
+    {
+      "id": "c15_08e00",
+      "speaker": "Guin",
+      "en": "Rest assured, Sid. I act in order to reform society for the better.",
+      "display_variant": "en",
+      "display_text": "「Rest assured, Sid. I act in order to\nreform society for the better.」"
+    },
+    {
+      "id": "c15_08e60",
+      "speaker": "Guin",
+      "en": "I intend to use the relics of the Black History and the strength of $c toward that end as well.",
+      "display_variant": "en",
+      "display_text": "「I intend to use the relics of the Black\nHistory and the strength of $c toward\nthat end as well.」"
+    },
+    {
+      "id": "c15_08ea0",
+      "speaker": "Sid",
+      "en": "Young master...",
+      "display_variant": "en",
+      "display_text": "「Young master...」"
+    },
+    {
+      "id": "c15_08ec0",
+      "speaker": "Guin",
+      "en": "I'll be waiting for good news, Sid. Please become a strength for me, and for this world.",
+      "display_variant": "en",
+      "display_text": "「I'll be waiting for good news, Sid.\nPlease become a strength for me, and for\nthis world.」"
+    }
+  ]
+}
