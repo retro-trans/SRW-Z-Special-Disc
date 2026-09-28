@@ -12,7 +12,7 @@ An unofficial English translation patch for **Super Robot Taisen Z Special Disc*
 
 Use the [Retro Trans patching app](https://github.com/retro-trans/retro-trans-tools/releases/latest). Its automatic catalog selects a patch from the exact input image hash and checks the output. Public catalog discovery requires this repository and its release to be public; a private release cannot be downloaded by the public app.
 
-1. Open Retro Trans, refresh its catalog, and choose your clean Japanese Special Disc image (ISO, or a supported DVD CHD).
+1. Open Retro Trans, refresh its catalog, and choose your clean Japanese Special Disc image (ISO, or a supported CHD).
 2. Select **Super Robot Taisen Z Special Disc**, English **0.3.0** / **Latest**, when recognized.
 3. Choose a new output filename and apply. Use the verified output ISO in your emulator or your own compatible hardware setup.
 
@@ -26,7 +26,9 @@ Download `SRWZ-SP-English-v0.3.0.xdelta` from the release. Apply it with [Delta 
 xdelta3 -d -s "Special Disc (Japan).iso" "SRWZ-SP-English-v0.3.0.xdelta" "SRW Z Special Disc English v0.3.0.iso"
 ```
 
-For a DVD CHD, first extract it with `chdman extractdvd -i "Special Disc (Japan).chd" -o "Special Disc (Japan).iso"`, then patch the extracted image. A logical ISO extracted with a `.bin` filename is also valid if its bytes match the source hash below. Raw 2352-byte CD sectors are not the required format.
+Check `chdman info -i "Special Disc (Japan).chd"` before manual extraction. For a DVD CHD use `chdman extractdvd -i "Special Disc (Japan).chd" -o "Special Disc (Japan).iso"`. For a single data-track CHD use `chdman extractcd -i "Special Disc (Japan).chd" -o "Special Disc (Japan).cue" -ob "Special Disc (Japan).bin"`, then patch the BIN only if it matches the source hash below.
+
+The local test CHD stores this DVD image as a **single MODE1/2048 CD track**; Retro Trans supports that container and extracts it before identification. A logical ISO with a `.bin` filename is valid when its bytes match. Raw 2352-byte CD sectors are not the required format.
 
 | Image | Required identity |
 | --- | --- |
