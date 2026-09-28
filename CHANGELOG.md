@@ -4,6 +4,7 @@
 
 - Prepare v0.3.0 for the SRW-Z-Special-Disc GitHub repository with installation instructions, coverage, limitations and release notes modeled on the main SRW-Z project.
 - Publish English-only review exports, excluding original script corpora, extracted assets, local receipts and private caches. Add an index audit and publication workflow.
+- Match the catalog importer's core-file checksum scope; verify optional documentation assets separately on upload.
 - Use Retro Trans canonical release metadata, full patch reconstruction and raw-image hash aliases. The v0.3.0 game bytes are unchanged; the distributed patch is re-encoded without local paths.
 
 ## 0.3.0 — 2026-09-27

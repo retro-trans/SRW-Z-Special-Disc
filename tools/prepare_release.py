@@ -65,7 +65,9 @@ def main():
     atomic_json(args.out / "VALIDATION.json", validation)
     for original, name in (("README.md", f"README-v{VERSION}.txt"), ("CHANGELOG.md", f"CHANGELOG-v{VERSION}.txt")):
         (args.out / name).write_bytes((ROOT / original).read_bytes())
-    sums = [f"{digest(p, 'sha256')}  {p.name}" for p in sorted(args.out.iterdir()) if p.name != "SHA256SUMS.txt"]
+    # Catalog ingestion fetches only these core files before validation.
+    core_names = {"BUILD-MANIFEST.json", "VALIDATION.json"} | {p["patch"] for p in manifest["patches"]}
+    sums = [f"{digest(args.out / name, 'sha256')}  {name}" for name in sorted(core_names)]
     (args.out / "SHA256SUMS.txt").write_text("\n".join(sums) + "\n", encoding="utf-8")
     validate_directory(args.out)
     print("Official build, exact reconstruction and final package validation passed.", flush=True)
