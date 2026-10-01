@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.3.16 — 2026-10-01 (local test candidate)
+## 0.3.16 — 2026-10-01
+
+- Release packaging: add the missing v0.3.0 → v0.3.16 upgrade patch and Retro Trans route. It reconstructs the same v0.3.16 ISO; preserve the existing full patch and release tag.
 
 - Replace Ep. with Stage on the shared stage-entry title card. Match the label's 16-pixel capital height and baseline to the native stage number.
 - Combine the original prefix and suffix texture space, then reposition one- and two-digit numbers. Preserve the number artwork, title illustrations, palette, animation, output buffer dimensions and all prior fixes.

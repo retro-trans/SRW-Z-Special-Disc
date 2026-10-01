@@ -12,18 +12,31 @@ An unofficial English translation patch for **Super Robot Taisen Z Special Disc*
 
 Use the [Retro Trans patching app](https://github.com/retro-trans/retro-trans-tools/releases/latest). Its automatic catalog selects a patch from the exact input image hash and checks the output. Public catalog discovery requires this repository and its release to be public; a private release cannot be downloaded by the public app.
 
-1. Open Retro Trans, refresh its catalog, and choose your clean Japanese Special Disc image (ISO, or a supported CHD).
+1. Open Retro Trans, refresh its catalog, and choose your clean Japanese Special Disc or published v0.3.0 English image (ISO, or a supported CHD).
 2. Select **Super Robot Taisen Z Special Disc**, English **0.3.16** / **Latest**, when recognized.
 3. Choose a new output filename and apply. Use the verified output ISO in your emulator or your own compatible hardware setup.
 
-This release contains the canonical `BUILD-MANIFEST.json`, `VALIDATION.json`, `SHA256SUMS.txt`, and `SRWZ-SP-English-v0.3.16.xdelta` expected by Retro Trans. SHA-1 aliases support DVD CHD recognition; the extracted image is still verified by SHA-256 before patching.
+This release contains the canonical `BUILD-MANIFEST.json`, `VALIDATION.json`, `SHA256SUMS.txt`, and `SRWZ-SP-English-v0.3.16.xdelta` (clean disc), and `SRWZ-SP-English-v0.3.0-to-v0.3.16.xdelta` (upgrade) expected by Retro Trans. SHA-1 aliases support DVD CHD recognition; the extracted image is still verified by SHA-256 before patching.
 
 ### Manual patching
 
-Download `SRWZ-SP-English-v0.3.16.xdelta` from the release. Apply it with [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) or xdelta3 to your **clean, extracted Special Disc image**, not to a CHD container or an earlier translated image. Keep your original image.
+Choose the patch matching your image and apply it with [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) or xdelta3. Extract CHD containers first and keep your input image.
+
+| Your image | Patch |
+| --- | --- |
+| Clean Japanese Special Disc | `SRWZ-SP-English-v0.3.16.xdelta` |
+| Published v0.3.0 English Special Disc | `SRWZ-SP-English-v0.3.0-to-v0.3.16.xdelta` |
+
+The upgrade produces exactly the same v0.3.16 ISO as the full patch.
 
 ```sh
 xdelta3 -d -s "Special Disc (Japan).iso" "SRWZ-SP-English-v0.3.16.xdelta" "SRW Z Special Disc English v0.3.16.iso"
+```
+
+To upgrade an existing v0.3.0 ISO:
+
+```sh
+xdelta3 -d -s "SRW Z Special Disc English v0.3.0.iso" "SRWZ-SP-English-v0.3.0-to-v0.3.16.xdelta" "SRW Z Special Disc English v0.3.16.iso"
 ```
 
 Check `chdman info -i "Special Disc (Japan).chd"` before manual extraction. For a DVD CHD use `chdman extractdvd -i "Special Disc (Japan).chd" -o "Special Disc (Japan).iso"`. For a single data-track CHD use `chdman extractcd -i "Special Disc (Japan).chd" -o "Special Disc (Japan).cue" -ob "Special Disc (Japan).bin"`, then patch the BIN only if it matches the source hash below.
@@ -35,10 +48,11 @@ The local test CHD stores this DVD image as a **single MODE1/2048 CD track**; Re
 | Edition | Japan, SLPS-25920 / executable SLPS_259.20 |
 | Source format | 2048-byte-sector DVD image, 3,791,781,888 bytes |
 | Source SHA-256 | `c3bd8c1af4e411e5ab2ae2d4be877170b6ab1ea9b51fa62bc0b91a51ba1a2952` |
+| v0.3.0 upgrade source SHA-256 | `ca444e5c078a6f3cb23a96c5b6d676de1df068cfa4219ecbc06e71cbea4186ec` |
 | v0.3.16 output bytes | 3,791,781,888 |
 | v0.3.16 output SHA-256 | `38199a3be48e759e2b887c369609b404afe9376a6f28a91d02036bfca914f5a7` |
 
-Patches for the main SRW Z game, other editions, modified images, and previous English Special Disc builds are not interchangeable with this full patch. No game image, BIOS, or original script dump is distributed here.
+These patches require the exact clean Japanese or published v0.3.0 image identified above. Other English builds, modified images and the main SRW Z game require different patches. No game image, BIOS, or original script dump is distributed here.
 
 ## Translation coverage
 
