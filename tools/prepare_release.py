@@ -1,4 +1,4 @@
-"""Package v0.3.0 using a separate Retro Trans checkout. Dry run unless --write.
+"""Package v0.3.16 using a separate Retro Trans checkout. Dry run unless --write.
 
 This helper builds local release assets only. It never pushes or changes visibility.
 """
@@ -9,9 +9,9 @@ import subprocess
 import sys
 from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "0.3.0"
+VERSION = "0.3.16"
 EXPECTED_SOURCE = "c3bd8c1af4e411e5ab2ae2d4be877170b6ab1ea9b51fa62bc0b91a51ba1a2952"
-EXPECTED_TARGET = "ca444e5c078a6f3cb23a96c5b6d676de1df068cfa4219ecbc06e71cbea4186ec"
+EXPECTED_TARGET = "38199a3be48e759e2b887c369609b404afe9376a6f28a91d02036bfca914f5a7"
 
 def digest(path, algo):
     h = hashlib.new(algo)
@@ -46,7 +46,7 @@ def main():
     from retro_trans.catalog import atomic_json
     for path, expected in ((args.source, EXPECTED_SOURCE), (args.target, EXPECTED_TARGET)):
         if digest(path, "sha256") != expected:
-            raise ValueError("Input does not match the verified v0.3.0 source/target identity")
+            raise ValueError("Input does not match the verified v0.3.16 source/target identity")
     private = ROOT / "work/cache/publication"
     private.mkdir(parents=True, exist_ok=True)
     config = {"game_id": "srw-z-special-disc", "game_name": "Super Robot Taisen Z Special Disc",

@@ -82,6 +82,12 @@ def load():
     for rid, row in final.items():
         if row.get('fit'):
             row['fit'] = apply_rules(row['fit'], jp[rid], rid, rules)
+    import re
+    for row in final.values():
+        for key in ('en', 'fit'):
+            if row.get(key):
+                row[key] = re.sub(r'(?<![A-Za-z])Hundred\s+Demon\s+Empire(?![A-Za-z])',
+                                  'Hyakki Empire', row[key])
     return source, speakers, final
 
 

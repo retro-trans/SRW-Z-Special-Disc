@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "version": "0.3.16",
+  "entries": [
+    {
+      "id": "name",
+      "box": [
+        216,
+        112,
+        256,
+        136
+      ],
+      "text": "NAME"
+    },
+    {
+      "id": "nickname",
+      "box": [
+        216,
+        136,
+        256,
+        160
+      ],
+      "text": "ALIAS"
+    },
+    {
+      "id": "confirm",
+      "box": [
+        216,
+        160,
+        256,
+        184
+      ],
+      "text": "OK"
+    },
+    {
+      "id": "birthday",
+      "box": [
+        200,
+        184,
+        256,
+        208
+      ],
+      "text": "BORN"
+    },
+    {
+      "id": "blood_type",
+      "box": [
+        200,
+        208,
+        256,
+        232
+      ],
+      "text": "BLOOD"
+    },
+    {
+      "id": "rename",
+      "box": [
+        184,
+        232,
+        256,
+        256
+      ],
+      "text": "RENAME"
+    }
+  ]
+}

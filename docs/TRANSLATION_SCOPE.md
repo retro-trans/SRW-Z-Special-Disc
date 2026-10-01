@@ -1,8 +1,8 @@
 # Translation scope and remaining work
 
-Objective: **translate everything to English except story dialogue**.
+Objective: **translate player-facing text to English, including story dialogue (included since v0.3.0)**.
 This ledger is a progress record, not a narrower replacement for the objective.
-The goal remains active until the in-scope Japanese surfaces are handled.
+This ledger records coverage and remaining work; it does not assert that every surface is complete.
 Emulator testing is pending by the user's explicit choice; this does not block
 translation or binary checks.
 
@@ -19,15 +19,15 @@ translation or binary checks.
 | Mission conditions | All 60 distinct texts / 114 pointers in 39 modules in 0.2.19; victory, defeat and extra tables, including 18 Challenges | Runtime phase-selection and layout acceptance; 38 hidden “???” placeholders intentionally native |
 | Map labels | All 200 slots included in 0.2.2 | Many are development labels rather than normal player-facing text |
 | Globe location cards | All 13 native captions included in 0.2.16 after independent meaning review | Runtime legibility/timing acceptance; see WORLD_MAP_TITLES.md |
-| Episode-entry title cards | All 21 native selector slots covered in 0.2.17; 20 translated images, one native English image, shared Ep. number heading | Runtime layout/animation acceptance; see EPISODE_TITLES.md |
+| Episode-entry title cards | All 21 native selector slots covered in 0.2.17; 20 translated images, one native English image, shared Stage number heading with matched numeral height in 0.3.16 | Runtime layout/animation acceptance; see EPISODE_TITLES.md |
 | Scenario Chart overlay | 131 titles, 128 labels, all 131 summaries and five key hints in 0.2.3 | Audit two terminator text fields and chart artwork; runtime layout acceptance |
 | Save/load summaries (HSFC chunk 0) | 65 of 66 records included in 0.2.9 after independent full-meaning and compact-layout reviews | ID 27 retains native text until full meaning fits; runtime acceptance; see SAVE_SUMMARY_RESEARCH.md |
 | Narration (MTZSPROS) | All ten entries included in 0.2.5 after full meaning and compact-layout review | Runtime layout/timing acceptance; all nontext commands retained; see NARRATION_RESEARCH.md |
-| Battle captions (SRVC and COMPDATA battle text) | 0.2.15 retains 1,917 reviewed SRVC captions at 4,870 occurrences | 23,605 indexed identities / 54,392 occurrences remain native, including the statically suppressed placeholder at 382 occurrences. COMPDATA battle text, speaker-name layout and 180 unbound tail identities need audit; see BATTLE_CAPTION_RESEARCH.md |
+| Battle captions (SRVC and COMPDATA battle text) | v0.3.15 completes 25,521 player-facing SRVC identities at 58,880 occurrences; all 4,297 Battle Theater speaker-name cells are English | Fresh editorial and runtime review; audit unbound tail identities and other text surfaces. The 382 production-note occurrences remain deliberately suppressed; see BUILD_0.3.15.md |
 | Pre-title battle demo | All 20 series-title graphics and 61 separate speaker-name fields in 0.2.10; pictured Rocket Punch call and two variants included | Other demonstration battle captions remain subject to SRVC coverage above; emulator layout/timing acceptance pending; see ATTRACT_DEMO_RESEARCH.md |
-| Suspend messages | All 296 unique texts / 379 occurrences in 57 scenes have independently reviewed English drafts | Prove encoding, buffer ownership, display layout and relocation before installing; currently native in ISO; see SUSPEND_RESEARCH.md |
+| Suspend messages | All 296 unique texts / 379 occurrences in 57 scenes installed in local v0.3.6 | In-game visual acceptance pending; see BUILD_0.3.6.md and SUSPEND_RESEARCH.md |
 | Embedded text in artwork | Front-end, Library buttons, shared art, four headings, globe and episode title cards included | Audit remaining KVMAP/MAPMODEL, logos, credits and video text |
-| Stage-contained UI or instructions | Chapter 13's 12 tournament squad/ship names and all bound mission-condition tables included through 0.2.19 | Inventory other instruction categories; separate UI from excluded story dialogue before patching |
+| Stage-contained UI or instructions | Chapter 13's 12 tournament squad/ship names and all bound mission-condition tables included through 0.2.19 | Inventory other instruction categories; preserve existing translated story dialogue when patching |
 | Japanese input dictionary | Unchanged functional data | Audit visible name-entry labels and Latin input; do not count internal kana data as untranslated prose |
 | Story dialogue | 0.3.0 installs all 45 chunks: 7,511 rows, 71 captions, chunk-66 scene; labels native | In-game rendering check; label usage audit |
 

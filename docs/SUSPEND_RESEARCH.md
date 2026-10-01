@@ -117,3 +117,13 @@ new report only after dry-run inspection. The saved audit is SHA-256
 `c371192c5f775c566d159d22ad60c333c04e537ff89be40e934884d70787e4af`.
 This result establishes a copy-size requirement, not logical storage ownership
 or visible layout. Those remain necessary before installation.
+
+
+## Targeted installation in v0.3.5
+
+The user supplied a screenshot of Rand's scene-56 introduction. The complete eight-message Rand/Mel scene (IDs 288–295) is now installed in a local candidate; see [BUILD_0.3.5.md](BUILD_0.3.5.md). This supersedes the earlier “none installed” status only for those eight messages. Their original text slots and typed pointers remain intact. The v0.3.1 setText converter is already active, and all eight new messages were executed through its instruction model. They use at most three body lines at a conservative 400-unit width and at most 220 converted bytes including NUL. No pagination, new commands or buffer expansion was introduced. The remaining suspend conversations are unchanged and emulator visual acceptance remains pending.
+
+
+## Complete installation in v0.3.6
+
+All 296 unique texts in all 57 native scenes are installed in the local v0.3.6 candidate, superseding the historical partial/native installation status above. See [BUILD_0.3.6.md](BUILD_0.3.6.md). The reviewed corpus plus 43 source-checked compact fits uses 21,323 of the original 23,312 text-region bytes. All 379 typed references are updated; non-pointer commands and the numeric collision remain untouched. Every message was exercised through the installed converter and meets the three-body-line/400-unit layout bound and active parser limits. No extra message pages or allocations were introduced. In-game visual acceptance remains pending.

@@ -1,5 +1,114 @@
 # Changelog
 
+## 0.3.16 — 2026-10-01 (local test candidate)
+
+- Replace Ep. with Stage on the shared stage-entry title card. Match the label's 16-pixel capital height and baseline to the native stage number.
+- Combine the original prefix and suffix texture space, then reposition one- and two-digit numbers. Preserve the number artwork, title illustrations, palette, animation, output buffer dimensions and all prior fixes.
+- Check all 100 supported number combinations, guarded native instruction changes, texture compression readback, complete-disc preservation and clean-source patch reconstruction. Add a reconstructed layout preview; in-game verification remains pending.
+
+## 0.3.15 — 2026-10-01 (local test candidate)
+
+- Complete the remaining battle-caption set: add 23,359 source-bound English captions at 53,252 indexed occurrences. All 58,880 player-facing indexed records are now English; retain prior translations and the 382 statically suppressed production-note records.
+- Reuse matching SRW-Z English translations, with explicit source-reviewed edits for Roger's reported line and one long Newtype/Black History caption. Apply glossary spelling and verify every new caption fits two rows, a 460-unit width and the existing 96-byte buffer.
+- Translate all 4,297 Battle Theater speaker-name slots across 1,031 scenes and 28 banks, including Roger. Reuse source-matched pilot display names and translate the eight AI labels.
+- Preserve voice metadata, event selection, gameplay data, opaque archive tails and all earlier fixes. Add exhaustive caption/name readback, font-atlas previews, complete-disc preservation checks and clean-disc patch reconstruction.
+- English inherited from SRW-Z is not newly proofread line by line. Emulator playback and timing verification remain pending.
+
+## 0.3.14 — 2026-10-01 (local test candidate)
+
+- Standardize Hundred Demon Empire to Hyakki Empire in all 23 installed occurrences: 16 story dialogue strings across four stages, five executable UI/chart/recap strings, and two briefing rows.
+- Make Hyakki Empire canonical in the glossary, update 22 active/public English translation files, and normalize this faction name before future story layout. Preserve Hyakki Hundred as a distinct subgroup.
+- Keep existing line breaks, text allocations, pointers, gameplay data and all prior fixes. Verify row widths never increase, all stage chunks and protected disc bytes remain intact, and the clean-disc patch reconstructs correctly.
+- In-game verification remains pending.
+
+## 0.3.13 — 2026-10-01 (local test candidate)
+
+- Translate the shared combat forecast attack/counter icons to ATK/CNT and the support-defense components to S/D; the original numeric rank remains unchanged.
+- Translate both remaining Getter Robo squad-name strings in stage chunks 18 and 40, preserving all four native pointer bindings. Hyakki Empire was already translated in the fixed stage headings.
+- Preserve all other atlas pixels, palettes, sprite coordinates, stage commands, dialogue and previous fixes. Verify name capacities, all stage chunks, whole-disc changes and clean-disc patch reconstruction.
+- In-game testing remains pending. Existing saves may retain old squad names; cold boot the new ISO and restart the affected mission or rename the squad where available.
+
+## 0.3.12 — 2026-10-01 (local test candidate)
+
+- Translate the reported Hyakki Soldier battle caption as "Damn you, Getter Robo... Die!" in all six indexed occurrences across three banks.
+- Keep voice metadata, unrelated captions, opaque bank data and all earlier fixes intact. Check caption width, encoded buffer capacity, member readback, full-disc write boundaries and clean-source patch reconstruction.
+- In-game visual verification remains pending.
+
+## 0.3.11 — 2026-10-01 (local test candidate)
+
+- Shorten the three Search headings to Search Item, Search Filter and Search Use so they stay clear of the fixed OK button legend.
+- Audit all 57 unique ability descriptions in the shared Search help bank; reflow 26 overflowing descriptions within three lines and a conservative 510-unit width.
+- Compact five longer descriptions without dropping their effects, activation requirements or targeting rules. Repair and Supply retain their squad-member effect and turn-start recovery.
+- Preserve existing text allocations, pointers, executable instructions, gameplay data and all previous fixes. Add a font-based layout preview, protected-byte checks and clean-disc patch reconstruction. Emulator review remains pending.
+
+## 0.3.10 — 2026-10-01 (local test candidate)
+
+- Translate the six scripted Grendizer squad presets in stage chunks 18–21, addressing the Japanese name reported on the Experience panel.
+- Preserve each preset's index, six member IDs, flags, all other stage data, dialogue and prior translations. The regular unit name was already English.
+- Verify every stage chunk, protected name-field boundaries, ISO/runtime member reads, complete disc changes and clean-disc patch reconstruction. In-game verification remains pending.
+
+## 0.3.9 — 2026-10-01
+
+- Translate all 12 shared battle formation/attack banners, including TRI Formation, by reusing matching SRW-Z sprites.
+- Translate the adjacent No Target, Can't Attack and (Range) warning sprites from the same reference build.
+- Check every native rectangle and both used palettes before reuse; preserve Special Disc's unrelated texture nibbles, animation data and all earlier fixes.
+- Add a guarded builder, pixel readback verification and clean-disc xdelta reconstruction. Emulator review remains pending.
+
+## 0.3.8 — 2026-10-01 (local test candidate)
+
+- Align all 18 Challenge Battle briefings: move the title/body 32 units left and reflow within a conservative 500-unit width, seven rows and the existing 56-byte line slots. Shorten two briefings without removing their mission details.
+- Translate 81 distinct fixed squad headings at 1,012 occurrences across the stage archive, including all 58 Hyakki Empire labels. Include related factions, enemy names, unit groups and unknown-name markers using the existing English font.
+- Preserve each 23-byte text field's preceding marker, following deployment fields, all stage commands, dialogue and reward logic. Preserve the v0.3.7 menu-reader fix.
+- Check every installed label and briefing through the native-reader instruction model, all 68 stage chunks, complete ISO write boundaries and clean-disc patch reconstruction. In-game visual testing remains pending.
+
+## 0.3.7 — 2026-10-01 (local test candidate)
+
+- Fix stray gold glyphs under the Story Mode bonus heading. The shared token-aware menu reader previously copied ordinary text in two-byte steps; an odd-length English label could skip its null terminator and consume stale segment bytes. Consume ASCII one byte at a time and retain the native two-byte path for Japanese/private glyphs.
+- Preserve native button, spacing and newline controls, including controls after odd-length English text. Move the bonus totals column from x400 to x352 to accommodate the native 12-cell Funds and 10-cell BS/PP padding.
+- Add seven checks that execute the installed reader instructions, reproduce the original overread and verify the corrected bounds, controls and layout. Keep all earlier translations and reward calculations unchanged.
+- Verify every planned ISO write and exact clean-disc xdelta reconstruction. In-game visual testing remains pending; cold boot this image instead of loading an older save state.
+
+## 0.3.6 — 2026-10-01 (local test candidate)
+
+- Install all 296 unique post-save/Special Theatre messages across all 57 scenes and 379 typed text references. Add 288 previously Japanese messages and retain the eight Rand/Mel translations from v0.3.5.
+- Reuse the complete reviewed English set, with 43 source-checked compact fits for the narrower three-line box. Repack inside the original 23,312-byte text region; 21,323 bytes used. Preserve scene commands, speaker portraits, timing and the unrelated numeric-table address collision.
+- Install 236 additional reviewed battle captions from candidate slices 960–1199 at 694 occurrences, including the reviewed compact corrections. Keep all earlier translations and voice metadata. Total installed indexed battle coverage is now 2,155 unique captions; 23,367 remain native.
+- Execute the installed converter for every post-save message, check all text references and line bounds, and separately audit all 59,262 indexed battle records. Verify the whole image against planned writes and reconstruct its clean-disc patch. In-game visual testing remains pending.
+
+## 0.3.5 — 2026-10-01 (local test candidate)
+
+- Translate the complete eight-message Rand/Mel console-care conversation in Special Theatre/suspend scene 56, including speaker names, the Beater Services introduction, the chop joke and Mel's correction.
+- Adapt the existing reviewed drafts to fit their original executable text slots. Balance lines within a conservative 400-unit width and three body rows, using the installed story converter.
+- Execute the converter model for all eight messages and verify text-slot limits, line-parser bounds, source identity and typed scene pointers. Preserve all scene commands, portraits, timing, save behavior and earlier fixes.
+- Build a local ISO and verify exact clean-disc patch reconstruction. In-game visual testing remains pending.
+
+## 0.3.4 — 2026-10-01 (local test candidate)
+
+- Translate the two reported SEED Destiny battle-demo captions: Sting's excited laugh and Shinn's taunt. Update their shared battle-caption records so normal battles also use the translations.
+- Append the English strings within their existing caption banks, preserving all prior translations, native opaque data, voice metadata and executable code. Keep the one-line Shinn and two-line Sting layouts within the existing display limits.
+- Audit all 59,262 indexed caption records: only the two selected strings change. Relocate the caption archive and segment table into empty reserved disc space and verify the finished ISO and clean-disc patch. Emulator visual testing remains pending.
+
+## 0.3.3 — 2026-10-01 (local test candidate)
+
+- Translate the six shared character setup labels using matching SRW Z artwork: RENAME, NAME, ALIAS (nickname), BORN (birthday), BLOOD (blood type) and OK.
+- Reuse only verified native-matching tiles and identical palette banks. Keep texture dimensions, character data, portraits, button behavior and all previous fixes unchanged.
+- Verify indexed texture roundtrip and unchanged pixels outside the six regions; inspect the resulting sheet. Verify every ISO byte outside the planned texture plane and exact clean-disc patch reconstruction. Emulator visual testing remains pending.
+
+## 0.3.2 — 2026-09-30 (local test candidate)
+
+- Translate all eleven shared Story Mode bonus-result fields: Funds, BS, PP, Parts, starting values, totals and the added-parts message.
+- Give bonus headings and numeric totals fixed columns. Align the `---` markers across all four result pages, preserving the earlier cleared-stage confirmation layout.
+- Keep v0.3.1's dialogue renderer fix, reward calculations, selectors, colors, row spacing and heap boundary unchanged. Extend the existing executable segment by 224 bytes; relocate the executable and COMPDATA safely inside reserved disc space.
+- Verify all four bonus-panel tests and six story-renderer tests. Verify the whole ISO against the planned writes and reconstruct it exactly from the clean-disc xdelta. Emulator visual testing remains pending.
+
+## 0.3.1 — 2026-09-30 (local test candidate)
+
+- Address overlapping story dialogue reported in the chapter-7 Eiji scene. Enable the main SRW Z converter before Special Disc story layout, mapping ASCII to the installed two-byte English glyph codes while preserving explicit newlines, Japanese text and expanded names.
+- Relocate the existing converter and its three native helper calls; change only 13 executable words. No dialogue wording, stage data, font artwork, memory allocation or heap boundaries change from v0.3.0.
+- Include the converter in future story builds. Add machine-code tests for the screenshot, all printable ASCII, mixed Shift-JIS/control bytes, macro expansion, null input, idempotence and guarded writes. Check all 7,509 ordinary dialogue rows plus two silent occurrences.
+- Verify the finished ISO differs only in the 13 planned words and that the clean-disc xdelta reconstructs it exactly. Normal story-builder preflight retains all 45 story chunks.
+- Local candidate only: emulator rendering remains unverified. Cold boot the new image; a save state can restore the old executable code.
+
 ## Publication packaging — 2026-09-28
 
 - Prepare v0.3.0 for the SRW-Z-Special-Disc GitHub repository with installation instructions, coverage, limitations and release notes modeled on the main SRW-Z project.

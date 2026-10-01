@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "version": "0.3.16",
+  "entries": [
+    {
+      "id": "comp/98128",
+      "text": "Funds",
+      "capacity": 16
+    },
+    {
+      "id": "comp/98138",
+      "text": "BS",
+      "capacity": 16
+    },
+    {
+      "id": "comp/98148",
+      "text": "PP",
+      "capacity": 16
+    },
+    {
+      "id": "comp/98158",
+      "text": "Parts",
+      "capacity": 16
+    },
+    {
+      "id": "comp/98170",
+      "text": "Starting Funds",
+      "capacity": 32
+    },
+    {
+      "id": "comp/98190",
+      "text": "Total Funds",
+      "capacity": 32
+    },
+    {
+      "id": "comp/981b0",
+      "text": "Starting BS",
+      "capacity": 32
+    },
+    {
+      "id": "comp/981d0",
+      "text": "Total BS",
+      "capacity": 32
+    },
+    {
+      "id": "comp/981f0",
+      "text": "Starting PP",
+      "capacity": 32
+    },
+    {
+      "id": "comp/98210",
+      "text": "Total PP",
+      "capacity": 32
+    },
+    {
+      "id": "comp/98230",
+      "text": "Added the above parts to your starting parts.",
+      "capacity": 56
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "version": "0.3.16",
+  "entries": [
+    {
+      "kind": "exe",
+      "chunk": null,
+      "offset": 3950464,
+      "capacity": 54,
+      "text": "While ZEUTH fought the Hyakki Empire in Japan,"
+    },
+    {
+      "kind": "exe",
+      "chunk": null,
+      "offset": 4005476,
+      "capacity": 430,
+      "text": "Task Force 013 knows almost nothing about BG,\nexcept that it is dangerous enough to require their\ncombined elite skills. They find it, but a Shadow\nAngel attack ruins the capture. After barely\nrepelling the Shadow Angels, they face the Hyakki\nEmpire. Civilian allies, the Siberian Railway\nGuard, save them. With new comrades and doubts\nabout their motley ranks, they head to McConnell\nBase for more reinforcements."
+    },
+    {
+      "kind": "exe",
+      "chunk": null,
+      "offset": 4010360,
+      "capacity": 494,
+      "text": "As news of the New Earth Federation coup shakes\nthe world, the group stays at Tresor Institute in\nSouth Ameria to refit Nirvash. While the women\ndiet, the Hyakki Empire rots the food\nsupplies, leaving everyone starving. Dr. Gura\nattacks the weakened group. Fasting sharpens\nAquarion's senses: its Food-Seeking Explosive\nArrow strikes the invisible Mecha Fortress Demon.\nVictorious, they enjoy Fudou's feast, but Silvia and\nthe others gain even more weight than before their\ndiet."
+    },
+    {
+      "kind": "exe",
+      "chunk": null,
+      "offset": 4066324,
+      "capacity": 36,
+      "text": "the arriving Hyakki Empire."
+    },
+    {
+      "kind": "exe",
+      "chunk": null,
+      "offset": 4074260,
+      "capacity": 42,
+      "text": "The Hyakki Empire rots their food,"
+    },
+    {
+      "kind": "stage",
+      "chunk": 2,
+      "offset": 23717,
+      "capacity": 52,
+      "text": "Jerid\n「Those horns...! The Hyakki\nEmpire!」"
+    },
+    {
+      "kind": "stage",
+      "chunk": 2,
+      "offset": 23944,
+      "capacity": 69,
+      "text": "Mouar\n「It appears the Hyakki Empire is\nabout to attack us.」"
+    },
+    {
+      "kind": "stage",
+      "chunk": 2,
+      "offset": 31380,
+      "capacity": 107,
+      "text": "Jurgens\n「The Hyakki Empire, huh... Even\nin a multiverse, I can't believe things\nlike that exist.」"
+    },
+    {
+      "kind": "stage",
+      "chunk": 2,
+      "offset": 34564,
+      "capacity": 115,
+      "text": "Neo\n「You saved us, Shagia Frost. Those\nback-to-back fights with the Hyakki\nEmpire were brutal, for sure.」"
+    },
+    {
+      "kind": "stage",
+      "chunk": 3,
+      "offset": 30655,
+      "capacity": 85,
+      "text": "Neo\n「First the Shadow Angels, then the\nHyakki Empire, and now it's aliens.」"
+    },
+    {
+      "kind": "stage",
+      "chunk": 18,
+      "offset": 31248,
+      "capacity": 63,
+      "text": "Cotset\n「M-Miss...! The Hyakki Empire\nis... coming...」"
+    },
+    {
+      "kind": "stage",
+      "chunk": 18,
+      "offset": 31451,
+      "capacity": 99,
+      "text": "Jamil\n「If they struck now, the Hyakki\nEmpire's clearly behind our cut food\nsupply lines.」"
+    },
+    {
+      "kind": "stage",
+      "chunk": 18,
+      "offset": 34813,
+      "capacity": 109,
+      "text": "Sirius\n「That's right. The demons of the\nHyakki Empire are living beings\ntoo. They consume food...!」"
+    },
+    {
+      "kind": "stage",
+      "chunk": 18,
+      "offset": 37708,
+      "capacity": 96,
+      "text": "Duke\n「Here we come, Hyakki Empire!\nFeel the wrath of humanity's most basic\ninstincts!」"
+    },
+    {
+      "kind": "stage",
+      "chunk": 18,
+      "offset": 37804,
+      "capacity": 65,
+      "text": "Ryouma\n「Hyakki Empire! Your cowardly\ntactics end here!」"
+    },
+    {
+      "kind": "stage",
+      "chunk": 18,
+      "offset": 50446,
+      "capacity": 63,
+      "text": "Ryouma\n「So it was the Hyakki Empire\nstarving us out!」"
+    },
+    {
+      "kind": "stage",
+      "chunk": 40,
+      "offset": 10640,
+      "capacity": 57,
+      "text": "Benkei\n「Radar contact! It's the Hyakki\nEmpire!」"
+    },
+    {
+      "kind": "stage",
+      "chunk": 40,
+      "offset": 11243,
+      "capacity": 76,
+      "text": "Ryouma\n「Here we come, Hyakki Empire!\nWe'll show you our strength!」"
+    },
+    {
+      "kind": "stage",
+      "chunk": 40,
+      "offset": 12002,
+      "capacity": 71,
+      "text": "Ryouma\n「This is it, Hyakki Empire! Take\nour strike of fury!!」"
+    },
+    {
+      "kind": "stage",
+      "chunk": 40,
+      "offset": 12565,
+      "capacity": 77,
+      "text": "Benkei\n「Still, the Hyakki Empire isn't\ndestroyed. They'll be back.」"
+    },
+    {
+      "kind": "stage",
+      "chunk": 40,
+      "offset": 13906,
+      "capacity": 83,
+      "text": "Ryouma\n「The Hyakki Empire's Science\nFortress Island is headed this way!?」"
+    },
+    {
+      "kind": "briefing",
+      "chunk": 40,
+      "offset": 570,
+      "capacity": 56,
+      "text": "While ZEUTH fought the Hyakki Empire"
+    },
+    {
+      "kind": "briefing",
+      "chunk": 50,
+      "offset": 399,
+      "capacity": 56,
+      "text": "The Hyakki Empire's trump card,"
+    }
+  ]
+}

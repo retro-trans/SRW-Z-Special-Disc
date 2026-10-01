@@ -1,0 +1,3132 @@
+{
+  "schema_version": 1,
+  "version": "0.3.16",
+  "entries": [
+    {
+      "id": 25001,
+      "source_sha256": "78a2bb95db6d54afa479b25dd8532ab6cf45139876e90e057c158dc61b28119e",
+      "text": "\"This is the end, Emperor Burai!\"",
+      "occurrences": 5
+    },
+    {
+      "id": 25002,
+      "source_sha256": "16645411dea943655c8f08dd3ba3f1c5d0e9fc35bf2b3c2fa78c5353a65b1af1",
+      "text": "\"Go, Hyakki robot!\"",
+      "occurrences": 5
+    },
+    {
+      "id": 25003,
+      "source_sha256": "0255d246f658c8e11c99f2a477b328c88ca8c2ef53dc868aa31b9d49c506edb1",
+      "text": "\"Face me fairly, Tekkouki!\"",
+      "occurrences": 5
+    },
+    {
+      "id": 25004,
+      "source_sha256": "cb2c1d7fd0a2a182c9ca90b0d99bfa1938898bb36cf46ff95ad614fa7d0e608f",
+      "text": "\"Yes! Perfectly deflected!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25005,
+      "source_sha256": "166daf70568b11911db202c6118708716707aeb7975f53fba23e103dd69ceeae",
+      "text": "\"Hmph... Wingless!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25006,
+      "source_sha256": "0fabbacf4809f82c66dd40f1896dd1533a5742c58440efb5ec72338167588bf9",
+      "text": "\"You'll be our food!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25007,
+      "source_sha256": "5716b2cab1b419a57070a108fa017507ca14d18f921b62e971936cb6e2e866ec",
+      "text": "\"You're my foe!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25008,
+      "source_sha256": "1a343d70bddc795fd6fa4fdd4dca0964d3d9dfbc27e64e7de5a0e056025426f4",
+      "text": "\"Ryoshi will defeat you!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25009,
+      "source_sha256": "67cf6627d29e4a4f40bf67b5bb712e18619208113dca4d5eb5ae81a2058e704a",
+      "text": "\"Die, Wingless!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25010,
+      "source_sha256": "91c0b2076a989da1f8c656ece45c100c12b1011451b66a199a443fb3107f1001",
+      "text": "\"I won't let the flame of this\\nvaliant battle festival die!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25011,
+      "source_sha256": "849a2ddce247e568f5324d7f17b381a38f88cafb60586957495039445c100439",
+      "text": "\"I'm the last Warwing!\\nI'll use all my power!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25012,
+      "source_sha256": "e275adbbae8c5919cc59c1d4dd35014d1a6318beadf787dacca7cc077103ce66",
+      "text": "\"Taste my strength firsthand!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25013,
+      "source_sha256": "fedc3eaf0de043993cafd9b088b2980bd27d224bd9cd18164eea990bb6104b5a",
+      "text": "\"Fool, showing your gap!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25014,
+      "source_sha256": "e81dafe8edc16b8345640bf7d51e765bf8b72cb4c6bad4e6924fdae8045780f8",
+      "text": "\"Think once was enough?!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25015,
+      "source_sha256": "2958943b75b51179d24edf1daf60c20c492458617b421a6581ad21b25f2f9a39",
+      "text": "\"Two attacks... dodge!?\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25016,
+      "source_sha256": "901c5505c893706c19c2a32632615883c0773e91bcc5d92fa8afd26113cf37e0",
+      "text": "\"ZAAAAAH!!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25017,
+      "source_sha256": "c7fec4e119966752980823862b71d38d706c2088a8d25a418baaa61bf4fb0d42",
+      "text": "\"Shyyyaaaah!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25018,
+      "source_sha256": "7f516358f4482e3571a5842b6864361ad899d8da55fd567a7bd310fdace29494",
+      "text": "\"You cannot escape my attack!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25019,
+      "source_sha256": "ed7a486a77e4ab5ddd0d1b8cd91b7c327c7201d9b58d0acab927f7fe3622e700",
+      "text": "\"Nngh!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25020,
+      "source_sha256": "5495c8bc55079fbdaa363212336f18ef6824fc386a0a49f3513073a3702ee51f",
+      "text": "\"Diiieeee!!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25021,
+      "source_sha256": "4c845e8f5a2ae6ee6835c6a19fd7160a4627e5f14d41876c31ea0cf6c2f70f01",
+      "text": "\"You came, Wingless!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25022,
+      "source_sha256": "923c83680532daad589d227640bf12481f1645b768f2ef275067cdba9b754449",
+      "text": "\"To defy me... you fool!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25023,
+      "source_sha256": "5cb205d5d73333f7d3161267b4f282cccaf6982cc4a59d43f6c6fa43bc152ed5",
+      "text": "\"You seem to want death!\\nThen I'll grant it!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25024,
+      "source_sha256": "42dc905fed2e0af2aecf46cd1da49ad4f37d120dc43780581bc3ed36f5cd9c31",
+      "text": "\"The weak are doomed to die!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25025,
+      "source_sha256": "89fd1f097acc7a2b09c132bfcdd147bef7b531af277180b4ef897242e84c08ba",
+      "text": "\"Payback! Take this!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25026,
+      "source_sha256": "90f0781c66c88a76625cd4d741d745885cc917f2a305a226e7af5dd01cda9279",
+      "text": "\"Your attacks are slowing!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25027,
+      "source_sha256": "8c0b4056538cdc0c55e7aa04b9121ac7907b81f7e828f43ee05981894801a765",
+      "text": "\"Hmph, I'll help...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25028,
+      "source_sha256": "a55d18f6a439b51582a090e0dfc52bf453a57f760fa09ebd1a9ebcfc6dc58030",
+      "text": "\"Tch! Rookies in battle are a pain!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25029,
+      "source_sha256": "ba2691636508acb0f775176bc81478624154ca49c9ece6ba6f5fbe5aeb5a261c",
+      "text": "\"I won't let you have your way!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25030,
+      "source_sha256": "b38e8772d7a63c767f6fb9110f62eb37ee86af2acc4ba33800ea0a9a6172146a",
+      "text": "\"You alone may not be enough...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25031,
+      "source_sha256": "d8b8b4c2ff9181c7df040147c6f1d7f699313f879891cf2bf5f5d81f2ef740a5",
+      "text": "\"Hmph... Do not bore me...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25032,
+      "source_sha256": "78ef4416730a0b083b83cdd4fd6837e4be0cbcee6e1d6d196c2484d6d62e7cbc",
+      "text": "\"Leading: War Wing's duty!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25033,
+      "source_sha256": "7491eb5b5f5514970f0a8d3a0d45940567fe554fbfdadc435b897007a4ea1adc",
+      "text": "\"Banding isn't my style...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25034,
+      "source_sha256": "20ea44163932859ae455f8f3755a2dba6fee7b2b7765b111a63348f96ba848d9",
+      "text": "\"I'll wipe you out, no trace!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25035,
+      "source_sha256": "29c8c8361bf7f296116ffdee6043a7f704b27ae9a2cf0ad2841c19abccb33c5c",
+      "text": "\"Answer my call! Time to end all!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25036,
+      "source_sha256": "bb1f546f555ccac1db3c4a6ad6e8a96b3f1c3e2101ca19b7ba3cb1d74492d532",
+      "text": "\"Seems fun, right?\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25037,
+      "source_sha256": "7ed93580fce21bd41b6ef17619dd84c82067c2d4210338f8b618ff93537e578e",
+      "text": "\"Very well... time to show\\nyou a Senshi's battle.\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25038,
+      "source_sha256": "fc9b421bc5d2ce8cab67750a9c1d3ec9b84b4c9c097058443a40d4b0ad0786d7",
+      "text": "\"HAHAHAHAHAHAHA!!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25039,
+      "source_sha256": "d56266bded2ed4f2e6a2d19bfa0a461d820536e4ddd2b1a2ef0832f363f56d82",
+      "text": "\"No time to beg for life!!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25040,
+      "source_sha256": "56c064a5d2e2962663af19158a4720889493f670e9b030104ea50947a467751e",
+      "text": "\"Nn... What's wrong, Cherubim Ischyron?\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25041,
+      "source_sha256": "c55e2048ac7dd95dcaa09bb4f037850d0a7f9e90bbd86444a70d1d90400b9ddc",
+      "text": "\"Tch... power falters!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25042,
+      "source_sha256": "ba648269e9524cb76c7f74aecfcc17035561290cffbca41bd836cffe7aeb33f9",
+      "text": "\"Fool Wingless, cheap tricks!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25043,
+      "source_sha256": "176dda4fdcb32047eeca1bb3bc6384a0bd053b8597f1d8fef525973e741961a0",
+      "text": "\"Your fleeting life, enjoy it while!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25044,
+      "source_sha256": "ee0c33314605e83f9bc12c7d9d6a192de859312f970b17e70730c1fbdb810cf6",
+      "text": "\"Hmph, weak attack!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25045,
+      "source_sha256": "6c16c17d89144786a8eda9f5e350b3e6dae4d2e04122c7a96b38ebcf8c1871d1",
+      "text": "\"Too slow!!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25046,
+      "source_sha256": "bfcda024469594e0e05207cc78704efd5a9feec1868a701d82b65479145e6db0",
+      "text": "\"What do you intend?!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25047,
+      "source_sha256": "3e646e6ca1913ddd778bdb2f8b92c08a6e25e200ae283b3626afbf3d56468fff",
+      "text": "\"Mere Wingless... Too easy!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25048,
+      "source_sha256": "a5fb08b2f1a5497813eacacddd6792ef6a867ed260980c52704736d5b34ad0c4",
+      "text": "\"Such an attack would never hit me!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25049,
+      "source_sha256": "dc831caf53242f3e4a5f24305e1e2a94c5c3c0e2b9302a7fc01e254258dc5f06",
+      "text": "\"Where are you looking!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25050,
+      "source_sha256": "8dc7d27d9d6467c3589f5cfb4f1ae393ec39bcdca6a2bb2d11cd517c56cb3944",
+      "text": "\"Solar Wing in this state!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25051,
+      "source_sha256": "e0dce95747a4f75edddc81a49725e8433bddb075456c7d2cc3a64c88c32aaf9c",
+      "text": "\"Heh heh heh... Fight\\ntill your Element's gone!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25052,
+      "source_sha256": "fb9a5ca6ae7549dbb729c6ba12df3ebeb765fa40c86aac9db6285d934c355b95",
+      "text": "\"Wingless attacks?!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25053,
+      "source_sha256": "f0f742e0da0658ac46e3b7c3570493827475abae66fa7f8d1fedf5af68fbe99c",
+      "text": "\"No effect on Ryoshi!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25054,
+      "source_sha256": "41dfcec9b4d9392649f2727c5efbaeff02cb582c0c92d36a565a608af895495d",
+      "text": "\"That power is nothing!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25055,
+      "source_sha256": "4cae8b15adfb63dddebd99dbdb3ac2cad655010edef1dc2e68f92507a97869fd",
+      "text": "\"Such trifling power!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25056,
+      "source_sha256": "504e9c087c83ca75434bb7da8aed1442c1095fa0a7bbf7e77dd2007ca24e3988",
+      "text": "\"Hahaha! Is that all you've got!?\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25057,
+      "source_sha256": "188ec506c33578e43d8dea3ffe2cb9ba42588175ba612a370ead5448110dfe6d",
+      "text": "\"Scum, don't block me!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25058,
+      "source_sha256": "67cc2b69becdfb760ed220e1b70799afbe1a4d6e297841b5961c42b2cb2bbe13",
+      "text": "\"Curse your weakness!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25059,
+      "source_sha256": "b926d1c67ca4ad4be6e18bb5ba5c72363d2b878a2d5b5564b9a794e73a38b8ca",
+      "text": "\"Cheap trick!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25060,
+      "source_sha256": "545cc796d624c90ded915abc975ecd63ffdd15823f7a1b8ed389e952d0d76909",
+      "text": "\"You've sunk below\\njunk, Solar Wing\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25061,
+      "source_sha256": "dba4faeac49650c73d619f21da7d3cc59959e6530e217cc04d1fcb71e09e67f1",
+      "text": "\"Finally serious... Too late!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25062,
+      "source_sha256": "073ff23b2d6c16aa6c4e71b65f03ad9cbec466f28dfb87421a10b16827fc7d22",
+      "text": "\"This is Wingless power?! Interesting!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25063,
+      "source_sha256": "c41d05df0bfb516d73415c971cc6f7a543084aab3e00ba79c353504c3fe799fe",
+      "text": "\"Blood boils...! This\\nis the thrill of war!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25064,
+      "source_sha256": "45070ae7ed87f5c0807ed6850a575f90ed5051a135aecb1c88e6d3cd2383bdab",
+      "text": "\"Guh! I played too much!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25065,
+      "source_sha256": "c7c1e3030fc405375099660fec6d0181694d1748750d5a37be726ad58435f8df",
+      "text": "\"Tch! I'd toy with you,\\nbut changed my mind!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25066,
+      "source_sha256": "af42c1536583e00eee1b2b430e8c313d12ddf850ff50a15afab0afe86336caab",
+      "text": "\"Against my Iscurion, how dare you!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25067,
+      "source_sha256": "77f204966a622b5572bdf4755043c9267daabe069a60a5c74cf889d34a03a91e",
+      "text": "\"Heh... Solar Wing, this is how!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25068,
+      "source_sha256": "a178882f670286caac51aaa3015b178487c3b6e6527015cc0a21612951de6b74",
+      "text": "\"Gwoooh!! What is that power!?\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25069,
+      "source_sha256": "d6856bab4f34339dcbf5741bb5ae0e6752f6ada6a595b769356ceb626cffdfb4",
+      "text": "\"Guh!! Such power in the Wingless...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25070,
+      "source_sha256": "64c4ebc342c330b3df570b82f6f3edc4192ad4cca79f955ab7517731de24e283",
+      "text": "\"Unthinkable! The Wingless\\nmust not defeat me!!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25071,
+      "source_sha256": "1d6f4ac27a9a98bc596a2440272b5d0a655a6902df246852fc620ce35d80689a",
+      "text": "\"Tch!! You clever fool!!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25072,
+      "source_sha256": "0eeb6df358f8fb6dccb816e79d0ea90f2f62d42ef3f6b56ae0f7e53cc664d3c0",
+      "text": "\"Ooooonooooreeeee!!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25073,
+      "source_sha256": "98c1707604f56cb6ab613e712db0af520c62a25339e4fe7525fed3b05286dbea",
+      "text": "\"Damn! Wingless, you go this far!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25074,
+      "source_sha256": "01dfa868a82b3d4c83fe90869b48161488af38dc25d99b835d7080e9db919e2c",
+      "text": "\"Solar Wing shows power!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25075,
+      "source_sha256": "a17ac6a134d2916b5974642fa7720d8e23d418af9d0c06eadb0154c6c1c7274b",
+      "text": "\"Damn! Too fragile!!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25076,
+      "source_sha256": "9745204513f7641d3e7e497ce1179466ed50ae76e527316a8a73a59d61c6d4da",
+      "text": "\"This humiliation... I\\nwill never forget it...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25077,
+      "source_sha256": "e518bcae1ad8d4d867af95cae6d37a4df20e54877474c526eef9381982f9db70",
+      "text": "\"Hmph... Solar Wing, this is good!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25078,
+      "source_sha256": "e1010bf31f129deabeb88196d911d58061acb8f222ca0e207347b5a2f2098847",
+      "text": "\"You traitor! Feel this!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25079,
+      "source_sha256": "21a230e97cba751a68df6ea30934b713850c4a34f7f53074b6c3441158c12d23",
+      "text": "\"Go, Solar Wing!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25080,
+      "source_sha256": "fec7b0bf22e5693a7d43c7bff5b080b9a7bda3de85ac38ff6dc6d49fbf7d92a0",
+      "text": "\"Servants of ice demon! Perish!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25081,
+      "source_sha256": "f81bb29ff2938d9fbe04049d555de9ff53a9a7a7060e07f6727568d7cbbfbcc2",
+      "text": "\"Butterfly of ruin!\\nNo flapping for you!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25082,
+      "source_sha256": "8733f2dc53a2ef72964214387afc127d64cfcc10cabf17a78160a346656f18a8",
+      "text": "\"After 12,000 years,\\nstand before me again?\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25083,
+      "source_sha256": "01b6103164c12b9303ea8a6d9a324ab275a87185b7913ee9fcf01bd613e41616",
+      "text": "\"Take this!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25084,
+      "source_sha256": "639e3aabb2c11320c7d2fe9c42084459790846e53d4864bef6662982b49027e8",
+      "text": "\"Take this!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25085,
+      "source_sha256": "89f934a2e5d4392bb5b5f9e50bf7d9a4adfda5d9166c635bbb436478016b6ffb",
+      "text": "\"That's enough!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25086,
+      "source_sha256": "9770e5e6ea9fd6575e132c7b84d39f0cfae7abbb3ac57e02610e6d0ff4f056f5",
+      "text": "\"Sorry, but!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25087,
+      "source_sha256": "df05a1f281c9d7dc56ba95a20548348dc104ee5b9afc09df3749534c99a8081e",
+      "text": "\"Say goodbye!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25088,
+      "source_sha256": "52690b4cc3b2048263a0a18e5a1337c71a5f00a72809aefa1650c4f584007775",
+      "text": "\"Everyone... please!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25089,
+      "source_sha256": "3f57fae871d48bf4fd3ba9673adb7080f8abf5bd6e605734e55a496a9b58284c",
+      "text": "\"Apollo! I'll fight!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25090,
+      "source_sha256": "32bf1eff0e49bce0b90763c0263aef361b5cc30170cc0d86bcacb08e84ca3091",
+      "text": "\"Heh... reliable, Reika!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25091,
+      "source_sha256": "e5beb85a464b6b1ccc0b68db314e4c0712d0838d4a9b0c946483b930a20c93dc",
+      "text": "\"Power is surging...! Let's go, Silvia!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25092,
+      "source_sha256": "856d3959e72edbef193f46e0c4901edab73fed892a5106003c8661bedb003a58",
+      "text": "\"OK, Reika!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25093,
+      "source_sha256": "7f84a9e7968a8b726fecdb4636e42d24c049673c45750a42cc79d456a15e7439",
+      "text": "\"Sirius! I'm fine, don't worry!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25094,
+      "source_sha256": "f69766edc7c8c7b7ab659485116511ba0011cc5537bb185b8bffbc2a4b175ed2",
+      "text": "\"Hmph... Reika, trust!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25095,
+      "source_sha256": "56af3257b0a035021152ce36b38e79d33480faa8025d258ab5165855e117c80b",
+      "text": "\"One point... Pierre, go!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25096,
+      "source_sha256": "dcffe10f97ae325ab893d7213e49c30e698c1de34a211df4b1fdb84eac11d027",
+      "text": "\"Okay! Reika-chan!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25097,
+      "source_sha256": "b09d7a00ab1c3cf73db9518c2a363d80ea33cc9c42af1474ccf9e2956216aef6",
+      "text": "\"Jun, lend me strength!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25098,
+      "source_sha256": "401c558f26b7a1950b828eb5ca3ccbb781c3626c57eba885364e51e1b0115f50",
+      "text": "\"Understood, Reika-san!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25099,
+      "source_sha256": "cedb83aaf867be7c74b80cb84d625a3ce97cd7e28f4a38b8b785943f3d71f965",
+      "text": "\"Tsugumi! Watch and feel!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25100,
+      "source_sha256": "8dca1180222e7ee4243336c9ed377677eed5ac82eeaab5bcc0e258dd78320a97",
+      "text": "\"Rena, pushing it hard...!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25101,
+      "source_sha256": "19bdbe0f4f27e342ed6ca262121e476f74bfeb770ace573db82632458c42e5bc",
+      "text": "\"...Heh, Reika's recklessness...\\nI look forward to it...\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25102,
+      "source_sha256": "fd7015ce6d923480cc1dbe0bd330b4396871fdf248594c5ef310eb7ec3ae77af",
+      "text": "\"I'll give you misery again!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25103,
+      "source_sha256": "23057fe404705d16a6c04ff6007f0c4bd5c64a5cdea6669be968aabe1a35cbb8",
+      "text": "\"Lunatic Archery!\"",
+      "occurrences": 3
+    },
+    {
+      "id": 25104,
+      "source_sha256": "36b65570fb7b56887822c7d22ce8c1195d4f574c82bcd324b43f132b92c23e6f",
+      "text": "\"Reika, on you!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25105,
+      "source_sha256": "f4798a25186f20c629cbdc0bfaaa5ae99bb69c691da5e2f3a7a3ae5e8c109b60",
+      "text": "\"Leave it to me, Apollo! Haaah!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25106,
+      "source_sha256": "ff94388af2c4be43e4be31f1a97e3da8f43aa0c5494bb9eb394823f78fbd42b4",
+      "text": "\"Light Wave Shuriken!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25107,
+      "source_sha256": "0e706f280e0a285afa7b918f3f300584b4087fc7cc92dd1fe8abce74b894389e",
+      "text": "\"Sky Fist! Shoryu Tenrai!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25108,
+      "source_sha256": "5f60e63a2984b0e0b09cbfbc4ca04e113915df6a70ff3e5016f5cdd8a515b77d",
+      "text": "\"OK, Sirius! ...Here I go!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25109,
+      "source_sha256": "feb3b12b5756ef67a12146e8122069c145ec682dce32ae201272419cd602beca",
+      "text": "\"This is more than a tingle...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25110,
+      "source_sha256": "4e91e65b537b97026abfa83b2092348c3410da81b18a39d9a66fed189cd80dbb",
+      "text": "\"Reika, go!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25111,
+      "source_sha256": "95eabd91bc9325b1c564a52e54ad873d72d47d77f440aa2fb22b670a7d03ae5b",
+      "text": "\"Leave it, Glen!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25112,
+      "source_sha256": "d8f012323f139ddeb2302dc81e3d4c3a7a81262e8f2657e72139fa5bf02f34f6",
+      "text": "\"I'm sorry...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25113,
+      "source_sha256": "612300d0a5ab2e1030b7c425eb3fa59c1503d09b33102c1d4f6bcda142798768",
+      "text": "\"Let me use it!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25114,
+      "source_sha256": "c9ecc8c40a1ebe055f9661fc195c0c494d8633aee46a78be302832919ee68cd6",
+      "text": "\"...Needs must, I suppose...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25115,
+      "source_sha256": "bb85aee94f887a87b328fd5997ca5530ff6218b2e8b42a512ae5cf3a5389059b",
+      "text": "\"PSG Cannon, fire!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25116,
+      "source_sha256": "a52eae6f496e79184612d85001cabbab644bfcc5f46ef573656e8eacedee04c2",
+      "text": "\"Reika! Closing in now!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25117,
+      "source_sha256": "0a4ef91af6e16afd5cd382e70f4db5ae19e5282926f621a9894be359edc9e51a",
+      "text": "\"I'll use my power!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25118,
+      "source_sha256": "e189cf1e4d4ac99cb28fce770c5dcacd30a86c40b6bd2fbcf2c4149ac7b42f62",
+      "text": "\"The rest is up to you!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25119,
+      "source_sha256": "2068e1c7ca2e102f88733c5658e106944824b5fd92498b432952a11c448bd4ba",
+      "text": "\"Now is the time... for misfortune...\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25120,
+      "source_sha256": "4d1b1d3da40d44f18ef7d7785bb6e3be13af9ece6621ec0cdf4657ae5d7df308",
+      "text": "\"Sever it!!!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25121,
+      "source_sha256": "2e0a825aaf5e18593e2323416284ecee4e712531c4c346b542986edd2e54278f",
+      "text": "\"Thanks, Sirius! Silvia!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25122,
+      "source_sha256": "df23f1e3c6fe3b0189841c88ebb89f603adef8dae9632370f6be9a510c838415",
+      "text": "\"Thanks... for putting\\nup with my bad luck!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25123,
+      "source_sha256": "da5db3e1a1c5d54a907b43b6b69fc37012998d0dbc72ca11aa685c12712a0a0d",
+      "text": "\"Getting near me means misery...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25124,
+      "source_sha256": "83a3da932dbd711609eb8e7e65b477d8e98b6da339778f8969937545163d6d60",
+      "text": "\"You had bad luck!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25125,
+      "source_sha256": "f80c1dab42dbee32baa7061ce414f8f1976328a809d8d64d5e7b4ec4743eb0a6",
+      "text": "\"You won't escape!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25126,
+      "source_sha256": "112ab59f7b60c70b1ae1374f0960bb877848c332c9eb3b3e3b11fc4d60ea9d1b",
+      "text": "\"Apollo, rest is yours!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25127,
+      "source_sha256": "2a320da9810b3f80136ad80d80903d4b39d805a6ed4a2406d0d78c57061bdc6b",
+      "text": "\"I'll help, Silvia!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25128,
+      "source_sha256": "d9ce83632d8eb6bb9718e2d4d3667c036737ba45620f4c49029c2d8c77b8e311",
+      "text": "\"If I can help Sirius...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25129,
+      "source_sha256": "e62c41ec81833ce8cf054f49d37f71c4a09f2c12ad83d4e96d25c8cfc72ec808",
+      "text": "\"Pierre, sloppy finish!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25130,
+      "source_sha256": "bdb46725ec130a97e0771916089804ab1454cac4fbbeed8b6c1d4fd74f84d8b7",
+      "text": "\"Jun, make sure you defeat the enemy!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25131,
+      "source_sha256": "c66e3b5a2db56f04a426fbde92d4726fd0a4543d23dda27428b072e31697bae5",
+      "text": "\"Tsugumi, well done!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25132,
+      "source_sha256": "eb036baa44199d7e0f39ddf62cda3e2f4abd76936aebe61f12c343eab5b168b8",
+      "text": "\"Rena, I'll take care of the rest!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25133,
+      "source_sha256": "9db6b3e5019c825aaf854463115914d1097e03337a9fa50ed44e67dcdc650cff",
+      "text": "\"Nice move, Glen! I won't fall behind!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25134,
+      "source_sha256": "5a2bc3f3c7784b37eea6f560d51de3216d2df619a12eb533c528aa0943d09378",
+      "text": "\"You'll be cursed near me...\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25135,
+      "source_sha256": "bd352147489fadfe8491a764992899fafdcfc60eee1f57703ce90c2a2f211c5d",
+      "text": "\"I'll bear your misfortune...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25136,
+      "source_sha256": "2dda0f2711f222274de69a48c21522d10bfbb352ddf682b784bd04eb311a0bae",
+      "text": "\"Apollo! Careless!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25137,
+      "source_sha256": "766a3612071771d5f3d9937b56a7c4769be3bee3e91be07b392e22a2913343f2",
+      "text": "\"No, Silvia! Don't push ahead!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25138,
+      "source_sha256": "384a9acb7abe5bbe7c4ea9f20d9af80266becc0056c7228ab41c77429537b172",
+      "text": "\"Watch out! Sirius!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25139,
+      "source_sha256": "b65cb3b6d983842ea1ee5f90192b73330e2f0b01174ad99774b0d5b2f741f38a",
+      "text": "\"No distractions, Pierre!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25140,
+      "source_sha256": "c4b9b260e57cd7d5af81d107236a5ce2edffd6c85e4eab7ee889d3ff2954443b",
+      "text": "\"When we get back, it's\\nspecial training, Jun!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25141,
+      "source_sha256": "0f58e8b2fb52df3d2b816fa5e6274006767c73d9aed27092b0ad2897c57c31ec",
+      "text": "\"Tsugumi! You okay?\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25142,
+      "source_sha256": "c6d361088ffd47a2c2a6df77260e1167b43530b90f952d29893d20444ab9e2be",
+      "text": "\"Rena, get back!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25143,
+      "source_sha256": "dba756cb0397cfd6dc6cbf0c88fea902474d0d9ff5c1c68fd2961da6f9f4e02c",
+      "text": "\"Glen!\\nI can't lose you again!!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25144,
+      "source_sha256": "748c163846eb796dc21bc60eaa1f0e1c17b21d0df9cf32c63fa0dd5293dbe569",
+      "text": "\"This is my duty!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25145,
+      "source_sha256": "7cfb59009a5e1628e5eb0cc8a25e0a45f306e7bc92cb19a35f2260ada0de5772",
+      "text": "\"Everyone, we end it here!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25146,
+      "source_sha256": "d8cf332804df6bad11b74f9bc0f1b273c9968c517d19969058601114a812565b",
+      "text": "\"Anytime is fine!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25147,
+      "source_sha256": "779e74bc5ea57c1579ea30864a90058e5a926a8359b291f7b9ebaff46ccc53bd",
+      "text": "\"So my misfortune won't\\nhold everyone back...\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25148,
+      "source_sha256": "79db393b1428f087ccbe7dd0aac180da48a4ce7504d7f260ff152f4dc38586d2",
+      "text": "\"Gooooooo!!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25149,
+      "source_sha256": "da253b07f1bf3e239c572d4b5fe31f17ee16a1115204924369e56cd4f33e1c85",
+      "text": "\"Tch! Drawn-out fights favor them!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25150,
+      "source_sha256": "a61d0dbad6a92dc7e00bdcfe9d36821d4e55f592ae971fea9c25a13afffcb840",
+      "text": "\"Ugh...! Power dropping...!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25151,
+      "source_sha256": "cb1009a2ad2e135ad72f08749c0ba5d3075f1185096ca2886003f57e93e94c5c",
+      "text": "\"An arrow of the heart\\nmight reach, but me...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25152,
+      "source_sha256": "51e62cb62582da6a1d6e2798863563cc77a084cdea3ee26c5d514a3fc9a3d22f",
+      "text": "\"Calm heart, find the enemy!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25153,
+      "source_sha256": "3a4b609c7a9a3694f091a80ced52b11cf3da1248e61a1cec189050fa89401ac8",
+      "text": "\"I won't be a bad example!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25154,
+      "source_sha256": "5cb87a6083786a608a3fb4205f76be0ce81a480acc50544ca9720a21ec37807d",
+      "text": "\"I had a bad feeling,\\nbut it was nothing...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25155,
+      "source_sha256": "29ba607409917bcd7a2ebd6c7503b08fd4e68d3d056fbd79eb28bb2d31d73958",
+      "text": "\"Don't underestimate me!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25156,
+      "source_sha256": "d3ae5ddd8124454e3dbee29b96ee51b3bd9031e64cc83310857ea2da3c9c2cb8",
+      "text": "\"Sensitivity is excellent...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25157,
+      "source_sha256": "e1b23cdd4a5dedd609bb515a27aa8e818a3b5689ef77860c5c582a04d744d4e7",
+      "text": "\"That was close... Shadow Angels!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25158,
+      "source_sha256": "66fcc62dcdfe75f84f711fcb08a39c984a2bfb4df70cb438a4a761377d03b7fa",
+      "text": "\"Hah, Cherubim fodder!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25159,
+      "source_sha256": "3da10938944ec821f938fe172b90a7843731af4ba256cb4250c41c7d811186f6",
+      "text": "\"Stop, Sirius! Don't hurt\\nanyone with your hands!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25160,
+      "source_sha256": "2bf364886dbf96019222ee5d9fe761c46c060312187bf1f04ddf95f0875ccaf1",
+      "text": "\"My armor isn't for show!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25161,
+      "source_sha256": "911790f0ba095b6e6030e1cb09d0959d85a3958b2964222a55db723abcf6975d",
+      "text": "\"This calamity!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25162,
+      "source_sha256": "77a31aa7803e88fa2bc0a4c53ccbc54335c25db1c2212e9c14836999421990e6",
+      "text": "\"This is nothing to misfortune!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25163,
+      "source_sha256": "f3f0979a0d196572a2b217220731683ac62976817434677a55d0d69ac10f5b73",
+      "text": "\"So this was the bad omen...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25164,
+      "source_sha256": "c08d3f5a6788d7e8e88131b6e10dfdc749294033067aa87e01e1422b823157b0",
+      "text": "\"Those Shadow Angels...\\nomens of dark power!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25165,
+      "source_sha256": "61a22fa44ecd0dad14bed0c50338b9c7aabafe4e2e39816a7c7d32c8751b8b56",
+      "text": "\"With this condition,\\nCherudim Soldiers!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25166,
+      "source_sha256": "9d38ec9efb2d87e3e97ad9dcbcb0902503b8e286d76ddcaab3e3d532a292fa27",
+      "text": "\"Sirius! This is not like you!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25167,
+      "source_sha256": "47c536e713bd10b515c68d0d305a1752f4f0a3a46f5a8ef86289dfed42213db9",
+      "text": "\"Ugh!? Quite tough...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25168,
+      "source_sha256": "6636c03c7a66d404586b487aa97b0d9ab2b0daf3d491b0fce82d0b4b1226e317",
+      "text": "\"No good! They're setting the pace!?\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25169,
+      "source_sha256": "b31ea9ab36c99470f4439d0c3df00bb14c709abb83184d9d2c990874bca6e1b8",
+      "text": "\"Is this the start of misfortune?\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25170,
+      "source_sha256": "ca87a2de946b766d956cbe6f243ac3fc9416041b4da996340212637eb9d12b53",
+      "text": "\"Damn! Shadow Angels overwhelm us!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25171,
+      "source_sha256": "8500ff4261ce0f7c765f1f97bdd623768870fb41340f8dc25f422aa54325396d",
+      "text": "\"Ugh!? Cherubim Soldiers\\nget stronger...!?\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25172,
+      "source_sha256": "6a2116d11bbc0287e5dc11a9def6a78c55bac4d9eb76e48a4d102cb6ced6ce4c",
+      "text": "\"Sirius...! What I did\\ncan't be forgiven. But...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25173,
+      "source_sha256": "7d69fe7a5d1b51e4bda0ddfb896e5a56ca9fcd7d68a1f3326d0bfc937068eb7c",
+      "text": "\"Dragging everyone into misfortune!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25174,
+      "source_sha256": "76dba40c58ea8bc7337d9a84a6fd303b2feff89215e7896b39feaa21f575a6b4",
+      "text": "\"Ugh...! My Aura is being swallowed...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25175,
+      "source_sha256": "691c872687d99911cde00200123510a404ad05cd0aaf9cf738d131522ce3a73a",
+      "text": "\"P-Power Stone output is...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25176,
+      "source_sha256": "f1e1ca3220ff98d3bc1fea6b64dbc9e25f1a24615d3a614ebac913e644668e20",
+      "text": "\"Main core's still fine...!\\nThere's still a chance!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25177,
+      "source_sha256": "d9fed672b83c5927df4c55957a19597902e08166c5ab0841bf9efb5bfbaeacd3",
+      "text": "\"I won't lose to this...!!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25178,
+      "source_sha256": "4258256e33228ae378bc595238ed611a057753c62235950f86e74e53603aaaf0",
+      "text": "\"Th-this is the gap between\\nhuman and Fallen Angel...!?\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25179,
+      "source_sha256": "56a04bcf090bc4a22985ad76dd53888bff110d1043bac86b3e11a3366ebb089b",
+      "text": "\"S-Sirius... you...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25180,
+      "source_sha256": "6a67f6de5e88919f5763c5088cdc3004996a4345043bf60089d5356d88484374",
+      "text": "\"Ah... how unfortunate...\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25181,
+      "source_sha256": "f600031d1c57927e4947f539f609743b16fde138954ceaae12ba3f08f35e00e0",
+      "text": "\"Sorry... truly sorry...\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25182,
+      "source_sha256": "67d8acffc5410afb4877e760dbf38621df7acc3226d0eee7e4311bb89650f1d9",
+      "text": "\"Aaaaaah!!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25183,
+      "source_sha256": "1b2066962385d388e27c1927caf0c18793dd5c04d73761cf96d388fa01387110",
+      "text": "\"I face Shadow Angels!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25184,
+      "source_sha256": "e6a7cc8bba94012ee80f39e65bc10667e9d73e4e1b35d862fe2d0102a284c8f5",
+      "text": "\"Amazing power... Can't lose!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25185,
+      "source_sha256": "1cbff416a7b500e03cd1a9b5fe62819ac32481ebb5a27ebbeeff75d39f164bc7",
+      "text": "\"This time I won't let go, Sirius!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25186,
+      "source_sha256": "64f44d9454befe2609736956ec9ac22d6c06a75f761dd481ae910de6bafb7c3f",
+      "text": "\"Sirius! Don't stop\\nbelieving in people!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25187,
+      "source_sha256": "8b28be02d990031ed1edf2d281a346e6f2f28c17732ea8647d25c68f2c4eb47b",
+      "text": "\"Sirius... I'll take\\nyou back myself...!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25188,
+      "source_sha256": "8e49566b56e9b35a7ba5fa1bd19afbd4d622ef0eaaabae68c62abccd9c459984",
+      "text": "\"I can't waste time\\non Cherubim Soldiers!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25189,
+      "source_sha256": "e22eb5a5550ad877aaa894bc9516fbaae879a749e5e90e5ffc144bcb0a8df631",
+      "text": "\"If this fight's fated,\\nI won't hesitate...!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25190,
+      "source_sha256": "eb6b61f3744a6555268b8360c3c434aa953602a1bf3f4192a945cdc19707427c",
+      "text": "\"Sad war... My fault...?\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25191,
+      "source_sha256": "fb69a78da19a448164fc0ed9a6218b505858be275566c0869b22353645e6579b",
+      "text": "\"A sad reunion...\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25192,
+      "source_sha256": "b7fdd1061472ecbda036a93daad3c2c8a44871b57528012c477eb53b2c2a53a6",
+      "text": "\"Asakim Dowen! You bring\\nmisfortune to the world!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25193,
+      "source_sha256": "b8ff51504b6b8c7f64b23d720a441fb474e1b14c56a318b8c32f4661c2d1858c",
+      "text": "\"Edel! I won't let your selfishness\\nmake the world suffer!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25194,
+      "source_sha256": "3fee9c352bdc18f5297a8b62d725016ce1f11b310be04837c0ac6fab25d752b4",
+      "text": "\"The source of the world's misery...\\nI'll put an end to it myself!\"",
+      "occurrences": 6
+    },
+    {
+      "id": 25195,
+      "source_sha256": "f8b695cc67370ce8bc905a2caeae503399ba039093ecf469f8fbdff4d3964010",
+      "text": "\"That guy... can't stand!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25196,
+      "source_sha256": "c6f8adc427dab7e5393f213d89f7a1e02374bd0dcd983873d4014b5a96ec74e9",
+      "text": "\"I'm fine. Let's go.\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25197,
+      "source_sha256": "8852fac7e200a130ef7d2dc2e7e78cd82720e905476059d61c2bd81d1f04924b",
+      "text": "\"Trinity! Spiral Arrow!\"",
+      "occurrences": 3
+    },
+    {
+      "id": 25198,
+      "source_sha256": "9fd04143f723a061bd83bcea9b45eff1ffbc41760a31536839e499eaf36cbeeb",
+      "text": "\"All guns, fire!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25199,
+      "source_sha256": "490bb62dc649f486c9148ee85ce108a083d97a41e3f35a017703eb6e3cdaed74",
+      "text": "\"Sacrifice is normal. Fire!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25200,
+      "source_sha256": "0173ce99d15ada563257e759c7d8bffe9b207ffa13057de1b6f48b1559b666ab",
+      "text": "\"Fire! Shoot it down!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25201,
+      "source_sha256": "63923927c460c9c0811ac3405217444d01cbfb560421ab26db9d85f4e56c70a2",
+      "text": "\"Target confirmed! Volley!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25202,
+      "source_sha256": "bd8c9be20e15b217cc67929cf0ac394840a0817a7517782081a8ff81b16d28ab",
+      "text": "\"Continuous fire on the enemy\\nahead! Don't let them escape!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25203,
+      "source_sha256": "d5dfd04631beb654b3bb67f5199187e93122aa85882392d1b87ae118fa725625",
+      "text": "\"Open fire! Shoot!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25204,
+      "source_sha256": "99f2dd626f3f3d353b884b08fe8a3dcc5151a5dddc91c87f69d8b6586ec38a7d",
+      "text": "\"For a pure and blue world!\"",
+      "occurrences": 14
+    },
+    {
+      "id": 25205,
+      "source_sha256": "158409fb83646cf4b02f75e791b1aa9fcf968963ba4c87461379ad654a4074f4",
+      "text": "\"We shape this world's harmony!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25206,
+      "source_sha256": "9508908a4f677875e3305bb94c6bdd72d038ac45f9b5663ab4fa96854e6b789d",
+      "text": "\"Coordinators and all\\nwho aid them are foes!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25207,
+      "source_sha256": "8e507c8ae0e9120dc467e528e2a0d7a3e73f132fd9012e396bb8d448ee0093c7",
+      "text": "\"Counter!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25208,
+      "source_sha256": "828728c792e33b4711802e8366a8e300632bd410124c2da6178df2d31bf29b49",
+      "text": "\"Enemy in range! Don't let them go!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25209,
+      "source_sha256": "04f9984db33bfa78a520c9fc2e7bc9bb0067e4856e881b9ca3772bf1b6f4188f",
+      "text": "\"Make 'em regret it!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25210,
+      "source_sha256": "a961848d7d1c65bee50b72a33b20c3232cb3fe08de045ae5db7da2ab9ceb63c5",
+      "text": "\"Cover our allies!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25211,
+      "source_sha256": "d601287783fd0366c668895ec225c8e27c9b14a51e2714e590c2eeee6a847fef",
+      "text": "\"Follow up fire!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25212,
+      "source_sha256": "3c338cc08b54961a444bdf1fdfbe07be3e4d1a14262e5ef45d3ba482c3311ebb",
+      "text": "\"We'll finish them off!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25213,
+      "source_sha256": "db2508b9c41a033361547ca3341249ae5b7e917fa0a9cbe4c30a9f88cea506bf",
+      "text": "\"All hands, brace!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25214,
+      "source_sha256": "d96c76b182dcf3454e47c4e8660f6d4438c066f69f0c8e7ed9c8e126a50c1ac7",
+      "text": "\"Used up more than I thought!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25215,
+      "source_sha256": "71d275d017aa2984798a630ac09a33865e4df0b844a15943d1a302c28a537589",
+      "text": "\"From beyond this ship's range?!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25216,
+      "source_sha256": "481995dbf3e710c042aea54e4da3d21b4124179ee26fee0c8d7e2b9dd895bbbb",
+      "text": "\"Range?! What is this?!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25217,
+      "source_sha256": "ab152e7ea084d98ab30e1b4a06cee371a64ff7f0c047eafdbc6cfeac45140602",
+      "text": "\"What's going on? Can't you counter!?\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25218,
+      "source_sha256": "c64d4befd68013914bbf65b16b1649431e4bcd87153c4136d665141d13ef6853",
+      "text": "\"Prep for next!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25219,
+      "source_sha256": "edd47a0a8edd53b6a62f5dcd5ddbcce8a4e78dac804f5041196ffae8629fcb66",
+      "text": "\"Good, helmsman!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25220,
+      "source_sha256": "12ccd90d4fae6dfbcbbda4dcfc2ad8901660c294a16c8bf2f51d3375394e2323",
+      "text": "\"Even a ship can do this.\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25221,
+      "source_sha256": "9f9c30f9c935a45c433612a653affc5d02ed503edd7cbca8e81af641c1fd7b86",
+      "text": "\"Any damage?\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25222,
+      "source_sha256": "614086406bf573d939d444ab67d0f94f1c4b15ee2d91f26fa5310bb097d2e38c",
+      "text": "\"Don't let them closer!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25223,
+      "source_sha256": "b6bce9d2d2843a4efcea4903a251fe7bc0e3e71e6df21c07810506a7fe56cc9d",
+      "text": "\"This is no damage. Ignore small fry!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25224,
+      "source_sha256": "fd05afdfb0b9a7b63391aea23691e9f817deae149085f4e44360e62770b3da15",
+      "text": "\"Barrage! Drive them off!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25225,
+      "source_sha256": "73fc36068909adfc8b3bc11415603dc697a5f7e7ff0136655f0cc1e484e7d01a",
+      "text": "\"Just hull damage.\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25226,
+      "source_sha256": "84655f424293445c40d50df06ae763ffdbb663c82e707a26074ee93fbeadd829",
+      "text": "\"No nav issues. Focus on attack.\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25227,
+      "source_sha256": "3d7420362457ff04d1c9b30872cfb9d6aca37d99f08d963a0f3d105c43129e23",
+      "text": "\"Hmph... only a hit!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25228,
+      "source_sha256": "2f70059f0d02bbe8eaa533e2b3386ee025320eefe6c89ae41a33b6ca8da48cda",
+      "text": "\"Coordinators, is this all?\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25229,
+      "source_sha256": "b7e034f01313ff9fb8a953b7e73b4bae9597bca5a16f22b010c5acfeffe148cc",
+      "text": "\"Don't get cocky, Coordinator.\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25230,
+      "source_sha256": "876d063de929f53fd11288861987f53ac54e241f0c304eb324f58705bc6248ab",
+      "text": "\"Don't slow the ship!\\nWe'll be picked off!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25231,
+      "source_sha256": "d3486af4328a5b039334e13d60d7acf8c39020e46b1e99fbb7b55472c3898291",
+      "text": "\"Hit the engines?! Emergency repairs!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25232,
+      "source_sha256": "14900783d02ef452ea7b52c4fcd8b6e6cdc112e79ad2ad0d68392ffa415857ac",
+      "text": "\"Batteries, what's wrong?!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25233,
+      "source_sha256": "ba463f7310bfc801579aee132c44a98c049a21fd9fc487daf84959e321b4ff01",
+      "text": "\"Dodge and intercept!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25234,
+      "source_sha256": "3f9ea13e6f4215d0f790bee642860c12920a08cca2e46fe367a1c8f8036ec595",
+      "text": "\"They're targeting us! Down them!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25235,
+      "source_sha256": "65059fbd8b786fe3e2ed43688749f77bdc20fe3c04b84c105c7c1429abc655a4",
+      "text": "\"Damn! Keep taking hits and it's over!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25236,
+      "source_sha256": "3d61b6786ea6b0aa21c68be5a521d957b1701a0396e58cf1d119c31c509f13c0",
+      "text": "\"Damage is mounting! Intercept now!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25237,
+      "source_sha256": "5b79e7908bac138d265d99039e3fbd59c934482f696ce7cd9a1816ccb6eb512a",
+      "text": "\"Close bulkheads! Fire retardant!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25238,
+      "source_sha256": "29cdba618397ac0997b2b4b895f142ef3f76aef84dc8e0bf9d18f8d76eafe4c1",
+      "text": "\"Damn you, Coordinators!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25239,
+      "source_sha256": "c067e55adaf6a901bee0cdd647cbe84711c51738e5410e9b2feb6696fe1f77cb",
+      "text": "\"ZAFT, you bastards!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25240,
+      "source_sha256": "47fd10b02b8a9b040029ed22377885b062e6a743da955279a33a8a76508cd515",
+      "text": "\"Seal blocks 3-8! Stop the spread!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25241,
+      "source_sha256": "be31dff8276a9242919ebe454ce0b0ec61233a1075ee1656d6f64d98ea5db9d9",
+      "text": "\"Not yet! We must not sink yet!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25242,
+      "source_sha256": "b4f936b40b0e5b680bcdd66d48e6430db604f5d18dac5d497a6c0f80e880f847",
+      "text": "\"Chaff out, full speed ahead!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25243,
+      "source_sha256": "76029f814b0e112da6956b6c756091559849b1fc0fe6042bebe7bbf7c8426611",
+      "text": "\"Ugh! Hold on until we're dry!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25244,
+      "source_sha256": "62f25e17816fac908e7ad182ae6e82e65460222796b91f7612a08ee49a8cedef",
+      "text": "\"Damn! The battle only worsens!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25245,
+      "source_sha256": "d1f9430550149155776ecf2954f8c85dc6f1983ec808a7df693e91789f45e75e",
+      "text": "\"All on evasive! Buy us time!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25246,
+      "source_sha256": "ffd57a7a3eeedfa7e16cebf8e11d88d5f2f5bc05536b2fb1d22f237c41ee1c4f",
+      "text": "\"T-That power...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25247,
+      "source_sha256": "eab9bb05aeee430c41c778c7acc6f28ccbfdb95a4231b8dd00fbf546e817371c",
+      "text": "\"At this rate, we must fall back...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25248,
+      "source_sha256": "df1dcaa6b8098426150a4db7c7838cf66007696928d8bd705b3b64a769e2bed2",
+      "text": "\"Coordinators! You won't have your way!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25249,
+      "source_sha256": "89d418fe7125ec18f9375e45e4dd033e2ab3256b763d6352a2fb8d83ae1fbd73",
+      "text": "\"All units, retreat! Now!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25250,
+      "source_sha256": "6c4b32ef78a9ba423bff7096f752958d97755f5e2ade2f3eaf80c4f5f1a86bde",
+      "text": "\"Guh! All fall back!!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25251,
+      "source_sha256": "2b8fa8bafd99407766660dfeffdd5c8f9851c0a634bbb4989f0086678466ac67",
+      "text": "\"Adjust bearing! Fire!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25252,
+      "source_sha256": "b1b6c0f90db812a01490efa4858c9287013cd9852508b211cc397f156b380b7a",
+      "text": "\"Target data in! Knock it down!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25253,
+      "source_sha256": "f580183b291a8fd011fa637f6b30717f1ec1d1f2716bb8da6f133f5ff0870ae6",
+      "text": "\"No fear. Strike from our side!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25254,
+      "source_sha256": "198cd40886d295caf895892b7d14260e38fdc63e9e60d4b2fe211f21429f6ac2",
+      "text": "\"Don't let up the fire!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25255,
+      "source_sha256": "ad50730c8bafc06ac2fa209cf08348d9cfb827c69f7ee655a59ca986861851da",
+      "text": "\"Fell next time!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25256,
+      "source_sha256": "bf955b9bafb131b37c5accee1451f3a84d2273f1127c9c9d8ce52cb5396ee6ab",
+      "text": "\"We can't let them go!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25257,
+      "source_sha256": "a701232c4619568eedba8c9f7ce1965a3deea36cccd33629bf1d9e66c80fb9cd",
+      "text": "\"They can't grasp our ideals!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25258,
+      "source_sha256": "4aad622d9058e222b198d9fb25eeea0f7d884051e49732c0636c42ed7a9979f9",
+      "text": "\"New firepower can't hit me!\"",
+      "occurrences": 5
+    },
+    {
+      "id": 25259,
+      "source_sha256": "71ca9606b3c37a791a514696ee5d8410ae5563398d16bf54f92d8206d79f1ccc",
+      "text": "\"Don't falter! Advance!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25260,
+      "source_sha256": "1b45254507a51e372063d3ae99b534cff98763b890950ecd79640251ba3fb2b3",
+      "text": "\"Thicken the AA fire!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25261,
+      "source_sha256": "076ba8518b3cc3943ecc404d0e6cb70992913f852a2ceb00a0e8ce526e842279",
+      "text": "\"Getting this close!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25262,
+      "source_sha256": "d708c271558c87ec71e62eb7ad2e446fa4b425415db921dc51a74de1c262bee7",
+      "text": "\"He won't land a hit! Strike now!\"",
+      "occurrences": 6
+    },
+    {
+      "id": 25263,
+      "source_sha256": "75bf536ee6f98c434c0e005aebecd6e7c19b8a62817d91f2b719a88006c419d6",
+      "text": "\"Tch, showing off with that ease!\"",
+      "occurrences": 6
+    },
+    {
+      "id": 25264,
+      "source_sha256": "e9b9853b82463bf40993902d99a686bbbaa3801d3343878d9eb19050554a465f",
+      "text": "\"Ugh! To ZAFT of all!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25265,
+      "source_sha256": "00bec5756f381ffffe09b3005778a7d7160ff9e4bca600054917cf47a7c22bbd",
+      "text": "\"What's wrong, Coordinator!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25266,
+      "source_sha256": "db887b6ac5a9646c633f56cbf11a4916c1f2035bcc52853c89a3696f805538f6",
+      "text": "\"Guh! Don't let them get cocky!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25267,
+      "source_sha256": "a9a6e8bbd3131b7a9035fc646b43e3cb4381d68cc30e40f21ec2ce79216476e8",
+      "text": "\"Send escorts for cover!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25268,
+      "source_sha256": "f3cd2e9d3578c731f9895d473c5090f12bf44692dcd218979bb6a9d0da09b214",
+      "text": "\"Report damage status now!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25269,
+      "source_sha256": "8426b4de1cc42a8d1156dcb748dcde027c34f6f51c11783db9706f9e4e75baaa",
+      "text": "\"Gahh, damn Freedom!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25270,
+      "source_sha256": "b991e32d80ee92696453c33df75af890576a41b6d4a2ec6f11393eb5954a4232",
+      "text": "\"Don't listen to\\na terrorist's ravings!\"",
+      "occurrences": 8
+    },
+    {
+      "id": 25271,
+      "source_sha256": "985290cd5216e6c8bb5ef8006de240a758737f47ccd2979caf15e5c124e32bd1",
+      "text": "\"Don't falter! They're monsters.\\nWe must annihilate them!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25272,
+      "source_sha256": "11cf5c02f9afa7904525d21f563bc08bdfdf17b47b8f44f32cbcab22b4743984",
+      "text": "\"You Coordinators...!\\nJust as I thought!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25273,
+      "source_sha256": "2892245e0296ef1e881d2376f288b2fb81bade86f4ecfc4df3c0f70dc801c11f",
+      "text": "\"Ngh! We must down that or lose all!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25274,
+      "source_sha256": "35754de6d11a9f89438930fb2cd7b56b592eea374b74a3ef6dea7cd938299ca9",
+      "text": "\"Impossible! So easily!?\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25275,
+      "source_sha256": "71258f0e93e494b60e2c19e9183bdd11ef0aa750b1b9a3a7bcc5e47473f8c7b0",
+      "text": "\"Damn it! Strike them or we die!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25276,
+      "source_sha256": "a76a846fa8d108876df3d9914eb3a82e67d0080d56a63946d2c31b28268d5d22",
+      "text": "\"We're exposed at this rate!\"",
+      "occurrences": 7
+    },
+    {
+      "id": 25277,
+      "source_sha256": "4b983085e973ad516959270a2497b70369a486512cd50c4d3d4a22103fe2e8fc",
+      "text": "\"Th-this is a slow death!\"",
+      "occurrences": 7
+    },
+    {
+      "id": 25278,
+      "source_sha256": "882eaf5f189c182fbcfa44f506407f23473fe3caa3afa73bfd58bfd07dab679f",
+      "text": "\"As I thought, we must root them\\nout starting with the PLANTs...!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25279,
+      "source_sha256": "dfe0f76ac07046c84aa0fe36fc7a85e92918d8100c50244f783d2bbb13c4b9c3",
+      "text": "\"Not yet! Until I smash\\nevery cursed hourglass!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25280,
+      "source_sha256": "07221e736904cd9fd4a069c559ac25f8f7758a44fa6e78bb168166ff64061802",
+      "text": "\"No way, this...!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25281,
+      "source_sha256": "e2396bf38f4b233178e4d0f60283135a08c9a5d5279d1308ecded6f9db648de1",
+      "text": "\"To a pure blue world!!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25282,
+      "source_sha256": "f2e6f1cf38a5ec4513376d2a2a43b3af398175758c2e4a84115e72088969b73c",
+      "text": "\"How many times will he\\nstand in our way...!\"",
+      "occurrences": 12
+    },
+    {
+      "id": 25283,
+      "source_sha256": "f010ba8f05f645d8b3843c893e4c57c0b6ea914f773ead21464f27081c37a0eb",
+      "text": "\"No more chaos on this\\nbattlefield! Bring it down!\"",
+      "occurrences": 24
+    },
+    {
+      "id": 25284,
+      "source_sha256": "baa62d0891728f53ad4f28008ec2ea8b7117d780e10f6dc63f7efc1faba87287",
+      "text": "\"Eliminate the space monsters!\"",
+      "occurrences": 6
+    },
+    {
+      "id": 25285,
+      "source_sha256": "3e2d1c17ee50d01886e50f3c8432e14f8f31993b2a62f7b177bc109679dffb98",
+      "text": "\"Wipe out\\nthe Coordinators!\"",
+      "occurrences": 3
+    },
+    {
+      "id": 25286,
+      "source_sha256": "2e7187a8ed0a04fb94c140accbff973d063ad614e2b8dab7bfcfe7961c0d6969",
+      "text": "\"Your unnatural presence\\ndisrupts this world's harmony!\"",
+      "occurrences": 6
+    },
+    {
+      "id": 25287,
+      "source_sha256": "98452300bd75f22009a8f36bc019a10a4514dc19a9d339602d75f2ee0d9feb07",
+      "text": "\"Better than expected!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25288,
+      "source_sha256": "3889b9456f329a20b6ecbc3d092831fa772d59b4ccb88f26903a3ab370cc5db2",
+      "text": "\"Destroy the rebels!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25289,
+      "source_sha256": "73c1ca5ea5ef2fa8c9eb2392ae3c11d9d1e6cc4db35d00bfe11f0ab92fa8e692",
+      "text": "\"We control your power!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25290,
+      "source_sha256": "2cdecb408bbd1286eb94c4a4bd5caa1505f33666690dcf08c9ba157082199c8e",
+      "text": "\"You traitorous Archangel!\"",
+      "occurrences": 3
+    },
+    {
+      "id": 25291,
+      "source_sha256": "e4863154ec14f12bc0f6fd80a63216031a78c6991602375237ebec324129c9ce",
+      "text": "\"How many times must he block us?!\"",
+      "occurrences": 12
+    },
+    {
+      "id": 25292,
+      "source_sha256": "32c5e13ee14c7f9c163072bcea2d03bf6d2c376814ee34331334782b27810b6e",
+      "text": "\"We must eradicate the Coordinators!\"",
+      "occurrences": 3
+    },
+    {
+      "id": 25293,
+      "source_sha256": "a39ec3285cf78adcdb03fac90c843bee4f36580ca095b80c1cdea97341d70fd5",
+      "text": "\"We have justice on our side.\\nNo mercy for Coordinators!\"",
+      "occurrences": 3
+    },
+    {
+      "id": 25294,
+      "source_sha256": "12b837f00060fe848a32634c98cba5c5cd85ddb9b021a1b0b072f09b3bb228bb",
+      "text": "\"Turn! Counter!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25295,
+      "source_sha256": "b85260134a54bf84b71c0838f60eabc0897740bc64ddb0e2b19ef462ebfa3965",
+      "text": "\"Out of range!? How?!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25296,
+      "source_sha256": "763a8ca4412e7e3212e8b2757f5e7973938346ca5172a8e1dfa01eb42c828470",
+      "text": "\"Warning shots... So\\nyou do feel guilty.\"",
+      "occurrences": 3
+    },
+    {
+      "id": 25297,
+      "source_sha256": "6ed97e93d79a22e318cd27381787835f9a818358e7a668591dc022e84123af63",
+      "text": "\"Traitors, don't get cocky!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25298,
+      "source_sha256": "314a19b9e7731ecd485a8c324142e7267c4f33f9c69a5f55acbf65b64c115e95",
+      "text": "\"A-at this rate, we may have no\\nchoice but to fall back...!?\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25299,
+      "source_sha256": "6a9e17d6dd00322f20be5477f6084ff58b8a99464e658e89de847b8b64af0146",
+      "text": "\"You failed to shoot your target\\ndown! Your luck's run out!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25300,
+      "source_sha256": "25c7513c448d40ab22b5b6ebaf09e24a25942c7512008a287829d263babda1be",
+      "text": "\"You flew right in!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25301,
+      "source_sha256": "2e8837e2eec22654143b037e4ba5de8d3dd1ebf17239d906ea96458c0a404fda",
+      "text": "\"This won't end here!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25302,
+      "source_sha256": "e4ba52342da567e3c459409f430de5037b533a13dc18b45738ad0620576fa422",
+      "text": "\"Showing your hand!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25303,
+      "source_sha256": "b2f432c723ff56e6822e0e909c3cad2c3a9aed0e5c01a1a56e9eb8926cd569de",
+      "text": "\"That attack gave me data!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25304,
+      "source_sha256": "6d23634945ccb0f83a43ce6674213d110e5e22ca609d971c02153d204a4cd1e7",
+      "text": "\"Use this data to counter!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25305,
+      "source_sha256": "1721745fed3a6904336353915f7f5bf5a1e503fb9c1fb4568f71fd2a19f58c0e",
+      "text": "\"No more of this!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25306,
+      "source_sha256": "092179d57aeeb8eb1e444c3a2373c5beef2effdef9061f37a850cef82693ca2c",
+      "text": "\"Must finish them off!\"",
+      "occurrences": 3
+    },
+    {
+      "id": 25307,
+      "source_sha256": "53d0ff1249163e876bf368590e5452aee48892df0cb420d24ff07e5a0c9355e0",
+      "text": "\"I'll hit them again and again!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25308,
+      "source_sha256": "7c9f691cd3e4d388c65035fff0db23aa9ff5bbe76841585fc07abde2af4f40d7",
+      "text": "\"This combo!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25309,
+      "source_sha256": "42efd1ab06584c47af29150aa7a6e1a1b471afb5553b3787e5e8bb63a59c9bb6",
+      "text": "\"Attacking next!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25310,
+      "source_sha256": "3a62c45d17dbd64cdf829a725b85c84548d3e9c2e5e277bb515c7c1b2055e370",
+      "text": "\"Finish them off!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25311,
+      "source_sha256": "1eb0cf044c872233cfe95c8985cccb3dcc2d29f16bf76f3163f491068c25b23c",
+      "text": "\"Fall with this!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25312,
+      "source_sha256": "59b246050dc5a751b5fbbd497eabbe33d84ac01a15017427316b9b7cb3bd7897",
+      "text": "\"Targeting the leader!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25313,
+      "source_sha256": "88fa0e9714de4922ff2687e87117eb31c3f538811f03c78b556437ae6b349eba",
+      "text": "\"Fall back!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25314,
+      "source_sha256": "f400a4eb9132e5d139185317274e2f592c307482493c93d247f8ea4c39c0292a",
+      "text": "\"If I step forward!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25315,
+      "source_sha256": "72737c8a4d2ed3371dfe2a95ab1c8b683271e4b7ffee009df7d9a3d63b29d27b",
+      "text": "\"I'll protect my kin!\"",
+      "occurrences": 3
+    },
+    {
+      "id": 25316,
+      "source_sha256": "4d7ebb3d0554b577d6223cb5fadaad280add1cd9c55f792229f1111a7a787a77",
+      "text": "\"Fall for me!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25317,
+      "source_sha256": "ee08e526f5c85697a97816266e75961dbaede604d60924e1e0d8ea9b28abc7c7",
+      "text": "\"Fall back now!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25318,
+      "source_sha256": "b699aa62d8d59761d979cf583829ee3f63cfc5da0308dea459557ff47d90ec8c",
+      "text": "\"Tch, resupply!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25319,
+      "source_sha256": "63e99127702c2a75e64ca1dc8f3d7f53254a5cc92139a9e06cbac8e745f96361",
+      "text": "\"Long battle: bad!\"",
+      "occurrences": 6
+    },
+    {
+      "id": 25320,
+      "source_sha256": "76254ec170df0769500f9c66b262cf7805ec789a2a0de38d1ab4e6d5453f7a3e",
+      "text": "\"I can't attack!?\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25321,
+      "source_sha256": "3b944ab0d3b935c4f234e6606b53663469f9eb9df0475293f19bfb7fc87198eb",
+      "text": "\"They won't let me move!\"",
+      "occurrences": 6
+    },
+    {
+      "id": 25322,
+      "source_sha256": "240073a1f573513c3ae2b887e0b3a0de30d4b811a69b9846a728bffa24f686e6",
+      "text": "\"Damn, we're being played with?!\"",
+      "occurrences": 6
+    },
+    {
+      "id": 25323,
+      "source_sha256": "6ee5f0f91fb2696ebef703dd4fdb6cfed9e45abd080234425ce9060fb781e169",
+      "text": "\"Into the blind spot!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25324,
+      "source_sha256": "e0953d49c08629753f32d9e7e161d1b642eb0028d30187d18d87d7eff26507f1",
+      "text": "\"Tch, using your head!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25325,
+      "source_sha256": "2ad47f348bb44f46552d101974509353ff07adff3e083f382b7aa9166c942aa2",
+      "text": "\"Am I being picked off?!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25326,
+      "source_sha256": "0115324253effb5d0bde242a614a3d2a9cd5f984f546d37de67de891d4d72f9a",
+      "text": "\"Can't attack from here!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25327,
+      "source_sha256": "ac8d050f63c721dd85b273cf6f2005cab8e4a1ea2a65f7ecaa1da90d7981316f",
+      "text": "\"Are you saying you've read our range!?\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25328,
+      "source_sha256": "d9af4bc9b1076fade5967c1d764b610760a684074c88c9ff9b0d535377e3bbde",
+      "text": "\"Out of reach!?\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25329,
+      "source_sha256": "12f4205ee74eeba9d9cd2cb62eaf4208b3ff05a9c5eb4169f4c13b090431da33",
+      "text": "\"Coward! Come out!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25330,
+      "source_sha256": "259e8c5762cbb1dfb8a5b2502000a1bf6e8909251cc8ab5623257b0ab705918a",
+      "text": "\"Your aim is off!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25331,
+      "source_sha256": "85e7e7c26096864f1ebc10cfa78e0b2393575ab66f73c279774b794071a9d7cb",
+      "text": "\"Just as planned!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25332,
+      "source_sha256": "dbbf83f282bcd70ee8bfe91803b0e34824d723f0aab20d3aa6764de68504bcc6",
+      "text": "\"Not a scratch!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25333,
+      "source_sha256": "95e8471927c40cc3f8503beec91ce5af55ac2459e7b83260d42de29717781ac5",
+      "text": "\"Close one...\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25334,
+      "source_sha256": "97ca516406c43a06d17613a3b18f751d007dd405e32522bd62d38608a2f68e68",
+      "text": "\"Your attacks are nothing!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25335,
+      "source_sha256": "dfbecf0e46d0cbdb4d617545ed3533fe22f83ef101440c8856594565d6c6b12b",
+      "text": "\"Useless! That's all!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25336,
+      "source_sha256": "fdc5cb5ea52395fc1d79f3f31c17187d84c1cd844d5e6d3e08f6e4c07d126656",
+      "text": "\"Attacking is futile!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25337,
+      "source_sha256": "102520060f453807f932f89ca758df68276566583b208129b8868f9ece0b314c",
+      "text": "\"Not as bad as said!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25338,
+      "source_sha256": "eb31ac06e740ff2f0f9efbe9cca89df5154433dfae4c11da91ac647439b9d4a5",
+      "text": "\"Too weak!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25339,
+      "source_sha256": "8e681207b189befdbd7ac1d3c0f38e8a2f1a2e4c139f8512640cae734cece2a4",
+      "text": "\"Just armor damage.\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25340,
+      "source_sha256": "b70c062ffd449e928f5d4b6a94c55a70ae270362f6c79fa6902344597fd18cf3",
+      "text": "\"Damage is light\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25341,
+      "source_sha256": "30f1d1e0cdebc039739c767a8de077bedba5255068fb7ce7729c6d6707550f6c",
+      "text": "\"No plan problems\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25342,
+      "source_sha256": "08ab798600c69c7e07d48d327a26904e2391185e508a8ab80d89fbda69eb3c5a",
+      "text": "\"Still resisting?\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25343,
+      "source_sha256": "ffe0656f9fdb19f32bbfc15baa480246e14d163f08aa735a87e4238729a28bf2",
+      "text": "\"You don't grasp the gap in power!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25344,
+      "source_sha256": "67965d469c635df6c4947620e62f9fb1b9b2223c2b9556c73531d484d2e6e25e",
+      "text": "\"Resistance is futile!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25345,
+      "source_sha256": "9d016ee48ce9ee7c70938269b626221398ee048d897772d7815744a65f98349c",
+      "text": "\"So feeble!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25346,
+      "source_sha256": "6f18bbc1f02028410f863564dd766501c453d4dc9f32e5f84b9bb5db887cdde8",
+      "text": "\"A Gundam in name only!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25347,
+      "source_sha256": "ed6bd6faf741f0f6decba949b23fcf0ce51c224731e088b9d5a513b6e8050b2c",
+      "text": "\"A Gundam in name only!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25348,
+      "source_sha256": "585028d5540d5711ac512e668bace937c17f6039b229de99431587fe4ae4133a",
+      "text": "\"Seems like a facade!\"",
+      "occurrences": 3
+    },
+    {
+      "id": 25349,
+      "source_sha256": "964981b431422c812c364760179e9bafa47ba476e7f29fd1a726976db0a1213e",
+      "text": "\"Your boasting ends here!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25350,
+      "source_sha256": "98c31024bae8967c2e1d27d785fc5951f522550d40a9e0915e32ca0b1746d33e",
+      "text": "\"Your machine won't\\nsave you, Coordinator!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25351,
+      "source_sha256": "831f250e160628d84e766de38117fe274ef01c6fdab3f8e03ba8235409282404",
+      "text": "\"What? A game popular in space?\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25352,
+      "source_sha256": "708f745af3b703cf2436655184ffdac832dd34264a50a9f6bfb5e967a9d04c95",
+      "text": "\"Even a battleship's\\nattack is how you take it!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25353,
+      "source_sha256": "d05ccaff86fedf07ad95e9669137cdbccae695d6f838e24fcc5fc69e44b2b0ea",
+      "text": "\"That power, this damage?\\nTraining pays off!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25354,
+      "source_sha256": "b791ee9267eeaa45402ca348edb69d4a66381bd11c32e12fc0b8161f6a7c9eb9",
+      "text": "\"Tch, slow reaction!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25355,
+      "source_sha256": "e2a3458be3906fdf2a60b87f6b4470d1cb65928feb74b0d90ea7bb7dea710a9e",
+      "text": "\"It punched right through the armor!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25356,
+      "source_sha256": "38714594603bdd1d129ff1e0d43939c6532cc169975c2153d717724cb7dc02c2",
+      "text": "\"Damage check... still going!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25357,
+      "source_sha256": "6f01f1e726ec9fb4d389a46d38d594e3ade5bdccf4cff8c09a27915a8a6c3dc7",
+      "text": "\"Pushed back!? No, it's even!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25358,
+      "source_sha256": "e45c2fbdf3594d53c0a5e1246d56626bf6e381aa56e98f93990a169983892193",
+      "text": "\"You won't get past me!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25359,
+      "source_sha256": "509fa9d74c6d4889a34895061c06476da15164f656e36dd2d8d8416a31240635",
+      "text": "\"Tch, you pest!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25360,
+      "source_sha256": "4eaceaea59454c027c86d75ec0960f0f744a47ed543e50fbebbf5a717d994752",
+      "text": "\"Our strength is more than this!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25361,
+      "source_sha256": "f8b17d33e26ffb4d222c1885ad3ecb34319a892d93f35c33e7502f2715ab84aa",
+      "text": "\"That won't shake me!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25362,
+      "source_sha256": "2a94933f1bece2b9a7f5ca9707b0cf29eaaf0b6c9896d6c6dac17d3d0be1c74c",
+      "text": "\"Was my tuning too loose?\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25363,
+      "source_sha256": "63d573249fed5f7518c4af289e5bedd4206698e82466fb154ae8c63e015f644c",
+      "text": "\"You! Unforgivable!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25364,
+      "source_sha256": "24dd04092a62d3fbfd884abc4ff8c81909c1fc0b0f4dd9d35bd8e3c251c9ae1d",
+      "text": "\"We can fight evenly with a Gundam!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25365,
+      "source_sha256": "c532dbe837b29c40b71b942ddf9662c6478f8809edbb82f2dad06b0b94fb3545",
+      "text": "\"Tch! No wonder it's a Gundam.\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25366,
+      "source_sha256": "bf52eb5e2c39b08b3810844585927ab87b18a4c936f0986131a473217d851d3f",
+      "text": "\"Don't falter! We can match it!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25367,
+      "source_sha256": "03f25ba54fac871bf6be62cf713fbe3b3ff3c6ea79c1c8e33a665550eaebba66",
+      "text": "\"All talk, Coordinator!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25368,
+      "source_sha256": "4f15857c38e7acf5c429737e29ee78bbba626d7d4dcce408283b3c0184f4bec0",
+      "text": "\"No different from us, Coordinator!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25369,
+      "source_sha256": "a5cdf7082d4b799e0bbcc7d331511d62a676e2c436d92e6441c154fb95c24bda",
+      "text": "\"Damn, just break through!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25370,
+      "source_sha256": "dc8e7ce787617c5b231e559484521c3eafb10392919e95952756fd4eca125d91",
+      "text": "\"Whoa! Not yet, until the ship falls!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25371,
+      "source_sha256": "a033ac4584305c0f1ce8d6d7c9fe9828676246112711b94f53d8d45a0f90d21c",
+      "text": "\"Gah! What do I do!? What do I do!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25372,
+      "source_sha256": "a7efaa141eb9ddaf6b3d60d7ab64bfb007b564d178e13c09f4f1199a79cdccb9",
+      "text": "\"You dare exceed our power!?\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25373,
+      "source_sha256": "8dcf1fdf723b5aab182c22fc0a310822564ec2b127c47e21de4e8a4455bcf120",
+      "text": "\"Whoa! What the!?\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25374,
+      "source_sha256": "d1bb368723eefebec22d143de704961bdb523f1b0ba0c7a0e70087bbcb939ec2",
+      "text": "\"Can't hold on...!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25375,
+      "source_sha256": "12b82e7e627bf872addd370cdefc608333789555674dfda2e1dfea5b3b521810",
+      "text": "\"What!? That's insane!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25376,
+      "source_sha256": "11d69d6bf3351e52f33955df5335fcfd0154a8cbc0771f02b91d2687eafdffe0",
+      "text": "\"No way! This is too different!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25377,
+      "source_sha256": "a73534e18d7a4aebae3c3aae8ee29a6aa231aee7884ba908f286362ea3a82b7e",
+      "text": "\"N-no way! There's no winning!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25378,
+      "source_sha256": "76db51f56f4c6b5791a85ed4a3f0e3bd38475f1c9cfd09cbb39735b78ac8cddb",
+      "text": "\"Gah! W-What is this!?\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25379,
+      "source_sha256": "2a8e89de88bd5d274aeb841e215dd3a5955e5e30657461ac0fdea69b1634f8b8",
+      "text": "\"Why? Why such power!?\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25380,
+      "source_sha256": "b7508767b49f7fa2985827047960c965c3666cbea30c780ed63a276a904a873b",
+      "text": "\"I can't take any more!!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25381,
+      "source_sha256": "64b260cc9265d9c75f63352bd2545471cab61f0bcc0bc6609914cd33795d2ec8",
+      "text": "\"So this is Gundam's power!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25382,
+      "source_sha256": "33d7fb9ade2aede87ea0a8d6591b5893a7e83c76eed360820a64552a0e493f7d",
+      "text": "\"D-Damn you, Gundam!!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25383,
+      "source_sha256": "26e82f38e4652d1999a084182d8938f05837e01fc6e2d169c89c92df72638b6d",
+      "text": "\"Damn you, Coordinator!!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25384,
+      "source_sha256": "c5b5a35dfb0039f6b91938836ad03058c696c2a2d28b11c36ff20dfe5b8a7656",
+      "text": "\"Coordinator, how dare you!!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25385,
+      "source_sha256": "478bb35427a350a0cdbef8d4a541c3bcd2adcf8fc30bc84c742a1980f6e47ac9",
+      "text": "\"Facing a warship's fire...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25386,
+      "source_sha256": "f9b22cfeec53c178a3715e8e9a75e39c45e6789c7093edcb2d571b3cf66b4df9",
+      "text": "\"Wh-what firepower!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25387,
+      "source_sha256": "124de2fb5570c3fd0d30cb7849e55aff25e941741ccfa3b81bccf568491ead49",
+      "text": "\"That's impossible!!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25388,
+      "source_sha256": "70bb17f59fbc1010bf33e665c3e29b75ab5b73f2ac41f4d7280d18b46c357a9c",
+      "text": "\"I-I'm done for! Ejecting!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25389,
+      "source_sha256": "39dd4be2ae807105e8dda0fbf1e290175c0ad9319c95172a083da232efb8d19f",
+      "text": "\"Uwaaah! Bail out!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25390,
+      "source_sha256": "444785fcdb2a0719fe038b6e52bc763cf4fd42102bbde8a1f7116d346d2dc51d",
+      "text": "\"Impossible! Not like this!!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25391,
+      "source_sha256": "ebd2484ecc5b9f82b5e088e1046de5ad48867adbfd8ccd0f22bcc036fb54c384",
+      "text": "\"It's over!\"",
+      "occurrences": 6
+    },
+    {
+      "id": 25392,
+      "source_sha256": "4086ea1b981f855fe796433c0e07c12848c154a4416a96af4823bb9833895579",
+      "text": "\"You came!\"",
+      "occurrences": 6
+    },
+    {
+      "id": 25393,
+      "source_sha256": "2d27833715ffdbe69994b316c7c0d7c3fac15dde92d9930b4cbef6e474a96cc6",
+      "text": "\"Get in the way, you terrorists!\"",
+      "occurrences": 32
+    },
+    {
+      "id": 25394,
+      "source_sha256": "c0cf6d6d96827775a42da4f7697e311a986912a885a17f250e097a512b949b01",
+      "text": "\"Kira Yamato, you side against us too!\"",
+      "occurrences": 16
+    },
+    {
+      "id": 25395,
+      "source_sha256": "634114424734f1c5f4b48695a8d2c21a4de9122cf6b2642d1ce254db06842526",
+      "text": "\"New ZAFT or not!\"",
+      "occurrences": 24
+    },
+    {
+      "id": 25396,
+      "source_sha256": "b696c5c4a5dd6d1e633e8759bd8ac0cc65451f20bbec0ea9c954f0b99fef7dca",
+      "text": "\"Monster!\"",
+      "occurrences": 24
+    },
+    {
+      "id": 25397,
+      "source_sha256": "8d1eb6e25f9d91a3eda4302d76953d151793186fe6b118eb468d82c3c9f3ae20",
+      "text": "\"You are unnecessary to our world!\"",
+      "occurrences": 24
+    },
+    {
+      "id": 25398,
+      "source_sha256": "76dfb4be49da6f1700c8cf331f125a7a991d31017ae56949ebef32868e826a9b",
+      "text": "\"If you hadn't dropped Junius Seven...!\"",
+      "occurrences": 8
+    },
+    {
+      "id": 25399,
+      "source_sha256": "08b62fb05024ea07b3e7adf26ce6555957a2dcc85817300972418c18ddf534b4",
+      "text": "\"Destroy the deck!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25400,
+      "source_sha256": "5b32f28925642fce9285f1641df88ce1e35191d00a5411fe48f5c77458b37998",
+      "text": "\"Sink the flagship!\"",
+      "occurrences": 8
+    },
+    {
+      "id": 25401,
+      "source_sha256": "5af3ecee1bfa612715d7db225737db96b09a5754df26d87c4e3735df26ec8236",
+      "text": "\"Disable the gun turrets!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25402,
+      "source_sha256": "bc2d86049d5accb5b1ed1c0d55a2191ac055d4f6dcd99df4f244ca93984b032a",
+      "text": "\"Crush the bridge!\"",
+      "occurrences": 8
+    },
+    {
+      "id": 25403,
+      "source_sha256": "1d1b82391c1600e07d18bea0d7b8860847f042dd2f33400d2ff2e2d8578de110",
+      "text": "\"Gundam is just a facade!\"",
+      "occurrences": 8
+    },
+    {
+      "id": 25404,
+      "source_sha256": "726169472a6b305abb34e2e2773ed5586ed6935daaa92fdf975ffff02bae3523",
+      "text": "\"We will never bow to Gundam!\"",
+      "occurrences": 8
+    },
+    {
+      "id": 25405,
+      "source_sha256": "e11dff358a7b3789bec3cee90dcf837961c7d1685dedab6975756acdb306c976",
+      "text": "\"A Gundam can fall if fought right!\"",
+      "occurrences": 8
+    },
+    {
+      "id": 25406,
+      "source_sha256": "ddc3560963928b20a255126c2ca30904d256a53c7e24673714aed848c47c5df5",
+      "text": "\"Just big! Get around it!\"",
+      "occurrences": 8
+    },
+    {
+      "id": 25407,
+      "source_sha256": "6b4dbf08c62500f422343d9855265bf8e781154c31a19eb29c874933811c5368",
+      "text": "\"You can't keep up with this!\"",
+      "occurrences": 8
+    },
+    {
+      "id": 25408,
+      "source_sha256": "deb548027a114ce948078b05ceab3e406b3e78eaac80c2baff010b6018c77895",
+      "text": "\"Die, you space monsters!\"",
+      "occurrences": 8
+    },
+    {
+      "id": 25409,
+      "source_sha256": "5c64de3188dbb65df07fe8bcccc0d53de53d3c7a6a1e0299686a6a995a56d8df",
+      "text": "\"Don't get cocky, Coordinators!\"",
+      "occurrences": 8
+    },
+    {
+      "id": 25410,
+      "source_sha256": "651405a9773a0dc1c535b02f425194dcf8e2505685d73e2283befbeaf8d61929",
+      "text": "\"Not yet! From here!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25411,
+      "source_sha256": "284e87ce1d7c6bf395843b0a7ba2d4ad9d7944f1bbf7702e04b02c087a1819ff",
+      "text": "\"Lure them in, we've won!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25412,
+      "source_sha256": "3aee0766bdcb146e6cd865d5c731b8479a627c32e742a1df5506cf5795e53f8a",
+      "text": "\"With this, no enemy can stand!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25413,
+      "source_sha256": "fd1cc6a000fcdb7d4c6eb13dd4ee424e8b559492c5578fbac8365b5bb489d5d8",
+      "text": "\"Burn to ashes!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25414,
+      "source_sha256": "03c481422ffd6ef38cc43741f4fa05fa3ff0ae413c371abffbf4653570f5648a",
+      "text": "\"Pursuing!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25415,
+      "source_sha256": "1e9846ea71fc67ad39b5e2daeedee9915c3e06e949b630a09f898a1b5a6741ba",
+      "text": "\"If I focus!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25416,
+      "source_sha256": "a992593293536f899b2c010d4eeeef58e392bf09db8a094079ae658fa2f29563",
+      "text": "\"I'll pile it on!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25417,
+      "source_sha256": "3f0a154c775c448fb48de966979d5c24e376f7c875d9430c5b8e949eb944e2c1",
+      "text": "\"No time for looking away!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25418,
+      "source_sha256": "39be56b884f3ebc17fb368711548deb68bfaa46ed27679149983d483e8aee9b5",
+      "text": "\"Urgh! The balance is off!!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25419,
+      "source_sha256": "92843008236c00534df7f0830d26fc20d41b654da0100162e79581536762fa6f",
+      "text": "\"Freedom, you're\\nfinishing me off, huh?!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25420,
+      "source_sha256": "204a0f699bab89e29f85ea9f855138fb374966eb57686c3c09f2ce12fe20ccee",
+      "text": "\"Ah, for the pure blue world!!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25421,
+      "source_sha256": "bb1c666b09a7f18358ee9df06225d0c2c4a03ad486f913bd6905131eb2df72fd",
+      "text": "\"Tch! I wasn't careless...!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25422,
+      "source_sha256": "d63234902fed415234e1c9b1e8a30a153101f6230e0f8e050672c3bbe7fe6e25",
+      "text": "\"Gah! But if he won't land a hit...!\"",
+      "occurrences": 6
+    },
+    {
+      "id": 25423,
+      "source_sha256": "d8dea66a9d94783df905fbda736c4e26b543778f27eb90de6e454e77a6455edc",
+      "text": "\"Ugh! So that's ZAFT's new power!\"",
+      "occurrences": 7
+    },
+    {
+      "id": 25424,
+      "source_sha256": "d843f7bd2b2de4748d4ae06f4af2d345d9dd5e4495147f41e2b28b1f46b3b70c",
+      "text": "\"You're weak for a Natural!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25425,
+      "source_sha256": "47c7d698219d4490df7801b20e9bd16ff99f157639fceac5699e36ae816c687f",
+      "text": "\"Taking me lightly!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25426,
+      "source_sha256": "af90533a42aad2fb68e0d68a3f84f3488e5f490dabc9d04ce18cd74d741dbfac",
+      "text": "\"Tch, you really mean\\nto stop this war...!\"",
+      "occurrences": 7
+    },
+    {
+      "id": 25427,
+      "source_sha256": "d9284eafdf51de7d4ebd6a9fbce0fb0389d356182d8355ed51889e955bd38030",
+      "text": "\"Is that a warning...!?\"",
+      "occurrences": 5
+    },
+    {
+      "id": 25428,
+      "source_sha256": "42388d2f54b65b7c248cf39b83fa29cbdb5024436df855ec3b13ce576dfecec4",
+      "text": "\"New model seems defective!\"",
+      "occurrences": 5
+    },
+    {
+      "id": 25429,
+      "source_sha256": "482ddf711e3b0c392a9f0a8347a7d737a199e7c0a16ca865fa6712e66fee3dbc",
+      "text": "\"Attack with all units!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25430,
+      "source_sha256": "e8a9cde49e923bf075a31e36ca32940a12fec77502da5bd93d8288fab3ac589c",
+      "text": "\"This ends here!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25431,
+      "source_sha256": "70548d2e89230f09d51fbf3b3b8d148fcf51938f999ff1329187e6baac289988",
+      "text": "\"Damn! I lost track of my ammo!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25432,
+      "source_sha256": "0f66e58fdc2c6e54069759290696a6e5d82462ee9db766b59e5eb66456cd68c2",
+      "text": "\"Data says... we can!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25433,
+      "source_sha256": "daab6bdd2706de756fff2237fd569a858c39853bdd1ed68a37498da6d45a51c8",
+      "text": "\"Goooo!!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25434,
+      "source_sha256": "46f1719af352a8656b432376f9c18cd411f7654920bdf10d3611569cfe2def19",
+      "text": "\"I have a barrier!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25435,
+      "source_sha256": "f2f37b3e24378423bf66e56cd3c13970c74d2ac652cfc9545bb2f785250bea98",
+      "text": "\"Gooooo!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25436,
+      "source_sha256": "aad9310523dbf7b6ecb190eb07ef436dcfd69b7bf0ff5c6f92a51d2a4956530a",
+      "text": "\"Perish, Coordinator!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25437,
+      "source_sha256": "5d23a8a937307629affdb1e39365b176e58b7b4864fb42098c4e7a9abc35d000",
+      "text": "\"Dangerous! This power\\ncannot be left unchecked!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25438,
+      "source_sha256": "06cbf0c93109481c56c9a1de4c6482c71b54f3c44562fcc415979f1911b81818",
+      "text": "\"That can't beeee!!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25439,
+      "source_sha256": "9a936cefcc83186960de808d00888e33c722ebeae10e070a16f445ad44fd1196",
+      "text": "\"All units, fight!!\"",
+      "occurrences": 3
+    },
+    {
+      "id": 25440,
+      "source_sha256": "14bfe29a59b15f9d01d3c70fd764c279ced2aaf4fb1c4fb1a5033d253654c6e2",
+      "text": "\"Don't let them inside!\"",
+      "occurrences": 3
+    },
+    {
+      "id": 25441,
+      "source_sha256": "b7a004c040ccd68bdf484923d636e392d7a77407cd75a61fda968cf8362e8679",
+      "text": "\"Volley!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25442,
+      "source_sha256": "e96faea9ed8e8e836f6872fb539f4cda3067b8cbdae660302e48c46ecbe5830d",
+      "text": "\"Don't drag allies in! Fire!!\"",
+      "occurrences": 3
+    },
+    {
+      "id": 25443,
+      "source_sha256": "d21fd212ea4fc4339eec4846c16fb3f71094b52e54860e3779987ff6e7d78843",
+      "text": "\"All guns, Bombard!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25444,
+      "source_sha256": "28b9ba8979ea3753b0ab14c2f095e86baf3707c4a0afe103999c36494c3f9576",
+      "text": "\"All batteries, fire at will!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25445,
+      "source_sha256": "2d27116f518f87b74837abb4c3cc3c44147f82ee4a1352bcdd8c9e1a524332f7",
+      "text": "\"All cannons, fire!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25446,
+      "source_sha256": "cb155855cece951a7461b42e018fd74898306d523d931c9baf84313f9a6a9e06",
+      "text": "\"Snipe from outside range!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25447,
+      "source_sha256": "140783e1c203260e0638daa46d6e1fad85a9112c58b453b6c99bbe12797260e2",
+      "text": "\"Support fire! Fire!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25448,
+      "source_sha256": "8741f784212d8391e719facb69182627d652d095e4a281e0ca49cb6b5814f025",
+      "text": "\"No matter! Charge in!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25449,
+      "source_sha256": "f7bc76dc54771c8a18daa44d73257eac534e9942888a2a9c6c6bd610e5884889",
+      "text": "\"Gunner, what the hell!?\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25450,
+      "source_sha256": "f0c645ae60893ab17a2f66dcba642d1c3889a5d2d890dfbec76639848a0b597e",
+      "text": "\"Where is that attack coming from?!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25451,
+      "source_sha256": "22fd969405127d2cb8825ed3ecd707843e758658e6d1c6cf398d73ca8412b9a4",
+      "text": "\"No other weapons to counter?\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25452,
+      "source_sha256": "4de7d64428f8cad9aa9b04d108998777ef3d9e98d6b33cf5c20ac99570e48cda",
+      "text": "\"Impossible! Outranged\\nby a battleship...!!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25453,
+      "source_sha256": "c405f67c5605653c215e1e36f8e42f66f4b21d7a6874177e30420ab2694222c0",
+      "text": "\"Hard about!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25454,
+      "source_sha256": "5619822cc4a81a98b74ae3cf823b2e1577b3faef89f5243cb234dab5f51d888b",
+      "text": "\"Hmph, missing a target this big!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25455,
+      "source_sha256": "d54d8743b7d0eeb58da012c55f8cbf2523ff621555263db3a9d988245fa0078b",
+      "text": "\"Starboard! Counterattack!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25456,
+      "source_sha256": "a75f349ec22e3fb933fe90a96773f160043e56cfa15a77958282f29e0b19e717",
+      "text": "\"Don't underestimate my skills.\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25457,
+      "source_sha256": "3b65550dcf6efcebb4cf8e5060279ea84e1a02a71e32f7d45b96fa7b293cd1ad",
+      "text": "\"Raise the barrier!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25458,
+      "source_sha256": "c1828a9ed28060b93a666f4593e29c1ef4c7200fac08e31c042289f2cacfda52",
+      "text": "\"Good, the barrier holds.\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25459,
+      "source_sha256": "fdc5090be03878b5274cec67f0e1ccd1651a287566981e09425df12fb6a12960",
+      "text": "\"Helmsman! Slow to dodge!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25460,
+      "source_sha256": "ab5ab2cfbfd79d7f227aaaa58cc9f538b2e9cabbeb538c5455b8fe14d1ead2ef",
+      "text": "\"Evade and counterattack!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25461,
+      "source_sha256": "7b57d04e0fa9cdfd75bc636dd92c9ee134a0ca04cec75dde2a7159845741ab64",
+      "text": "\"Focus on attack!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25462,
+      "source_sha256": "65fb13788314d16fc95a9192f015bb1ecbd1103dedb5650aeb9664b3422dec83",
+      "text": "\"You underestimated\\nthis ship's armor...\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25463,
+      "source_sha256": "a6a12af3f10e8d4ec943e7e01d29eb8f3a973e585accb27cf2ac0bf895a6bdf3",
+      "text": "\"Gunners, keep enemies back!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25464,
+      "source_sha256": "4bb6a4688cef4338e42488d33aa595c2d1e254d7da55ecb9c5286945af949264",
+      "text": "\"Gah! Report the damage!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25465,
+      "source_sha256": "db1c48dd3f7045fd09c223ef2bc5a5a68af39b863ba4af1989f0c8a5f62d37f5",
+      "text": "\"Hmph... that's all to sink us?\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25466,
+      "source_sha256": "15f4ff5ac3cddc488851fa68f2edc9f5a33632e9a7ea5e94c13cee0398093ac6",
+      "text": "\"Don't flinch! We won't sink!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25467,
+      "source_sha256": "da078cf1f0d2c6cf99ab0dfd4c66502272436adceaeddfcdf3248fb00eaa04cf",
+      "text": "\"Direct hit?! Report the damage!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25468,
+      "source_sha256": "06546549d01fa0eed4d9c9388295c3d2a2323912c17927ea37845a5b3a588e03",
+      "text": "\"Brave to attack, but...\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25469,
+      "source_sha256": "71317d31d3b30135163590716f01b7a89856c97a854525b41da86151fd142132",
+      "text": "\"Fire crew, get to B block!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25470,
+      "source_sha256": "e94ccd0cec936c587d9c5678416e40321d8f5cba133457f634b473f9f68214bb",
+      "text": "\"Not yet! We can't sink! Not\\ntill we run out of ammo!!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25471,
+      "source_sha256": "5e6d4960e5d6e456d52578dd9f0e1b45072261ed9b9f58110080179eddae4ba2",
+      "text": "\"Too soon to sink! Counterattack all!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25472,
+      "source_sha256": "ff94d0c385aee4bec35c013c00ac27e534286f48ee41c39a30fbcb9296cb18df",
+      "text": "\"You pierced the battleship armor?!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25473,
+      "source_sha256": "5a62a21f6fba455c17c8907c448e352bb9dacda2f961f03692846e9bbaf43e98",
+      "text": "\"Ugh! D-damn! Recall the escorts now!!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25474,
+      "source_sha256": "c5bb5967591d2ab07b14b57e0766255dd30a277ed560807288275325b03512b0",
+      "text": "\"A-abandon ship!!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25475,
+      "source_sha256": "f9ebc6268fe1b743e821b9eabe9e87e70287abb8dbaa0b1daf23e0aeb9655be4",
+      "text": "\"All hands, evacuate!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25476,
+      "source_sha256": "42d21af1ca534ff843dda77fc24aa77f52d8a79bf086bf1bd6d134a662cab30a",
+      "text": "\"Don't resist!\"",
+      "occurrences": 3
+    },
+    {
+      "id": 25477,
+      "source_sha256": "192a1f56a7564a0d16744c3e732528ae8c47289693f392f56ca4b814c6ecf04c",
+      "text": "\"You dare block us?!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25478,
+      "source_sha256": "216a39b54f2845d0de01889d0d4a86fafa4a22322d0826f220d4c1543eb742db",
+      "text": "\"Know your place!\"",
+      "occurrences": 3
+    },
+    {
+      "id": 25479,
+      "source_sha256": "7ebe3b66b95fabcadf68ab21d06f4fa04b813c036e5d8c9611c183a95f758698",
+      "text": "\"You're done here!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25480,
+      "source_sha256": "162de580404b34cae86aca112565cd2b1e58d2ee58a81112785b2401cd967fa8",
+      "text": "\"I'll do it! I'll do it!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25481,
+      "source_sha256": "55a3fb6edb9fb86810b7a8a57b79549504ebdcccba2b09eaf0d21e9b48d2cfbf",
+      "text": "\"I'll hit you!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25482,
+      "source_sha256": "4a63c6e27806dce462c8f5e3ecef3fdbe2caaca2648dc246e1890d16f309d125",
+      "text": "\"Vanish!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25483,
+      "source_sha256": "5eb5d9c2335a5dd7d3343b138473d198f601c586b2612ee81ebf50e243fcd362",
+      "text": "\"I won't let you have way!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25484,
+      "source_sha256": "3d595bba6c683cdf3a465ac7fb73b7212a8ecc8df40d7b8fa2aa7db0ed72fdc7",
+      "text": "\"Don't get cocky!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25485,
+      "source_sha256": "fe0691aae17382a60dd5758d1fcc716dd56de1a33434e2f05b5dddd0e060ae8e",
+      "text": "\"Fool! Guard down!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25486,
+      "source_sha256": "9c068a4a26006bfa91b0ae03285d7cf4dc2c45be166bf7475be4db0dcb068f69",
+      "text": "\"This'll drop you!\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25487,
+      "source_sha256": "ac612e33f00375add8f52d496b08b12f5afcc17d53b541c46a50e416e9fc29a8",
+      "text": "\"Fall down!!\"",
+      "occurrences": 5
+    },
+    {
+      "id": 25488,
+      "source_sha256": "084ee1139615a4796859bee300e9d9ce18a4ade65f42d938d7e6d3086ae24552",
+      "text": "\"Idiot, wide open!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25489,
+      "source_sha256": "020f56151ce815c1fdec7069de7f753cee1f21c0562f8d835ae3775e4a686b89",
+      "text": "\"Sights OK!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25490,
+      "source_sha256": "aa045dfce4a88783c1883d3d33dd6a6b0a02d3637cedb652ed6a88830427beaf",
+      "text": "\"Disappear!\"",
+      "occurrences": 4
+    },
+    {
+      "id": 25491,
+      "source_sha256": "14f5a4e9a7bc16bd9563454cad2989382d289ed03b9c20c5dc75517f2f0b3a50",
+      "text": "\"We'll catch them all!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25492,
+      "source_sha256": "bff0c4c4caf6f286397670ddd50cb88b6e14a52979d53e9ba25232357796c2d6",
+      "text": "\"I'll cover you!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25493,
+      "source_sha256": "83bc7d4f3041ac115ee0f897d908c331945f43b6a5fb599f67588d64eb58eae6",
+      "text": "\"Can you dodge this?\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25494,
+      "source_sha256": "b1f8f7b2da04c1bea9b89afa9cc610d1fb5317c72ca104f86e394fadc1648c87",
+      "text": "\"Hmph, missed me!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25495,
+      "source_sha256": "658ce5a1a651a1ae231252f0c43f1629090d8bd01880d832c4645aaa5d9f96e5",
+      "text": "\"Fall back now!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25496,
+      "source_sha256": "8b45f819a87639a384976d62e0f7e830a9f15b7d9ebdc3c7d374ca640b715605",
+      "text": "\"No counter, huh?\"",
+      "occurrences": 2
+    },
+    {
+      "id": 25497,
+      "source_sha256": "13b194eb9809afa760f74cb432f6171bd87f54f1e55865a2e0d9c4089b1ba85b",
+      "text": "\"Tch, at this range...!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25498,
+      "source_sha256": "ab7cd3912c95726d57ff978f8a18d7677874767976166c9e13086b3b7c2a4b81",
+      "text": "\"Can't counter from here!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25499,
+      "source_sha256": "64ff4bb5b70e4c866da5efebeb749a060ee7b5f4ac63d15488b1640d5dfa3d5d",
+      "text": "\"Damn! It's a shooting gallery!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25500,
+      "source_sha256": "a5767858b5ea567062ca5343bf385b46affe29f1c0aea830ce319b15f006894f",
+      "text": "\"No good! Just a sitting duck like this!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25501,
+      "source_sha256": "4645654f23f3fa662685f2a0eba39325668b367361e9e94c21cab5673d181363",
+      "text": "\"I can't do anything...?!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25502,
+      "source_sha256": "7df7f8be563d8abb4f528809e69b8317cd3be392a7ca6f0049fbe17aa20171ef",
+      "text": "\"Dodged it!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25503,
+      "source_sha256": "a4e8379a0b1e6bd571745b2ae087ba49dffbe0f4fac7bdb68f6503e515149be6",
+      "text": "\"Your aim seems off.\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25504,
+      "source_sha256": "1891312ddce9013a91cfe85ff6e90b446ce17e92b28201fd2480122e8673418d",
+      "text": "\"Luck won't last forever!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25505,
+      "source_sha256": "14e28bc5fbf24a0f6e5d11b08b1efa9cc113d34184de8987215b2daa881a767d",
+      "text": "\"Is that all?\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25506,
+      "source_sha256": "65085f95e38ea739f783386d2d8cf85b96570150142a98a66060740490ae325a",
+      "text": "\"You dare underestimate me?!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25507,
+      "source_sha256": "5d6a46d5ca0cb75d0af48297ada9b71ba4ddfbb9243612e99f647e55206b7708",
+      "text": "\"Minor damage... Keep going!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25508,
+      "source_sha256": "73dfe1b6c9d40b9fedb6638eb058f2bafbdbc7ce020c0a5e78c860a3596d89cc",
+      "text": "\"Whoa! W-what, a direct hit?!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25509,
+      "source_sha256": "9e8ecfe137e633afae5eeaaaefbbe41413f724eb7c9039832fdc388ff4942933",
+      "text": "\"Lucky shot! Don't get cocky!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25510,
+      "source_sha256": "5c804e7372eb147ff4d3f63d5b98ba7b53c9c0899a9fb288c838fb649430b094",
+      "text": "\"Tch, you're more skilled!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25511,
+      "source_sha256": "173433f9fae06c1cda775448c9993febe7d228b0ee75f100471d341eeca6bcd6",
+      "text": "\"Curse you! You'll pay!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25512,
+      "source_sha256": "16d7f8d369e40c8c190d213204352a4f8a316cb8d07527376e54436e22e10b4d",
+      "text": "\"Guh! A hit or two is nothing to me!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25513,
+      "source_sha256": "00fc4fbdbf51511849fd7fcb22e96d3e07853fb62a97d0144c5a637da7b6eb61",
+      "text": "\"W-What!? Damage at 70 percent!?\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25514,
+      "source_sha256": "03181df9fa060628fd2304be6460583fb7d71916d3434cd4abb9a26d9916e951",
+      "text": "\"Damn! Can this unit not win!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25515,
+      "source_sha256": "49176122e80ab66ffb4d64e7f13f3f47626e41beb3881a61fb46f403e00803f4",
+      "text": "\"N-not yet! I have\\nnot bowed to you yet!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25516,
+      "source_sha256": "1a28d51937e95c7df7a7438fd3ac5a675f840115db742da5f088781cf8af9589",
+      "text": "\"Ngh! We, the glorious, at this!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25517,
+      "source_sha256": "59b294c1ab6dc58dc65b719bce3154d882d0d5947b97e82ac694bd46ecbc5dcd",
+      "text": "\"Urgh! To take this much damage!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25518,
+      "source_sha256": "a63ac92afa9f0a75a102a9cda675355458f99cd12e5a2454675fbc28a37d4edd",
+      "text": "\"S-strong! Too strong!!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25519,
+      "source_sha256": "e201d6fcda63a46c73c711180703f7c8522faec7fec7a1beaf1b187eda71f398",
+      "text": "\"Is this it! Ejecting!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25520,
+      "source_sha256": "38cd9dd5963f011e07a135075c66bd5f058a6a03311a04c8475bffd2003d0001",
+      "text": "\"Damn! Abandoning the unit!\"",
+      "occurrences": 1
+    },
+    {
+      "id": 25521,
+      "source_sha256": "ced3b09a4a82c3fa99282cc7b1ef798a408433a3ddf5a0c4ecf49d7b299fc40a",
+      "text": "\"Damn! Next time no!\"",
+      "occurrences": 1
+    }
+  ]
+}

@@ -53,3 +53,17 @@ ASCII spaces between ～ marks.
 
 A chunk whose text still does not fit stays exactly as the base build had it
 (Japanese) and is listed in the receipt; nothing is truncated.
+
+## Story runtime (0.3.1)
+
+The menu/font port deliberately excluded the main game's `MessageWindow::setText` conversion. Translating story strings alone in 0.3.0 left raw ASCII in the native story layout path, which the chapter-7 Eiji screenshot shows rendering with overlapping lines.
+
+`story_runtime.py` maps the already reserved donor converter into the Special Disc runtime and enables its setText entry. `build_story.py` now applies it automatically. To update the exact v0.3.0 image without repacking any story archive, use:
+
+```powershell
+python -B tools/test_story_runtime.py
+python -B tools/build_story_runtime.py                 # dry run
+python -B tools/build_story_runtime.py --write --patch # local v0.3.1 candidate
+```
+
+The patch is idempotent and guarded against changed instructions and donor inputs. See [BUILD_0.3.1.md](BUILD_0.3.1.md) for addresses, verification and limitations.

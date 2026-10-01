@@ -4,9 +4,9 @@
     {
       "id": "c18_07a10",
       "speaker": "Cotset",
-      "en": "M-Miss...! The Hundred Demon Empire is... coming...",
+      "en": "M-Miss...! The Hyakki Empire is... coming...",
       "display_variant": "en",
-      "display_text": "「M-Miss...! The Hundred Demon Empire\nis... coming...」"
+      "display_text": "「M-Miss...! The Hyakki Empire is...\ncoming...」"
     },
     {
       "id": "c18_07a50",
@@ -25,9 +25,9 @@
     {
       "id": "c18_07ad0",
       "speaker": "Jamil",
-      "en": "If they struck at a moment like this, there's no doubt the Hundred Demon Empire is the one who's been cutting off our food supply lines.",
+      "en": "If they struck at a moment like this, there's no doubt the Hyakki Empire is the one who's been cutting off our food supply lines.",
       "display_variant": "compact",
-      "display_text": "「If they struck now, the Hundred Demon\nEmpire's clearly behind our cut food\nsupply lines.」"
+      "display_text": "「If they struck now, the Hyakki Empire's\nclearly behind our cut food supply lines.」"
     },
     {
       "id": "c18_07b40",
@@ -403,9 +403,9 @@
     {
       "id": "c18_08790",
       "speaker": "Sirius",
-      "en": "That's right. The demons of the Hundred Demon Empire are living beings too. They consume food...!",
+      "en": "That's right. The demons of the Hyakki Empire are living beings too. They consume food...!",
       "display_variant": "en",
-      "display_text": "「That's right. The demons of the\nHundred Demon Empire are living beings\ntoo. They consume food...!」"
+      "display_text": "「That's right. The demons of the Hyakki\nEmpire are living beings too. They consume\nfood...!」"
     },
     {
       "id": "c18_087e0",
@@ -781,16 +781,16 @@
     {
       "id": "c18_09380",
       "speaker": "Duke",
-      "en": "Here we come, Hundred Demon Empire! Feel the wrath of humanity's most basic instincts!",
+      "en": "Here we come, Hyakki Empire! Feel the wrath of humanity's most basic instincts!",
       "display_variant": "en",
-      "display_text": "「Here we come, Hundred Demon Empire!\nFeel the wrath of humanity's most basic\ninstincts!」"
+      "display_text": "「Here we come, Hyakki Empire! Feel the\nwrath of humanity's most basic instincts!」"
     },
     {
       "id": "c18_093d0",
       "speaker": "Ryouma",
-      "en": "Hundred Demon Empire! Your cowardly tactics end here!",
+      "en": "Hyakki Empire! Your cowardly tactics end here!",
       "display_variant": "en",
-      "display_text": "「Hundred Demon Empire! Your cowardly\ntactics end here!」"
+      "display_text": "「Hyakki Empire! Your cowardly tactics\nend here!」"
     },
     {
       "id": "c18_09410",
@@ -2020,9 +2020,9 @@
     {
       "id": "c18_0c5a0",
       "speaker": "Ryouma",
-      "en": "So it was the Hundred Demon Empire starving us out!",
+      "en": "So it was the Hyakki Empire starving us out!",
       "display_variant": "en",
-      "display_text": "「So it was the Hundred Demon Empire\nstarving us out!」"
+      "display_text": "「So it was the Hyakki Empire starving us\nout!」"
     },
     {
       "id": "c18_0c5d0",

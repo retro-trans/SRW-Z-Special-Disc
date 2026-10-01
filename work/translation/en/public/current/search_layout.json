@@ -1,0 +1,353 @@
+{
+  "schema_version": 1,
+  "version": "0.3.16",
+  "rows": [
+    {
+      "kind": "comp",
+      "offset": 532368,
+      "capacity": 120,
+      "text": "All squad units gain Air movement, and\nunit/weapon Air terrain becomes A. Works even\nif the owner is a squad member."
+    },
+    {
+      "kind": "comp",
+      "offset": 533952,
+      "capacity": 132,
+      "text": "At Will 130+, can combine into God Gravion.\nAfter 3 turns the combination is forcibly\nreleased; no recombining on this map."
+    },
+    {
+      "kind": "exe",
+      "offset": 3992232,
+      "capacity": 110,
+      "text": "After 3 turns as God Gravion the combination\nis forcibly released. Recombining on this map is\nimpossible."
+    },
+    {
+      "kind": "comp",
+      "offset": 534400,
+      "capacity": 131,
+      "text": "Nullifies damage of 2000 or less. Activates at\nWill 130+, costs 5 EN. In Center Formation,\napplies to all squad units."
+    },
+    {
+      "kind": "comp",
+      "offset": 534544,
+      "capacity": 120,
+      "text": "Reduces damage from ranged beam attacks by\n1000. Costs 10 EN. In Center Formation, applies\nto all squad units."
+    },
+    {
+      "kind": "comp",
+      "offset": 534688,
+      "capacity": 150,
+      "text": "Reduces damage from ranged beam attacks by\n1500. Activates at Will 110+, costs 10 EN. In\nCenter Formation, applies to all squad units."
+    },
+    {
+      "kind": "comp",
+      "offset": 534848,
+      "capacity": 133,
+      "text": "Nullifies damage of 1500 or less. Activates at\nWill 100+, costs 10 EN. In Center Formation,\napplies to all squad units."
+    },
+    {
+      "kind": "comp",
+      "offset": 534992,
+      "capacity": 107,
+      "text": "Nullifies damage of 2500 or less. Costs 10 EN.\nIn Center Formation, applies to all squad units."
+    },
+    {
+      "kind": "comp",
+      "offset": 535120,
+      "capacity": 143,
+      "text": "Reduces damage by 1000 + Oversense L x 100.\nActivates at Will 110+, costs 5 EN. In Center\nFormation, applies to all squad units."
+    },
+    {
+      "kind": "comp",
+      "offset": 535680,
+      "capacity": 148,
+      "text": "Shield Defend cuts damage more than Defend.\nWith Blocking, it can also trigger when an\nenemy attack hits."
+    },
+    {
+      "kind": "comp",
+      "offset": 535840,
+      "capacity": 132,
+      "text": "If the pilot has the Blocking skill, triggers\nSword Cut, nullifying enemy physical attacks.\nTrigger rate is set by the skill gap."
+    },
+    {
+      "kind": "exe",
+      "offset": 3992344,
+      "capacity": 175,
+      "text": "Full EN and ammo for one unit in your or an\nadjacent squad. Squad EN +10% at turn start.\nAlso works from a squad member."
+    },
+    {
+      "kind": "comp",
+      "offset": 536176,
+      "capacity": 158,
+      "text": "Repairs all units in your or an adjacent squad.\nSquad HP +10% at turn start. Also works\nfrom a squad member."
+    },
+    {
+      "kind": "comp",
+      "offset": 536656,
+      "capacity": 130,
+      "text": "Activates with pilot Oversense L2+ and Will\n130+. Mobility/Accuracy +10 + Oversense L\nx 1. Afterimage (30% chance)."
+    },
+    {
+      "kind": "comp",
+      "offset": 536800,
+      "capacity": 139,
+      "text": "Activates with pilot Oversense L4+ and Will\n130+. Mobility/Accuracy +10 + Oversense L\nx 2. Movement +1. Afterimage (30%)."
+    },
+    {
+      "kind": "comp",
+      "offset": 536944,
+      "capacity": 139,
+      "text": "Activates with pilot Oversense L6+ and Will\n130+. Mobility/Accuracy +10 + Oversense L\nx 2. Movement +2. Afterimage (50%)."
+    },
+    {
+      "kind": "comp",
+      "offset": 537088,
+      "capacity": 118,
+      "text": "Activates with pilot Oversense L3+ and Will\n130+. Accel applies each turn. Photon Mat\nbarrier effect +200."
+    },
+    {
+      "kind": "comp",
+      "offset": 537216,
+      "capacity": 118,
+      "text": "Activates with pilot Oversense L3+ and Will\n130+. Awaken applies each turn. Mobility +10\n+ Oversense L x 2."
+    },
+    {
+      "kind": "comp",
+      "offset": 537344,
+      "capacity": 102,
+      "text": "Activates with pilot Oversense L3+ and Will\n130+. Mobility/Accuracy +10 + Oversense L\nx 2."
+    },
+    {
+      "kind": "comp",
+      "offset": 537616,
+      "capacity": 106,
+      "text": "Activates with pilot Oversense L3+ and Will\n130+. Strike, Alert, Focus and Awaken apply\neach turn."
+    },
+    {
+      "kind": "comp",
+      "offset": 537744,
+      "capacity": 119,
+      "text": "Activates with pilot Oversense L3+ and Will\n130+. Mobility +10 + Oversense L x 2.\nAfterimage (50% chance)."
+    },
+    {
+      "kind": "comp",
+      "offset": 537968,
+      "capacity": 119,
+      "text": "Activates with pilot Oversense L4+ and Will\n130+. Mobility +10 + Oversense L x 2.\nAfterimage (50% chance)."
+    },
+    {
+      "kind": "comp",
+      "offset": 538096,
+      "capacity": 100,
+      "text": "Activates with pilot Oversense L3+ and Will\n130+. Mobility +10. Afterimage (25%\nchance)."
+    },
+    {
+      "kind": "comp",
+      "offset": 538208,
+      "capacity": 147,
+      "text": "Oversense L5+, Will 130+: foes within 5\ntiles lose 50% accuracy and evasion, 20%\nattack and defense."
+    },
+    {
+      "kind": "exe",
+      "offset": 3992520,
+      "capacity": 195,
+      "text": "Will 130: Agi/Sight +30. Blocks Daunt and\nAnalyze. Each turn: Strike, Alert, Awaken,\nPierce. Evades foes with Skill 20+ lower."
+    },
+    {
+      "kind": "exe",
+      "offset": 3992716,
+      "capacity": 96,
+      "text": "Activates at Will 130+. Fully evades enemy\nattacks regardless of accuracy. 50% chance."
+    },
+    {
+      "kind": "comp",
+      "offset": 565632,
+      "capacity": 23,
+      "text": "Search Item"
+    },
+    {
+      "kind": "exe",
+      "offset": 3994208,
+      "capacity": 28,
+      "text": "Search Filter"
+    },
+    {
+      "kind": "comp",
+      "offset": 565696,
+      "capacity": 22,
+      "text": "Search Use"
+    }
+  ],
+  "ability_descriptions_checked": [
+    {
+      "text": "All squad members gain +10% final \naccuracy and evasion. Works even if\nthe owner is a squad member."
+    },
+    {
+      "text": "All squad units gain Air movement, and\nunit/weapon Air terrain becomes A. Works even\nif the owner is a squad member."
+    },
+    {
+      "text": "Recovers 10% of max HP before your\nturn begins. Stacks with other\nrecovery effects."
+    },
+    {
+      "text": "Recovers 20% of max HP before your\nturn begins. Stacks with other\nrecovery effects."
+    },
+    {
+      "text": "Recovers 30% of max HP before your\nturn begins. Stacks with other\nrecovery effects."
+    },
+    {
+      "text": "Recovers 10% of max EN before your\nturn begins. Stacks with other\nrecovery effects."
+    },
+    {
+      "text": "Recovers 20% of max EN before your\nturn begins. Stacks with other\nrecovery effects."
+    },
+    {
+      "text": "Recovers 30% of max EN before your\nturn begins. Stacks with other\nrecovery effects."
+    },
+    {
+      "text": "Activates at Will 130+. \nFinal damage dealt x1.25."
+    },
+    {
+      "text": "At Will 130+, ignores terrain when\nmoving and fully evades enemy\nattacks 25% of the time."
+    },
+    {
+      "text": "Fully recovers EN once per map."
+    },
+    {
+      "text": "Activates at Will 130+.\nThe best stats among the 3 pilots\naboard apply to the main pilot."
+    },
+    {
+      "text": "No EN cost per turn while airborne."
+    },
+    {
+      "text": "Fully nullifies P-type effects."
+    },
+    {
+      "text": "Fully nullifies P and R effects."
+    },
+    {
+      "text": "Can change the unit's form."
+    },
+    {
+      "text": "Can combine several units into one, \nor separate them. The units must be\nin the same squad."
+    },
+    {
+      "text": "With a Newtype L5+ pilot aboard, \nactivates at Will 130+. \nUnit and weapon performance rises."
+    },
+    {
+      "text": "Can swap parts while Minerva is on\nthe map. A part once swapped cannot\nbe swapped again on the same map."
+    },
+    {
+      "text": "At Will 130+, can combine into God Gravion.\nAfter 3 turns the combination is forcibly\nreleased; no recombining on this map."
+    },
+    {
+      "text": "After 3 turns as God Gravion the combination\nis forcibly released. Recombining on this map is\nimpossible."
+    },
+    {
+      "text": "Activates at Will 130+. Fully \nevades enemy attacks. Trigger\nrate varies by ability."
+    },
+    {
+      "text": "Activates at Will 130+. \nEffect varies by Overman."
+    },
+    {
+      "text": "Nullifies damage of 2000 or less. Activates at\nWill 130+, costs 5 EN. In Center Formation,\napplies to all squad units."
+    },
+    {
+      "text": "Reduces damage from ranged beam attacks by\n1000. Costs 10 EN. In Center Formation, applies\nto all squad units."
+    },
+    {
+      "text": "Reduces damage from ranged beam attacks by\n1500. Activates at Will 110+, costs 10 EN. In\nCenter Formation, applies to all squad units."
+    },
+    {
+      "text": "Nullifies damage of 1500 or less. Activates at\nWill 100+, costs 10 EN. In Center Formation,\napplies to all squad units."
+    },
+    {
+      "text": "Nullifies damage of 2500 or less. Costs 10 EN.\nIn Center Formation, applies to all squad units."
+    },
+    {
+      "text": "Reduces damage by 1000 + Oversense L x 100.\nActivates at Will 110+, costs 5 EN. In Center\nFormation, applies to all squad units."
+    },
+    {
+      "text": "Nullifies damage of 2000 or less.\nRequires Morale 100 and costs 5 EN.\nIn Center Formation, protects the entire squad."
+    },
+    {
+      "text": "Reduces damage by 1000. Costs 5 EN.\nIn Center Formation, protects the entire squad."
+    },
+    {
+      "text": "Reduces damage to one tenth.\nPierce and Barrier Piercing cannot negate it.\nIn Center Formation, protects the entire squad."
+    },
+    {
+      "text": "Shield Defend cuts damage more than Defend.\nWith Blocking, it can also trigger when an\nenemy attack hits."
+    },
+    {
+      "text": "If the pilot has the Blocking skill, triggers\nSword Cut, nullifying enemy physical attacks.\nTrigger rate is set by the skill gap."
+    },
+    {
+      "text": "Full EN and ammo for one unit in your or an\nadjacent squad. Squad EN +10% at turn start.\nAlso works from a squad member."
+    },
+    {
+      "text": "Repairs all units in your or an adjacent squad.\nSquad HP +10% at turn start. Also works\nfrom a squad member."
+    },
+    {
+      "text": "Recovers a set % of HP at turn start."
+    },
+    {
+      "text": "Recovers a set % of EN at turn start."
+    },
+    {
+      "text": "Reduces non-beam damage by 2000. \nCosts 10 EN."
+    },
+    {
+      "text": "Fully nullifies ranged beam attacks. \nCosts 10 EN."
+    },
+    {
+      "text": "Nullifies beam damage of 2500 or\nless. Costs 10 EN."
+    },
+    {
+      "text": "Activates with pilot Oversense L2+ and Will\n130+. Mobility/Accuracy +10 + Oversense L\nx 1. Afterimage (30% chance)."
+    },
+    {
+      "text": "Activates with pilot Oversense L4+ and Will\n130+. Mobility/Accuracy +10 + Oversense L\nx 2. Movement +1. Afterimage (30%)."
+    },
+    {
+      "text": "Activates with pilot Oversense L6+ and Will\n130+. Mobility/Accuracy +10 + Oversense L\nx 2. Movement +2. Afterimage (50%)."
+    },
+    {
+      "text": "Activates with pilot Oversense L3+ and Will\n130+. Accel applies each turn. Photon Mat\nbarrier effect +200."
+    },
+    {
+      "text": "Activates with pilot Oversense L3+ and Will\n130+. Awaken applies each turn. Mobility +10\n+ Oversense L x 2."
+    },
+    {
+      "text": "Activates with pilot Oversense L3+ and Will\n130+. Mobility/Accuracy +10 + Oversense L\nx 2."
+    },
+    {
+      "text": "Activates with pilot Oversense L2+\nand Will 130+. Mobility +10."
+    },
+    {
+      "text": "Activates with pilot Oversense L3+\nand Will 130+. Armor +300."
+    },
+    {
+      "text": "Activates with pilot Oversense L3+ and Will\n130+. Strike, Alert, Focus and Awaken apply\neach turn."
+    },
+    {
+      "text": "Activates with pilot Oversense L3+ and Will\n130+. Mobility +10 + Oversense L x 2.\nAfterimage (50% chance)."
+    },
+    {
+      "text": "Activates with pilot Oversense L2+\nand Will 130+.\nStrike applies each turn."
+    },
+    {
+      "text": "Activates with pilot Oversense L4+ and Will\n130+. Mobility +10 + Oversense L x 2.\nAfterimage (50% chance)."
+    },
+    {
+      "text": "Activates with pilot Oversense L3+ and Will\n130+. Mobility +10. Afterimage (25%\nchance)."
+    },
+    {
+      "text": "Oversense L5+, Will 130+: foes within 5\ntiles lose 50% accuracy and evasion, 20%\nattack and defense."
+    },
+    {
+      "text": "Will 130: Agi/Sight +30. Blocks Daunt and\nAnalyze. Each turn: Strike, Alert, Awaken,\nPierce. Evades foes with Skill 20+ lower."
+    },
+    {
+      "text": "Activates at Will 130+. Fully evades enemy\nattacks regardless of accuracy. 50% chance."
+    }
+  ]
+}

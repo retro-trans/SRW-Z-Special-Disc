@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "version": "0.3.16",
+  "icons": [
+    {
+      "box": [
+        200,
+        152,
+        228,
+        180
+      ],
+      "text": "ATK"
+    },
+    {
+      "box": [
+        228,
+        152,
+        256,
+        180
+      ],
+      "text": "CNT"
+    },
+    {
+      "box": [
+        64,
+        176,
+        80,
+        192
+      ],
+      "text": "S"
+    },
+    {
+      "box": [
+        112,
+        192,
+        128,
+        208
+      ],
+      "text": "D"
+    }
+  ],
+  "names": [
+    {
+      "chunk": 18,
+      "offset": 54239,
+      "text": "Getter Robo"
+    },
+    {
+      "chunk": 40,
+      "offset": 15018,
+      "text": "Getter Robo"
+    }
+  ]
+}

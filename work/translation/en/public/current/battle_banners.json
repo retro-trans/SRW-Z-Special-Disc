@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "version": "0.3.16",
+  "entries": [
+    {
+      "id": "banner/0",
+      "page": 0,
+      "text": "TRI Formation",
+      "rect": [
+        0,
+        60,
+        344,
+        100
+      ]
+    },
+    {
+      "id": "banner/1",
+      "page": 0,
+      "text": "Wide Formation",
+      "rect": [
+        0,
+        100,
+        344,
+        140
+      ]
+    },
+    {
+      "id": "banner/2",
+      "page": 0,
+      "text": "Center Formation",
+      "rect": [
+        0,
+        140,
+        360,
+        180
+      ]
+    },
+    {
+      "id": "banner/3",
+      "page": 0,
+      "text": "Single Attack",
+      "rect": [
+        360,
+        60,
+        512,
+        100
+      ]
+    },
+    {
+      "id": "banner/4",
+      "page": 0,
+      "text": "Squad Attack",
+      "rect": [
+        360,
+        100,
+        512,
+        140
+      ]
+    },
+    {
+      "id": "banner/5",
+      "page": 0,
+      "text": "All Attack",
+      "rect": [
+        360,
+        140,
+        512,
+        180
+      ]
+    },
+    {
+      "id": "banner/6",
+      "page": 0,
+      "text": "Counter",
+      "rect": [
+        0,
+        180,
+        168,
+        220
+      ]
+    },
+    {
+      "id": "banner/7",
+      "page": 0,
+      "text": "Support Attack",
+      "rect": [
+        176,
+        180,
+        352,
+        220
+      ]
+    },
+    {
+      "id": "banner/8",
+      "page": 0,
+      "text": "TRI Charge",
+      "rect": [
+        360,
+        180,
+        512,
+        220
+      ]
+    },
+    {
+      "id": "banner/9",
+      "page": 0,
+      "text": "Attack Again",
+      "rect": [
+        0,
+        220,
+        132,
+        256
+      ]
+    },
+    {
+      "id": "banner/10",
+      "page": 0,
+      "text": "Support Defend",
+      "rect": [
+        176,
+        220,
+        352,
+        256
+      ]
+    },
+    {
+      "id": "banner/11",
+      "page": 0,
+      "text": "Combo Attack",
+      "rect": [
+        360,
+        220,
+        512,
+        256
+      ]
+    },
+    {
+      "id": "warning/0",
+      "page": 1,
+      "text": "No Target",
+      "rect": [
+        152,
+        0,
+        368,
+        40
+      ]
+    },
+    {
+      "id": "warning/1",
+      "page": 1,
+      "text": "Can't Attack",
+      "rect": [
+        152,
+        40,
+        300,
+        80
+      ]
+    },
+    {
+      "id": "warning/2",
+      "page": 1,
+      "text": "(Range)",
+      "rect": [
+        0,
+        160,
+        112,
+        200
+      ]
+    }
+  ]
+}

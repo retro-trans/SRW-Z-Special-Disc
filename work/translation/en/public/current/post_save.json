@@ -1,0 +1,2078 @@
+{
+  "schema_version": 1,
+  "version": "0.3.16",
+  "entries": [
+    {
+      "id": 0,
+      "speaker": "Henken",
+      "text": "Henken\n「Henken here. What is it?」",
+      "offset": 3902432,
+      "source_sha256": "e34cdc752ea327a3064d7b235290b32a259285f25950e07b5e262a1adc42ad7c"
+    },
+    {
+      "id": 1,
+      "speaker": "Henken",
+      "text": "Henken\n「What? Quitting? I\ncan take a break too?\n...Understood, Brother Two!」",
+      "offset": 3902468,
+      "source_sha256": "8278a9cd17702d14aa816f912ad37f07de17e4ebbc0aa2d945f05a68ca01b980"
+    },
+    {
+      "id": 2,
+      "speaker": "Emma",
+      "text": "Emma\n「Is that the player's code name?」",
+      "offset": 3902547,
+      "source_sha256": "0d409209ef781dca8d6db708a731d81cf9e33c631f87dff0fff7b56414865d42"
+    },
+    {
+      "id": 3,
+      "speaker": "Henken",
+      "text": "Henken\n「Something like that. Lieutenant\nEmma, I'm off duty too. How\nabout some shopping...?」",
+      "offset": 3902588,
+      "source_sha256": "463f81abc5b29f0d71b0495b59c903d73ff801467acb2e36c200519b4628ff3f"
+    },
+    {
+      "id": 4,
+      "speaker": "Emma",
+      "text": "Emma\n「Oh, Captain, even on a break,\nsurely you can't leave your ship?」",
+      "offset": 3902683,
+      "source_sha256": "e12382b25596107546c6e9649b79b15de1719d7b10c74d2821a55ab156093059"
+    },
+    {
+      "id": 5,
+      "speaker": "Henken",
+      "text": "Henken\n「Ghh...! Well, that's true, but...」",
+      "offset": 3902756,
+      "source_sha256": "5e48561a666d03d30135de386975b00941bfec281002f2d4324ed49640ba9b55"
+    },
+    {
+      "id": 6,
+      "speaker": "Emma",
+      "text": "Emma\n「Well, I'll go on ahead...\nEmma Sheen, taking a break!」",
+      "offset": 3902801,
+      "source_sha256": "ee304c8116f2e701b1b1cd46abf1f1b537582f912e4012091c7ecee9e0bd9c4c"
+    },
+    {
+      "id": 7,
+      "speaker": "Henken",
+      "text": "Henken\n「Grrr! Calling Brother Two! Resume\nthe mission! Otherwise, I won't be\nable to take my mind off this!」",
+      "offset": 3902864,
+      "source_sha256": "3240a13297974150530c6eaa444c702aadc46a6fd0b495dcd6110b81017cc164"
+    },
+    {
+      "id": 8,
+      "speaker": "Henken",
+      "text": "Henken\n「Did you hear me?! Please resume\nthe mission! I'm counting on you!」",
+      "offset": 3902975,
+      "source_sha256": "9985bb44bb57e8a232b4708f3c3e6b2f79676df97bc0a316051c3d45cc60d8ae"
+    },
+    {
+      "id": 9,
+      "speaker": "Fa",
+      "text": "Fa\n「Kamille! Break that habit\nof playing games while lying\ndown! It's bad manners!」",
+      "offset": 3903052,
+      "source_sha256": "2e9d23474772c265f79e0ecfdd0c7b4e9f2407c3848a1faa595f9a9f1594aec7"
+    },
+    {
+      "id": 10,
+      "speaker": "Kamille",
+      "text": "Kamille\n「Oh, come on... Now that I'm on\nleave... Can't you let me relax?」",
+      "offset": 3903138,
+      "source_sha256": "5eff898f6fc097f9120be5b8e7bf49f1f6850c8597569c5d2bd449b0e2862977"
+    },
+    {
+      "id": 11,
+      "speaker": "Fa",
+      "text": "Fa\n「No! One hour a day! Sit on\nyour heels, back straight, two\nmeters or more from the screen!」",
+      "offset": 3903214,
+      "source_sha256": "4687476243943a8dd86e90b1b37d69b299c7b398a6f36e24d40979414c149ec6"
+    },
+    {
+      "id": 12,
+      "speaker": "Kamille",
+      "text": "Kamille\n「...That's what Fa says, but\nall you players should just\nrelax and enjoy the game.」",
+      "offset": 3903311,
+      "source_sha256": "991ad1a49a5b283f459bb2d2dc3614a39a3a4ebc5f9d1a093e239f436ee2f9c7"
+    },
+    {
+      "id": 13,
+      "speaker": "Kamille",
+      "text": "Kamille\n「But it's true that it's\nbetter to take a break\nevery one to two hours.」",
+      "offset": 3903405,
+      "source_sha256": "75bc400e13975e0ca382bd8f344e9dba7e7c2efc3fe5ff953468552857dcfd5a"
+    },
+    {
+      "id": 14,
+      "speaker": "Kamille",
+      "text": "Kamille\n「If you feel tired, it's better\nto take a break from playing,\njust as you have now.」",
+      "offset": 3903488,
+      "source_sha256": "f377d833ec1e962c28af3b5f09914a1793b56b65e46e09deec2188ac638855ac"
+    },
+    {
+      "id": 15,
+      "speaker": "Fa",
+      "text": "Fa\n「Come on, Kamille, you need to\nstop now too! I'll turn it off!」",
+      "offset": 3903583,
+      "source_sha256": "f356f0295edd254a4ef6d4f103b3eb4e618c760e92e05a06044261c4223732df"
+    },
+    {
+      "id": 16,
+      "speaker": "Kamille",
+      "text": "Kamille\n「Whoa, not yet! Wait...」",
+      "offset": 3903652,
+      "source_sha256": "e1e79eb3cd7832921cbba1c1b1011ebba21df8aac1223d49e7d307dc8bba7c1f"
+    },
+    {
+      "id": 17,
+      "speaker": "Loran",
+      "text": "Loran\n「All you players! Super Robot\nWars is a game that really makes\nyou wonder what happens next.」",
+      "offset": 3903687,
+      "source_sha256": "77c50991dbcc8c7ad15f6549da87a16cf8c7b1d3869bd41f5173144aab947148"
+    },
+    {
+      "id": 18,
+      "speaker": "Loran",
+      "text": "Loran\n「Hurry back!」",
+      "offset": 3903789,
+      "source_sha256": "329473b7581796acebc9d662b315fbe8593862b417ad4f58d5de78c6ef1b450e"
+    },
+    {
+      "id": 19,
+      "speaker": "Loran",
+      "text": "Loran\n「Super Robot Wars is a\ngame that really makes you\nwonder what happens next!」",
+      "offset": 3903811,
+      "source_sha256": "8549efd2f85d03a9c7a7affe29c3be17093f153e0e45da60e8a0b970a23350ff"
+    },
+    {
+      "id": 20,
+      "speaker": "Loran",
+      "text": "Loran\n「Everyone! Hurry baaaack!!」",
+      "offset": 3903896,
+      "source_sha256": "5c396136b6f8fdab93258b50d9890fb7a11d9234eb4b0875c422ca5efdcb2a7a"
+    },
+    {
+      "id": 21,
+      "speaker": "Garrod",
+      "text": "Garrod\n「Tiffa! Hey, Tiffa! Come\nover here and say a few\nwords before we finish!」",
+      "offset": 3903932,
+      "source_sha256": "cbbf677e050490d436567a0f8cab71401d6e7e9c0048fd80a8db3267ad1689db"
+    },
+    {
+      "id": 22,
+      "speaker": "Tiffa",
+      "text": "Tiffa\n「Huh? Me...? W-well then...」",
+      "offset": 3904015,
+      "source_sha256": "717bc6bb45ff291a7457baf863a592ec88571bfa95baf91b276e99c1ffeda1f7"
+    },
+    {
+      "id": 23,
+      "speaker": "Tiffa",
+      "text": "Tiffa\n「...Please... promise me. Promise\nyou'll come back, no matter what.\nSo this fighting can end soon...」",
+      "offset": 3904052,
+      "source_sha256": "9f541e8c32acc9615254bce3323b0dd07c13b5770f4dd2d79818ed2366210e9e"
+    },
+    {
+      "id": 24,
+      "speaker": "Garrod",
+      "text": "Garrod\n「Lucky you, getting a\nmessage from Tiffa! I'll\nguarantee your good fortune!」",
+      "offset": 3904162,
+      "source_sha256": "39cf485f2bbfc425c685abd32297910570c36fa53c32328236897126835ed84c"
+    },
+    {
+      "id": 25,
+      "speaker": "Garrod",
+      "text": "Garrod\n「Luck is always there! See you!」",
+      "offset": 3904248,
+      "source_sha256": "5dcce83ad7b8b0ee198724531220686e552de5727a53191dffdfacb06f85e108"
+    },
+    {
+      "id": 26,
+      "speaker": "Jamil",
+      "text": "Jamil\n「Is the moon out?」",
+      "offset": 3904290,
+      "source_sha256": "23e01776a929fc1f5728050fe2e00f3d331f9a7fbb1a66419aa0745eaaf01999"
+    },
+    {
+      "id": 27,
+      "speaker": "Sara",
+      "text": "Sara\n「Huh?」",
+      "offset": 3904317,
+      "source_sha256": "89ab9dc046ccb674965e691da5a53c1791e91899ab1e770523251805f500f6c0"
+    },
+    {
+      "id": 28,
+      "speaker": "Jamil",
+      "text": "Jamil\n「I'm asking whether\nthe moon is out!」",
+      "offset": 3904331,
+      "source_sha256": "1797ccef974ab44867a6e240b5d663c185b215797d8cca27b4773fac8ce973f0"
+    },
+    {
+      "id": 29,
+      "speaker": "Toniya",
+      "text": "Toniya\n「Sorry... our captain is\na little fussy when it\ncomes to the moon...」",
+      "offset": 3904377,
+      "source_sha256": "7c5efb52e0adf3deb359c333ad2f6589b14c3ee360d82dec6c16e04ad783313a"
+    },
+    {
+      "id": 30,
+      "speaker": "Toniya",
+      "text": "Toniya\n「Sorry, once you quit, could\nyou go outside and check? That\nmight calm things down...」",
+      "offset": 3904456,
+      "source_sha256": "ad428aa5ade78d2ec426b6867b70a24fbf4c0beb65aa502e803910e5b6635b2a"
+    },
+    {
+      "id": 31,
+      "speaker": "Sara",
+      "text": "Sara\n「Sorry for the trouble.\nPlease help. We'll await your\nnext game and your report.」",
+      "offset": 3904552,
+      "source_sha256": "06fec9b1efe26ee9051ce2f7634309b95558e3c5a89cc95ffea09139f266a229"
+    },
+    {
+      "id": 32,
+      "speaker": "Shinn",
+      "text": "Shinn\n「What are you thinking,\nstopping here?!」",
+      "offset": 3904641,
+      "source_sha256": "2206df1df811bd8249bf24cfc9ad99edb6135e68d1dfa8e6dd9c317dca075472"
+    },
+    {
+      "id": 33,
+      "speaker": "Rey",
+      "text": "Rey\n「Stop it, Shinn!」",
+      "offset": 3904690,
+      "source_sha256": "cffd9c914abfe036dd2873ef28bbdf5afa37f8d835271983800fc0f12ce9b65a"
+    },
+    {
+      "id": 34,
+      "speaker": "Shinn",
+      "text": "Shinn\n「Here, of all places...\nStopping here... I just...!」",
+      "offset": 3904714,
+      "source_sha256": "4a54a25dc4f986e419097160a57d6b8d087d07d33c325bcd6e5c2b2608a56752"
+    },
+    {
+      "id": 35,
+      "speaker": "Lunamaria",
+      "text": "Lunamaria\n「Getting angry just because\nthe game's being paused...」",
+      "offset": 3904775,
+      "source_sha256": "fae82b6e8029c65e1fcc5404a2fd5850a2db3a597f4e2a6621edea02a6ffb9b2"
+    },
+    {
+      "id": 36,
+      "speaker": "Meyrin",
+      "text": "Meyrin\n「Seriously, Shinn is such a child.」",
+      "offset": 3904843,
+      "source_sha256": "d6cf81040f45a5366acf8ee210ab7f343f8647b7d8118f8ac807c7b15f058cef"
+    },
+    {
+      "id": 37,
+      "speaker": "Lunamaria",
+      "text": "Lunamaria\n「Players, don't throw\ntantrums like that when the\ngame doesn't go your way!」",
+      "offset": 3904888,
+      "source_sha256": "f20f270151abfb41c560a68f175886f3a2ae5090dc5cee8017f9dcf9ab6e2713"
+    },
+    {
+      "id": 38,
+      "speaker": "Meyrin",
+      "text": "Meyrin\n「Now then, get some good rest!」",
+      "offset": 3904977,
+      "source_sha256": "edc5190d6316248d45bf638db259a2ca490ffe0847936b0592c532f8d7dd06c5"
+    },
+    {
+      "id": 39,
+      "speaker": "Lunamaria",
+      "text": "Lunamaria\n「Thanks for playing!」",
+      "offset": 3905018,
+      "source_sha256": "e7efa1fbf938721a8331b6b09d913011feb78280f90529d387b61fa73eb8a9cf"
+    },
+    {
+      "id": 40,
+      "speaker": "Gainer",
+      "text": "Gainer\n「Three in a squad... Me,\nSara, and the last one...\nIt'd have to be that one...」",
+      "offset": 3905052,
+      "source_sha256": "b8558c89cf5582577ac66d0f382f3f710414aa8fd4b92163e8c10a80e71ea281"
+    },
+    {
+      "id": 41,
+      "speaker": "Sara",
+      "text": "Sara\n「Gainer! The player's quitting,\nbut you're still playing Super\nRobot Wars?! Let me see!」",
+      "offset": 3905141,
+      "source_sha256": "122b2d12d60a75ac944c9d37a37991a6bb53db617ea1080ff38c29e41776ecba"
+    },
+    {
+      "id": 42,
+      "speaker": "Gainer",
+      "text": "Gainer\n「N-no, I mean it, Sara!」",
+      "offset": 3905237,
+      "source_sha256": "803f0b630c795693c08340184e6a5788f8cabde834bbb2129e2fe8cb8cf34d8d"
+    },
+    {
+      "id": 43,
+      "speaker": "Sara",
+      "text": "Sara\n「!! So that's your squad.\nFine. You're at that age. It's\nyour game. Do as you like!」",
+      "offset": 3905271,
+      "source_sha256": "719827489aec18c160608b7d4ffb6100ea1ae731a69889d613f9c4818fccff88"
+    },
+    {
+      "id": 44,
+      "speaker": "Gainer",
+      "text": "Gainer\n「Sorry, player! I'm\ngoing to go apologize!」",
+      "offset": 3905363,
+      "source_sha256": "1e3858c789171a2e52c0ab5fd669be1e298967aa0fd63b1a979bf3af718506dc"
+    },
+    {
+      "id": 45,
+      "speaker": "Gain",
+      "text": "Gain\n「Good grief... As always, their\nfights are embarrassing to watch.\nOne last tip before I go.」",
+      "offset": 3905416,
+      "source_sha256": "727b310b987b1fa398ab855955f15d399ac648debb41043ca98890903bfc5cfc"
+    },
+    {
+      "id": 46,
+      "speaker": "Gain",
+      "text": "Gain\n「Name the heroine after your\ncrush, and friends seeing your\nsave will embarrass you. See you!」",
+      "offset": 3905516,
+      "source_sha256": "bbff0d6cd6445d7fc73336762255bee7c06201cce77b2908cea9bd05518fc7f4"
+    },
+    {
+      "id": 47,
+      "speaker": "Gain",
+      "text": "Gain\n「Enemies keep landing\n10% shots? Just bad luck.\nNobody's to blame. See you!」",
+      "offset": 3905618,
+      "source_sha256": "15a18211855e9b90a6ed0750a20921b516ca5cb7ed625cc2aef004d0f657fe9c"
+    },
+    {
+      "id": 48,
+      "speaker": "Gain",
+      "text": "Gain\n「I hear the 'Tin Goldfish' sells\nfor a high price at the bazaar\nafter Episode 41. See you!」",
+      "offset": 3905702,
+      "source_sha256": "5a68f1cd106d7c6b07f799bff25a60a33bf3f43a17ebba9ce59a0cebe0ac11dc"
+    },
+    {
+      "id": 49,
+      "speaker": "Gain",
+      "text": "Gain\n「If you think the game is too hard,\ndon't go for SR Points. See you!」",
+      "offset": 3905801,
+      "source_sha256": "9925b2a6138dee0e964b3b63727d4e600129a184f24e96248deb25458b9c6f35"
+    },
+    {
+      "id": 50,
+      "speaker": "Gain",
+      "text": "Gain\n「Just between us, Gainer\nis... Whoops! Looks like\nhe's back. See you!」",
+      "offset": 3905878,
+      "source_sha256": "0d924e15e5b7db49d2e9b1224108f4f1a17131a5f9eb8a014ea9ac2072efe490"
+    },
+    {
+      "id": 51,
+      "speaker": "Ana",
+      "text": "Ana\n「Whaaat?! You're stopping\nalready?! After taking poor me\nhostage, too! How meeean!」",
+      "offset": 3905956,
+      "source_sha256": "f524529209e6054edbf7f4693d65cac4fc7e8964644dc7dbfbdbdc8a77db5934"
+    },
+    {
+      "id": 52,
+      "speaker": "Ana",
+      "text": "Ana\n「But you all have your\nown lives to lead, so I\nsuppose it can't be helped.」",
+      "offset": 3906046,
+      "source_sha256": "f639d526bdcf2838493ff57f58711ab8285064291ca8cdb95e78059ddc9d3abc"
+    },
+    {
+      "id": 53,
+      "speaker": "Ana",
+      "text": "Ana\n「Next time you play, play\nlots and lots, okay?」",
+      "offset": 3906128,
+      "source_sha256": "ac3a9d30646770da5bca6ef403589c4fbc1e3e4aff2c4af65261d4691c45dd86"
+    },
+    {
+      "id": 54,
+      "speaker": "Ana",
+      "text": "Ana\n「But! Playing too much like\nGainer used to is a no-no!」",
+      "offset": 3906182,
+      "source_sha256": "c2abf3cef9c3306316221cbfcff1bb9890ca1571f71dce05ca516baf8be45b8a"
+    },
+    {
+      "id": 55,
+      "speaker": "Enge",
+      "text": "Enge\n「How's your game coming along?」",
+      "offset": 3906244,
+      "source_sha256": "788b28689dda8c48cec327eb3af6d6559ab7db8f6bdf38811cc5e9a11d23f0cd"
+    },
+    {
+      "id": 56,
+      "speaker": "Kejinan",
+      "text": "Kejinan\n「...I'm bored. Enge, take over.」",
+      "offset": 3906283,
+      "source_sha256": "a92aa40503b5c9fb69ccdd4e2ea13f9173cf251cfb2330f7be94d848c84ead51"
+    },
+    {
+      "id": 57,
+      "speaker": "Enge",
+      "text": "Enge\n「No way! We only switched\nten minutes ago!」",
+      "offset": 3906326,
+      "source_sha256": "2a5add93833e591356a898477bc4bd52d01aa68aede6a7cc156298b17176a757"
+    },
+    {
+      "id": 58,
+      "speaker": "Kejinan",
+      "text": "Kejinan\n「Absurd! Maxing out funds\nin Episode 2 by getting\nwiped out over and over!」",
+      "offset": 3906377,
+      "source_sha256": "dcd74f93976c8b4e9d525dfed52647f707322f4079986366a499a317d25bb55a"
+    },
+    {
+      "id": 59,
+      "speaker": "Jaboli",
+      "text": "Jaboli\n「Stop arguing and get on with it!\nThis is President Kizz's save data!」",
+      "offset": 3906463,
+      "source_sha256": "e597e53374f0be172c5e92f5a899c608e7091ea74163b618e096191af6b4b510"
+    },
+    {
+      "id": 60,
+      "speaker": "Kejinan",
+      "text": "Kejinan\n「Why play on the president's\nsave?! Even a fun game\ngets boring like this!!」",
+      "offset": 3906543,
+      "source_sha256": "1b40b357fe8719ee485d8ab4e6bf48a42f5d166a3517bf5ef229099e6b5c02ab"
+    },
+    {
+      "id": 61,
+      "speaker": "Jaboli",
+      "text": "Jaboli\n「You at the screen...\nSome people are like this.\nI hope you enjoy playing.」",
+      "offset": 3906630,
+      "source_sha256": "6045e7b5b6edda47f8fc038ccac2bfd714b3d040c9442578afcfc134325f0a81"
+    },
+    {
+      "id": 62,
+      "speaker": "Raita",
+      "text": "Raita\n「Quitting already?! You wimp!\nCommander Tsukikage's hellish\ndrills will give you backbone!」",
+      "offset": 3906715,
+      "source_sha256": "62332f7fd95037abbc2b6c165492f9e0db11351e88d39a5e0bff35897744cb9a"
+    },
+    {
+      "id": 63,
+      "speaker": "Oliver",
+      "text": "Oliver\n「You've got a nerve, Raita. Who was\nthe first to start whining during\nour last special training session?」",
+      "offset": 3906815,
+      "source_sha256": "be4bf274d862e6d731ecf7fab9523b343f0058cd0d29621a9a3e407f5da50883"
+    },
+    {
+      "id": 64,
+      "speaker": "Raita",
+      "text": "Raita\n「Th-that was, well, um...」",
+      "offset": 3906930,
+      "source_sha256": "d344fa29f959726ce50dde06a3a505c152eacb3cf7ec70c267dd57f29867c356"
+    },
+    {
+      "id": 65,
+      "speaker": "Marin",
+      "text": "Marin\n「Come on, it's all right. It's not\nas though this is goodbye forever to\neveryone in front of the screen.」",
+      "offset": 3906965,
+      "source_sha256": "dd7eea1e4a294df6f69d3f007d7bb5141e676cf89de42ecd3e0447baf758cc2c"
+    },
+    {
+      "id": 66,
+      "speaker": "Raita",
+      "text": "Raita\n「Y-yeah, you're right! Let's\nleave it here for now!」",
+      "offset": 3907079,
+      "source_sha256": "59539304cbb313872b2998f571260429559fcc125356eb2c48184a333029075f"
+    },
+    {
+      "id": 67,
+      "speaker": "Marin",
+      "text": "Marin\n「To help save this planet's\nfuture, get some good rest.」",
+      "offset": 3907140,
+      "source_sha256": "dd61ba18c9ce0ff24eb90fd2cd29403efc65e511feaac15226a9eeac3c0ecf15"
+    },
+    {
+      "id": 68,
+      "speaker": "Oliver",
+      "text": "Oliver\n「Be sure to come\nback and play again!」",
+      "offset": 3907205,
+      "source_sha256": "cd097f0053e5f2fe75c68fa0746e3c6297796db1c8831272458726db66bfb470"
+    },
+    {
+      "id": 69,
+      "speaker": "Raita",
+      "text": "Raita\n「Good work!」",
+      "offset": 3907253,
+      "source_sha256": "ef2b81c42dcb376b879c3318815a49e6af6c7610ea0d1cff2d193cf722c9fc18"
+    },
+    {
+      "id": 70,
+      "speaker": "???",
+      "text": "???\n「Super Robot Wars... An endlessly\nexpanding sea of robot stories...」",
+      "offset": 3907274,
+      "source_sha256": "f1a9bd11c6de00b8a5043cbe5e01ce8a09e89c5f279a86ae0d387d58df0d5810"
+    },
+    {
+      "id": 71,
+      "speaker": "???",
+      "text": "???\n「What fate awaits Super Robot\nWars Z? What fate awaits\nMarin... and the player?」",
+      "offset": 3907349,
+      "source_sha256": "0fa2ed4ad33e3f4fecc3cd68b1da8469a691030634673362dd69e731b76a4ee7"
+    },
+    {
+      "id": 72,
+      "speaker": "???",
+      "text": "???\n「The player entered a\nworld of merged dimensions\nand endless conflict.」",
+      "offset": 3907436,
+      "source_sha256": "dcad075e35eaf72c71eded10eec068f5838a1b12adab54ddd8df9eb6c1ba27ca"
+    },
+    {
+      "id": 73,
+      "speaker": "???",
+      "text": "???\n「As desperate battles rage, foes\nkeep coming... What awaits the\nplayer at this struggle's end?」",
+      "offset": 3907514,
+      "source_sha256": "1405cb7c6e4ceeac5665259fa004c78a8d743539dda13d96ccfc8b3738a1a16f"
+    },
+    {
+      "id": 74,
+      "speaker": "???",
+      "text": "???\n「Please look forward to more\nSuper Robot Wars Z next time.」",
+      "offset": 3907616,
+      "source_sha256": "8dfd3a0eb85c196977fb801fda3354d0f68ed60627b64eca24cf0e2fce727412"
+    },
+    {
+      "id": 75,
+      "speaker": "Kiraken",
+      "text": "Kiraken\n「...No good! Clearing this stage\nwould open the way to Io, but...」",
+      "offset": 3907682,
+      "source_sha256": "5d06e4c57feb2359cc9f5d6eb8af21cde284863a1fca5facc9dadfe92a2f73e3"
+    },
+    {
+      "id": 76,
+      "speaker": "Toshiya",
+      "text": "Toshiya\n「Hand it over! If we leave\nit to Kiraken, we'll never\nsave everyone on Io!」",
+      "offset": 3907759,
+      "source_sha256": "1cbdc365036b2866309967d36733942d5fca82706eaf70d2c496806719fab98e"
+    },
+    {
+      "id": 77,
+      "speaker": "Julie",
+      "text": "Julie\n「Now, now... Don't get\nso worked up, you two.」",
+      "offset": 3907845,
+      "source_sha256": "505a26682adf061099284b9c9c753ec0fd1af21b97d0384de21ad3bbb3e0b397"
+    },
+    {
+      "id": 78,
+      "speaker": "Toshiya",
+      "text": "Toshiya\n「What is it, Julie?\nDon't tell me you...」",
+      "offset": 3907900,
+      "source_sha256": "3e8ad4eb529fd8b2e334cd16abf6e1d87b453c023c117695570dd19f44457c7e"
+    },
+    {
+      "id": 79,
+      "speaker": "Julie",
+      "text": "Julie\n「200, in cash. If you want to know\nhow to beat Super Robot Wars, you'll\nhave to pay at least that much.」",
+      "offset": 3907952,
+      "source_sha256": "f595e24d04c5dd543af2c3a94bbe61a365312f36beaf68a2c0c54ac5b9cc6365"
+    },
+    {
+      "id": 80,
+      "speaker": "Toshiya",
+      "text": "Toshiya\n「Tch! What a greedy bastard.」",
+      "offset": 3908065,
+      "source_sha256": "0d611462ff9c09bc8a0a9b59e964bc604bf6ecc63cf7261cf9a920235df50ab6"
+    },
+    {
+      "id": 81,
+      "speaker": "Kiraken",
+      "text": "Kiraken\n「As if I'd rely on the likes\nof Julie! I'll play all night\nwith guts and determination!」",
+      "offset": 3908105,
+      "source_sha256": "0510488ac8ad27cc9fcd1545aad6b5b18b47a5275b60d3949f6d77649271febd"
+    },
+    {
+      "id": 82,
+      "speaker": "Julie",
+      "text": "Julie\n「...Good grief. You in front of\nthe screen, please don't follow\nclever Mr. Kira's example.」",
+      "offset": 3908204,
+      "source_sha256": "8f8a8449f691a9e9ecde798a7f91daf4e18d29754d830e46ec16b4cee989cdd9"
+    },
+    {
+      "id": 83,
+      "speaker": "Kiraken",
+      "text": "Kiraken\n「...Haaah, this is hopeless...\nThere are so many numbers,\nI don't know what to do.」",
+      "offset": 3908304,
+      "source_sha256": "95a6741ec09024a7642839983809dbe0e6c9a420558454afe38d1ea4c4698e76"
+    },
+    {
+      "id": 84,
+      "speaker": "Toshiya",
+      "text": "Toshiya\n「What's up? Kiraken, are you\nhaving trouble with upgrades?」",
+      "offset": 3908398,
+      "source_sha256": "887c2c3b616a50afd3fe0b7ce171129127def6455f023af7e4df936e2fb66f18"
+    },
+    {
+      "id": 85,
+      "speaker": "Julie",
+      "text": "Julie\n「Upgrade a unit's strengths:\nMobility for dodgers, and even\nmore Armor for armored units.」",
+      "offset": 3908468,
+      "source_sha256": "a5392cad3039aebb645ea7801f2bcefd1c8d6c2e8e39a8fa88e93c9b8d6ba8db"
+    },
+    {
+      "id": 86,
+      "speaker": "Toshiya",
+      "text": "Toshiya\n「Ugh! Now you're trying\nto sell us lessons?!」",
+      "offset": 3908567,
+      "source_sha256": "e2376bbadcee2b987957abb78c2054aeb4f18841c55e0611675ba90ab80a55f6"
+    },
+    {
+      "id": 87,
+      "speaker": "Julie",
+      "text": "Julie\n「Relax, no tuition fee. If\nKiraken doesn't learn, my\nlife will be at risk too.」",
+      "offset": 3908623,
+      "source_sha256": "3e8d42a52ade2ee206d6a02afc7d53c445ac4c3c3dd067316447cd40e40b5c39"
+    },
+    {
+      "id": 88,
+      "speaker": "Toshiya",
+      "text": "Toshiya\n「While you're at it, Julie,\ntell us the shortcut from here\nto the final stage, too.」",
+      "offset": 3908711,
+      "source_sha256": "4b1cf201263aa28ae4dfae84d4376d96236719e7d3f681f6aed5f93a9dfe321e"
+    },
+    {
+      "id": 89,
+      "speaker": "Julie",
+      "text": "Julie\n「Toshiya... You and the player\nwill have to find that with\nyour own wits and courage.」",
+      "offset": 3908806,
+      "source_sha256": "43c5ebd91348bceea9b48eaf55d04781ba6f4c4ce4633bdcbceb2ef879e49664"
+    },
+    {
+      "id": 90,
+      "speaker": "Toshiya",
+      "text": "Toshiya\n「I'd be less of a man if I\nbacked down after hearing that!\nTime to start again, right now!」",
+      "offset": 3908901,
+      "source_sha256": "547b52ccdfd1ccb80dc33ac72a95bde3eccb855d2448ab6396b747b050633dd5"
+    },
+    {
+      "id": 91,
+      "speaker": "Julie",
+      "text": "Julie\n「Good grief... That defeats the\nwhole purpose of this screen...」",
+      "offset": 3909003,
+      "source_sha256": "79e60592f460fb83bc0d6603240caa9c2533fc626411ff0a8c8bd6233075951a"
+    },
+    {
+      "id": 92,
+      "speaker": "???",
+      "text": "???\n「Next time! Worlds collide!\nClashing cultures and\ntechnologies cause panic!」",
+      "offset": 3909076,
+      "source_sha256": "5d88a069b8aa361babb41a1ba433756c964820383311d6ab8b970be34b1516c1"
+    },
+    {
+      "id": 93,
+      "speaker": "???",
+      "text": "???\n「Just what is the connection\nbetween this incident\nand Trinity Energy?」",
+      "offset": 3909159,
+      "source_sha256": "d7f2a6877112f2ae364c817fc41bec25e0dfbc55e2a3da5366902a87eddfba81"
+    },
+    {
+      "id": 94,
+      "speaker": "???",
+      "text": "???\n「Next time on Super Robot\nWars Z: 'Who's the Narrator?'\nLook forward to it!」",
+      "offset": 3909237,
+      "source_sha256": "cb004931f85283a1ac93cc4a3fd16b21386a345f677af9e20acef0d1681fd3d5"
+    },
+    {
+      "id": 95,
+      "speaker": "Dalton",
+      "text": "Dalton\n「This side job... If Supreme\nCommander Gagarn finds\nout, I'll be a goner...」",
+      "offset": 3909320,
+      "source_sha256": "87384897a5b542d7596bf97cdac54db0937a5f03b8510e5ca92e752ea4f52991"
+    },
+    {
+      "id": 96,
+      "speaker": "Kazami",
+      "text": "Kazami\n「Oh, you're stopping the game?\nLong gaming sessions put a strain\non your eyes. A wise decision.」",
+      "offset": 3909406,
+      "source_sha256": "735417627c25098db98db39c68ba9d0fc1f41f4fb790ff897f07abc1fd51bb89"
+    },
+    {
+      "id": 97,
+      "speaker": "Kazami",
+      "text": "Kazami\n「Earth's peace is in your\nhands. Recover your strength\nbefore the next battle.」",
+      "offset": 3909512,
+      "source_sha256": "3202f9b30980b610cb2934942fffab93f4a2e7e3befaf6ed631943084382fd53"
+    },
+    {
+      "id": 98,
+      "speaker": "Kazami",
+      "text": "Kazami\n「Well then, take your\ntime and get some rest.」",
+      "offset": 3909601,
+      "source_sha256": "4a5cd761e8f91293cbe1c896919daf04815a938228549fe46c6a72cf4cae6743"
+    },
+    {
+      "id": 99,
+      "speaker": "Kazami",
+      "text": "Kazami\n「...Phew...」",
+      "offset": 3909657,
+      "source_sha256": "4aaa1b656c7c713d33a624acdfa2fbc1e984eed0713989b8ca2e869098896152"
+    },
+    {
+      "id": 100,
+      "speaker": "Kazami",
+      "text": "Kazami\n「...Hee hee hee...! Those nuisances\nare gone. Now I reign supreme!」",
+      "offset": 3909679,
+      "source_sha256": "62eaa80dd27b72affe9e71b9a85a103a3f030f8096dd2779336248360e653518"
+    },
+    {
+      "id": 101,
+      "speaker": "Kazami",
+      "text": "Kazami\n「Hee hee hee!\nHeee-hee-hee-hee-hee-hee...!」",
+      "offset": 3909756,
+      "source_sha256": "6a28ab5ebad2875868eed4801fab244dc71e94d91c514eb8caf79d5c1ee4750a"
+    },
+    {
+      "id": 102,
+      "speaker": "Anemone",
+      "text": "Anemone\n「No! I can't stand it!\nLet me play some more!」",
+      "offset": 3909809,
+      "source_sha256": "51303422a09926ba0628eb93dcb8f705a8e5cb570b523ae7bcdbbc83422dbd77"
+    },
+    {
+      "id": 103,
+      "speaker": "Dominic",
+      "text": "Dominic\n「Don't be selfish! I told\nyou, didn't I?! Only one\nhour of gaming a day!」",
+      "offset": 3909866,
+      "source_sha256": "28b749cdb796b2817a7f4d0e1a41151322820b8c8f10f4f82577951fb09b2f23"
+    },
+    {
+      "id": 104,
+      "speaker": "Anemone",
+      "text": "Anemone\n「Are you seriously saying that?!\nHow many days do you think it'll\ntake to finish at that rate?!」",
+      "offset": 3909950,
+      "source_sha256": "bbe30807a0366310d09d882651bd08eb0026b3e5431de4fcdcf511168c006289"
+    },
+    {
+      "id": 105,
+      "speaker": "Dominic",
+      "text": "Dominic\n「Play a little at a time\nand you'll reach the ending\neventually! So, for today...!」",
+      "offset": 3910057,
+      "source_sha256": "b4a7d61739105d009633775929e14bbd93d7b929fa902d7aa7ccb54fa9cf95a6"
+    },
+    {
+      "id": 106,
+      "speaker": "Anemone",
+      "text": "Anemone\n「Fine, then! Dominic, you\nidiot! I'm going to bed!」",
+      "offset": 3910151,
+      "source_sha256": "fb19d0e11a217a5d557f200ccdf350c11b70cea28b9aba15f10363b7a6dd98a4"
+    },
+    {
+      "id": 107,
+      "speaker": "Dominic",
+      "text": "Dominic\n「...I had no other choice,\nAnemone. When you start playing,\nyou won't even look my way...」",
+      "offset": 3910213,
+      "source_sha256": "427c12ec79af213621b9c3395c5964f16b5c96c4fcf192b82a7f8b180c0b45da"
+    },
+    {
+      "id": 108,
+      "speaker": "Dominic",
+      "text": "Dominic\n「I don't mind being insulted\nor hit. As long as you'll\npay attention to me...」",
+      "offset": 3910314,
+      "source_sha256": "ff4c2b216b5b1df44e024d52c5a6e46662c3ba06d40590e3e45c62d5bb55715e"
+    },
+    {
+      "id": 109,
+      "speaker": "Renton",
+      "text": "Renton\n「...Uh-oh... This guy's\nthe real thing...」",
+      "offset": 3910403,
+      "source_sha256": "c2bc92732fba0e31f16c92ef83756088ebbd93600bd1b362c74f198044e42396"
+    },
+    {
+      "id": 110,
+      "speaker": "Matthieu",
+      "text": "Matthieu\n「Huh? Stoner, whatcha doing?」",
+      "offset": 3910455,
+      "source_sha256": "c4358224baa56863906b589cbef54d8f905257ee5a7a00a94c9093bc6a74dba8"
+    },
+    {
+      "id": 111,
+      "speaker": "Stoner",
+      "text": "Stoner\n「Can't you see? I'm saving\nthe data from this session\nto a Memory Card (PS2).」",
+      "offset": 3910496,
+      "source_sha256": "1da7fd07c80b75c359f57ed8d7f0403c22f37364d7ea5cfc9624c00d4c25bfab"
+    },
+    {
+      "id": 112,
+      "speaker": "Matthieu",
+      "text": "Matthieu\n「No way! Seriously?! You've been\nthe one doing that, Stoner?!」",
+      "offset": 3910584,
+      "source_sha256": "82a4eac019f012dd7f35b41c5e531b05df86816c1655dbb49f945660ff55df81"
+    },
+    {
+      "id": 113,
+      "speaker": "Hilda",
+      "text": "Hilda\n「Of course not! Don't\nbelieve everything so easily!」",
+      "offset": 3910658,
+      "source_sha256": "5b21860643a2e7ef1e16b8e07a51bb03eacc4090b263db4853a8ceb0fcd4efa3"
+    },
+    {
+      "id": 114,
+      "speaker": "Gidget",
+      "text": "Gidget\n「That's right! The little\npeople inside the console\ndo that sort of thing!」",
+      "offset": 3910719,
+      "source_sha256": "9fcc6a78a3d0a8f3b5e7b46ba10d9e987516864913f03441d280c5d97995b24e"
+    },
+    {
+      "id": 115,
+      "speaker": "Moondoggie",
+      "text": "Moondoggie\n「Gidget... What you're\nsaying ain't right either...」",
+      "offset": 3910804,
+      "source_sha256": "84d7cd01f24187c8e2a2ba64ad6fb229c58cd377ee4d2969284a3e38e58dd7bd"
+    },
+    {
+      "id": 116,
+      "speaker": "Talho",
+      "text": "Talho\n「Geez! Suspending the game here?\nYou leave everything half-finished!」",
+      "offset": 3910870,
+      "source_sha256": "34d763ae70cd7c24eaf91c5064f14bfd1a003c575de5320a3014197925bd4f64"
+    },
+    {
+      "id": 117,
+      "speaker": "Ken-Goh",
+      "text": "Ken-Goh\n「Be reasonable, Talho. Don't\nblame the player here. You\nshould thank them! Thank them!」",
+      "offset": 3910948,
+      "source_sha256": "899967638553191999600957f5e1c92077945493d923580bbb72baa593abbf2e"
+    },
+    {
+      "id": 118,
+      "speaker": "Talho",
+      "text": "Talho\n「But...」",
+      "offset": 3911046,
+      "source_sha256": "1fb31d485d125dfbeea64047bc2640b0f3747f98867c422c4280ec1ece96f739"
+    },
+    {
+      "id": 119,
+      "speaker": "Hap",
+      "text": "Hap\n「Besides, what will you do\nif your hysterics make the\nplayers lose the will to play?」",
+      "offset": 3911063,
+      "source_sha256": "0550f532c90be8b81d8bad19fe3a054867d65f916780a20e794d0734856bb44f"
+    },
+    {
+      "id": 120,
+      "speaker": "Holland",
+      "text": "Holland\n「Don't worry, Hap. Super Robot Wars\nplayers aren't chickens who'd back\ndown over something like this.」",
+      "offset": 3911155,
+      "source_sha256": "54c5a201f296dfc9b592b97c5093bebf6656074fa6cd80468ca476d95581c820"
+    },
+    {
+      "id": 121,
+      "speaker": "Talho",
+      "text": "Talho\n「That's our leader! Such a\nbig heart... and forehead!」",
+      "offset": 3911268,
+      "source_sha256": "0a0584791987762a0e2ee17121142ee4e40bf42715c5067f630cb750ef28b5b0"
+    },
+    {
+      "id": 122,
+      "speaker": "Holland",
+      "text": "Holland\n「Y-you...! You said the\none thing you shouldn't!」",
+      "offset": 3911331,
+      "source_sha256": "d25cc50dd7dddd8a85a1a6f2d1c44208ffe8fdce9e35f272f5ed9a0eccc3dafb"
+    },
+    {
+      "id": 123,
+      "speaker": "Talho",
+      "text": "Talho\n「Everyone playing, come\nback as soon as you can!」",
+      "offset": 3911391,
+      "source_sha256": "393edc187f23e85278e913914b27604c92d1545f590dbaeca450a25a93b185df"
+    },
+    {
+      "id": 124,
+      "speaker": "Talho",
+      "text": "Talho\n「Otherwise, Holland's forehead\nwill just keep getting wider!」",
+      "offset": 3911449,
+      "source_sha256": "9fd46ba303d1dafbb525f6631a62a14d4a8709c7f5ee5ca35afb8f967a06f816"
+    },
+    {
+      "id": 125,
+      "speaker": "Dominic",
+      "text": "Dominic\n「S-so that means the\nsave is complete...?」",
+      "offset": 3911519,
+      "source_sha256": "d305f88e7596f938b7226a63eacff0b567871bfaa16a170cb821d63e426dbdd8"
+    },
+    {
+      "id": 126,
+      "speaker": "Renton",
+      "text": "Renton\n「Yeah. All that's left is to turn\noff the console, and you're done.」",
+      "offset": 3911572,
+      "source_sha256": "ee3547a7003becd6787b37c92612a48e684ed3f8dee26c41346ec036e51d88b2"
+    },
+    {
+      "id": 127,
+      "speaker": "Dominic",
+      "text": "Dominic\n「Then how do I\nresume the game?!」",
+      "offset": 3911650,
+      "source_sha256": "e9abadb18076fb588ae39dc8ef9baf597419d32290a123234a44d0e0e14e548f"
+    },
+    {
+      "id": 128,
+      "speaker": "Renton",
+      "text": "Renton\n「Turn on the console and\nchoose Continue or Load\non the title screen.」",
+      "offset": 3911694,
+      "source_sha256": "d3f6e906cff2e27c85099d8fe99db84c598a5b4626493676cb067063317aeec6"
+    },
+    {
+      "id": 129,
+      "speaker": "Dominic",
+      "text": "Dominic\n「All right, let's try it... ...What's\ngoing on?! It isn't working!!」",
+      "offset": 3911774,
+      "source_sha256": "1e9334e7181d17a26f160ea261a9d343eeb3d39c37f77c8c3ffd9a4f7e7e46c6"
+    },
+    {
+      "id": 130,
+      "speaker": "Renton",
+      "text": "Renton\n「Could it be because\nthis is missing?」",
+      "offset": 3911853,
+      "source_sha256": "f0011c92315544ccee6211207d510ac6433c3993ddd8a41a6ecc3ec2ba5e64c2"
+    },
+    {
+      "id": 131,
+      "speaker": "Dominic",
+      "text": "Dominic\n「The Memory Card (PS2)!!!」",
+      "offset": 3911901,
+      "source_sha256": "42d38191fa30cabeb1a19308aca0c7c2f1c9e1720ee416f56847f9f581529cca"
+    },
+    {
+      "id": 132,
+      "speaker": "Renton",
+      "text": "Renton\n「If you want it back, trade me a\nbrand-new pair of Kurie sneakers!」",
+      "offset": 3911938,
+      "source_sha256": "efca206142bb2c0839043993b394742febb2cbfbc610173486006bdd61f5cee3"
+    },
+    {
+      "id": 133,
+      "speaker": "Dominic",
+      "text": "Dominic\n「What?! N-no way!」",
+      "offset": 3912015,
+      "source_sha256": "bf7c342bba3dba00bfc68858b29c953d98452d78bd70573535844362ecb3deb7"
+    },
+    {
+      "id": 134,
+      "speaker": "Renton",
+      "text": "Renton\n「Ohhh! I'm seriously moved that\nyou've played this far! I'll work\njust as hard as all of you, too!!」",
+      "offset": 3912044,
+      "source_sha256": "6c299e9dd6f501253b5f670cfc0a59533982f6408f62026c8b822ddbfecc5f3f"
+    },
+    {
+      "id": 135,
+      "speaker": "Moondoggie",
+      "text": "Moondoggie\n「Renton, enough gushing.\nYour excess zeal is\nputting the player off.」",
+      "offset": 3912154,
+      "source_sha256": "660579601925e4b6e21230ae000655714441c864956587a9a90c3094e5f5f441"
+    },
+    {
+      "id": 136,
+      "speaker": "Renton",
+      "text": "Renton\n「Big Bro Doggie, how can you\nsay that?! Overwhelming passion is\nthe soul of Super Robot Wars!」",
+      "offset": 3912237,
+      "source_sha256": "48da45cf48465645493bd5aba7787464e1c2864cedd244ce744031428e51d558"
+    },
+    {
+      "id": 137,
+      "speaker": "Moondoggie",
+      "text": "Moondoggie\n「Is that how it is? ...What\ndo you think, Eureka?」",
+      "offset": 3912341,
+      "source_sha256": "cbaf93c3e87eff6fd4980aededa861c86ba485b25f338845912cc2fdba649c27"
+    },
+    {
+      "id": 138,
+      "speaker": "Eureka",
+      "text": "Eureka\n「It might be... a little annoying...」",
+      "offset": 3912405,
+      "source_sha256": "f6d60715488b3f0ca92040b4caa7baad29e10400e10a713839036f247be535d6"
+    },
+    {
+      "id": 139,
+      "speaker": "Renton",
+      "text": "Renton\n「...Sis... Here I am, with nobody\nunderstanding this passion...\nIt's extremely rough...!」",
+      "offset": 3912452,
+      "source_sha256": "f7a786dd162b4408410984aa044f7390baf5a91e9be55c7dad93f9f1b0805ce0"
+    },
+    {
+      "id": 140,
+      "speaker": "Apollo",
+      "text": "Apollo\n「Hey, hey! You're quitting here?!\nI still haven't had my fill!」",
+      "offset": 3912551,
+      "source_sha256": "0baf05914168d591d85ace2ee9a116e4ffa57c6842d9348a35fe7226931a6de3"
+    },
+    {
+      "id": 141,
+      "speaker": "Sirius",
+      "text": "Sirius\n「Enough, Apollo! Not everyone\nis as tough as you!」",
+      "offset": 3912624,
+      "source_sha256": "0acfbac539b01ddd6dbf8ee3a8a0c3894660ef5adf021658e5cfb1e1aea502f9"
+    },
+    {
+      "id": 142,
+      "speaker": "Silvia",
+      "text": "Silvia\n「That's right! Don't expect\neveryone to be like Apollo!」",
+      "offset": 3912684,
+      "source_sha256": "1ddec264524a45dfaf88bbb3b009dd4950155ae9acf499650af2b3633199162f"
+    },
+    {
+      "id": 143,
+      "speaker": "Apollo",
+      "text": "Apollo\n「Hah! I don't want to hear\nthat from Silvia, who broke the\ncontroller with her brute strength!」",
+      "offset": 3912750,
+      "source_sha256": "2982c9ad7d124ca605ef0987009d4ddf02f996baf782ba4002da46733b5d80ab"
+    },
+    {
+      "id": 144,
+      "speaker": "Sirius",
+      "text": "Sirius\n「I won't allow you\nto insult my sister!!」",
+      "offset": 3912855,
+      "source_sha256": "cc89e84516359f10e4db0ae54d8fb5a632c66e5bc42dd54793106cf8dc68eccd"
+    },
+    {
+      "id": 145,
+      "speaker": "Apollo",
+      "text": "Apollo\n「And I don't want to hear\nit from Sirius, either, with\nall his nervous resets!」",
+      "offset": 3912906,
+      "source_sha256": "43afb97b7a7b385faa6401aef1d1186c5712abeec3daf7a404d856219e895288"
+    },
+    {
+      "id": 146,
+      "speaker": "Silvia",
+      "text": "Silvia\n「Brother! But you said\nplaying by resetting was\nrefusing to accept defeat!」",
+      "offset": 3912995,
+      "source_sha256": "ff790247da882b463a59b899b7476466535888eac27a77652a5ea4f839765c4b"
+    },
+    {
+      "id": 147,
+      "speaker": "Sirius",
+      "text": "Sirius\n「Ugh...」",
+      "offset": 3913080,
+      "source_sha256": "b3636df8a96dc196950659eeeedab4ad457886cef06a6a27a252746dd7ddadd9"
+    },
+    {
+      "id": 148,
+      "speaker": "Apollo",
+      "text": "Apollo\n「Players, do as you like!\nI'm still not satisfied,\nbut see you next time!」",
+      "offset": 3913098,
+      "source_sha256": "31f4fbfb8a9b17ac331aa8d732c7e40c0bf7ca3da16c525a3833927b0abad954"
+    },
+    {
+      "id": 149,
+      "speaker": "Pierre",
+      "text": "Pierre\n「Hey, good work!」",
+      "offset": 3913182,
+      "source_sha256": "86afcb313b3d479c450cb7fdbe8a40e2b0e6edb0d73cfdd7a4415150e2e2ddf0"
+    },
+    {
+      "id": 150,
+      "speaker": "Tsugumi",
+      "text": "Tsugumi\n「Oh, you're suspending the game?\nThanks for all your hard work!」",
+      "offset": 3913209,
+      "source_sha256": "f9d265698ce56d722d903279b6db36a4bde7c3e1e3471d0db16e8636ef1a09b4"
+    },
+    {
+      "id": 151,
+      "speaker": "Jun",
+      "text": "Jun\n「Too much of anything isn't good\nfor you. Please take a good rest.」",
+      "offset": 3913284,
+      "source_sha256": "d2644cea726d494da2c0d2506b6072f04b4198d56c47084c2f3af7180fa5e794"
+    },
+    {
+      "id": 152,
+      "speaker": "Pierre",
+      "text": "Pierre\n「Then it's time to get that\nout-of-practice body moving!」",
+      "offset": 3913358,
+      "source_sha256": "7483f3f85e2f59faa99fbc929834c5dccf3659042d220a523bfda488c8560764"
+    },
+    {
+      "id": 153,
+      "speaker": "Tsugumi",
+      "text": "Tsugumi\n「What?! But the player's tired!」",
+      "offset": 3913425,
+      "source_sha256": "20d3c30e19d88469715a315781e8e17aa52d44b190194b8061c76df5d68ffad8"
+    },
+    {
+      "id": 154,
+      "speaker": "Jun",
+      "text": "Jun\n「Come on, let's let them rest!」",
+      "offset": 3913468,
+      "source_sha256": "bd9a386a9ea15bf2144493c19f77aff15b7e2d55af45a2212cb08c3d50dc4764"
+    },
+    {
+      "id": 155,
+      "speaker": "Pierre",
+      "text": "Pierre\n「Oh, all right... Hey, you! Get some\nexercise once in a while, whether\nit's soccer or anything else!」",
+      "offset": 3913506,
+      "source_sha256": "c40dcd3fcd5f60ed0c297953c0bf22df7e4e7170d74dc88f8ae084ad9e667157"
+    },
+    {
+      "id": 156,
+      "speaker": "Rena",
+      "text": "Rena\n「Oh... You ended the game\nby following the proper\nprocedure. How unusual...」",
+      "offset": 3913617,
+      "source_sha256": "5846b624ebe5a3ebe4d85984b2c3db17d65c09b6539f036e552cefc9751ddd1e"
+    },
+    {
+      "id": 157,
+      "speaker": "Rena",
+      "text": "Rena\n「I'm sorry, after you've taken the\ntrouble to come here, but all I can\ndo is tell prophecies... Here goes...」",
+      "offset": 3913701,
+      "source_sha256": "89da53540b5abaeacc9553232ed0c0b4275d9a0291a0229e7318892ba1865ec8"
+    },
+    {
+      "id": 158,
+      "speaker": "Rena",
+      "text": "Rena\n「Short on funds... Luck saves\nyou... Bless rings beside you...\nSpirit makes luck yours...」",
+      "offset": 3913818,
+      "source_sha256": "ebd69e63d952c121234032b1cf221af3a5e756da6bc461682a2e86b07ad244ae"
+    },
+    {
+      "id": 159,
+      "speaker": "Rena",
+      "text": "Rena\n「...That is all I could see. Until\nwe meet again, somewhere...」",
+      "offset": 3913916,
+      "source_sha256": "29f154477a184cee84555b77e9c73701ffeb1e1b08ee291ad65256a589b0734d"
+    },
+    {
+      "id": 160,
+      "speaker": "Reika",
+      "text": "Reika\n「Ah... To be sent to a place like\nthis... How unlucky can I be...?」",
+      "offset": 3913987,
+      "source_sha256": "28c0686d858a66c0ee0dad10ba2ce22a83d640f17d634ffa8309585eb131f136"
+    },
+    {
+      "id": 161,
+      "speaker": "Fudo",
+      "text": "Fudo\n「You fool!!」",
+      "offset": 3914063,
+      "source_sha256": "177f68bf8ad4f1d33056c258568459a8547092cdffd177d14fc18f49c89aabfa"
+    },
+    {
+      "id": 162,
+      "speaker": "Reika",
+      "text": "Reika\n「!?」",
+      "offset": 3914083,
+      "source_sha256": "8e2a2b5f4b73b7d1230cdf12cad33ee5996674a76a04d2a2904ac58a6a0b3363"
+    },
+    {
+      "id": 163,
+      "speaker": "Fudo",
+      "text": "Fudo\n「Be glad you appear at all. Here,\ntrue misfortune is being forgotten!」",
+      "offset": 3914096,
+      "source_sha256": "d4ab7fa65accf8cf36808f8061dc4c60d101d3fd2d4ebdaba4f23b5779891203"
+    },
+    {
+      "id": 164,
+      "speaker": "Reika",
+      "text": "Reika\n「Yes... If bad luck is my\ndefining trait, someone will\nalways remember me...!」",
+      "offset": 3914174,
+      "source_sha256": "aa1b0a70be80c5d538cf07455172ff935eadfd90f285000fc4041e6dc591d163"
+    },
+    {
+      "id": 165,
+      "speaker": "Fudo",
+      "text": "Fudo\n「A strength can become a\nweakness, and a weakness can\nbecome a strength. Remember that.」",
+      "offset": 3914261,
+      "source_sha256": "c963f2b49ff0aba0ab1a270d481842eb92e78ef688d7fa952bf295896b39e698"
+    },
+    {
+      "id": 166,
+      "speaker": "Reika",
+      "text": "Reika\n「Y-yes! Thank you!」",
+      "offset": 3914357,
+      "source_sha256": "cfdfb49cccdf6d1363a3bb5d40ded6c38dc75d51ad8d6b74a0dc89dfb7821b2f"
+    },
+    {
+      "id": 167,
+      "speaker": "Fudo",
+      "text": "Fudo\n「Players, it is just as I said.\nKeep that lesson in mind...」",
+      "offset": 3914385,
+      "source_sha256": "76f4c9f03a88c6537db70ae65d7ffd4ed5cbbd87c5fb7e2eec95f9520ac83a4d"
+    },
+    {
+      "id": 168,
+      "speaker": "Toma",
+      "text": "Toma\n「It seems the Wingless\nhave reached the limits\nof their strength...」",
+      "offset": 3914453,
+      "source_sha256": "dacbe3b64dd29fbdc80d85e5a643eb5dfb1087dc2b89e249b79ebc04f522e528"
+    },
+    {
+      "id": 169,
+      "speaker": "Futaba",
+      "text": "Futaba\n「Whaaat!? You should keep playing!\nIt's definitely about to get fun!」",
+      "offset": 3914529,
+      "source_sha256": "d8269db7413b933cb025a4741ebcdc07b5db8841121d898514650a3a10ab825f"
+    },
+    {
+      "id": 170,
+      "speaker": "Otoha",
+      "text": "Otoha\n「Futaba, push the Wingless too\nhard and wear them out, and we\nwon't get good Prana, will we?」",
+      "offset": 3914608,
+      "source_sha256": "b09b8eca2840ddaa069967299fd0f5e3eca83f305cc05d6a1f5068a7a88bdadf"
+    },
+    {
+      "id": 171,
+      "speaker": "Moroha",
+      "text": "Moroha\n「They're a precious source\nof Prana for us! Don't confuse\na game with play, Futaba!」",
+      "offset": 3914710,
+      "source_sha256": "0494293cdefbc1076c5d811e82177c236cf64ff95672c88fc52fb32a671d45ff"
+    },
+    {
+      "id": 172,
+      "speaker": "Toma",
+      "text": "Toma\n「Moroha, sir... games are play...」",
+      "offset": 3914804,
+      "source_sha256": "475b3e485b9e543620b993c99aed1c4d3faee13053cb4dcb378181f47b08085f"
+    },
+    {
+      "id": 173,
+      "speaker": "Kei",
+      "text": "Kei\n「Kei Katsuragi here. I jumped the\ngun and ended up as a Singularity,\nand now I'm in a real bind.」",
+      "offset": 3914846,
+      "source_sha256": "71b8e1878381a06d17e8bbee6bb58048a1b044b150022587cb12ad108e9ca325"
+    },
+    {
+      "id": 174,
+      "speaker": "Kei",
+      "text": "Kei\n「So everyone wants me.\nNot just girls... All sorts\nof armies want me too...」",
+      "offset": 3914950,
+      "source_sha256": "09e23b733deb756a2327fe136714aefccb767ddaf96f5710795be48fdaab61bc"
+    },
+    {
+      "id": 175,
+      "speaker": "Kei",
+      "text": "Kei\n「Next time on Super Robot\nWars Z: 'Come Back, Player'!」",
+      "offset": 3915033,
+      "source_sha256": "3b9e580385066b24b4cfca67704cb4c68d287c815c9d924054e7480d2b361ebd"
+    },
+    {
+      "id": 176,
+      "speaker": "Kei",
+      "text": "Kei\n「So hurry up and resume the\ngame, and come to my rescue!」",
+      "offset": 3915095,
+      "source_sha256": "447b998126c85838c59d53cb9b00ccb31b2b9c675f5c56bb9ac8833c6d9715b5"
+    },
+    {
+      "id": 177,
+      "speaker": "Kei",
+      "text": "Kei\n「I'm not interested in being\nchased by anyone but girls!」",
+      "offset": 3915159,
+      "source_sha256": "797f43e62c97c2debe0eaf9c4dcac58ee3918d8d8ff5e76b0bb4bc01025c3628"
+    },
+    {
+      "id": 178,
+      "speaker": "Kei",
+      "text": "Kei\n「Sigh... So unlucky. How\ndid the world get this way?\nOh... My fault... Sigh...」",
+      "offset": 3915223,
+      "source_sha256": "0d5852339fd3b7800c8239722201857700b608801aa4221f6311ca122659430e"
+    },
+    {
+      "id": 179,
+      "speaker": "Athena",
+      "text": "Athena\n「How irresponsible, Singularity.\nIf you weren't that sort\nof man, my mother...!」",
+      "offset": 3915309,
+      "source_sha256": "26b0b3f6ea4eaa2cf3df665e356270fe06532bce7459f6d7216f0ea355aa9306"
+    },
+    {
+      "id": 180,
+      "speaker": "Kei",
+      "text": "Kei\n「Athena! I've never forgotten\nTina, not for a moment!」",
+      "offset": 3915399,
+      "source_sha256": "36e0de926ff8cfeaf843ff72d622dc6f8142d82f67f126449aaa74797772c9bd"
+    },
+    {
+      "id": 181,
+      "speaker": "Mimsy",
+      "text": "Mimsy\n「Of course, of course! Last time,\nthe time before that... every time,\nyou're always murmuring 'Tina'!」",
+      "offset": 3915460,
+      "source_sha256": "7cb029034482d94bfbd6e6d392fefac11efc193ae2d1dc5c0bc6e0cce10d58a5"
+    },
+    {
+      "id": 182,
+      "speaker": "Kei",
+      "text": "Kei\n「Gah!? Mimsy! No, listen,\nthat's not what I mean...!」",
+      "offset": 3915571,
+      "source_sha256": "b4b04da7c7f207e30f0f1a48d7874d393251086e82c94d55a5d494febb041d2d"
+    },
+    {
+      "id": 183,
+      "speaker": "Mimsy",
+      "text": "Mimsy\n「I hate you, Kei!! I want\nnothing to do with you!」",
+      "offset": 3915631,
+      "source_sha256": "be530ab33eb4cc86ef58b6dc65ba25f514a0a627247012a058d3865ed935cb39"
+    },
+    {
+      "id": 184,
+      "speaker": "Athena",
+      "text": "Athena\n「You brought this on\nyourself. It's what a frivolous\nman like you deserves.」",
+      "offset": 3915690,
+      "source_sha256": "890b455cf2a28485eafe9f7a5d0d77010168c3a450c7b8f485cec3cfcc1d1831"
+    },
+    {
+      "id": 185,
+      "speaker": "Kei",
+      "text": "Kei\n「Why does it turn out like\nthis!? ...Players, be careful\nwhat you say, all right?」",
+      "offset": 3915776,
+      "source_sha256": "d6c95a4034557c02dd2c38abac069f3e27e828080d748af1b7e421cd53488743"
+    },
+    {
+      "id": 186,
+      "speaker": "Shaya",
+      "text": "Shaya\n「Hello, everyone. I'm Shaya,\nchief of the Glomar. We\nrun an Emaan caravan.」",
+      "offset": 3915865,
+      "source_sha256": "680ee54cdee83c37fce771fb85b1a48387972aebe1602451183fe6c464e33564"
+    },
+    {
+      "id": 187,
+      "speaker": "Shaya",
+      "text": "Shaya\n「Please continue to give us at\nthe Glomar your patronage...」",
+      "offset": 3915949,
+      "source_sha256": "2ea6b60264fd5cce27dede6169a3bf804f1463e8d702a94440064c52f716e4d0"
+    },
+    {
+      "id": 188,
+      "speaker": "Kei",
+      "text": "Kei\n「Advertising even now? Good\ngrief... You Emaan people really\ndo have a merchant's instincts.」",
+      "offset": 3916018,
+      "source_sha256": "521196fe59d0c389ab66e429b87ef08f8b754700f38541a6571434a9fd143859"
+    },
+    {
+      "id": 189,
+      "speaker": "Shaya",
+      "text": "Shaya\n「Oh, Kei... Now is the time for\na proper greeting. Everyone, I\nlook forward to your patronage.」",
+      "offset": 3916118,
+      "source_sha256": "33c95bcb2d89ce4d1b8f1d6d5fdcfa8111ebb1cd67477ae0fbed30062ed9628d"
+    },
+    {
+      "id": 190,
+      "speaker": "Kei",
+      "text": "Kei\n「Sigh... What good is asking\nfor their patronage when\nthey're stopping the game...?」",
+      "offset": 3916222,
+      "source_sha256": "1c076bfa387501f840d1afbc90194919e3440ce56a1748a3d418a423a15a0227"
+    },
+    {
+      "id": 191,
+      "speaker": "Mome",
+      "text": "Mome\n「Well then, dear player!\nLet's meet again!」",
+      "offset": 3916313,
+      "source_sha256": "654ef803adc6e74f3409dce3bd7e5ee65660a4d43bffafe258a618739eb667bd"
+    },
+    {
+      "id": 192,
+      "speaker": "Dorothy",
+      "text": "Dorothy\n「I see... You're stopping here...」",
+      "offset": 3916364,
+      "source_sha256": "a91aa43d38e95228fb132eb4ff3d3d2a8d1e2a607b496deaea7091e48ce1667c"
+    },
+    {
+      "id": 193,
+      "speaker": "Roger",
+      "text": "Roger\n「I won't let that happen! I,\nRoger Smith, will make sure\nyou continue the game!」",
+      "offset": 3916409,
+      "source_sha256": "435bfb091497892d0cc3baf3f4e623c89088ef8c8e2eb8ceea06aaeb481e455f"
+    },
+    {
+      "id": 194,
+      "speaker": "Roger",
+      "text": "Roger\n「Players, as long as this battle\nis still unfinished, it is hardly fair\nto stop the game at this point.」",
+      "offset": 3916498,
+      "source_sha256": "0047306be82171970abd326260d329b157793f5aca30e5cf6e377a16922a3381"
+    },
+    {
+      "id": 195,
+      "speaker": "Roger",
+      "text": "Roger\n「To begin with, this battle is...」",
+      "offset": 3916611,
+      "source_sha256": "465dc09509355198abf319bef347aa4484684b7f66cbe7f61e175746789b0362"
+    },
+    {
+      "id": 196,
+      "speaker": "Dorothy",
+      "text": "Dorothy\n「...That was rather forced. Your\nnegotiations have failed again.」",
+      "offset": 3916654,
+      "source_sha256": "5039f19e00d245e64583f4f250dc3172a4648d13246893e8e95bd322c58b7800"
+    },
+    {
+      "id": 197,
+      "speaker": "Roger",
+      "text": "Roger\n「What!? R. Dorothy Wayneright!」",
+      "offset": 3916730,
+      "source_sha256": "e35d6ffc0cb58ca76d269bf2e1802f7b0586c9c8171b501f6580f8a973aec0b7"
+    },
+    {
+      "id": 198,
+      "speaker": "Dorothy",
+      "text": "Dorothy\n「You should both take a little\nrest: the player and you, Roger.」",
+      "offset": 3916770,
+      "source_sha256": "348ac3a23460719d1388ad0494d595451dd47a39b931b39ece749e559b64e2ae"
+    },
+    {
+      "id": 199,
+      "speaker": "Dorothy",
+      "text": "Dorothy\n「Well then, good night.」",
+      "offset": 3916845,
+      "source_sha256": "0be333c0efd1d505e422c149df6a53c8fe0fddc70a58f2d08d8d0762f830ab77"
+    },
+    {
+      "id": 200,
+      "speaker": "Roger",
+      "text": "Roger\n「My name is Roger Smith.」",
+      "offset": 3916880,
+      "source_sha256": "3822630c41d0db976026b16e12f00580e3b3b6dbfb7436db717f3e237bfa6484"
+    },
+    {
+      "id": 201,
+      "speaker": "Roger",
+      "text": "Roger\n「I undertake important work, not\nonly in Paradigm City, but here\nin Super Robot Wars Z as well.」",
+      "offset": 3916914,
+      "source_sha256": "c4d9f82cca208f87ac861e554fcb52ead37ea89ea866786f27638af55e124ea6"
+    },
+    {
+      "id": 202,
+      "speaker": "Roger",
+      "text": "Roger\n「Even if I were merely an actor\nplaying Roger Smith here...」",
+      "offset": 3917019,
+      "source_sha256": "76df2465ff5127baabf3bd6f01a3ea5dc36f7a8a5f79e53cd4e5ece9f88e1b26"
+    },
+    {
+      "id": 203,
+      "speaker": "Roger",
+      "text": "Roger\n「As long as you call me Roger\nSmith, I am Roger Smith!」",
+      "offset": 3917088,
+      "source_sha256": "ab73b6922009f20940fccb6d177bde33e568019b9a7bc89188c00ec0f4f06e41"
+    },
+    {
+      "id": 204,
+      "speaker": "Roger",
+      "text": "Roger\n「So that I can continue to\nbe Roger Smith, I ask that you\nbe sure to resume the game.」",
+      "offset": 3917152,
+      "source_sha256": "3895e0a48156c6f1555c9a237a12bbb47dca7870b4d5885f35d044c8389c9bde"
+    },
+    {
+      "id": 205,
+      "speaker": "Roger",
+      "text": "Roger\n「Because it is not just for my\nown sake, but for yours as well.」",
+      "offset": 3917247,
+      "source_sha256": "7374d1fcffcfdb8cfd171fcee626a94b4e7380c3e987dc89739782febb2b1408"
+    },
+    {
+      "id": 206,
+      "speaker": "Touga",
+      "text": "Touga\n「Eiji! Eiji! Look! There's someone\nin front of the screen!」",
+      "offset": 3917320,
+      "source_sha256": "2856c39c5f1fc5acd0b6f79236c3fea12483cb28576fb1f6b11fbb8ea3708084"
+    },
+    {
+      "id": 207,
+      "speaker": "Eiji",
+      "text": "Eiji\n「Yeah, that's the player. They\nwere playing the game until just\nnow. Of course they're there!」",
+      "offset": 3917388,
+      "source_sha256": "ea2875c2ff14a8072638b822d275868d7b6e6fd964e5b4b3d7b958b3aabe9e5f"
+    },
+    {
+      "id": 208,
+      "speaker": "Touga",
+      "text": "Touga\n「Oh, I see... Thank you for\nplaying, everyone! I'm so happy\nI got to meet all of you.」",
+      "offset": 3917490,
+      "source_sha256": "f9bd20f69646064d62b3c19eadce39625cfb993d55d472069037a1b7adb534e6"
+    },
+    {
+      "id": 209,
+      "speaker": "Touga",
+      "text": "Touga\n「We'll see each other again\nfor sure, won't we...?」",
+      "offset": 3917585,
+      "source_sha256": "e64ce5cd9d041dbf42a46c6482b6fb08adeec570b124b1245fbced07ab762c64"
+    },
+    {
+      "id": 210,
+      "speaker": "Eiji",
+      "text": "Eiji\n「I'm asking you to come back\ntoo! We're not done protecting\nEarth from those villains yet!」",
+      "offset": 3917645,
+      "source_sha256": "2efec723226fe65ebe5d61ac66df8002a4bfbeb11bc83e6dee60b5cd1f56210e"
+    },
+    {
+      "id": 211,
+      "speaker": "Touga",
+      "text": "Touga\n「See you next time, then!」",
+      "offset": 3917744,
+      "source_sha256": "c23b12a9cb43fffe266c966a9201ce5e715abc343251fbf5909a6c284f03f6cc"
+    },
+    {
+      "id": 212,
+      "speaker": "Eiji",
+      "text": "Eiji\n「Good work!」",
+      "offset": 3917779,
+      "source_sha256": "d43ea29b20cd90cb4524502e6a9d84bd4028a6343c9e26030d15e42abb6366ba"
+    },
+    {
+      "id": 213,
+      "speaker": "Luna",
+      "text": "Luna\n「Honestly! Pausing right here!\nWhat are you going to do if the\nenemy attacks in the meantime!?」",
+      "offset": 3917799,
+      "source_sha256": "6f1a3cad7d5345d6ee5d03c7f422c17f9e8796cb045504142e0b63e89e6288ac"
+    },
+    {
+      "id": 214,
+      "speaker": "Eina",
+      "text": "Eina\n「Um, Lady Luna... The game\nstops when the power's\noff, so don't worry...」",
+      "offset": 3917902,
+      "source_sha256": "19582a05d7d4c9bc63e0c9ad2545639e9dc7d577933d5766c822732c8606ee96"
+    },
+    {
+      "id": 215,
+      "speaker": "Luna",
+      "text": "Luna\n「Huh!? Really!?」",
+      "offset": 3917983,
+      "source_sha256": "776b4ca760cff37831ea876ad10e9a9081fd1e0b275245f005979693abc792f6"
+    },
+    {
+      "id": 216,
+      "speaker": "Mizuki",
+      "text": "Mizuki\n「That's common sense... Try to\nbe a little calmer, like Leele.」",
+      "offset": 3918007,
+      "source_sha256": "ed27c3985c912e8f17b6a0e1ec7227ebb83be8238cdb3c0fa88b9dd412b8eaa7"
+    },
+    {
+      "id": 217,
+      "speaker": "Leele",
+      "text": "Leele\n「But I'm a little worried about\nwhether everyone in front of the\nscreen will resume the game...」",
+      "offset": 3918080,
+      "source_sha256": "afc777efe1442235e221c7bc8f147a9d6201cfa6d846a6d98024a7285a87844f"
+    },
+    {
+      "id": 218,
+      "speaker": "Mizuki",
+      "text": "Mizuki\n「Then why don't we send the player\na message? Here goes, everyone!」",
+      "offset": 3918185,
+      "source_sha256": "694ea9549806a10a08b5a26e9ae13bb8a8e95dfe78bdb901bab8d3bf93fdc39a"
+    },
+    {
+      "id": 219,
+      "speaker": "Luna",
+      "text": "Luna\n「Super Robot Wars Z!」",
+      "offset": 3918262,
+      "source_sha256": "0ce9c596913ac9b1c40ed03ed87eb5871eb6530f91fbe388ed8bb3d0c7d20cdc"
+    },
+    {
+      "id": 220,
+      "speaker": "Eina",
+      "text": "Eina\n「Next time you play, too...」",
+      "offset": 3918291,
+      "source_sha256": "89c4a092c07e4e04fea3957b9d810610ca251ccdc79d38caf5ed56b2f8fba986"
+    },
+    {
+      "id": 221,
+      "speaker": "Eina",
+      "text": "Eina\n「At your seeervice!」",
+      "offset": 3918327,
+      "source_sha256": "2c29fc8e39a179d6e1c35040bd79d7a6ee86464ec8a37c5bf898e96a96e15974"
+    },
+    {
+      "id": 222,
+      "speaker": "Raven",
+      "text": "Raven\n「So, you're stopping here. A\npity, when things are about to\nget even more interesting...」",
+      "offset": 3918355,
+      "source_sha256": "b6c246d656218f99f075fc3bffd9aea6359dd16a669ef4c71e9cac3ceac9f7df"
+    },
+    {
+      "id": 223,
+      "speaker": "Sandman",
+      "text": "Sandman\n「No, I'm sure the players know that\ntoo. But the courage to stop for\nthe sake of what they hold dear...」",
+      "offset": 3918453,
+      "source_sha256": "b446b36d4f71e8b50c067a77c4b249de5524f52bd543568397ea868cfb73a6d5"
+    },
+    {
+      "id": 224,
+      "speaker": "Sandman",
+      "text": "Sandman\n「In that, I saw the\nbeauty of the soul.」",
+      "offset": 3918568,
+      "source_sha256": "1c7d2b3f81f4c64a07fbc0e6b344ef73669c324346f2bdd74851ccaa0c828d5c"
+    },
+    {
+      "id": 225,
+      "speaker": "Raven",
+      "text": "Raven\n「Ah...」",
+      "offset": 3918619,
+      "source_sha256": "3bd212c4ad1f9d634d011f27aa5acc9605362d93ec89b08e8cd3ce0e98a3d657"
+    },
+    {
+      "id": 226,
+      "speaker": "Sandman",
+      "text": "Sandman\n「Players, I trust you to\nrelight the darkness left\nwhen the power is OFF...」",
+      "offset": 3918635,
+      "source_sha256": "5d577f4f3ba84148856bc1ceb2270d9f891f360c733d686f2269ec3c3059cb67"
+    },
+    {
+      "id": 227,
+      "speaker": "Sandman",
+      "text": "Sandman\n「Until then, let these frail fallen\nangels have a brief rest...」",
+      "offset": 3918722,
+      "source_sha256": "20e25f9f84dd53e1b0035b39a8e006fb6cea55aeb65d223052d4abe031bd8eb5"
+    },
+    {
+      "id": 228,
+      "speaker": "Touga",
+      "text": "Touga\n「What's the matter, Eiji?\nYou look awfully serious...」",
+      "offset": 3918797,
+      "source_sha256": "717787c3a72bc17b98e05f2e900ed886aa2fdeedda5a0bc14055aeb1a25d9c4a"
+    },
+    {
+      "id": 229,
+      "speaker": "Eiji",
+      "text": "Eiji\n「I've been wondering for a while...\nCan't you do something about\nthat wishy-washy expression?」",
+      "offset": 3918860,
+      "source_sha256": "b3740ad1fd5c08b90103ab656b123cc69cd6cf9c25e04abbfb501d993f713a55"
+    },
+    {
+      "id": 230,
+      "speaker": "Eiji",
+      "text": "Eiji\n「You're a super\nrobot pilot, right?」",
+      "offset": 3918962,
+      "source_sha256": "932671061dc2f93e61869c762b41eea8ba547323465fc922e4dcb1d5c5f3c603"
+    },
+    {
+      "id": 231,
+      "speaker": "Touga",
+      "text": "Touga\n「Huh...?」",
+      "offset": 3919006,
+      "source_sha256": "65e7363627054a9d54e8ad735a4ed31d3721f90dcb970a1313e6d355cc2e17d8"
+    },
+    {
+      "id": 232,
+      "speaker": "Mizuki",
+      "text": "Mizuki\n「You're right... Touga does\nlack a bit of assertiveness.」",
+      "offset": 3919024,
+      "source_sha256": "786876b06e1709401b8abfc4be4aefed0381c1d84ef14e673c19ce9238335abe"
+    },
+    {
+      "id": 233,
+      "speaker": "Leele",
+      "text": "Leele\n「Touga looks so sharp in\nthe cockpit, though...」",
+      "offset": 3919091,
+      "source_sha256": "520dc3eb34a47066b1daef0e15a1365ac44283a2c8546b9d0dd4818e2441fa3c"
+    },
+    {
+      "id": 234,
+      "speaker": "Luna",
+      "text": "Luna\n「Couldn't you add a little\nmore hot-blooded spirit?」",
+      "offset": 3919148,
+      "source_sha256": "f8ef9f1d68824ab82d51f1b0ffbad624130841e68f672664e5cd5c6e2d440561"
+    },
+    {
+      "id": 235,
+      "speaker": "Eina",
+      "text": "Eina\n「Then, by popular demand!\nMaster Touga, give us a\npreview of the next episode!」",
+      "offset": 3919208,
+      "source_sha256": "b8f3d1b5f255b4820a74265d355c97cac6201da2d7847f4c8c13a07ea1ad2bfd"
+    },
+    {
+      "id": 236,
+      "speaker": "Touga",
+      "text": "Touga\n「Six heroes face advancing Zeravire!\nLove and courage's super-heavy\ncombining god calls a miracle!」",
+      "offset": 3919295,
+      "source_sha256": "20a5a70a088a7a5afa9616246ccdcd9a64decba59527ad6e652940a42f0eef3c"
+    },
+    {
+      "id": 237,
+      "speaker": "Touga",
+      "text": "Touga\n「Roar, Super Heavyweight\nSword! Fly, Gravion!」",
+      "offset": 3919403,
+      "source_sha256": "4ee0c0272f80c916043461db16148f0d65f4f517a47f0bb5e651ada785c2909e"
+    },
+    {
+      "id": 238,
+      "speaker": "Touga",
+      "text": "Touga\n「Next time on Super Robot\nWars Z: 'Hot-Blooded! Super\nHeavyweight God Gravion!'」",
+      "offset": 3919458,
+      "source_sha256": "ef560c75635ae29850b805b7e2f76c2f2a8aa42d4f6c1069bcf41631d9f67f1e"
+    },
+    {
+      "id": 239,
+      "speaker": "Touga",
+      "text": "Touga\n「You too, join us!\nErgo Fooooooorm!!」",
+      "offset": 3919547,
+      "source_sha256": "722c70fe2e8bdb61d915fa05c23b51cf94d79646be14a66e2d46863d29be4544"
+    },
+    {
+      "id": 240,
+      "speaker": "Eiji",
+      "text": "Eiji\n「What do you know! You\ncan do it when you try!」",
+      "offset": 3919593,
+      "source_sha256": "c687e7087b266cbef63546c2659a3f46574e3a23914564b338ef598268af9cd1"
+    },
+    {
+      "id": 241,
+      "speaker": "Kappei",
+      "text": "Kappei\n「Well, well, Uchuta, and Keiko\ntoo! ...What are you doing?」",
+      "offset": 3919648,
+      "source_sha256": "cdf05f90ba0936eac82d02f3d4d2785bc66c17457ea562d1c5bc8458037bc5e3"
+    },
+    {
+      "id": 242,
+      "speaker": "Keiko",
+      "text": "Keiko\n「Honestly! The player's ending the\ngame, so we're saying goodbye!」",
+      "offset": 3919717,
+      "source_sha256": "b6ab0fe201a1b527041631cc7ff3c95c681c5668a9d6bca5419f69eee09264de"
+    },
+    {
+      "id": 243,
+      "speaker": "Uchuta",
+      "text": "Uchuta\n「Jeez, you came here\nwithout even knowing that?」",
+      "offset": 3919792,
+      "source_sha256": "ca38e48bd9ac82ad22cfb042523dfe6f356ffc8e5e81b9c56d4f5ad370b3af68"
+    },
+    {
+      "id": 244,
+      "speaker": "Kappei",
+      "text": "Kappei\n「What was thaaat?!」",
+      "offset": 3919850,
+      "source_sha256": "0f94e047d272bab2f36d8c88baf2026ebe672206151be8672ab74466f0a19103"
+    },
+    {
+      "id": 245,
+      "speaker": "Keiko",
+      "text": "Keiko\n「Hey! Kappei! You too,\nUchuta! ...Sorry, everyone.\nGet some good rest!」",
+      "offset": 3919879,
+      "source_sha256": "a28efd794a3fe22dc33e6398d00275931f16a4522c9290355e72e9d198666ca7"
+    },
+    {
+      "id": 246,
+      "speaker": "Uchuta",
+      "text": "Uchuta\n「Come back and start playing\nagain soon, if you can!」",
+      "offset": 3919959,
+      "source_sha256": "80b6031c8eb6a1e2d38f10db65d0cb49ef1d544a169f25814e192af698479e98"
+    },
+    {
+      "id": 247,
+      "speaker": "Kappei",
+      "text": "Kappei\n「See you, then!」",
+      "offset": 3920022,
+      "source_sha256": "9a77e4a4cee2295d3eacec3ca41a3ea16d6926227499e87efa7b680c5a194ba4"
+    },
+    {
+      "id": 248,
+      "speaker": "Heizaemon",
+      "text": "Heizaemon\n「A crisis is closing in on not\njust Kappei and the others,\nbut all of Earth's people...」",
+      "offset": 3920048,
+      "source_sha256": "23b661432a75ab2a4f909f20d7bc312d1928d57e9bca8883ce40efdf418988b1"
+    },
+    {
+      "id": 249,
+      "speaker": "Heizaemon",
+      "text": "Heizaemon\n「We, the Jin Family, search for\na path to peace in a world ruled\nby chaos. What lies ahead?」",
+      "offset": 3920149,
+      "source_sha256": "9db455e0d08e6b89f6f850aad0d26a38b231f3e155c2354d330091c069623504"
+    },
+    {
+      "id": 250,
+      "speaker": "Heizaemon",
+      "text": "Heizaemon\n「Next time on Super Robot Wars\nZ: 'A New Battle.' Now then... how\nto fight through to the very end?」",
+      "offset": 3920254,
+      "source_sha256": "fd78c6f350e238e4c60d65ff17f40aaf1f7a4cfd93a6fed91ba1280536f0a1b7"
+    },
+    {
+      "id": 251,
+      "speaker": "Butcher",
+      "text": "Butcher\n「Ho-ho-ho-ho-ho!」",
+      "offset": 3920367,
+      "source_sha256": "386e20afaeab5636281e4549c295ea35f7af69b87164822015c7b781d8b34010"
+    },
+    {
+      "id": 252,
+      "speaker": "Valetar",
+      "text": "Valetar\n「Foolish Earthlings! Serious\nabout stopping us Gaizock?\nResume playing soon!」",
+      "offset": 3920395,
+      "source_sha256": "2942f209f1bbff8407b562d93dab1e9e717e491bc2e5ad7a87d79a77da794ed5"
+    },
+    {
+      "id": 253,
+      "speaker": "Valetar",
+      "text": "Valetar\n「Even while you rest, we'll\nburn down towns one by one, you\nknow? Hee-hee-hee-hee-hee!」",
+      "offset": 3920483,
+      "source_sha256": "add9b46b362b371c26a67a14d9aca2b83247f90065a9bd1d27a1ac47ef684075"
+    },
+    {
+      "id": 254,
+      "speaker": "Kazuki",
+      "text": "Kazuki\n「Running away, Kappei?!\nThe game's not over yet!」",
+      "offset": 3920581,
+      "source_sha256": "4662aa7948596be4b9acbd7e8817096456daa3bd8c32d43922eee03715af249a"
+    },
+    {
+      "id": 255,
+      "speaker": "Kazuki",
+      "text": "Kazuki\n「...That's what I'd like to say,\nbut you've worked really hard too.\nFor now, get some good rest.」",
+      "offset": 3920640,
+      "source_sha256": "a4933a8bb32a22d35c93ba6e729bccbe8a81039b29a6d17563b944064eec9faf"
+    },
+    {
+      "id": 256,
+      "speaker": "Kazuki",
+      "text": "Kazuki\n「Hey... I hear you're\nfighting for Earth alongside\nthe Jin Family too...」",
+      "offset": 3920747,
+      "source_sha256": "9500966c76c184556b807daa4ed25b698d94e1306f056efabc81f18417c8f7f5"
+    },
+    {
+      "id": 257,
+      "speaker": "Kazuki",
+      "text": "Kazuki\n「Sorry I doubted you earlier...\nI want to thank you for\nall your hard work too.」",
+      "offset": 3920830,
+      "source_sha256": "96df80f4cf600406980573ecedf3c1facf8e0aa933b31cd8f337a0fc787b9b3d"
+    },
+    {
+      "id": 258,
+      "speaker": "Kazuki",
+      "text": "Kazuki\n「But come back as soon\nas you can. There are still\nenemies out to get Earth.」",
+      "offset": 3920920,
+      "source_sha256": "48e17ccc6180b2ef1fa3b4fd06ca2457026eb3f6eac99a7cfa029e8d83eba902"
+    },
+    {
+      "id": 259,
+      "speaker": "Kazuki",
+      "text": "Kazuki\n「See you. I believe you'll win.」",
+      "offset": 3921007,
+      "source_sha256": "351938a346488e9a19799ab7c2e2766c0f2e8bb37a0dfa617308f8d36d7e38cd"
+    },
+    {
+      "id": 260,
+      "speaker": "Asuham",
+      "text": "Asuham\n「That's it, Overdevil!\nShow me the power to bring\nthis game to an eeeend!!」",
+      "offset": 3921049,
+      "source_sha256": "24c94d2984ae0f1f5e7759c30d72886602b7a2fe9f993dda983ac32a6c474d6a"
+    },
+    {
+      "id": 261,
+      "speaker": "Ghingnham",
+      "text": "Ghingnham\n「Nooo!! Turn X alone deserves\nto end this game, the symbol\nof machine civilization!」",
+      "offset": 3921134,
+      "source_sha256": "6d803519fdb3b5fe1124ec2d3179ddb35b62d988960462a35e7b431dd1db4399"
+    },
+    {
+      "id": 262,
+      "speaker": "Asuham",
+      "text": "Asuham\n「There's no way I can lose! I'm at\nmy absolute beeeest right now!」",
+      "offset": 3921231,
+      "source_sha256": "ef0c374084e75589b5b8740d5fce436a3f2d98d4ef76baf7ea246f6e97800549"
+    },
+    {
+      "id": 263,
+      "speaker": "Ghingnham",
+      "text": "Ghingnham\n「Then it's... the\nMoonlight Butterflyyyy!!」",
+      "offset": 3921307,
+      "source_sha256": "b572d2e76f963d8930490bebad31b88c6b0f1f1f747b3e9822056ab01ca69e57"
+    },
+    {
+      "id": 264,
+      "speaker": "Neo",
+      "text": "Neo\n「Well... never mind those weirdos...\nOnce you've had a good rest,\ncome back and play again.」",
+      "offset": 3921363,
+      "source_sha256": "614b0454098212b2b94f4bbc98ad423c0bf6088ec0648804b293d1b4f92d6f23"
+    },
+    {
+      "id": 265,
+      "speaker": "Mu",
+      "text": "Mu\n「Well... never mind those weirdos...\nOnce you've had a good rest,\ncome back and play again.」",
+      "offset": 3921462,
+      "source_sha256": "9cdf2bed08c5727a505463519ccf2c1790e7d19bcbc1766528c8d61fd591829f"
+    },
+    {
+      "id": 266,
+      "speaker": "Jiron",
+      "text": "Jiron\n「Good work! Looks like you\nreally put in a lot of effort\ntoday, too. Get some good rest.」",
+      "offset": 3921560,
+      "source_sha256": "ef8b05bec58e0c64357a79989f1b8c1b0f8e6fb3d3c3234cead2123cbe4533a4"
+    },
+    {
+      "id": 267,
+      "speaker": "Jiron",
+      "text": "Jiron\n「Eating's the best way to get\nyour energy back. All right...\nI'll bring you something good.」",
+      "offset": 3921658,
+      "source_sha256": "08490b78824f3bfb6536e93a966a1ad8220b888712425a9edbe61254e804b789"
+    },
+    {
+      "id": 268,
+      "speaker": "Jiron",
+      "text": "Jiron\n「Don't worry! Not whole roast\nlizard or dried snake! Sweet and\nfresh, straight from the source...」",
+      "offset": 3921759,
+      "source_sha256": "2c24970cdccd0e40b44c90ff7f4a702da9b9abec4f7098fa1107517596e06eb4"
+    },
+    {
+      "id": 269,
+      "speaker": "Jiron",
+      "text": "Jiron\n「Melon Amos! Go\non, eat your fill!」",
+      "offset": 3921866,
+      "source_sha256": "df8b8e572583ea62916ca3c407a7423b778f52a2814c81de3cc58435cdd7f5f1"
+    },
+    {
+      "id": 270,
+      "speaker": "Timp",
+      "text": "Timp\n「Heh... Now that I've run\nthis far, even that persistent\nguy should give up.」",
+      "offset": 3921910,
+      "source_sha256": "322fce2701aed36725394b8db530c61ea4a813a94a16723d75da9d201df31828"
+    },
+    {
+      "id": 271,
+      "speaker": "Timp",
+      "text": "Timp\n「All you guys and gals\nplaying, don't go telling\nthat Domanju where I am.」",
+      "offset": 3921995,
+      "source_sha256": "e3d74e295d7c1b687e6461668fe4509fc832a64111384a316ca9296a7f491c81"
+    },
+    {
+      "id": 272,
+      "speaker": "Timp",
+      "text": "Timp\n「Of course, I'll repay you\nfor keeping quiet. I've got a\nchoice piece of information.」",
+      "offset": 3922077,
+      "source_sha256": "d2615f4b729fcd420087dd843eea7b0e69c5d8f354efffb3f663375b8dde8ffe"
+    },
+    {
+      "id": 273,
+      "speaker": "Timp",
+      "text": "Timp\n「From what I've heard, a 'Booster'\ncan be sold for 1,000,000 BS at the\nbazaar after the final episode.」",
+      "offset": 3922171,
+      "source_sha256": "73b2dac60712b0ad0b6628f896c06be0b6b9c1c7c1c50f8d6868c575755fb32c"
+    },
+    {
+      "id": 274,
+      "speaker": "Timp",
+      "text": "Timp\n「Keep at least one Booster.\nNo guarantees there's a bazaar\nafter the final episode, though!」",
+      "offset": 3922282,
+      "source_sha256": "dfb25a68b949c34f792f75cfe93dc2cc3772ed1b00cef916379258f416f7de85"
+    },
+    {
+      "id": 275,
+      "speaker": "Daisuke",
+      "text": "Daisuke\n「Earth shines with justice\nand love. My friends and I\nvowed to keep it peaceful.」",
+      "offset": 3922382,
+      "source_sha256": "3e37ef6dc7199244767f787b3a63a4a95f23f9762f91571bb81825d73c4805ca"
+    },
+    {
+      "id": 276,
+      "speaker": "Daisuke",
+      "text": "Daisuke\n「Protecting that peace\nwill take your help as\nplayers of this game, too.」",
+      "offset": 3922474,
+      "source_sha256": "600570c4d05a23b043ab9d7a00912ccca0f2f73b0009895df1a0c4de3e3764ab"
+    },
+    {
+      "id": 277,
+      "speaker": "Daisuke",
+      "text": "Daisuke\n「Let's join forces and fight\ntogether. I'll be waiting\nfor you to play again.」",
+      "offset": 3922558,
+      "source_sha256": "9ebf0ebddebd268e9455f8bdba5b8d3c87202bdf9bf46dcbe9c4ac9d5e4269a0"
+    },
+    {
+      "id": 278,
+      "speaker": "Denzel",
+      "text": "Denzel\n「Attention! (Stand\nat attention!)」",
+      "offset": 3922647,
+      "source_sha256": "8d563f26382a3aed183a476b81e059ca18d91b650053b1cb6ae98a7dc70e4278"
+    },
+    {
+      "id": 279,
+      "speaker": "Toby",
+      "text": "Toby\n「Sir! Yes, sir!」",
+      "offset": 3922691,
+      "source_sha256": "57b8314efbb94113eb6a4b0a2a6fc689b834f8c86eea1663f96b6b23ac9d65ff"
+    },
+    {
+      "id": 280,
+      "speaker": "Denzel",
+      "text": "Denzel\n「Parade! Rest! (Line\nup! At ease!)」",
+      "offset": 3922715,
+      "source_sha256": "c38b3ddb7f9473268361bafdd580d09781dfb7fc6cf39120d3a4ed17d9de3275"
+    },
+    {
+      "id": 281,
+      "speaker": "Setsuko",
+      "text": "Setsuko\n「Sir! Yes, sir!」",
+      "offset": 3922760,
+      "source_sha256": "a750feed432fac490c68bd4e14ee74fbcd1394a11e12ac8000e848204040b715"
+    },
+    {
+      "id": 282,
+      "speaker": "Denzel",
+      "text": "Denzel\n「Present, arms!」",
+      "offset": 3922787,
+      "source_sha256": "7f1c313f15b980b007bb7643e9be56ad939b5decfd9088feebca2af1cf365770"
+    },
+    {
+      "id": 283,
+      "speaker": "Setsuko",
+      "text": "Setsuko\n「Um... What did that mean again?」",
+      "offset": 3922813,
+      "source_sha256": "53a0736355430035e2ef9411605d241e1bfeef826ea8a322622d2f0675a45db4"
+    },
+    {
+      "id": 284,
+      "speaker": "Denzel",
+      "text": "Denzel\n「It's a rifle salute. Learning\nmilitary terms is a soldier's\nduty too, Second Lieutenant.」",
+      "offset": 3922857,
+      "source_sha256": "98678aa837cb100b805e63315a097ef4cfeeb74ed241b3d494d36b9d2298faaa"
+    },
+    {
+      "id": 285,
+      "speaker": "Toby",
+      "text": "Toby\n「If you don't know a term,\nlook it up in 'Strategy\nQ&A' in the 'Library'.」",
+      "offset": 3922957,
+      "source_sha256": "56675bfda559b77c72f6ff56db1d6207d8f3ec1f2a03619aaff19065a4033990"
+    },
+    {
+      "id": 286,
+      "speaker": "Setsuko",
+      "text": "Setsuko\n「I-I doubt even Strategy Q&A\ncovers terminology like that...」",
+      "offset": 3923039,
+      "source_sha256": "134b2ef13ce5203bf4f52c7f561cb2a406253a073fa0ec58ba204942080d02bb"
+    },
+    {
+      "id": 287,
+      "speaker": "Denzel",
+      "text": "Denzel\n「Ignore Toby's joke,\nSecond Lieutenant. Now then,\ndismissed! (You may go!)」",
+      "offset": 3923111,
+      "source_sha256": "78dccd87737d35127fd974fb17bf1ecee853a37302cbf99681fd1c7da5cba2ac"
+    },
+    {
+      "id": 288,
+      "speaker": "Rand",
+      "text": "Rand\n「We're Beater Services, the familiar\nroving repair crew! Known for honest\nservice and our staff's smiles.」",
+      "offset": 3923196,
+      "source_sha256": "e08a6f5db86fd39ded9c6a16c7275b845440bb1575c359c1551d8df30e283e91"
+    },
+    {
+      "id": 289,
+      "speaker": "Mel",
+      "text": "Mel\n「Today, we'll give all you\nplayers a few tips on getting\nalong with your game consoles.」",
+      "offset": 3923310,
+      "source_sha256": "0429a3bedc10216cd674c69a05cdb42e50a9b8a4841ca351b3ce299ec9a287d1"
+    },
+    {
+      "id": 290,
+      "speaker": "Mel",
+      "text": "Mel\n「In a word...!」",
+      "offset": 3923405,
+      "source_sha256": "775a7c9fca1cfe50a4aa2dca6e50b59c38d62e5395c6864a747a143dd48bfdf2"
+    },
+    {
+      "id": 291,
+      "speaker": "Rand",
+      "text": "Rand\n「Love! That's the key to the bond\nbetween people and machines!」",
+      "offset": 3923427,
+      "source_sha256": "c6c3243253a78dd7567a2b98420b403f1e07121a870bf03ee5d75daa7ef3e6e5"
+    },
+    {
+      "id": 292,
+      "speaker": "Mel",
+      "text": "Mel\n「...Darling. Gunleon seems\nto be acting up...」",
+      "offset": 3923498,
+      "source_sha256": "a7e778a7fafb59ab6f2fa7cc7b06f8fca1e9c7e3d06186aee85609fd0251ce6d"
+    },
+    {
+      "id": 293,
+      "speaker": "Rand",
+      "text": "Rand\n「Then give the console\na full-force chop at a\n45-degree angle to the right!」",
+      "offset": 3923551,
+      "source_sha256": "48849efc80bcd3ef30d467f1283980fcdbac7450c16e176c4f5b3152e0d71341"
+    },
+    {
+      "id": 294,
+      "speaker": "Mel",
+      "text": "Mel\n「That's what NOT to do.\nPlease take good care of your\ngame consoles, everyone.」",
+      "offset": 3923635,
+      "source_sha256": "83c702dce9e7195098a9029b2fb7397b42e0ba1f9692d77edbab015404d5c911"
+    },
+    {
+      "id": 295,
+      "speaker": "Rand",
+      "text": "Rand\n「Well, see you next time!」",
+      "offset": 3923721,
+      "source_sha256": "bd4941151330c29e45a0c57a1ddedbe3a1c182e20e0eff41c07c6da17e2a4b18"
+    }
+  ]
+}

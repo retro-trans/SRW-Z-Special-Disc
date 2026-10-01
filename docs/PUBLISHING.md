@@ -2,7 +2,9 @@
 
 Release format follows retro-trans/retro-trans-tools `docs/RELEASE_STANDARD.md`. The initial v0.3.0 integration uses revision `a89935e9d0662266207f811fdf29844a56301144`.
 
-1. Keep original images and corpora under ignored `work/` locations. Run `python -B tools/export_public.py` for a dry run, inspect its sample, then use `--write` to refresh the English-only review exports. This step requires the private translation inputs and caches.
+For v0.3.16, compatibility is checked with Retro Trans revision `d4b574d7088e13aea6e66d938ae1879568341579`.
+
+1. Keep original images and corpora under ignored `work/` locations. Run `python -B tools/export_public.py` for a dry run, inspect its sample, then use `--write` to refresh the English-only review exports. Also run `python -B tools/export_release_current.py --write` for the current installed battle, post-save and UI English. This step requires the private translation inputs and caches.
 2. Stage only documentation, tools and English exports. Run `python -B tools/check_publication.py` to audit the actual Git index. Inspect the staged diff and commit it before packaging.
 3. Obtain the pinned Retro Trans source separately. Run `python -B tools/prepare_release.py --retro-trans <checkout>` for a packaging dry run, then add `--write`. Source/target defaults are the local clean Special Disc image and v0.3.0 ISO; overrides are available. The output directory must not exist.
 4. The helper uses the official builder to encode without a local-path application header, reconstruct and verify the entire target. It adds raw-image SHA-1 aliases for DVD CHD recognition, refreshes checksums and validates the final package. The manifest pins the committed repository revision.

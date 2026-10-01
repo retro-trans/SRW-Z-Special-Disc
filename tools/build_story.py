@@ -1,8 +1,9 @@
 """Build a story-dialogue test ISO on top of an existing English build.
 
 Base: the latest verified non-story English ISO (default: newest
-work/output/*.iso with a JSON receipt). Only three things change:
+work/output/*.iso with a JSON receipt). The following components change:
 
+* The existing English story converter is enabled and relocated for native layout.
 * DATA/STAGE.BIN is rebuilt from the base's chunks: story chunks that
   compile_story.py installs are recompressed, every other chunk keeps its
   exact compressed bytes. Chunks are re-laid end to end (16-byte aligned).
@@ -30,7 +31,8 @@ from pathlib import Path
 
 sys.dont_write_bytecode = True
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from sp_disc import ROOT, SOURCE, Disc, decode, require, sha, banlz, file_sha
+from sp_disc import ROOT, SOURCE, EXE, Disc, decode, require, sha, banlz, file_sha
+from story_runtime import apply as apply_story_runtime
 import compile_story
 
 OUT = ROOT/'work/output'
@@ -94,6 +96,9 @@ def main():
     require(not target.exists(), 'Refusing to overwrite '+target.name)
     disc, runtime = Disc(base), Disc(base, True)
     stage, hb = runtime.read(STAGE), runtime.read(HB)
+    exe = runtime.read(EXE)
+    require(exe == disc.read(EXE), 'Base executable ISO/runtime mapping disagree')
+    new_exe, story_runtime = apply_story_runtime(exe)
     require(stage == disc.read(STAGE) and hb == disc.read(HB), 'Base ISO/runtime mapping disagree')
     decoded, reports = compile_story.compile_stage(stage)
     new_stage, new_hb, sizes = repack(stage, hb, decoded)
@@ -104,11 +109,13 @@ def main():
     moves = len(new_stage) > old_sectors*2048
     print(json.dumps(dict(base=base.name, target=target.name, installed_chunks=len(installed),
                           skipped=[(r['chunk'], r['need'], r['capacity']) for r in skipped],
-                          stage_bytes=[len(stage), len(new_stage)], relocate=moves), indent=1))
+                          stage_bytes=[len(stage), len(new_stage)], relocate=moves,
+                          story_runtime_words=len(story_runtime['patches'])), indent=1))
     if not args.write:
         print('DRY RUN: no files written')
         return
-    writes = []
+    writes = [(disc.entries[EXE]['lba']*2048+r['offset'], struct.pack('<I', r['after']))
+              for r in story_runtime['patches']]
     if moves:
         cursor, limit = reserved_cursor(disc, receipt)
         at = cursor*2048
@@ -138,6 +145,7 @@ def main():
     t, tr = Disc(target), Disc(target, True)
     require(t.read(STAGE) == new_stage == tr.read(STAGE), 'STAGE readback (ISO/VMAP)')
     require(t.read(HB) == new_hb == tr.read(HB), 'HB readback')
+    require(t.read(EXE) == new_exe == tr.read(EXE), 'Story runtime readback')
     offs = struct.unpack_from('<%dI' % (CHUNKS+1), new_hb, TABLE)
     boffs = struct.unpack_from('<%dI' % (CHUNKS+1), hb, TABLE)
     for i in range(CHUNKS):
@@ -158,7 +166,7 @@ def main():
             cursor = max(cursor, hi)
     iso_sha = file_sha(target)
     out = dict(version=args.version, base=base.name, base_receipt=base.with_suffix('.json').name,
-               iso=target.name, iso_sha256=iso_sha, stage=dict(sha256=sha(new_stage), bytes=len(new_stage),
+               iso=target.name, iso_sha256=iso_sha, story_runtime=story_runtime, stage=dict(sha256=sha(new_stage), bytes=len(new_stage),
                relocated=moves, lba=t.entries[STAGE]['lba']), hb_sha256=sha(new_hb),
                installed_chunks=installed, skipped_chunks=skipped, chunk_reports=reports,
                compressed_sizes={str(k): v for k, v in sizes.items()})

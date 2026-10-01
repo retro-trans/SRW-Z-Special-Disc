@@ -13,7 +13,7 @@ from inspect_english_runtime import CAVE,CAVE_FILE
 from align_story_panels import INTRO_LIMIT
 
 
-def build():
+def build(challenge_limit=560):
     disc,exe,archive,offsets=source_records()
     targets=json.loads((ROOT/'work/translation/en/briefings.json').read_text(encoding='utf-8'))
     donor=(ROOT/'work/cache/english-runtime/english.elf').read_bytes()
@@ -32,7 +32,7 @@ def build():
         return lines
     changes=[];pages=[]
     for chunk,per_page,key in ((40,9,'intro'),(50,7,'challenge')):
-        limit=INTRO_LIMIT if key=='intro' else 560
+        limit=INTRO_LIMIT if key=='intro' else challenge_limit
         lo,hi=offsets[chunk:chunk+2];raw=decode(archive[lo:hi])[0];source=raw.splitlines(keepends=True)
         require(all(len(line)==57 and line[-1:]==b'\n'for line in source),'Native briefing grid')
         require(len(source)==len(targets[key])*per_page,'Briefing page count')
@@ -57,7 +57,7 @@ def build():
         changes.append(dict(chunk=chunk,label=key+' panels',start=lo,end=hi,payload=packed+bytes(hi-lo-len(packed)),
             source_sha256=sha(raw),decoded_sha256=sha(out),compressed_bytes=len(packed),headroom=hi-lo-len(packed)))
     return changes,dict(pages=pages,decoded_sizes_unchanged=True,line_stride=57,text_bytes_per_line=56,
-        line_pixel_limits=dict(intro=INTRO_LIMIT,challenge=560),renderer_evidence=['0x436FB0: copy 56 bytes, terminate, render; advance 57',
+        line_pixel_limits=dict(intro=INTRO_LIMIT,challenge=challenge_limit),renderer_evidence=['0x436FB0: copy 56 bytes, terminate, render; advance 57',
             '0x437580: same loop; seven body rows', '0x37D790: menu text path; width routine 0x13A5A0'])
 
 
