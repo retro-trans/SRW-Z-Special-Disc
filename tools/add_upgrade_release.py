@@ -4,7 +4,9 @@ The original package is read-only; all new assets are staged in fresh directorie
 """
 import argparse,json,shutil,sys
 from pathlib import Path
-from prepare_release import ROOT,digest,EXPECTED_TARGET
+from prepare_release import ROOT,digest
+
+EXPECTED_TARGET='38199a3be48e759e2b887c369609b404afe9376a6f28a91d02036bfca914f5a7'
 
 SOURCE_SHA='ca444e5c078a6f3cb23a96c5b6d676de1df068cfa4219ecbc06e71cbea4186ec'
 NAME='SRWZ-SP-English-v0.3.0-to-v0.3.16.xdelta'

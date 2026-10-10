@@ -79,6 +79,9 @@ def build():
                 answers[source].add(row['text'])
     override_path=ROOT/'work/translation/en/menu_overrides.json'
     overrides=json.loads(override_path.read_text(encoding='utf-8')) if override_path.exists() else {}
+    viewer_help=ROOT/'work/translation/en/public/battle_viewer_help.json'
+    if viewer_help.exists():
+        overrides.update({r['id']:r['text'] for r in json.loads(viewer_help.read_text(encoding='utf-8'))['entries']})
     references=defaultdict(list)
     for p,target in pointers(b,BBASE):
         # The name/help pool starts after battle dialogue. Words inside pilot

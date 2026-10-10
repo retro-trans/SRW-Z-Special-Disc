@@ -1,0 +1,117 @@
+{
+  "version": "0.3.20",
+  "base": "0.3.19",
+  "art_member": "KURODATA/KVMDATA.BIN",
+  "page": 266752,
+  "art_sha256": "e6866c204129efe60aa58ac35522f2eb088177a7e641736af70d637bf0a094c4",
+  "exe_sha256": "ee2c6e04af52f244f2a30844cb5e10e3b8d1d89c24df4080ca4e08644ccb4b2b",
+  "font_sha256": "e8f4e3baf6cc35fed6fcce3a540e8b39e8f6cda1d22a28f2ec8f526fef7a43f5",
+  "icons": [
+    {
+      "text": "Start Battle",
+      "meaning": "Start Battle",
+      "box": [
+        88,
+        16,
+        176,
+        40
+      ],
+      "source_sha256": "2e54a170851f5eaaa4e7b735a8bb08a721278c26382dc0e555b59fbcfbc67f54",
+      "layout": {
+        "font_size": 15,
+        "ink_bbox": [
+          3,
+          5,
+          85,
+          19
+        ],
+        "rotation": 0,
+        "pixel_sha256": "bb2ce7ae09de01f63010c67421d873c87c43502864a3af691aba58dfa6f84380"
+      },
+      "sprite_refs": [
+        15488,
+        15522,
+        16016,
+        16050
+      ]
+    },
+    {
+      "text": "ATK",
+      "meaning": "Attack",
+      "box": [
+        112,
+        64,
+        144,
+        96
+      ],
+      "source_sha256": "0b1a9f35ac7ca09a7f21eac2a1bd536c7e669e3e8654771b3a5dc1fff18a8b07",
+      "layout": {
+        "font_size": 13,
+        "ink_bbox": [
+          1,
+          10,
+          31,
+          22
+        ],
+        "rotation": 0,
+        "pixel_sha256": "c1305a063f75ca2cff27563976eb56cbf4cf1131492b37351e27bef131aa5357"
+      },
+      "sprite_refs": [
+        168918,
+        169040,
+        169074
+      ]
+    },
+    {
+      "text": "CNT",
+      "meaning": "Counterattack",
+      "box": [
+        144,
+        64,
+        176,
+        96
+      ],
+      "source_sha256": "00bf4321ff6f15fd444b3585fa93d35d1a9e085117f5529be0a61bf40b068923",
+      "layout": {
+        "font_size": 13,
+        "ink_bbox": [
+          2,
+          10,
+          31,
+          22
+        ],
+        "rotation": 0,
+        "pixel_sha256": "c62d6a49343b3cdb78dac0f3425c4c90a806146617bf6b7c8fa92f7e4fd91b10"
+      },
+      "sprite_refs": [
+        168656,
+        168790
+      ]
+    }
+  ],
+  "fields": [
+    {
+      "offset": 3948192,
+      "capacity": 8,
+      "text": "B",
+      "meaning": "Barrier",
+      "source_sha256": "14d0b3d93077fa931cf4d190fbb4df2de9e6b795bedd3d269004838fc5409813"
+    },
+    {
+      "offset": 3948200,
+      "capacity": 8,
+      "text": "P",
+      "meaning": "Barrier Pierce",
+      "source_sha256": "1f5b1e4d20d517b44813588cb463bef169d6838472526078139c31a67cbb53e3"
+    },
+    {
+      "offset": 3948208,
+      "capacity": 8,
+      "text": "D",
+      "meaning": "Defend",
+      "source_sha256": "8b8c4e620a115958f08f3bdcb7420480eb22c186945fdefd8f0a03adce885650"
+    }
+  ],
+  "sprite_member": "KURODATA/KVPDATA.BIN",
+  "sprite_sha256": "9d6387df14156dd0d5ac919c28fabcbc26ddd03a3397ca34be458a42888c429e"
+}

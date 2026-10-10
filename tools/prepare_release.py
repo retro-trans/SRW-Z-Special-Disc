@@ -1,4 +1,4 @@
-"""Package v0.3.16 using a separate Retro Trans checkout. Dry run unless --write.
+"""Package v0.3.20 using a separate Retro Trans checkout. Dry run unless --write.
 
 This helper builds local release assets only. It never pushes or changes visibility.
 """
@@ -9,9 +9,13 @@ import subprocess
 import sys
 from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = "0.3.16"
+VERSION = "0.3.20"
 EXPECTED_SOURCE = "c3bd8c1af4e411e5ab2ae2d4be877170b6ab1ea9b51fa62bc0b91a51ba1a2952"
-EXPECTED_TARGET = "38199a3be48e759e2b887c369609b404afe9376a6f28a91d02036bfca914f5a7"
+EXPECTED_TARGET = "414c0228a9bf23caeeb697aacda6cf69a9bfc95d2fb88dc6ab0a2b31309053f6"
+UPGRADES = {
+    "0.3.0": "ca444e5c078a6f3cb23a96c5b6d676de1df068cfa4219ecbc06e71cbea4186ec",
+    "0.3.16": "38199a3be48e759e2b887c369609b404afe9376a6f28a91d02036bfca914f5a7",
+}
 
 def digest(path, algo):
     h = hashlib.new(algo)
@@ -44,21 +48,28 @@ def main():
     sys.path.insert(0, str(args.retro_trans.resolve()))
     from retro_trans.release import build_release, validate_directory
     from retro_trans.catalog import atomic_json
-    for path, expected in ((args.source, EXPECTED_SOURCE), (args.target, EXPECTED_TARGET)):
+    sources = [("original", args.source, EXPECTED_SOURCE)] + [
+        (version, ROOT / f"work/output/SRW Z Special Disc English v{version}.iso", expected)
+        for version, expected in UPGRADES.items()]
+    for path, expected in [(p, h) for _, p, h in sources] + [(args.target, EXPECTED_TARGET)]:
         if digest(path, "sha256") != expected:
-            raise ValueError("Input does not match the verified v0.3.16 source/target identity")
+            raise ValueError("Input does not match the verified release source/target identity")
     private = ROOT / "work/cache/publication"
     private.mkdir(parents=True, exist_ok=True)
     config = {"game_id": "srw-z-special-disc", "game_name": "Super Robot Taisen Z Special Disc",
-              "platform": "PS2", "version": VERSION, "source_commit": commit, "patches": [{
-              "patch": f"SRWZ-SP-English-v{VERSION}.xdelta", "edition": "Japan (SLPS-25920)",
-              "language": "en", "source_version": "original", "source_format": "iso", "target_format": "iso",
-              "source": str(args.source.resolve()), "target": str(args.target.resolve())}]}
+              "platform": "PS2", "version": VERSION, "source_commit": commit, "patches": []}
+    for version, source, _ in sources:
+        prefix = "" if version == "original" else f"v{version}-to-"
+        config["patches"].append(dict(patch=f"SRWZ-SP-English-{prefix}v{VERSION}.xdelta",
+            edition="Japan (SLPS-25920)", language="en", source_version=version,
+            source_format="iso", target_format="iso", source=str(source.resolve()), target=str(args.target.resolve())))
     config_path = private / "release-local.json"
     config_path.write_text(json.dumps(config, indent=2), encoding="utf-8")
     manifest = build_release(config_path, args.out, cache=private / "runtime")
-    manifest["patches"][0]["source_sha1"] = digest(args.source, "sha1")
-    manifest["patches"][0]["target_sha1"] = digest(args.target, "sha1")
+    target_sha1 = digest(args.target, "sha1")
+    for entry, (_, source, _) in zip(manifest["patches"], sources):
+        entry["source_sha1"] = digest(source, "sha1")
+        entry["target_sha1"] = target_sha1
     atomic_json(args.out / "BUILD-MANIFEST.json", manifest)
     validation = json.loads((args.out / "VALIDATION.json").read_text(encoding="utf-8"))
     validation["manifest_sha256"] = digest(args.out / "BUILD-MANIFEST.json", "sha256")

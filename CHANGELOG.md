@@ -1,5 +1,33 @@
 # Changelog
 
+## 0.3.20 — 2026-10-10
+
+- Publish the cumulative v0.3.17–v0.3.20 update, with a clean-disc patch and direct upgrades from published v0.3.0 and v0.3.16. Use the SRW Z release-note format and the canonical Retro Trans package.
+
+- Translate the remaining labels visible in the reported Battle Viewer screenshots: attack/counter icons to ATK/CNT, the battle-start button to Start Battle, and the three narrow HIT indicators to B/P/D (Barrier, Barrier Pierce, Defend).
+- Bind artwork to the native sprite rectangles, including every matching selected/disabled-state reference. Keep the original palettes, button frames, sprite geometry, and unrelated atlas pixels.
+- Preserve executable instructions and all text outside the three HIT abbreviations. Retain v0.3.19's translated help and every previous fix; verify whole-disc changes and clean-disc patch reconstruction. In-game verification remains pending.
+
+## 0.3.19 — 2026-10-08 (local test candidate)
+
+- Translate the Battle Viewer bottom-bar help for Start, Save, Load, BGM Setup, vibration, and Exit, including the two reported messages.
+- Translate its three BGM-source choices and their descriptions: the right leader's theme, the left leader's theme, and manual selection.
+- Keep all 12 strings in their native allocations, preserve pointers and the controller-button token, and verify one-line widths against the installed English font. Retain all v0.3.18 artwork and earlier fixes.
+- Verify protected data, ISO/runtime reads, whole-disc changes, and clean-disc patch reconstruction. In-game verification remains pending.
+
+## 0.3.18 — 2026-10-08 (local test candidate)
+
+- Replace both native title wordmarks and their matching glows with SRW Z's accepted English logo artwork. Preserve the original animated Z and translate Special Disc's separate subtitle sprites, including their palette variants.
+- Translate the Special Theater header and all five menu banners: Quit Messages, Movie Gallery, Design Gallery, Battle Theater, and Wallpapers.
+- Keep native texture palettes, sprite geometry, archive offsets, illustrations outside the lettering regions, and every prior fix, including v0.3.17's Back Log and Fedayeen corrections.
+- Add guarded artwork tooling, protected-pixel checks, whole-disc comparison, and clean-disc patch reconstruction. In-game verification remains pending.
+
+## 0.3.17 — 2026-10-07 (local test candidate)
+
+- Fix the Back Log: it draws raw story strings, and its renderer read ASCII `.`, digits and `:`/`;`/`/` as control codes, so English rows broke at each period and overprinted. Route both Back Log row copies through the already ported main-game converting copy (six guarded instruction words, the SRW Z fix). The dialogue box path is unchanged.
+- Rename the Gabthley's Fedain Rifle and Fedain Rifle (Rapid) to Fedayeen; no other occurrence exists on the disc. Update the glossary and translation files.
+- Keep the Back Log patch in future story builds. Add machine-code tests for the screenshot rows, all printable ASCII, mixed text, idempotence and guards. Verify every other byte against v0.3.16 and exact clean-disc patch reconstruction. In-game verification pending.
+
 ## 0.3.16 — 2026-10-01
 
 - Release notes: follow the SRW Z release layout, with patch selection, commands, changes, testing status, coverage, credits and contribution links.

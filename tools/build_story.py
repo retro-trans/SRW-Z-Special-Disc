@@ -33,6 +33,7 @@ sys.dont_write_bytecode = True
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from sp_disc import ROOT, SOURCE, EXE, Disc, decode, require, sha, banlz, file_sha
 from story_runtime import apply as apply_story_runtime
+from backlog_runtime import apply as apply_backlog_runtime
 import compile_story
 
 OUT = ROOT/'work/output'
@@ -99,6 +100,9 @@ def main():
     exe = runtime.read(EXE)
     require(exe == disc.read(EXE), 'Base executable ISO/runtime mapping disagree')
     new_exe, story_runtime = apply_story_runtime(exe)
+    # Back Log draws raw story strings: keep its converting-copy hooks (v0.3.17)
+    new_exe, backlog_runtime = apply_backlog_runtime(new_exe)
+    story_runtime['patches'] = sorted(story_runtime['patches']+backlog_runtime['patches'], key=lambda r: r['offset'])
     require(stage == disc.read(STAGE) and hb == disc.read(HB), 'Base ISO/runtime mapping disagree')
     decoded, reports = compile_story.compile_stage(stage)
     new_stage, new_hb, sizes = repack(stage, hb, decoded)

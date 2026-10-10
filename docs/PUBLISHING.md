@@ -2,11 +2,11 @@
 
 Release format follows retro-trans/retro-trans-tools `docs/RELEASE_STANDARD.md`. The initial v0.3.0 integration uses revision `a89935e9d0662266207f811fdf29844a56301144`.
 
-For v0.3.16, compatibility is checked with Retro Trans revision `d4b574d7088e13aea6e66d938ae1879568341579`.
+For v0.3.20, packaging uses Retro Trans revision `f006279c029a9d543b775c3eaaa3e67752f92196` and provides clean-disc, v0.3.0 and v0.3.16 routes.
 
 1. Keep original images and corpora under ignored `work/` locations. Run `python -B tools/export_public.py` for a dry run, inspect its sample, then use `--write` to refresh the English-only review exports. Also run `python -B tools/export_release_current.py --write` for the current installed battle, post-save and UI English. This step requires the private translation inputs and caches.
 2. Stage only documentation, tools and English exports. Run `python -B tools/check_publication.py` to audit the actual Git index. Inspect the staged diff and commit it before packaging.
-3. Obtain the pinned Retro Trans source separately. Run `python -B tools/prepare_release.py --retro-trans <checkout>` for a packaging dry run, then add `--write`. Source/target defaults are the local clean Special Disc image and v0.3.0 ISO; overrides are available. The output directory must not exist.
+3. Obtain the pinned Retro Trans source separately. Run `python -B tools/prepare_release.py --retro-trans <checkout>` for a packaging dry run, then add `--write`. Source/target defaults are the local clean Special Disc image and v0.3.20 ISO; exact published v0.3.0 and v0.3.16 images are also required for upgrades. The output directory must not exist.
 4. The helper uses the official builder to encode without a local-path application header, reconstruct and verify the entire target. It adds raw-image SHA-1 aliases for DVD CHD recognition, refreshes checksums and validates the final package. The manifest pins the committed repository revision.
 5. Test the actual image with `Catalog`, `recognize` and `apply_plan` from the pinned Retro Trans version. Verify the resulting SHA-256 against the manifest. CHD recognition must resolve to the same source node (the local source CHD is a single MODE1/2048 data track, not a DVD-tagged container); direct application remains gated by the extracted SHA-256.
 6. Push the source and immutable `v0.x.y` tag. Create a draft GitHub release with all files from the release output directory, using the matching `docs/releases/` notes. Verify uploaded sizes and SHA-256 digests before publishing. Do not upload the original image, patched ISO, private build receipt or private input archive.

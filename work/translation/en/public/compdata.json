@@ -2687,14 +2687,14 @@
       "offset": 516736,
       "capacity": 24,
       "source_sha256": "9123b04fc1d1ddd60d13c140bfb7367968db96e585f52483b846a937edf133c7",
-      "text": "Fedain Rifle"
+      "text": "Fedayeen Rifle"
     },
     {
       "id": "text/7e2a0",
       "offset": 516768,
       "capacity": 32,
       "source_sha256": "757b03d69d4529ec68fd7cc68492f9f15c0158f071acb56b360ae5f8a71c6a4f",
-      "text": "Fedain Rifle (Rapid)"
+      "text": "Fedayeen Rifle (Rapid)"
     },
     {
       "id": "text/7e2c0",

@@ -1,0 +1,46 @@
+{
+  "version": "0.3.18",
+  "reference": "SRW Z English accepted v0.9.82/v0.9.83 title artwork",
+  "entries": [
+    {
+      "id": "title/logo",
+      "text": "SUPER ROBOT WARS Z",
+      "source_sha256": "1881412fbdf252b13c2648a971b27652b5425839aeac649cd86353aaf9383e34"
+    },
+    {
+      "id": "title/subtitle",
+      "text": "SPECIAL DISC",
+      "source_sha256": "fbac447c5f6921b65c8772b8d596168cc18bfd3a1b0dbeaa7156f60287a67eff"
+    },
+    {
+      "id": "theater/header",
+      "text": "SPECIAL THEATER",
+      "source_sha256": "acb8065f3ecd73300198a3f131c1589c797c84e1b55f8a8164115fc402eb6bee"
+    },
+    {
+      "id": "theater/banner/0",
+      "text": "QUIT MESSAGES",
+      "source_sha256": "f9d899c154e295c9a866dd0d836829157ee912d0269da2663aa71dad35f8bf7a"
+    },
+    {
+      "id": "theater/banner/1",
+      "text": "MOVIE GALLERY",
+      "source_sha256": "f01f0960c03d10d9c042358887211f5ee67fafad699d1b3d00f50296ee20affb"
+    },
+    {
+      "id": "theater/banner/2",
+      "text": "DESIGN GALLERY",
+      "source_sha256": "f20c7c144661912b404b3eed75205797c394241a316faae13bc6e7805c8e871c"
+    },
+    {
+      "id": "theater/banner/3",
+      "text": "BATTLE THEATER",
+      "source_sha256": "4661711d477a7a07568b8ce487ed0f1dbfb934d71cdecb1af839e4807ae63cd3"
+    },
+    {
+      "id": "theater/banner/4",
+      "text": "WALLPAPERS",
+      "source_sha256": "df0fc3b43e5c6ae15fb23203ac22f52e23e68be665f19abf3e6d214c5e11c11e"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "version": "0.3.19",
+  "base": "0.3.18",
+  "source_packed_sha256": "2d0518230bd3c5cb40b2cf0d01bc5d71d385bbc130bb77274a158bb5b65d5476",
+  "source_decoded_sha256": "43bc6c690d34a982609f0f875d832a38d969a9a454e89bfb90814bef2df27c34",
+  "max_width": 470,
+  "entries": [
+    {
+      "id": "text/98500",
+      "offset": 623872,
+      "capacity": 32,
+      "pointer": 435028,
+      "source_sha256": "b00677caaaf3d423e69b6a7f8ab0f8407d9d37daf65b228d98188a8720adca11",
+      "text": "Start the Battle Viewer.",
+      "encoded_bytes": 25,
+      "width": 260
+    },
+    {
+      "id": "text/98520",
+      "offset": 623904,
+      "capacity": 64,
+      "pointer": 435032,
+      "source_sha256": "623b18d53e4e33f5cfbd690cf80cf68e11ebbc97403d8b1cfe73a878dd6a2a07",
+      "text": "Save settings to a memory card (PS2).",
+      "encoded_bytes": 39,
+      "width": 440
+    },
+    {
+      "id": "text/98560",
+      "offset": 623968,
+      "capacity": 64,
+      "pointer": 435036,
+      "source_sha256": "758c03bd7e820871fab18a4a303420705bbfaa730ff1975751ac0859a81a3e67",
+      "text": "Load settings from a memory card (PS2).",
+      "encoded_bytes": 41,
+      "width": 463
+    },
+    {
+      "id": "text/985a0",
+      "offset": 624032,
+      "capacity": 48,
+      "pointer": 435040,
+      "source_sha256": "7654f5fe56380ea5dbf24aaf7475d08ccbf60f3e627bb6422f53e147431ea1c9",
+      "text": "Set automatic battle BGM updates.",
+      "encoded_bytes": 34,
+      "width": 365
+    },
+    {
+      "id": "text/985d0",
+      "offset": 624080,
+      "capacity": 48,
+      "pointer": 435044,
+      "source_sha256": "1d0c64b9109f831bc9a0c7fb335d1e8790afa5b094697c4fec25278447fdb940",
+      "text": "<-1>: Toggle controller vibration.",
+      "encoded_bytes": 36,
+      "width": 348
+    },
+    {
+      "id": "text/98600",
+      "offset": 624128,
+      "capacity": 32,
+      "pointer": 435048,
+      "source_sha256": "3f77b6becc8e03dcbefed9722aac88c1d5990cc55608a25dedc822e925a171e6",
+      "text": "Exit the Battle Viewer.",
+      "encoded_bytes": 24,
+      "width": 246
+    },
+    {
+      "id": "text/98620",
+      "offset": 624160,
+      "capacity": 32,
+      "pointer": 435056,
+      "source_sha256": "f5a1080cb8e09b8e4375dfca429e4459c867f599eb34958dfa3ec2a446f1d657",
+      "text": "Right leader's theme",
+      "encoded_bytes": 20,
+      "width": 214
+    },
+    {
+      "id": "text/98640",
+      "offset": 624192,
+      "capacity": 32,
+      "pointer": 435060,
+      "source_sha256": "83b0e8617ef87ff77fc1682f4fab48e2611f42a09e05761ea5fe5540ec7805be",
+      "text": "Left leader's theme",
+      "encoded_bytes": 19,
+      "width": 206
+    },
+    {
+      "id": "text/98660",
+      "offset": 624224,
+      "capacity": 16,
+      "pointer": 435064,
+      "source_sha256": "e6acd340c4bb6ef4fd35624867b4060806da36d2bc2edf6405ff144e5ca19fc7",
+      "text": "Manual",
+      "encoded_bytes": 6,
+      "width": 64
+    },
+    {
+      "id": "text/98670",
+      "offset": 624240,
+      "capacity": 64,
+      "pointer": 435072,
+      "source_sha256": "e7139338e45c42932ee9aa166eeefee4170a0557bea858e56ab3889d98c83ccc",
+      "text": "Use the right leader's default theme.",
+      "encoded_bytes": 38,
+      "width": 397
+    },
+    {
+      "id": "text/986b0",
+      "offset": 624304,
+      "capacity": 64,
+      "pointer": 435076,
+      "source_sha256": "5c79a59b19c9d0fbe777d958717072a5a0721e9f365ee63a09cd7bf899cf6151",
+      "text": "Use the left leader's default theme.",
+      "encoded_bytes": 37,
+      "width": 387
+    },
+    {
+      "id": "text/986f0",
+      "offset": 624368,
+      "capacity": 32,
+      "pointer": 435080,
+      "source_sha256": "69132a85873f6ca95973b9c45e49c6e4f5633520c097d1ac95bfd5c961d60744",
+      "text": "Choose BGM manually.",
+      "encoded_bytes": 21,
+      "width": 219
+    }
+  ]
+}
