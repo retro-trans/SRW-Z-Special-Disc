@@ -4,7 +4,7 @@ An unofficial English translation patch for **Super Robot Taisen Z Special Disc*
 
 **Latest: v0.3.20 — English title, Battle Viewer and Back Log update.** Includes all 45 story chunks, all 25,521 player-facing indexed battle-caption identities, Battle Theater speaker names and all 57 post-save scenes, plus menu and layout fixes. Binary checks have passed; a complete playthrough and in-game validation of the latest fixes remain pending. This project uses AI-assisted translation and review and needs further human editing and playtesting.
 
-[Download the release](https://github.com/retro-trans/SRW-Z-Special-Disc/releases/latest) · [Changelog](CHANGELOG.md) · [Report an issue](https://github.com/retro-trans/SRW-Z-Special-Disc/issues) · [Community Discord](https://discord.gg/MssepShjmB)
+[Download the release](https://github.com/retro-trans/SRW-Z-Special-Disc/releases/latest) · [Changelog](CHANGELOG.md) · [Report an issue](https://github.com/retro-trans/SRW-Z-Special-Disc/issues) · [Community Discord](https://discord.gg/nZBZfTDfCP)
 
 ## Play / apply the patch
 
